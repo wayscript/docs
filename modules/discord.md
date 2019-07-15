@@ -28,7 +28,7 @@ If you have recently added a channel and do not see it, click the refresh button
 
 Enter the message you want to send.
 
-![](../.gitbook/assets/img3.png)
+![](../.gitbook/assets/img3%20%282%29.png)
 
 ![](../.gitbook/assets/img4.png)
 

@@ -9,7 +9,7 @@ description: Run your program using an Alexa voice command
 ### Activate the Trigger Module
 
 1. Add the WayScript skill to your Amazon Alexa account. [Get the WayScript Alexa Skill.](https://www.amazon.com/gp/product/B07QXXG32B)
-2. Add the Alexa trigger to your program.
+2. Add the Alexa trigger to your program and turn it on.
 
 ### Program Alias
 
@@ -23,19 +23,19 @@ Useful when your program name is long or difficult for Alexa to understand
 
 ### Pass in Spoken Input
 
+To pass the input in your voice command, add "with \[Variable Value\]" to your Alexa phrase.
+
 You can pass an argument to your Alexa-Triggered program by enabling the "Spoken Input" variable in the Outputs panel.
 
 ![](../.gitbook/assets/alexa_output.png)
-
-To pass the input in your voice command, add "with \[Variable Value\]" to your Alexa phrase.
 
 Suppose your program is called 'Stock Prices' and takes a single input called \[Stock Symbol\] as input, you could then speak the following phrase to Alexa:
 
 > "Alexa, launch WayScript and run 'Stock Prices' with AAPL."
 
-![](../.gitbook/assets/alexa_trigger_with_input.png)
-
 ### Speak a Phrase
+
+![](../.gitbook/assets/alexa_trigger_with_input.png)
 
 Once you have added the Alexa Trigger to a program, you can include the Alexa module, which will allow Alexa to speak to you while your program is running.
 
