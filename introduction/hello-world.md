@@ -20,3 +20,11 @@ On the left side of your screen, type 'Hello World!' as the input into the Print
 
 ![](../.gitbook/assets/screenshot-2019-07-15-12.00.25.png)
 
+### Run your Program
+
+You have now set up your program to print 'Hello World!' to your program log. Now, press the 'Run Main' program to run your program on the cloud. 
+
+![Press &apos;Run Main&apos; on your Flow Diagram, and your program runs.](../.gitbook/assets/screenshot-2019-07-15-12.05.30.png)
+
+As you can see on the left, your message has printed when the program ran. Congratulations on running your first WayScript program! As an exercise, you can change the message in your Print to Log module and rerun your program. 
+
