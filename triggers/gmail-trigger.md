@@ -4,9 +4,7 @@ description: Run your program when Gmail messages change.
 
 # Gmail Trigger
 
-## Setup
-
-### Link Account
+## Link Your Gmail Account
 
 When you drag in a Gmail Trigger for the first time, follow the prompt to authorize access.
 
@@ -14,14 +12,16 @@ When you drag in a Gmail Trigger for the first time, follow the prompt to author
 You can add additional accounts from the Gmail Trigger settings.
 {% endhint %}
 
-![](../.gitbook/assets/screen-shot-2019-07-15-at-12.41.52-pm.png)
-
 ## Settings
+
+![](../.gitbook/assets/screen-shot-2019-07-15-at-12.41.52-pm.png)
 
 ### Modes
 
 1. **Run for all emails:** All emails are evaluated.
 2. **Run for emails with specific labels:** Only emails containing one of these labels will be evaluated.
+
+### Activation Method
 
 ![](../.gitbook/assets/screen-shot-2019-07-15-at-12.41.24-pm.png)
 
@@ -32,8 +32,6 @@ If "Run for emails with specific labels" is selected, you will then need to sele
 {% hint style="info" %}
 If you do not see a label you are looking for, click the refresh button.
 {% endhint %}
-
-### Activation Method
 
 Choose which event\(s\) will activate the trigger.
 

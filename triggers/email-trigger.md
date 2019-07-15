@@ -4,17 +4,15 @@ description: Run your program by sending an email.
 
 # Email Trigger
 
-## Setup
-
-### New Variable Inputs
+## New Variable Inputs
 
 You can dynamically input new variables into your WayScript programs by sending an email. You can assign these values under the Module Outputs.
-
-![](../.gitbook/assets/screen-shot-2019-07-15-at-2.23.53-pm.png)
 
 ## Sending an Email
 
 Send your Email to: **run@wayscript.com**
+
+![](../.gitbook/assets/screen-shot-2019-07-15-at-4.26.31-pm.png)
 
 Email Subject: Program Name
 

@@ -16,10 +16,18 @@
 * [Email Trigger](triggers/email-trigger.md)
 * [Gmail Trigger](triggers/gmail-trigger.md)
 * [Google Sheets Trigger](triggers/google-sheets-trigger.md)
+* [Slack Trigger](triggers/slack-trigger.md)
+* [Text Message Trigger](triggers/text-message-trigger.md)
+* [Trello Trigger](triggers/untitled.md)
+* [Untitled](triggers/untitled-1.md)
 
 ## Modules
 
 * [Alexa](modules/alexa.md)
 * [Discord](modules/discord.md)
 * [Google Sheets](modules/google-sheets.md)
+
+## Account Management
+
+* [Phone Number Verification](account-management/phone-number-verification.md)
 
