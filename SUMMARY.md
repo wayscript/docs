@@ -6,6 +6,7 @@
 
 * [Hello World](introduction/hello-world.md)
 * [Variables](introduction/variables.md)
+* [Looping / Iteration](introduction/looping-iteration.md)
 
 ## Triggers
 

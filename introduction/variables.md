@@ -58,3 +58,9 @@ Your Grocery List has now become a variable that can be used in your WayScript p
 
 ## Power-User Features
 
+If you know some coding, you can more rapidly build variable by pressing tab and then inputting your variables. This power-user features matches the syntax of the Python programming language for strings and arrays. 
+
+![](../.gitbook/assets/screenshot-2019-07-15-15.53.14.png)
+
+![Press Enter to create your variable.](../.gitbook/assets/screenshot-2019-07-15-15.53.32.png)
+
