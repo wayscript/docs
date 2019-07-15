@@ -44,3 +44,5 @@ Finally, lets add a print statement **after** the loop that says "I'm done shopp
 
 Press the 'Run Main' button to run your program. Now, look at the results in the log. Notice how the loop ran 4 times, each with the new value for your Grocery List Item variable. At the end, your "I'm done shopping!" line printed. 
 
+![](../.gitbook/assets/screenshot-2019-07-15-17.14.51.png)
+
