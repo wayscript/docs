@@ -19,7 +19,7 @@
 * [Slack Trigger](triggers/slack-trigger.md)
 * [Text Message Trigger](triggers/text-message-trigger.md)
 * [Trello Trigger](triggers/untitled.md)
-* [Untitled](triggers/untitled-1.md)
+* [Weather API Trigger](triggers/untitled-1.md)
 
 ## Modules
 
