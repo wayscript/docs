@@ -1,4 +1,10 @@
-# Getting Started
+---
+description: >-
+  In this Hello World example, we will get you to print text to your WayScript
+  log.
+---
+
+# Hello World
 
 ## Getting Super Powers
 
