@@ -5,6 +5,7 @@
 ## Introduction
 
 * [Hello World](introduction/hello-world.md)
+* [Variables](introduction/variables.md)
 
 ## Triggers
 
