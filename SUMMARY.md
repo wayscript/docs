@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Getting Started](README.md)
-* [About](about.md)
+* [About](README.md)
+* [Getting Started](about.md)
 
 ## Introduction
 
