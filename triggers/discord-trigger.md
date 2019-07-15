@@ -1,5 +1,5 @@
 ---
-description: Trigger your program to run when Discord events occur
+description: Run your program when Discord events occur.
 ---
 
 # Discord Trigger

@@ -1,15 +1,18 @@
 ---
-description: Run your program using an Alexa voice command
+description: Run your program using an Alexa voice command.
 ---
 
 # Alexa Trigger
 
 ## Setup
 
-### Activate the Trigger Module
+### Enable Alexa
 
-1. Add the WayScript skill to your Amazon Alexa account. [Get the WayScript Alexa Skill.](https://www.amazon.com/gp/product/B07QXXG32B)
-2. Add the Alexa trigger to your program and turn it on.
+Add the WayScript skill to your Amazon Alexa account. [Get the WayScript Alexa Skill.](https://www.amazon.com/gp/product/B07QXXG32B)
+
+{% hint style="info" %}
+WayScript will remind you to do this the first time you use an Alexa Trigger.
+{% endhint %}
 
 ### Program Alias
 

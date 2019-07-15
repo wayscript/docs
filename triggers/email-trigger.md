@@ -1,20 +1,16 @@
 ---
-description: Run this program by sending an email.
+description: Run your program by sending an email.
 ---
 
 # Email Trigger
 
 ## Setup
 
-### Activate the Email Trigger
-
-Add the Email Trigger to your program and turn it on.
-
 ### New Variable Inputs
 
 You can dynamically input new variables into your WayScript programs from your email. You can assign these values under the Module Outputs.
 
-![](../.gitbook/assets/inputs.png)
+![](../.gitbook/assets/screen-shot-2019-07-15-at-2.23.53-pm.png)
 
 ## Sending an Email
 

@@ -12,6 +12,7 @@
 * [Alexa Trigger](triggers/alexa-trigger.md)
 * [Discord Trigger](triggers/discord-trigger.md)
 * [Email Trigger](triggers/email-trigger.md)
+* [Gmail Trigger](triggers/gmail-trigger.md)
 
 ## Modules
 
