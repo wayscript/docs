@@ -24,6 +24,14 @@
 
 ## Logic
 
+* [Branching Statements](logic/branching-statements/README.md)
+  * [Break](logic/branching-statements/break.md)
+  * [Continue](logic/branching-statements/continue.md)
+  * [Return](logic/branching-statements/return.md)
+* [Managing Variables](logic/managing-variables/README.md)
+  * [Create Variable](logic/managing-variables/create-variable.md)
+  * [Edit Variable Value](logic/managing-variables/edit-variable-value.md)
+
 ## Modules
 
 * [Alexa](modules/alexa.md)
