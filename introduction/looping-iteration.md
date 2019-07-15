@@ -30,3 +30,13 @@ Notice how you now have a variable in your Variable Panel called **Grocery List 
 
 ![](../.gitbook/assets/screenshot-2019-07-15-16.47.52.png)
 
+In the Print To Log setup, lets print a sentence and include our **Grocery List Item** variable.
+
+![](../.gitbook/assets/screenshot-2019-07-15-16.51.46.png)
+
+Finally, lets add a print statement **after** the loop that says "I'm done shopping!"
+
+![Notice how the final print is after the loop.](../.gitbook/assets/screenshot-2019-07-15-16.54.17.png)
+
+
+
