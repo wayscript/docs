@@ -12,12 +12,8 @@
 * [Alexa Trigger](triggers/alexa-trigger.md)
 * [Discord Trigger](triggers/discord-trigger.md)
 
-## Logic
-
 ## Modules
 
 * [Alexa](modules/alexa.md)
 * [Discord](modules/discord.md)
-
-## APIS
 
