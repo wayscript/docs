@@ -18,7 +18,7 @@ WayScript will remind you to do this the first time you use an Alexa Trigger.
 
 You can supply an easy-to-understand alias for your program.
 
-![](../.gitbook/assets/screen-shot-2019-07-15-at-3.09.16-pm.png)
+![](../../.gitbook/assets/screen-shot-2019-07-15-at-3.09.16-pm.png)
 
 {% hint style="info" %}
 Useful when your program name is long or difficult for Alexa to understand
@@ -32,7 +32,7 @@ To pass the input in your voice command, add "with \[Variable Value\]" to your A
 
 You can pass an argument to your Alexa-Triggered program by enabling the "Spoken Input" variable in the Outputs panel.
 
-![](../.gitbook/assets/screen-shot-2019-07-15-at-3.11.21-pm.png)
+![](../../.gitbook/assets/screen-shot-2019-07-15-at-3.11.21-pm.png)
 
 Suppose your program is called 'Stock Prices' and takes a single input called \[Ticker Symbol\] as input, you could then speak the following phrase to Alexa:
 
@@ -40,7 +40,7 @@ Suppose your program is called 'Stock Prices' and takes a single input called \[
 
 ### Speak a Phrase
 
-![](../.gitbook/assets/screen-shot-2019-07-15-at-3.12.35-pm.png)
+![](../../.gitbook/assets/screen-shot-2019-07-15-at-3.12.35-pm.png)
 
 Once you have added the Alexa Trigger to a program, you can include the Alexa module, which will allow Alexa to speak to you while your program is running.
 

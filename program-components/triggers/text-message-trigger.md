@@ -9,16 +9,16 @@ You can trigger WayScript programs to run by sending a text message to WayScript
 ## Phone Number Verification
 
 {% hint style="warning" %}
-If you haven't yet verified your phone number with your WayScript account, you will need to do so before using this module. See [Phone Number Verification](../account-management/phone-number-verification.md) for details.
+If you haven't yet verified your phone number with your WayScript account, you will need to do so before using this module. See [Phone Number Verification](../../account-management/phone-number-verification.md) for details.
 {% endhint %}
 
 ## New Variable Inputs
 
 You can dynamically input new variable data into your program via text message. Specify these variables in the "Variables to Create" section.
 
-![](../.gitbook/assets/screen-shot-2019-07-15-at-4.27.38-pm.png)
+![](../../.gitbook/assets/screen-shot-2019-07-15-at-4.27.38-pm.png)
 
-![](../.gitbook/assets/screen-shot-2019-07-15-at-4.28.50-pm.png)
+![](../../.gitbook/assets/screen-shot-2019-07-15-at-4.28.50-pm.png)
 
 ## Sending a Text
 
@@ -28,13 +28,13 @@ The text message body will be the program name, followed by a colon, then any va
 
 For example, if you wanted to run your "Stocks" program with the arguments "AAPL" and "MSFT", your message body would be "Stocks:AAPL,MSFT"
 
-![](../.gitbook/assets/new_conversation.jpg)
+![](../../.gitbook/assets/new_conversation.jpg)
 
 {% hint style="info" %}
 The "Body" field in the Trigger Settings will also show you how to compose your message
 {% endhint %}
 
-![](../.gitbook/assets/body.png)
+![](../../.gitbook/assets/body.png)
 
 {% hint style="warning" %}
 Variables must be submitted in the same order as the Outputs defined on the Text Message Trigger.

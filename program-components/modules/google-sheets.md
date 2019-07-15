@@ -8,7 +8,7 @@ description: Work with Google Sheets
 
 In order to use the Google Sheets module, you must first link your Google account.
 
-![](../.gitbook/assets/screen-shot-2019-07-15-at-11.35.20-am.png)
+![](../../.gitbook/assets/screen-shot-2019-07-15-at-11.35.20-am.png)
 
 {% hint style="info" %}
 You can add additional accounts from the Google Sheets module settings.
@@ -22,7 +22,7 @@ Reading files allows you to import columns into WayScript as variables.
 
 ### Choose File to Read
 
-![](../.gitbook/assets/screen-shot-2019-07-15-at-11.57.31-am.png)
+![](../../.gitbook/assets/screen-shot-2019-07-15-at-11.57.31-am.png)
 
 {% hint style="info" %}
 If you do not see the Google Sheet you are looking for, click the refresh button.
@@ -35,7 +35,7 @@ Once a spreadsheet is selected, the spreadsheet will populate on the page.
 * The **Choose Worksheet to Read** selector can be used to pull in data from different tabs on a spreadsheet.
 * The **Ignore Headers** checkbox can be used to prevent WayScript from pulling in column headers if they exist in the file.
 
-![](../.gitbook/assets/screen-shot-2019-07-15-at-12.03.49-pm.png)
+![](../../.gitbook/assets/screen-shot-2019-07-15-at-12.03.49-pm.png)
 
 {% hint style="info" %}
 In order to import a column as a variable, the column must be labelled. Once labelled, the column will appear under variables.
@@ -47,7 +47,7 @@ In order to import a column as a variable, the column must be labelled. Once lab
 
 Pick the Google Sheet you want your WayScript program to write to.
 
-![](../.gitbook/assets/screen-shot-2019-07-15-at-12.08.45-pm.png)
+![](../../.gitbook/assets/screen-shot-2019-07-15-at-12.08.45-pm.png)
 
 {% hint style="info" %}
 If you do not see the Google Sheet you are looking for, click the refresh button.
@@ -57,26 +57,26 @@ If you do not see the Google Sheet you are looking for, click the refresh button
 
 Select the Worksheet you would like to write.
 
-![](../.gitbook/assets/screen-shot-2019-07-15-at-12.13.10-pm.png)
+![](../../.gitbook/assets/screen-shot-2019-07-15-at-12.13.10-pm.png)
 
 ### Include Headers
 
 If "Include Headers" is selected, data headers will be written to your Google Sheet.
 
-![](../.gitbook/assets/screen-shot-2019-07-15-at-12.14.36-pm.png)
+![](../../.gitbook/assets/screen-shot-2019-07-15-at-12.14.36-pm.png)
 
 ### Write Mode
 
 * **Add To File:** Every time the program runs, new rows of data will be added to the bottom of the spreadsheet.
 * **Replace File:** Every time the program runs, the file will be wiped clean before it is written.
 
-![](../.gitbook/assets/screen-shot-2019-07-15-at-12.14.40-pm.png)
+![](../../.gitbook/assets/screen-shot-2019-07-15-at-12.14.40-pm.png)
 
 ### Ignore Duplicates
 
 The Google Sheets module allows you to ignore duplicates. If the same data already exists as a row in the spreadsheet, it will not be written to the file again.
 
-![](../.gitbook/assets/screen-shot-2019-07-15-at-12.20.51-pm.png)
+![](../../.gitbook/assets/screen-shot-2019-07-15-at-12.20.51-pm.png)
 
 #### Ignore All Columns
 
@@ -94,9 +94,9 @@ The values of these variables will be written to your Google Sheets spreadsheet 
 
 You can add as many columns as you like.
 
-![](../.gitbook/assets/screen-shot-2019-07-15-at-12.14.52-pm.png)
+![](../../.gitbook/assets/screen-shot-2019-07-15-at-12.14.52-pm.png)
 
-![](../.gitbook/assets/screen-shot-2019-07-15-at-12.28.51-pm.png)
+![](../../.gitbook/assets/screen-shot-2019-07-15-at-12.28.51-pm.png)
 
 ### Fire Notification
 
@@ -104,7 +104,7 @@ By default, changes WayScript makes to your Google Sheets do not fire notificati
 
 If you want your changes to fire a notification, enable this setting.
 
-![](../.gitbook/assets/screen-shot-2019-07-15-at-12.09.29-pm.png)
+![](../../.gitbook/assets/screen-shot-2019-07-15-at-12.09.29-pm.png)
 
 ### Writing a List Variable to a Spreadsheet Column
 

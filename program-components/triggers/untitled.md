@@ -18,7 +18,7 @@ Choose when you would like the trigger to run:
 2. When a list on one of my boards changes
 3. When a specific card changes
 
-![](../.gitbook/assets/screen-shot-2019-07-15-at-5.15.53-pm.png)
+![](../../.gitbook/assets/screen-shot-2019-07-15-at-5.15.53-pm.png)
 
 ## Outputs
 
@@ -58,5 +58,5 @@ Card change events produce the following additional outputs:
 
 In the advanced settings, you can choose to output the raw JSON data from the Trello webhook event.
 
-![](../.gitbook/assets/screen-shot-2019-07-15-at-5.44.41-pm.png)
+![](../../.gitbook/assets/screen-shot-2019-07-15-at-5.44.41-pm.png)
 

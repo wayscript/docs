@@ -12,13 +12,13 @@ You can dynamically input new variables into your WayScript programs by sending 
 
 Send your Email to: **run@wayscript.com**
 
-![](../.gitbook/assets/screen-shot-2019-07-15-at-4.26.31-pm.png)
+![](../../.gitbook/assets/screen-shot-2019-07-15-at-4.26.31-pm.png)
 
 Email Subject: Program Name
 
 Email Body: New variable values separated by commas.
 
-![](../.gitbook/assets/email%20%281%29.png)
+![](../../.gitbook/assets/email%20%281%29.png)
 
 {% hint style="info" %}
 * Variables must be submitted in the email in the same order as defined in the Module Outputs.

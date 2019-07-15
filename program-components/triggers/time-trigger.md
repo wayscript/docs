@@ -6,7 +6,7 @@ description: Run your program periodically
 
 In order to Trigger programs at a particular time, add the Trigger Module to the triggers section of your program and activate the trigger.
 
-![](../.gitbook/assets/screen-shot-2019-07-15-at-4.11.18-pm.png)
+![](../../.gitbook/assets/screen-shot-2019-07-15-at-4.11.18-pm.png)
 
 ## Select a Run Frequency
 
@@ -17,7 +17,7 @@ In order to Trigger programs at a particular time, add the Trigger Module to the
 * Every ten minutes \(Premium feature\)
 * Every minute \(Premium feature\)
 
-![](../.gitbook/assets/screen-shot-2019-07-15-at-4.11.32-pm.png)
+![](../../.gitbook/assets/screen-shot-2019-07-15-at-4.11.32-pm.png)
 
 If you select the **daily frequency**, you will have an option to choose what time your program should run each day.
 

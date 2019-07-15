@@ -10,7 +10,7 @@ You can trigger WayScript programs to run when various Discord events occur.
 
 In order to do this, you must first link your Discord account. Then, select the Discord Guild/Server you want to work with.
 
-![](../.gitbook/assets/img1%20%281%29.png)
+![](../../.gitbook/assets/img1%20%281%29.png)
 
 ## Settings
 
@@ -21,7 +21,7 @@ Run program when:
 * A message was posted to the channel
 * A user joined the channel
 
-![](../.gitbook/assets/img2.png)
+![](../../.gitbook/assets/img2.png)
 
 ### Choose a Channel
 
@@ -31,15 +31,15 @@ Choose a Discord channel to work with.
 If you have recently added a channel and do not see it, click the refresh button.
 {% endhint %}
 
-![](../.gitbook/assets/img3%20%283%29.png)
+![](../../.gitbook/assets/img3%20%283%29.png)
 
 ## Outputs
 
 The Discord User output will always be available.
 
-![](../.gitbook/assets/img4%20%281%29.png)
+![](../../.gitbook/assets/img4%20%281%29.png)
 
 If your trigger is set to run when "a message was posted to a channel," the Discord Message Text output will also be available.
 
-![](../.gitbook/assets/img5.png)
+![](../../.gitbook/assets/img5.png)
 

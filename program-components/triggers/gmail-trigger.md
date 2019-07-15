@@ -14,7 +14,7 @@ You can add additional accounts from the Gmail Trigger settings.
 
 ## Settings
 
-![](../.gitbook/assets/screen-shot-2019-07-15-at-12.41.52-pm.png)
+![](../../.gitbook/assets/screen-shot-2019-07-15-at-12.41.52-pm.png)
 
 ### Modes
 
@@ -23,11 +23,11 @@ You can add additional accounts from the Gmail Trigger settings.
 
 ### Activation Method
 
-![](../.gitbook/assets/screen-shot-2019-07-15-at-12.41.24-pm.png)
+![](../../.gitbook/assets/screen-shot-2019-07-15-at-12.41.24-pm.png)
 
 If "Run for emails with specific labels" is selected, you will then need to select which labels you want to watch.
 
-![](../.gitbook/assets/screen-shot-2019-07-15-at-12.42.21-pm.png)
+![](../../.gitbook/assets/screen-shot-2019-07-15-at-12.42.21-pm.png)
 
 {% hint style="info" %}
 If you do not see a label you are looking for, click the refresh button.
