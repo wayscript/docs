@@ -37,3 +37,16 @@ Once you have added the Alexa Trigger to a program, you can include the Alexa mo
 
 You can reference variables that were crated earlier in the program and insert them into an Alexa Phrase. See the [Alexa module documentation](../modules/alexa.md) for more details.
 
+## Tutorial
+
+For a brief tutorial on how to use the Alexa Trigger, see [Run a Python Script with an Alexa Voice Command.](https://wayscript.com/blog_entry/36)
+
+## FAQs
+
+Q. When I say "Alexa, launch WayScript and run 'Hello World'", Alexa replies "You have WayScript enabled, Do you want to open it?" No matter what I say next, nothing happens. 
+
+* When you get the "You have WayScript enabled, Do you want to open it?" response, Alexa was able to understand "WayScript," but could not understand the rest of the command. 
+* In order to help Alexa better understand the command, you may need to enunciate it more clearly or slowly. Getting closer to the Echo device can help, as can doing Voice Training by saying "Alexa, learn my voice."
+
+
+
