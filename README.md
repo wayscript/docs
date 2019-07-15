@@ -1,25 +1,8 @@
 # Getting Started
 
-## Getting Super Powers
+## What is WayScript?
 
-Becoming a super hero is a fairly straight forward process:
-
-```
-$ give me super-powers
-```
-
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-
-### Testing
+WayScript is a drag and drop programming platform build to give you superpowers. Unlike many visual programming platforms, WayScript is a programming language which can use variables, functions, recursion, programmatic logic, and much more. WayScript handles
 
 ## This is a test
 
