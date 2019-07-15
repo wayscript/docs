@@ -4,7 +4,7 @@
 
 ## Introduction
 
-* [Hello World](introduction/about.md)
+* [Hello World](introduction/hello-world.md)
 
 ## Triggers
 
