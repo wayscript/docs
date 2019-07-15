@@ -20,6 +20,10 @@ For this example, we are going to create a **Variable Name** called "Location" a
 
 ![](../.gitbook/assets/screenshot-2019-07-15-12.41.46.png)
 
+Once the data is inputted, you should notice that your variable now appears in your **Variables Panel.** You can now use this variable in your program. 
+
+![All accessible variables in your Variables Panel](../.gitbook/assets/screenshot-2019-07-15-13.00.21.png)
+
 ## Data Types
 
 ## Lists
