@@ -1,6 +1,8 @@
 # Looping / Iteration
 
-**Note, if you have not read about** [**WayScript Lists**](variables.md#lists)**, do so before continuing.**
+{% hint style="warning" %}
+If you have not read about [WayScript Lists](variables.md#lists), please do so before continuing.
+{% endhint %}
 
 ## What is a loop?
 

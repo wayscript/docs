@@ -4,7 +4,9 @@ description: Add logic to your programs by creating conditions with the If Modul
 
 # Conditionals
 
-Note - please read the [Hello World](hello-world.md) and [Variables](variables.md) sections before continuing with this section. 
+{% hint style="warning" %}
+Please read the [Hello World](hello-world.md) and [Variables](variables.md) sections before continuing with this section.
+{% endhint %}
 
 ## What is a condition?
 
