@@ -16,7 +16,9 @@ Once dropped, WayScript will automatically display the Settings Panel for your C
 
 ## Single Item
 
-### Using a Variable
+For this example, we are going to create a **Variable Name** called "Location" and set it to the **Variable Value** "Brooklyn, NY". Feel free to put in your own location instead.
+
+![](../.gitbook/assets/screenshot-2019-07-15-12.41.46.png)
 
 ## Data Types
 
