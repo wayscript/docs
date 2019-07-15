@@ -13,9 +13,11 @@
 * [Discord Trigger](triggers/discord-trigger.md)
 * [Email Trigger](triggers/email-trigger.md)
 * [Gmail Trigger](triggers/gmail-trigger.md)
+* [Google Sheets Trigger](triggers/google-sheets-trigger.md)
 
 ## Modules
 
 * [Alexa](modules/alexa.md)
 * [Discord](modules/discord.md)
+* [Google Sheets](modules/google-sheets.md)
 
