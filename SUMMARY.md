@@ -18,6 +18,7 @@
 * [Google Sheets Trigger](triggers/google-sheets-trigger.md)
 * [Slack Trigger](triggers/slack-trigger.md)
 * [Text Message Trigger](triggers/text-message-trigger.md)
+* [Time Trigger](triggers/time-trigger.md)
 * [Trello Trigger](triggers/untitled.md)
 * [Weather API Trigger](triggers/untitled-1.md)
 
