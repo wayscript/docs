@@ -18,6 +18,8 @@ In this example, we build the same grocery list variable from the [WayScript Lis
 
 ![](../.gitbook/assets/screenshot-2019-07-15-15.49.50.png)
 
+### Create a Loop
+
 Drag in the Loop Module from the **Logic Panel** as the next step in your program flow. 
 
 ![](../.gitbook/assets/screenshot-2019-07-15-16.38.47.png)
@@ -38,5 +40,7 @@ Finally, lets add a print statement **after** the loop that says "I'm done shopp
 
 ![Notice how the final print is after the loop.](../.gitbook/assets/screenshot-2019-07-15-16.54.17.png)
 
+### Run your Program
 
+Press the 'Run Main' button to run your program. Now, look at the results in the log. Notice how the loop ran 4 times, each with the new value for your Grocery List Item variable. At the end, your I'm done shopping line printed. 
 
