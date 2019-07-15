@@ -21,11 +21,15 @@
 * [Trello Trigger](triggers/untitled.md)
 * [Weather API Trigger](triggers/untitled-1.md)
 
+## Logic
+
 ## Modules
 
 * [Alexa](modules/alexa.md)
 * [Discord](modules/discord.md)
 * [Google Sheets](modules/google-sheets.md)
+
+## APIs
 
 ## Account Management
 
