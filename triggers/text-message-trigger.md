@@ -4,11 +4,13 @@ description: Run your program with a text message
 
 # Text Message Trigger
 
-You can trigger WayScript programs to run by sending a text message to WayScript at \(415\) WYS-CRPT \(+1 415 997 2778\)
+You can trigger WayScript programs to run by sending a text message to WayScript at **\(415\) WYS-CRPT** \(+1 415 997 2778\).
 
 ## Phone Number Verification
 
-If you haven't yet verified your phone number with your WayScript account, you will need to so before using this module. See [Phone Number Verification](../account-management/phone-number-verification.md) for details.
+{% hint style="warning" %}
+If you haven't yet verified your phone number with your WayScript account, you will need to do so before using this module. See [Phone Number Verification](../account-management/phone-number-verification.md) for details.
+{% endhint %}
 
 ## New Variable Inputs
 
@@ -20,7 +22,7 @@ You can dynamically input new variable data into your program via text message. 
 
 ## Sending a Text
 
-Send your text message to \(415\) WYS-CRPT \(+1 415 997 2778\).
+Send your text message to **\(415\) WYS-CRPT** \(+1 415 997 2778\).
 
 The text message body will be the program name, followed by a colon, then any variable values, all separated by commas.
 
@@ -33,4 +35,12 @@ The "Body" field in the Trigger Settings will also show you how to compose your 
 {% endhint %}
 
 ![](../.gitbook/assets/body.png)
+
+{% hint style="warning" %}
+Variables must be submitted in the same order as the Outputs defined on the Text Message Trigger.
+{% endhint %}
+
+{% hint style="warning" %}
+The text must originate from your verified phone number.
+{% endhint %}
 
