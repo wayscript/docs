@@ -10,6 +10,10 @@ In order to use the Google Sheets Trigger, you must first link your Google accou
 
 ![](../.gitbook/assets/screen-shot-2019-07-15-at-11.11.36-am.png)
 
+{% hint style="info" %}
+You can add additional accounts from the Google Sheets Trigger settings.
+{% endhint %}
+
 ## Settings
 
 ### Choose a Trigger

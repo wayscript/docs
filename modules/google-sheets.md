@@ -10,6 +10,10 @@ In order to use the Google Sheets module, you must first link your Google accoun
 
 ![](../.gitbook/assets/screen-shot-2019-07-15-at-11.35.20-am.png)
 
+{% hint style="info" %}
+You can add additional accounts from the Google Sheets module settings.
+{% endhint %}
+
 ## Read Files
 
 When the Google Sheets module is activated, the default setting is to read a file.
