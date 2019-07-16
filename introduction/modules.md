@@ -61,7 +61,7 @@ A second option is to just type in the location you are looking for. Hardcoding 
 
 #### A Note on Hardcoding
 
-Yes, you can mix variables with hardcoding. If I [created a variable](variables.md) called "State" and set it to "NY" - I could then create the following input. 
+Yes, you can mix variables with hardcoding! If I [created a variable](variables.md) called "State" and set it to "NY", I could then create the following input:
 
 ![State is equal to &quot;NY&quot;](../.gitbook/assets/screenshot-2019-07-16-13.14.05.png)
 
