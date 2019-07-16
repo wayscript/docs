@@ -42,7 +42,7 @@ outputs[ "Date" ] = str( datetime.today() )
 
 ![](../../../.gitbook/assets/screenshot-2019-07-16-14.12.32.png)
 
-## Run Python
+## Running Python
 
 While working on your script, you can press the play button inside the python module to just run the python code. 
 
