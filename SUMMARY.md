@@ -22,6 +22,7 @@
   * [Time Trigger](components/triggers/time-trigger.md)
   * [Trello Trigger](components/triggers/untitled.md)
   * [Weather API Trigger](components/triggers/untitled-1.md)
+  * [Webhook Trigger](components/triggers/webhook-trigger.md)
 * [Logic](components/logic/README.md)
   * [Branching Statements](components/logic/branching-statements/README.md)
     * [Break](components/logic/branching-statements/break.md)
@@ -34,8 +35,13 @@
   * [Alexa](components/modules/alexa.md)
   * [Discord](components/modules/discord.md)
   * [Google Sheets](components/modules/google-sheets.md)
+* [Functions](components/functions.md)
 
 ## APIs
+
+* [Python](apis/python.md)
+* [JavaScript](apis/javascript.md)
+* [REST](apis/rest.md)
 
 ## Account Management
 
