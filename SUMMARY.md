@@ -33,6 +33,7 @@
     * [Create Variable](components/logic/managing-variables/create-variable.md)
     * [Edit Variable Value](components/logic/managing-variables/edit-variable-value.md)
 * [Modules](components/modules/README.md)
+  * [Airtable](components/modules/airtable.md)
   * [Alexa](components/modules/alexa.md)
   * [Discord](components/modules/discord.md)
   * [Google Sheets](components/modules/google-sheets.md)
