@@ -53,7 +53,6 @@
   * [Crunchbase](library/modules/crunchbase.md)
   * [Discord](library/modules/discord.md)
   * [Google Sheets](library/modules/google-sheets.md)
-  * [NLP](library/modules/nlp.md)
   * [Python](library/modules/python/README.md)
     * [Python Libraries](library/modules/python/libraries.md)
   * [Weather API](library/modules/weather-api.md)
