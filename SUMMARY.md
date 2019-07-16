@@ -54,6 +54,7 @@
   * [Date Time](library/modules/date-time.md)
   * [Diffbot](library/modules/diffbot.md)
   * [Discord](library/modules/discord.md)
+  * [Giphy](library/modules/giphy.md)
   * [Google Sheets](library/modules/google-sheets.md)
   * [NLP](library/modules/nlp.md)
   * [Python](library/modules/python/README.md)
