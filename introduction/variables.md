@@ -58,6 +58,18 @@ A grocery list is a great example of a list we can build. The use cases for list
 
 Your Grocery List has now become a variable that can be used in your WayScript program. Note that the variable is outlined in blue and tell you the number of items in your list. 
 
+## Variable Types
+
+Variables currently have the following types:
+
+* Text
+* Number
+* Date/Time
+
+You explicitly define the type of your variables. Note - if you are building a [List](variables.md#lists) - the variable type defines the type of data in _each_ list item. WayScript performs type validation on each of your items. As an example, if you create a Number Type, but set your variable value to a non-number, the value will be rejected. This is important because many [modules](../library/modules/) often only accept inputs of particular types. 
+
+![](../.gitbook/assets/screenshot-2019-07-16-09.56.45.png)
+
 ## Power-User Features
 
 If you know some coding, you can more rapidly build variable by pressing tab and then inputting your variables. This power-user features matches the syntax of the Python programming language for strings and arrays. 
