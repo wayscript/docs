@@ -36,10 +36,10 @@
   * [Conditionals](library/logic/conditionals.md)
   * [List Actions](library/logic/list-actions.md)
   * [Text Actions](library/logic/text-actions.md)
+  * [Print To Log](library/logic/print-to-log.md)
   * [Loop](library/logic/loop/README.md)
     * [Break](library/logic/loop/break.md)
     * [Continue](library/logic/loop/continue.md)
-  * [Print To Log](library/logic/print-to-log.md)
 * [Modules](library/modules/README.md)
   * [Airtable](library/modules/airtable.md)
   * [Alexa](library/modules/alexa.md)
@@ -62,6 +62,7 @@
   * [Twilio](library/modules/twilio.md)
   * [Twitter](library/modules/twitter.md)
   * [Weather API](library/modules/weather-api.md)
+  * [Salesforce](library/modules/salesforce.md)
 
 ## APIs
 
