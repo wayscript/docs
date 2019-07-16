@@ -27,11 +27,11 @@
   * [Webhook Trigger](library/triggers/webhook-trigger.md)
 * [Logic](library/logic/README.md)
   * [Conditionals](library/logic/conditionals.md)
+  * [List Actions](library/logic/list-actions.md)
   * [Functions](library/logic/functions/README.md)
     * [Function Call](library/logic/functions/function-call.md)
     * [Function Definition](library/logic/functions/function-definition.md)
     * [Return](library/logic/functions/return.md)
-  * [List Actions](library/logic/list-actions.md)
   * [Loop](library/logic/loop/README.md)
     * [Break](library/logic/loop/break.md)
     * [Continue](library/logic/loop/continue.md)
@@ -62,6 +62,7 @@
   * [Twilio](library/modules/twilio.md)
   * [Twitter](library/modules/twitter.md)
   * [Weather API](library/modules/weather-api.md)
+  * [Word](library/modules/word.md)
   * [Salesforce](library/modules/salesforce.md)
 
 ## APIs
