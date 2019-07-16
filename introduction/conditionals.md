@@ -22,7 +22,19 @@ In computer science, conditional statements are features of a programming langua
 
 ### Create a Variable
 
+For this example, we create a variable called Number and set it to the value 4. 
+
+![](../.gitbook/assets/screenshot-2019-07-16-09.55.12.png)
+
 ### Create a Condition
+
+Drag the "If" module from your Logic Panel as the next step in your program.
+
+![](../.gitbook/assets/screenshot-2019-07-16-10.10.10.png)
+
+### Define your Conditions
+
+For this example, we want to build logic that says "**IF** our Number variable is greater than or equal to 100 - then print "This is a big number", **ELSE** print "This is a small number".
 
 ### Run your Program
 
