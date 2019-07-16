@@ -66,7 +66,7 @@
 
 ## APIs
 
-* [REST](apis/rest.md)
+* [REST API](apis/rest.md)
 * [Python](https://github.com/wayscript/wayscript-python)
 * [JavaScript](https://github.com/wayscript/wayscript-js)
 
