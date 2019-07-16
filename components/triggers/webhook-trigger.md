@@ -47,7 +47,7 @@ variables = [ 'new_name', 'www.new_url.com' ]
 
 params = {
     'api_key'   : 'YOUR_API_KEY',  # insert api key
-    'program_id': 3726,            # insert program id,
+    'program_id': 3726,            # insert program id
     'variables' : variables,       # (optional)
     'function'  : 'My Function'    # insert function name (optional)
 }
