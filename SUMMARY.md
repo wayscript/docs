@@ -52,6 +52,7 @@
   * [Clearbit](library/modules/clearbit.md)
   * [Crunchbase](library/modules/crunchbase.md)
   * [Date Time](library/modules/date-time.md)
+  * [Diffbot](library/modules/diffbot.md)
   * [Discord](library/modules/discord.md)
   * [Google Sheets](library/modules/google-sheets.md)
   * [NLP](library/modules/nlp.md)
