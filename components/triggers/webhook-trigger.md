@@ -28,7 +28,7 @@ Declare the variables you want your Webhook Trigger to create and pass to your p
 
 ## Functions
 
-You can specify which [function](../functions.md) you would like to run with your Webhook trigger.
+You can specify which [function](../logic/functions.md) you would like to run with your Webhook trigger.
 
 Do this by placing the Webhook Trigger in one or more functions within your WayScript program, then specify which function you would like to run by passing the function name via the "function" parameter in your api call.
 

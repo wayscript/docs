@@ -28,6 +28,7 @@
     * [Break](components/logic/branching-statements/break.md)
     * [Continue](components/logic/branching-statements/continue.md)
     * [Return](components/logic/branching-statements/return.md)
+  * [Functions](components/logic/functions.md)
   * [Variables](components/logic/managing-variables/README.md)
     * [Create Variable](components/logic/managing-variables/create-variable.md)
     * [Edit Variable Value](components/logic/managing-variables/edit-variable-value.md)
@@ -35,7 +36,6 @@
   * [Alexa](components/modules/alexa.md)
   * [Discord](components/modules/discord.md)
   * [Google Sheets](components/modules/google-sheets.md)
-* [Functions](components/functions.md)
 
 ## APIs
 
