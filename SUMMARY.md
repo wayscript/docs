@@ -64,6 +64,7 @@
   * [NLP](library/modules/nlp.md)
   * [Salesforce](library/modules/salesforce.md)
   * [Twilio](library/modules/twilio.md)
+  * [Twitch](library/modules/twitch.md)
   * [Twitter](library/modules/twitter.md)
   * [Weather API](library/modules/weather-api.md)
   * [Word](library/modules/word.md)
