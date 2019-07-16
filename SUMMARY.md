@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About](README.md)
+* [About WayScript](README.md)
 
 ## Introduction
 
