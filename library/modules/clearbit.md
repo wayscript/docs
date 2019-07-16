@@ -10,8 +10,6 @@ Clearbit is available to users who have their own API key.
 
 If not authorized, you will be prompted to enter your API Key when you add the Clearbit Module to your program. You can edit your key later if it changes.
 
-
-
 ![](../../.gitbook/assets/screen-shot-2019-07-16-at-2.32.17-pm.png)
 
 ## Inputs
