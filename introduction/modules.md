@@ -17,7 +17,23 @@ Check out the [Modules Section of the Docs](../library/modules/) for detailed in
 
 ## What is a Module?
 
-WayScript modules give you the ability to autoamte tasks and work with third party applications from your program. The easiest way to think of a Module is with the analogy of an assembly line. First, you **setup** your machines to your specifications, then you **input** the necessary components, then work is done, and finally you get a shiny new **output**. WayScript leverages third party APIs to let you treat these applications and tools as steps in your assembly line.
+WayScript modules give you the ability to automate tasks and actions with third party applications. The easiest way to think of a Module is like an assembly line. First, you **setup** your machines to your specifications, then you **input** the necessary components, work is done, and finally you get a shiny new **output**. WayScript leverages third party APIs to let you treat these applications and tools as steps in your assembly line.
 
 ## Example
+
+In this example, we are going to build a program that pulls the current temperature for a location and prints that data to the log. 
+
+### Select your Module
+
+In order to get the temperature, we are going to use the **Weather API Module.** Select this module from your Modules Panel and drag it into your flow diagram. 
+
+![](../.gitbook/assets/screenshot-2019-07-16-12.30.41.png)
+
+### Setup your Module
+
+#### Settings
+
+#### Inputs
+
+#### Outputs
 
