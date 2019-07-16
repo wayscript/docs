@@ -2,10 +2,10 @@
 description: Repeat a set of actions multiple times.
 ---
 
-# Loop
+# Loops
 
 {% hint style="info" %}
-For an introduction to loops in WayScript, see [Looping / Iteration](../../../introduction/looping-iteration.md).
+To learn about using loops in WayScript, see [Looping / Iteration](../../../introduction/looping-iteration.md).
 {% endhint %}
 
 ## Input

@@ -8,6 +8,6 @@ description: >-
 # Modules
 
 {% hint style="info" %}
-For an introduction to modules in WayScript, see [Modules](../../introduction/modules.md).
+To learn about using modules in WayScript, see the [Introduction to Modules](../../introduction/modules.md).
 {% endhint %}
 
