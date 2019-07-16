@@ -153,6 +153,10 @@ For more information, see [How to use moving-average convergence divergence \(MA
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-8.56.56-pm.png)
 
+### **Inputs**
+
+Enter the name of the equity of your choice.
+
 ### Outputs
 
 * Date
@@ -196,6 +200,10 @@ For more information, see [Stochastic oscillator](https://en.wikipedia.org/wiki/
   * MESA Adaptive Moving Average \(MAMA\)
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-8.59.29-pm.png)
+
+### **Inputs**
+
+Enter the name of the equity of your choice.
 
 ### Outputs
 
