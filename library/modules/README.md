@@ -7,7 +7,3 @@ description: >-
 
 # Modules
 
-{% hint style="info" %}
-Check out the [Modules Section](./) for detailed information on every WayScript module. 
-{% endhint %}
-

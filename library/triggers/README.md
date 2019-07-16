@@ -44,7 +44,7 @@ Trigger Settings
 
 ![Trigger Settings](../../.gitbook/assets/screen-shot-2019-07-16-at-11.08.46-am.png)
 
-On the Dashboard, All Triggers appear in the footer of the program tile.
+On the Dashboard, all triggers appear in the footer of the program tile.
 
 ![Dashboard](../../.gitbook/assets/screen-shot-2019-07-16-at-11.10.15-am.png)
 
