@@ -48,13 +48,13 @@
   * [Bing](library/modules/bing.md)
   * [Bittrex](library/modules/bittrex.md)
   * [Calculator](library/modules/calculator.md)
-  * [Discord](library/modules/discord.md)
-  * [Weather API](library/modules/weather-api.md)
   * [Cities](library/modules/cities.md)
   * [Clearbit](library/modules/clearbit.md)
+  * [Discord](library/modules/discord.md)
+  * [Google Sheets](library/modules/google-sheets.md)
   * [Python](library/modules/python/README.md)
     * [Python Libraries](library/modules/python/libraries.md)
-  * [Google Sheets](library/modules/google-sheets.md)
+  * [Weather API](library/modules/weather-api.md)
 
 ## APIs
 
