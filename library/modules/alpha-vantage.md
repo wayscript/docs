@@ -10,6 +10,24 @@ The WayScript Alpha Vantage module gives you easy access to this information.
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-8.33.32-pm.png)
 
+### Available Data
+
+* [Most Recent Stock Data](alpha-vantage.md#most-recent-stock-data)
+* [Time Series Data](alpha-vantage.md#time-series-data)
+* [Digital/Crypto Currencies](alpha-vantage.md#digital-crypto-currencies)
+* [Simple Moving Average \(SMA\)](alpha-vantage.md#simple-moving-average-sma)
+* [Exponential Moving Average \(EMA\)](alpha-vantage.md#exponential-moving-average-ema)
+* [Moving Average Convergence / Divergence \(MACD\)](alpha-vantage.md#moving-average-convergence-divergence-macd)
+* [Stochastic Oscillator \(STOCH\)](alpha-vantage.md#stochastic-oscillator-stoch)
+* [Relative Strength Index \(RSI\)](alpha-vantage.md#relative-strength-index-rsi)
+* [Average Directional Movement Index \(ADX\)](alpha-vantage.md#average-directional-movement-index-adx)
+* [Commodity Channel Index \(CCI\)](alpha-vantage.md#commodity-channel-index-cci)
+* [Aroon \(AROON\)](alpha-vantage.md#aroon-aroon)
+* [Bollinger Bands \(BBANDS\)](alpha-vantage.md#bollinger-bands-bbands)
+* [Chaikin A/D Line \(AD\)](alpha-vantage.md#chaikin-a-d-line-ad)
+* [On Balance Volume \(OBV\)](alpha-vantage.md#on-balance-volume-obv)
+* [Sector Performances \(SECTOR\)](alpha-vantage.md#sector-performances-sector)
+
 ## Most Recent Stock Data
 
 ### Inputs
