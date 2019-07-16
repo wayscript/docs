@@ -12,7 +12,7 @@ Please read the [Hello World](hello-world.md) and [Variables](variables.md) sect
 {% endhint %}
 
 {% hint style="info" %}
-Check out the [Modules Section of the Docs](../library/modules/) for detailed information on every WayScript Module
+Check out the [Modules Section of the Docs](../library/modules/) for detailed information on every Module.
 {% endhint %}
 
 ## What is a Module?
@@ -21,7 +21,7 @@ WayScript modules give you the ability to automate tasks and actions with third 
 
 ## Example
 
-In this example, we are going to build a program that pulls the current temperature for a location and prints that data to the log. 
+In this example, we are going to build a program that pulls the current temperature for a location and sends you an email with the data.  
 
 ### Select your Module
 
