@@ -17,5 +17,7 @@ Check out the [Modules Section of the Docs](../library/modules/) for detailed in
 
 ## What is a Module?
 
+WayScript modules give you the ability to autoamte tasks and work with third party applications from your program. The easiest way to think of a Module is with the analogy of an assembly line. First, you **setup** your machines to your specifications, then you **input** the necessary components, then work is done, and finally you get a shiny new **output**. WayScript leverages third party APIs to let you treat these applications and tools as steps in your assembly line.
+
 ## Example
 
