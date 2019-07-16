@@ -47,6 +47,7 @@
   * [Article Extractor](library/modules/article-extractor.md)
   * [Bing](library/modules/bing.md)
   * [Bittrex](library/modules/bittrex.md)
+  * [Cities](library/modules/cities.md)
   * [Discord](library/modules/discord.md)
   * [Google Sheets](library/modules/google-sheets.md)
 
