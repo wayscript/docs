@@ -9,6 +9,10 @@
 * [Looping / Iteration](introduction/looping-iteration.md)
 * [Conditionals](introduction/conditionals.md)
 
+## Account Management
+
+* [Phone Number Verification](account-management/phone-number-verification.md)
+
 ## Building Blocks <a id="components"></a>
 
 * [Triggers](components/triggers/README.md)
@@ -36,8 +40,4 @@
   * [Google Sheets](components/modules/google-sheets.md)
 
 ## APIs
-
-## Account Management
-
-* [Phone Number Verification](account-management/phone-number-verification.md)
 
