@@ -14,3 +14,9 @@ So far in this introduction, we have run our programs by pressing the 'Run Main'
 A simple example of this is the [Time Trigger](../library/triggers/time-trigger.md) - go ahead and read more to see how it works. 
 {% endhint %}
 
+## How to Add a Trigger
+
+To add a trigger, press the + button next to Add Trigger. 
+
+![](../.gitbook/assets/screenshot-2019-07-16-13.37.54.png)
+
