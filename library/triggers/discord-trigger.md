@@ -10,7 +10,7 @@ You can trigger WayScript programs to run when various Discord events occur.
 
 In order to do this, you must first link your Discord account. Then, select the Discord Guild/Server you want to work with.
 
-![](../../.gitbook/assets/img1%20%281%29.png)
+![](../../.gitbook/assets/img1%20%282%29.png)
 
 ## Settings
 

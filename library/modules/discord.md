@@ -20,7 +20,7 @@ Choose a Discord channel to work with.
 If you have recently added a channel and do not see it, click the refresh button.
 {% endhint %}
 
-![](../../.gitbook/assets/img2%20%281%29.png)
+![](../../.gitbook/assets/img2%20%282%29.png)
 
 ## **Modes**
 
