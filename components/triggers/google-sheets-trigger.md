@@ -1,5 +1,5 @@
 ---
-description: Trigger your program when a Google Sheet changes
+description: Run your program when a Google Sheet changes
 ---
 
 # Google Sheets Trigger
