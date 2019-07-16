@@ -67,3 +67,7 @@ Yes, you can mix variables with hardcoding. If I [created a variable](variables.
 
 ### Outputs
 
+When you select Outputs from your Module, they become variables that can be used in your program. These variables are the same as those created in the [Variables Tutorial ](variables.md)in that they can be single items or lists, and can be different data types such as text, numbers, dates, etc. Notice below how the checked outputs are available in the Variables Panel.  
+
+![](../.gitbook/assets/screenshot-2019-07-16-13.21.13.png)
+
