@@ -45,6 +45,8 @@
   * [Alexa](library/modules/alexa.md)
   * [Alpha Vantage](library/modules/alpha-vantage.md)
   * [Article Extractor](library/modules/article-extractor.md)
+  * [Bing](library/modules/bing.md)
+  * [Bittrex](library/modules/bittrex.md)
   * [Discord](library/modules/discord.md)
   * [Google Sheets](library/modules/google-sheets.md)
 
