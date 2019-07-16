@@ -6,7 +6,7 @@ description: Linking your phone number allows you to interact with WayScript via
 
 ## How to Find
 
-1. When you first drag in a module that requires a linked phone number \(Text Message, [Text Message Trigger](../program-components/triggers/text-message-trigger.md)\). You will be prompted to verify your phone number. 
+1. When you first drag in a module that requires a linked phone number \(Text Message, [Text Message Trigger](../components/triggers/text-message-trigger.md)\). You will be prompted to verify your phone number. 
 2. Use the Account Dropdown in the Navbar to and select 'Update Contact Info'.
 
 ![](../.gitbook/assets/screen-shot-2019-07-15-at-3.45.08-pm.png)
