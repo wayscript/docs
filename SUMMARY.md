@@ -36,6 +36,7 @@
   * [Airtable](library/modules/airtable.md)
   * [Alexa](library/modules/alexa.md)
   * [Alpha Vantage](library/modules/alpha-vantage.md)
+  * [Article Extractor](library/modules/article-extractor.md)
   * [Discord](library/modules/discord.md)
   * [Google Sheets](library/modules/google-sheets.md)
 
