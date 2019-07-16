@@ -8,6 +8,7 @@
 * [Variables](introduction/variables.md)
 * [Looping / Iteration](introduction/looping-iteration.md)
 * [Conditionals](introduction/conditionals.md)
+* [Modules](introduction/modules.md)
 
 ## Library
 
