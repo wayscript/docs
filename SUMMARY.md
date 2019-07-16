@@ -35,6 +35,7 @@
 * [Modules](library/modules/README.md)
   * [Airtable](library/modules/airtable.md)
   * [Alexa](library/modules/alexa.md)
+  * [Alpha Vantage](library/modules/alpha-vantage.md)
   * [Discord](library/modules/discord.md)
   * [Google Sheets](library/modules/google-sheets.md)
 
