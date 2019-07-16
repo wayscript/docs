@@ -38,10 +38,6 @@ Do this by placing the Webhook Trigger in one or more functions within your WayS
 
 Use [Python](../../apis/python.md), [JavaScript](../../apis/javascript.md), or [any other programming language ](../../apis/rest.md)to trigger your program.
 
-{% hint style="warning" %}
-Variables must be submitted in the same order as the Outputs defined on the Trigger Module as displayed above. 
-{% endhint %}
-
 ```python
 import requests
 
@@ -58,6 +54,10 @@ params = {
 
 requests.post( url, params = params )
 ```
+
+{% hint style="warning" %}
+Variables must be submitted in the same order as the Outputs defined on the Trigger Module as displayed above. 
+{% endhint %}
 
 {% hint style="danger" %}
 Never share your API Key with anyone else; it is equivalent to giving them your password.
