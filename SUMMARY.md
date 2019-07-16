@@ -26,14 +26,13 @@
   * [Weather API Trigger](library/triggers/untitled-1.md)
   * [Webhook Trigger](library/triggers/webhook-trigger.md)
 * [Logic](library/logic/README.md)
-  * [Branching Statements](library/logic/branching-statements/README.md)
-    * [If](library/logic/branching-statements/if.md)
-    * [Break](library/logic/branching-statements/break.md)
-    * [Continue](library/logic/branching-statements/continue.md)
-    * [Return](library/logic/branching-statements/return.md)
   * [Functions](library/logic/functions/README.md)
     * [Function Definition](library/logic/functions/function-definition.md)
     * [Function Call](library/logic/functions/function-call.md)
+    * [Return](library/logic/functions/return.md)
+  * [Loop](library/logic/loop/README.md)
+    * [Break](library/logic/loop/break.md)
+    * [Continue](library/logic/loop/continue.md)
   * [Variables](library/logic/managing-variables/README.md)
     * [Create Variable](library/logic/managing-variables/create-variable.md)
     * [Edit Variable Value](library/logic/managing-variables/edit-variable-value.md)
@@ -53,9 +52,9 @@
 
 ## APIs
 
-* [Python](apis/python.md)
-* [JavaScript](apis/javascript.md)
 * [REST](apis/rest.md)
+* [Python](https://github.com/wayscript/wayscript-python)
+* [JavaScript](https://github.com/wayscript/wayscript-js)
 
 ## Account Management
 

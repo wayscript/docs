@@ -12,7 +12,7 @@ Please read the [Hello World](hello-world.md) and [Variables](variables.md) sect
 {% endhint %}
 
 {% hint style="info" %}
-Check out the [Modules Section of the Docs](../library/modules/) for detailed information on every Module.
+Check out the [Modules](../library/modules/) section of the Docs for detailed information on each WayScript module.
 {% endhint %}
 
 ## What is a Module?

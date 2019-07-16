@@ -7,3 +7,7 @@ description: >-
 
 # Modules
 
+{% hint style="info" %}
+For an introduction to modules in WayScript, see [Modules](../../introduction/modules.md).
+{% endhint %}
+
