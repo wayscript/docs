@@ -17,10 +17,14 @@ description: A Social Media Platform
 * **Result Type** - Specifies what type of search results you would prefer to receive. The default value is "Mixed".
   * Options: Recent, Popular, Mixed
 
+![](../../.gitbook/assets/screenshot-2019-07-16-16.21.11.png)
+
 ### Inputs
 
 * **Search Term** - Excepts Keywords, \#hashtags, or @usernames.
   * Max length: 500 characters.
+
+![](../../.gitbook/assets/screenshot-2019-07-16-16.18.16.png)
 
 ### Outputs
 
@@ -57,7 +61,7 @@ description: A Social Media Platform
 ### Inputs
 
 * **Username** - Enter the name of the User whose tweet history you want. 
-  * Npte: @ not required in username
+  * Note: @ not required in username
 
 ### Outputs
 
@@ -78,6 +82,8 @@ description: A Social Media Platform
 ### Inputs
 
 * **Message** - Enter in the message field what you want your status to be.
+
+![Posting a Twitter Status](../../.gitbook/assets/screenshot-2019-07-16-16.23.32.png)
 
 ## My Profile Timeline
 
