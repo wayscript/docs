@@ -59,14 +59,15 @@
   * [Google Calendar](library/modules/google-calendar.md)
   * [Google Sheets](library/modules/google-sheets.md)
   * [Outlook](library/modules/outlook.md)
-  * [NLP](library/modules/nlp.md)
   * [Python](library/modules/python/README.md)
     * [Python Libraries](library/modules/python/libraries.md)
+  * [NLP](library/modules/nlp.md)
   * [Salesforce](library/modules/salesforce.md)
   * [Twilio](library/modules/twilio.md)
   * [Twitter](library/modules/twitter.md)
   * [Weather API](library/modules/weather-api.md)
   * [Word](library/modules/word.md)
+  * [Yahoo Finance](library/modules/yahoo-finance.md)
 
 ## APIs
 
