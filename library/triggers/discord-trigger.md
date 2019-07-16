@@ -31,7 +31,7 @@ Choose a Discord channel to work with.
 If you have recently added a channel and do not see it, click the refresh button.
 {% endhint %}
 
-![](../../.gitbook/assets/img3%20%283%29.png)
+![](../../.gitbook/assets/img3%20%284%29.png)
 
 ## Outputs
 
