@@ -7,12 +7,12 @@ description: >-
 
 # Modules
 
-{% hint style="info" %}
-Check out the [Modules Section of the Docs](../library/modules/) for detailed information on every WayScript Module
-{% endhint %}
-
 {% hint style="warning" %}
 Please read the [Hello World](hello-world.md) and [Variables](variables.md) sections before continuing with this section.
+{% endhint %}
+
+{% hint style="info" %}
+Check out the [Modules Section of the Docs](../library/modules/) for detailed information on every WayScript Module
 {% endhint %}
 
 
