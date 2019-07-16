@@ -33,10 +33,10 @@
   * [Variables](library/logic/managing-variables/README.md)
     * [Create Variable](library/logic/managing-variables/create-variable.md)
     * [Edit Variable Value](library/logic/managing-variables/edit-variable-value.md)
+  * [Conditionals](library/logic/conditionals.md)
   * [Loop](library/logic/loop/README.md)
     * [Break](library/logic/loop/break.md)
     * [Continue](library/logic/loop/continue.md)
-  * [Conditionals](library/logic/conditionals.md)
   * [List Actions](library/logic/list-actions.md)
   * [Text Actions](library/logic/text-actions.md)
   * [Print To Log](library/logic/print-to-log.md)
@@ -51,6 +51,8 @@
   * [Calculator](library/modules/calculator.md)
   * [Discord](library/modules/discord.md)
   * [Google Sheets](library/modules/google-sheets.md)
+  * [Python](library/modules/python/README.md)
+    * [Libraries](library/modules/python/libraries.md)
 
 ## APIs
 
