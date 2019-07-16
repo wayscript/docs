@@ -57,6 +57,7 @@
   * [NLP](library/modules/nlp.md)
   * [Python](library/modules/python/README.md)
     * [Python Libraries](library/modules/python/libraries.md)
+  * [Twilio](library/modules/twilio.md)
   * [Weather API](library/modules/weather-api.md)
 
 ## APIs
