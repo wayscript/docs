@@ -4,7 +4,7 @@ description: Return values from the current function.
 
 # Return
 
-## **Return from the current function**
+## **Return from the Current Function**
 
 Use the Return module inside a function to finish running the current function and return values to the location that called the function.
 
