@@ -2,7 +2,7 @@
 
 ## What is WayScript?
 
-WayScript is a drag and drop programming platform built to give you superpowers. Unlike many visual programming platforms, WayScript is a programming language with variables, functions, recursion, programmatic logic, and much more. WayScript manages third-party APIs so you don't have to, and lets you seamlessly share your tools with others.
+WayScript is a drag and drop programming platform built to give you superpowers. Unlike many visual programming platforms, WayScript is a programming language with variables, functions, recursion, logic, and much more. WayScript manages third-party APIs and cloud-hosting infrastructure so that you don't have to. WayScript programs can be seamlessly shared with your team, company, friends, and the WayScript community.
 
 ## YouTube Tutorials
 
