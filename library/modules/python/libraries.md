@@ -6,7 +6,7 @@ description: WayScript is running Python 3
 
 ## Add a Python Library
 
-If you need a python library that isn't currently available, just message us @ founders@wayscript.com or through our discord channel in the bottom right corner of the app and we will quickly add it! 
+If you need a python library that isn't currently available, just message us at founders@wayscript.com or through our discord channel in the bottom right corner of the app and we will quickly add it! 
 
 ## Available Python Libraries
 
