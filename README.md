@@ -1,4 +1,4 @@
-# About WayScript
+# About
 
 ## What is WayScript?
 
