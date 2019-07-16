@@ -8,11 +8,11 @@ description: Create new events and import events from your Google Calendar.
 
 Select the Google account you would like to work with.
 
-![Select an Account](../../.gitbook/assets/img1%20%283%29.png)
+![Select an Account](../../.gitbook/assets/img1%20%284%29.png)
 
 ## Create Event
 
-![Select Create Event](../../.gitbook/assets/img3.png)
+![Select Create Event](../../.gitbook/assets/img3%20%281%29.png)
 
 #### Settings
 

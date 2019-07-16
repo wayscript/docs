@@ -20,7 +20,7 @@ Choose a Discord channel to work with.
 If you have recently added a channel and do not see it, click the refresh button.
 {% endhint %}
 
-![](../../.gitbook/assets/img2%20%283%29.png)
+![](../../.gitbook/assets/img2%20%284%29.png)
 
 ## **Modes**
 
@@ -28,7 +28,7 @@ If you have recently added a channel and do not see it, click the refresh button
 
 Enter the message you want to send.
 
-![](../../.gitbook/assets/img3%20%283%29.png)
+![](../../.gitbook/assets/img3%20%284%29.png)
 
 ![](../../.gitbook/assets/img4.png)
 

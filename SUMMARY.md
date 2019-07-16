@@ -58,6 +58,7 @@
   * [Google Calendar](library/modules/google-calendar.md)
   * [Google Sheets](library/modules/google-sheets.md)
   * [NLP](library/modules/nlp.md)
+  * [Outlook](library/modules/outlook.md)
   * [Python](library/modules/python/README.md)
     * [Python Libraries](library/modules/python/libraries.md)
   * [Salesforce](library/modules/salesforce.md)
