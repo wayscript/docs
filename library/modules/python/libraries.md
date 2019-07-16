@@ -2,7 +2,7 @@
 description: WayScript is running Python 3
 ---
 
-# Libraries
+# Python Libraries
 
 ## Add a Python Library
 

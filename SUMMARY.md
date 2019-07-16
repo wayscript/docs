@@ -52,7 +52,7 @@
   * [Discord](library/modules/discord.md)
   * [Google Sheets](library/modules/google-sheets.md)
   * [Python](library/modules/python/README.md)
-    * [Libraries](library/modules/python/libraries.md)
+    * [Python Libraries](library/modules/python/libraries.md)
 
 ## APIs
 

@@ -6,7 +6,7 @@ description: Write Python Code. (Python 3)
 
 ## Inputs
 
-WayScript's Python editor lets you reference [Variables](../../../introduction/variables.md) that exist in your program. To do this, you can drag your variables into the codebox or reference them through the **inputs dictionary**.
+WayScript's python editor lets you reference [Variables](../../../introduction/variables.md) that exist in your program. To do this, you can drag your variables into the codebox or reference them through the **inputs dictionary**.
 
 As an example, lets create a variable called Location and set a value of "Brooklyn, NY"
 
