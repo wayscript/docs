@@ -9,6 +9,7 @@
 * [Modules](introduction/modules.md)
 * [Looping / Iteration](introduction/looping-iteration.md)
 * [Conditionals](introduction/conditionals.md)
+* [Triggers](introduction/triggers.md)
 
 ## Library
 
