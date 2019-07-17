@@ -6,7 +6,9 @@
 
 In order for your speech to be read, you must include an Alexa Trigger in your program and launch the program from an Alexa-enabled device.
 
+{% hint style="info" %}
 See the [Alexa Trigger documentation](../triggers/alexa-trigger.md) for more details.
+{% endhint %}
 
 ### Speech Text
 
