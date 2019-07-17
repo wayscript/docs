@@ -1,0 +1,130 @@
+# Slack
+
+![Slack is where work flows.](../../.gitbook/assets/slack%20%281%29.png)
+
+
+
+## Link Your Slack Account
+
+When you drag in a Slack module for the first time, follow the prompt to authorize access.
+
+{% hint style="info" %}
+You can add additional accounts from 'Select Workspace' dropdown in the Slack module settings
+{% endhint %}
+
+## Select a Slack Workspace
+
+Select the workspace that you would like to work with.
+
+## Work With Channels
+
+### What Would you Like to Do
+
+* Create a Channel
+* Write to a Channel
+* Get a List of Channel Members
+* Invite Users to a Channel
+* Get Channel's History of Messages
+
+### Create a Channel
+
+#### Inputs
+
+* Name _\(required\)_
+* Make Private
+
+#### Outputs
+
+* New Channel's ID
+* JSON Data
+
+### Write to a Channel
+
+Choose any channel in your Workspace.
+
+#### Inputs
+
+* Message
+* As Bot
+
+#### Outputs
+
+* Action status
+* JSON Data
+
+### Get a List of Channel Members
+
+Choose any channel in your Workspace.
+
+#### Outputs
+
+* List of Channel Members
+* JSON Data
+
+### Invite Users to a Channel
+
+Choose any channel in your Workspace.
+
+#### Inputs
+
+* Users IDs
+
+#### Outputs
+
+* Action status
+* JSON Data
+
+### Get Channel's History of Messages
+
+Choose any channel in your Workspace
+
+#### Inputs
+
+* Number of Messages to Retrieve
+
+#### Outputs
+
+* Message History
+* Messengers
+* JSON Data
+
+## Work with Users
+
+### What Would you Like to Do
+
+* Get a User's Member ID
+* Lookup a User by their Email
+* Send a Direct Message
+
+### Get a User's Member ID
+
+Choose a User
+
+#### Outputs
+
+* Member ID
+* JSON Data
+
+### Lookup a User by their Email
+
+#### Inputs
+
+* Email
+
+#### Outputs
+
+* Member ID
+* Member Name
+* JSON Data
+
+### Send a Direct Message
+
+#### Inputs
+
+* Message
+
+#### Outputs
+
+* Action status
+* JSON Data
+

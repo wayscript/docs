@@ -7,7 +7,7 @@
 When you drag in a Mailchimp module for the first time, follow the prompt to authorize access.
 
 {% hint style="info" %}
-You can add additional accounts from the Mailchimp settings.
+You can add additional accounts from the Mailchimp module settings.
 {% endhint %}
 
 ## Create a List
