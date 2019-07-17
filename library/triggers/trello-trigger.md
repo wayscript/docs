@@ -56,7 +56,7 @@ Card change events produce the following additional outputs:
 
 ### Advanced Outputs
 
-In the advanced settings, you can choose to output the raw JSON data from the Trello webhook event.
+In the advanced settings, you can choose to output the raw JSON data sent by Trello in the webhook event.
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-5.44.41-pm.png)
 
