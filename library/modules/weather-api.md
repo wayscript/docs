@@ -3,7 +3,7 @@
 ![Current weather and forecasts in your city.](../../.gitbook/assets/open_weather_map.png)
 
 {% hint style="info" %}
-You can read a tutorial using this Module [here](../../introduction/modules.md).
+You can read a tutorial using this Module [here](../../getting_started/modules.md).
 {% endhint %}
 
 ## Settings
@@ -20,7 +20,7 @@ You can read a tutorial using this Module [here](../../introduction/modules.md).
 * **City Name -** Name of the City \(ex: Palo Alto\)
 * **Weather Condition Category -** Categories: Thunderstorm, Drizzle, Rain, Snow, Clear, Clouds, Atmosphere \( implies mist, haze, fog or other visual impairments \)
 * **Weather Condition Summary** - Clear, Light, or Heavy
-* **Weather Conditions** - A more detailed [list](../../introduction/variables.md#lists) of weather conditions.[ More info here.](https://openweathermap.org/weather-conditions)
+* **Weather Conditions** - A more detailed [list](../../getting_started/variables.md#lists) of weather conditions.[ More info here.](https://openweathermap.org/weather-conditions)
 * **Weather Condition IDS -** IDS for more detailed weather conditions.[ More info here.](https://openweathermap.org/weather-conditions)
 * **Sunrise Time -** Time of sunrise 
 * **Sunset Time -** Time of sunset

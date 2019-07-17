@@ -37,7 +37,7 @@ Learn more about Diffbot on their [website](https://www.diffbot.com)
 
 ## Forum/Discussion/Product conversations and reviews
 
-This mode, pulls [lists](../../introduction/variables.md#lists) of all of the posts on the forum page. 
+This mode, pulls [lists](../../getting_started/variables.md#lists) of all of the posts on the forum page. 
 
 ### Inputs
 

@@ -18,28 +18,28 @@ Select an account or add an account to work with Gmail.
 
 ### To
 
-* You can input a [single item variable](../../introduction/variables.md#single-item) or [hardcode](../../introduction/modules.md#option-two-hardcode-a-value) an email address.
+* You can input a [single item variable](../../getting_started/variables.md#single-item) or [hardcode](../../getting_started/modules.md#option-two-hardcode-a-value) an email address.
 * * This is a required input.
 * If you want to send to multiple emails, you can comma separate them. 
 
 ### CC/BCC
 
-* You can input a [single item variable](../../introduction/variables.md#single-item) or [hardcode](../../introduction/modules.md#option-two-hardcode-a-value) an email address.
+* You can input a [single item variable](../../getting_started/variables.md#single-item) or [hardcode](../../getting_started/modules.md#option-two-hardcode-a-value) an email address.
 * If you want to send to multiple emails, you can comma separate them. 
 
 ### Subject
 
-* You can input a [single item variable](../../introduction/variables.md#single-item) or [hardcode](../../introduction/modules.md#option-two-hardcode-a-value) a subject.
+* You can input a [single item variable](../../getting_started/variables.md#single-item) or [hardcode](../../getting_started/modules.md#option-two-hardcode-a-value) a subject.
 
 ### Body
 
-* You can build the email to your body and can [insert variables](../../introduction/modules.md#option-one-insert-a-variable) wherever you want. 
+* You can build the email to your body and can [insert variables](../../getting_started/modules.md#option-one-insert-a-variable) wherever you want. 
 
 ![Gmail Setup Example](../../.gitbook/assets/screenshot-2019-07-16-17.39.05.png)
 
 ## Import Emails
 
-This mode pulls in data on all of the emails in your inbox. The outputs are all [lists](../../introduction/variables.md#lists). 
+This mode pulls in data on all of the emails in your inbox. The outputs are all [lists](../../getting_started/variables.md#lists). 
 
 ### Outputs
 

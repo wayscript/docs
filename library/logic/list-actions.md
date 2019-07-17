@@ -3,7 +3,7 @@
 ![Perform common programming operations on lists.](../../.gitbook/assets/list_actions%20%281%29.png)
 
 {% hint style="info" %}
-For more information on using WayScript Lists, see the [Introduction to Lists](../../introduction/variables.md#lists).
+For more information on using WayScript Lists, see the [Introduction to Lists](../../getting_started/variables.md#lists).
 {% endhint %}
 
 ## **Get List Length**

@@ -19,7 +19,7 @@
 
 ## Outputs
 
-Outputs are [Lists](../../introduction/variables.md#lists)
+Outputs are [Lists](../../getting_started/variables.md#lists)
 
 * **Website**
 * **Author**

@@ -10,9 +10,9 @@ Assign a name to your variable. This name will be used to reference the value of
 
 ## **Define the Characteristics of Your Variable**
 
-Define whether your variable will have a [single value](../../../introduction/variables.md#single-item) or contain a [list of values](../../../introduction/variables.md#lists).
+Define whether your variable will have a [single value](../../../getting_started/variables.md#single-item) or contain a [list of values](../../../getting_started/variables.md#lists).
 
-Choose what [type of data](../../../introduction/variables.md#variable-types) your variable will hold.
+Choose what [type of data](../../../getting_started/variables.md#variable-types) your variable will hold.
 
 ![](../../../.gitbook/assets/variable_type.png)
 

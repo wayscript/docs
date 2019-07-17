@@ -3,7 +3,7 @@
 ![Choose a branch of logic based on a condition.](../../.gitbook/assets/conditional.png)
 
 {% hint style="info" %}
-For an overview on conditionals in WayScript, refer to the [Introduction to Conditionals](../../introduction/conditionals.md).
+For an overview on conditionals in WayScript, refer to the [Introduction to Conditionals](../../getting_started/conditionals.md).
 {% endhint %}
 
 ## Condition Block

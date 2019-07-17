@@ -28,7 +28,7 @@ Specify whether or not to ignore the first line of the file when assigning varia
 
 #### Assigning Variables
 
-Naming a column in the table creates a [List](../../introduction/variables.md#lists) variable with that name containing all entries in that column.
+Naming a column in the table creates a [List](../../getting_started/variables.md#lists) variable with that name containing all entries in that column.
 
 ![](../../.gitbook/assets/screen-shot-2019-07-17-at-12.09.27-pm.png)
 
@@ -66,7 +66,7 @@ Each time the Excel Module executes in Write Mode, one row of data is added.
 ![](../../.gitbook/assets/screen-shot-2019-07-17-at-12.50.05-pm.png)
 
 {% hint style="info" %}
-To write each entry of list to a new row, use a [Loop](../../introduction/looping-iteration.md).
+To write each entry of list to a new row, use a [Loop](../../getting_started/looping-iteration.md).
 {% endhint %}
 
 ### Sheet Name

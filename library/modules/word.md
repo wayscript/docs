@@ -16,9 +16,9 @@ You can upload a Word document to WayScript or select a document you have alread
 
 ### Outputs
 
-* **Paragraphs -** A [list](../../introduction/variables.md#lists) where each item is the contents of a paragraph. 
-* **Full Text -** A [single item](../../introduction/variables.md#single-item) containing all of the text from the document. 
-* **Words in Document** - A [list](../../introduction/variables.md#lists) where each item is a unique word from the document. 
+* **Paragraphs -** A [list](../../getting_started/variables.md#lists) where each item is the contents of a paragraph. 
+* **Full Text -** A [single item](../../getting_started/variables.md#single-item) containing all of the text from the document. 
+* **Words in Document** - A [list](../../getting_started/variables.md#lists) where each item is a unique word from the document. 
 
 ![Read File](../../.gitbook/assets/screenshot-2019-07-16-17.08.30.png)
 

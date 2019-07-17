@@ -6,8 +6,8 @@
 
 
 
-**Aggregate Sentiment Analysis** - Can accept [lists](../../introduction/variables.md#lists) and gives back an average sentiment score.  
-**Sentiment Analysis** - Gives a sentiment of a [single inpu](../../introduction/variables.md)t.
+**Aggregate Sentiment Analysis** - Can accept [lists](../../getting_started/variables.md#lists) and gives back an average sentiment score.  
+**Sentiment Analysis** - Gives a sentiment of a [single inpu](../../getting_started/variables.md)t.
 
 ### Inputs
 

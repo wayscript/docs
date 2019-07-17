@@ -50,9 +50,9 @@
 * **Number of Post Retweets**
 * **Number of Times Favorites**
 * **Date/Time of Posts**
-* **Other Usernames Mentioned in Post -** a [List](../../introduction/variables.md#lists) of lists all usernames in the tweet. 
-* **URLs Mentioned in Tweet** - a [List](../../introduction/variables.md#lists) of lists all urls in the tweet. 
-* **Hashtags** - a [List](../../introduction/variables.md#lists) of lists all hashtags in the tweet. 
+* **Other Usernames Mentioned in Post -** a [List](../../getting_started/variables.md#lists) of lists all usernames in the tweet. 
+* **URLs Mentioned in Tweet** - a [List](../../getting_started/variables.md#lists) of lists all urls in the tweet. 
+* **Hashtags** - a [List](../../getting_started/variables.md#lists) of lists all hashtags in the tweet. 
 
 ## Get Data on a User by Username
 

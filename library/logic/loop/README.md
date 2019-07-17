@@ -3,7 +3,7 @@
 ![Repeat a set of actions multiple times.](../../../.gitbook/assets/loop.png)
 
 {% hint style="info" %}
-To learn about using loops in WayScript, see [Looping / Iteration](../../../introduction/looping-iteration.md).
+To learn about using loops in WayScript, see [Looping / Iteration](../../../getting_started/looping-iteration.md).
 {% endhint %}
 
 ## Input

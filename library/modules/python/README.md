@@ -4,7 +4,7 @@
 
 ## Inputs
 
-WayScript's python editor lets you reference [Variables](../../../introduction/variables.md) that exist in your program. To do this, you can drag your variables into the codebox or reference them through the **inputs dictionary**.
+WayScript's python editor lets you reference [Variables](../../../getting_started/variables.md) that exist in your program. To do this, you can drag your variables into the codebox or reference them through the **inputs dictionary**.
 
 As an example, lets create a variable called Location and set a value of "Brooklyn, NY"
 
@@ -26,7 +26,7 @@ var = inputs[ "<var_name>" ]
 
 ## Outputs
 
-You can also output data from your python scripts and turn these into variables that can be used by other [Modules](../../../introduction/modules.md) in your program. 
+You can also output data from your python scripts and turn these into variables that can be used by other [Modules](../../../getting_started/modules.md) in your program. 
 
 You can do this with the **outputs dictionary** in the following format:
 

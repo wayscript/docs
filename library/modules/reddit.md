@@ -28,7 +28,7 @@
 * **Number of Subscribers** - Total number of subscribers
 * **Active Accounts** - The number of accounts currently online
 * **Subreddit Description** - Subreddits description
-* **Post Titles** - A [List](../../introduction/variables.md#lists) of the Titles of the Subreddit Posts
+* **Post Titles** - A [List](../../getting_started/variables.md#lists) of the Titles of the Subreddit Posts
 * **Date of Post \(UTC\)** - ****A List of the Dates that the posts were published
 * **Post Text** - A List of the Text of the Subreddit Posts
 * **Post Author** - A List of the Authors of the Subreddit Posts

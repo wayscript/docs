@@ -55,14 +55,14 @@ FuzzyWuzzy is a string similarity matching library. In other words, it tells you
 
 ## Process
 
-| [Text](../../introduction/variables.md#single-item) | [Choices](../../introduction/variables.md#lists) | Extract One Choice | Extract One Ratio |
+| [Text](../../getting_started/variables.md#single-item) | [Choices](../../getting_started/variables.md#lists) | Extract One Choice | Extract One Ratio |
 | :--- | :--- | :--- | :--- |
 | new york jets | Atlanta Falcons, New York Jets, Dallas Cowboys, New York Giants | New York Jets | 100 |
 
 #### Inputs
 
-* Text - [Single Item Variable](../../introduction/variables.md#single-item)
-* Choices - [List](../../introduction/variables.md#lists)
+* Text - [Single Item Variable](../../getting_started/variables.md#single-item)
+* Choices - [List](../../getting_started/variables.md#lists)
 
 #### Outputs
 

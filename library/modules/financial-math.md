@@ -8,7 +8,7 @@
 
 ### Inputs
 
-* [List](../../introduction/variables.md#lists) of numbers
+* [List](../../getting_started/variables.md#lists) of numbers
 
 ### Outputs
 

@@ -34,7 +34,7 @@ CHECK ALL APIs under the select API\(s\) section!
 ## Outputs
 
 {% hint style="info" %}
-[Single Items](../../introduction/variables.md#single-item) if mode is Get Data on an Address. [Lists](../../introduction/variables.md#lists) if mode is Get Comparables to an Address
+Outputs are [single Items](../../getting_started/variables.md#single-item) if mode is "Get Data on an Address." Outputs are [lists](../../getting_started/variables.md#lists) if mode is "Get Comparables to an Address."
 {% endhint %}
 
 * **Zestimate House Value** - Zestimate House Value in US Dollars

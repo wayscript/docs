@@ -4,7 +4,7 @@
 
 ## Overview
 
-Returns a [List](../../introduction/variables.md#lists) of all cities in the U.S., or in a given State.
+Returns a [List](../../getting_started/variables.md#lists) of all cities in the U.S., or in a given State.
 
 ## Settings
 
@@ -13,5 +13,5 @@ Returns a [List](../../introduction/variables.md#lists) of all cities in the U.S
 
 ## Outputs
 
-* Cities - a [List](../../introduction/variables.md#lists) of cities that match your filter criteria. 
+* Cities - a [List](../../getting_started/variables.md#lists) of cities that match your filter criteria. 
 

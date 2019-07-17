@@ -41,5 +41,5 @@ Press submit.
 
 * **Phone Number** - This is the phone number you are sending a message to.
   * Required Format: +12223334567
-* **Text Message** - This is your message.You can [include variable values](../../introduction/modules.md#option-two-hardcode-a-value) in your messages.
+* **Text Message** - This is your message.You can [include variable values](../../getting_started/modules.md#option-two-hardcode-a-value) in your messages.
 
