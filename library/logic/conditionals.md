@@ -1,10 +1,6 @@
-<script>
-alert('hi');
-</script>
-
 # Conditionals
 
-## If
+### If
 
-## Else
+### Else
 
