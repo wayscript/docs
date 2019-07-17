@@ -1,10 +1,6 @@
----
-description: >-
-  Find the email address of any professional with the most advanced
-  email-finding tool.
----
-
 # Hunter.io
+
+![Find the email address of any professional with the most advanced email-finding tool.](../../.gitbook/assets/hunter_io.png)
 
 {% hint style="warning" %}
 In the free tier, this library requires an API Key, which you can get on the [Hunter.io website](https://hunter.io).

@@ -1,10 +1,8 @@
----
-description: >-
-  MapQuest is an American free online web mapping service owned by Verizon
-  Media.
----
-
 # Mapquest
+
+![MapQuest is an American free online web mapping service owned by Verizon Media.](../../.gitbook/assets/mapquest.png)
+
+## Overview
 
 This module returns to you the Latitude and Longitude coordinates for an address / location.
 

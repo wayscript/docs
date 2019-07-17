@@ -1,11 +1,9 @@
----
-description: Extracts the individual components of a name.
----
-
 # Name Parser
 
+![Extracts the individual components of a name.](../../.gitbook/assets/nameparser.png)
+
 {% hint style="info" %}
-This is contributed by an [open source project](https://github.com/derek73/python-nameparser/). 
+This module is powered by an [open source project](https://github.com/derek73/python-nameparser/). 
 {% endhint %}
 
 ## Inputs

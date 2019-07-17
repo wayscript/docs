@@ -1,10 +1,6 @@
----
-description: >-
-  Get breaking news headlines, and search for articles from over 5,000 news
-  sources and blogs
----
-
 # News API
+
+![Get breaking news headlines, and search for articles from over 5,000 news sources and blogs.](../../.gitbook/assets/news_api.png)
 
 ## Settings
 
