@@ -7,9 +7,11 @@
 * [Hello World](introduction/hello-world.md)
 * [Variables](introduction/variables.md)
 * [Modules](introduction/modules.md)
+* [Program Flow](introduction/program-flow.md)
 * [Triggers](introduction/triggers.md)
 * [Looping / Iteration](introduction/looping-iteration.md)
 * [Conditionals](introduction/conditionals.md)
+* [Functions](introduction/functions.md)
 
 ## Library
 
