@@ -82,3 +82,7 @@ Now run your program and read the log to see the [Program Flow](program-flow.md)
 
 Wayscript allows for recursive function calls. Using the example from above, the Double function can call itself.
 
+![A recursive function](../.gitbook/assets/recursion.png)
+
+In this example, if the Double Number variable is less than 10, the Double Function calls itself. With this setup, the function will recurse until the Doubled Number is greater than 10 and then will return the Double Number value \(16\) back to the Main branch. 
+
