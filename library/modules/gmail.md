@@ -33,7 +33,7 @@ Select an account or add an account to work with Gmail.
 
 ### Body
 
-* You can build the email to your body and can [insert variables](../../getting_started/modules.md#option-one-insert-a-variable) wherever you want. 
+* Build the email body and [insert variables](../../getting_started/modules.md#option-one-insert-a-variable) wherever you want. 
 
 ![Gmail Setup Example](../../.gitbook/assets/screenshot-2019-07-16-17.39.05.png)
 

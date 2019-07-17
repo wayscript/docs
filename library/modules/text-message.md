@@ -16,7 +16,7 @@ Messages come from **\(415\) WYS-CRPT** \(+1 415 997 2778\).
 If you haven't yet verified your phone number with your WayScript account, you will need to do so before using this module. See [Phone Number Verification](../../account-management/phone-number-verification.md) for details.
 {% endhint %}
 
-## Composing Message
+## Composing a Message
 
 You can use a combination of free text and variables to compose your message.
 

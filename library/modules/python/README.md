@@ -6,7 +6,7 @@
 
 WayScript's python editor lets you reference [Variables](../../../getting_started/variables.md) that exist in your program. To do this, you can drag your variables into the codebox or reference them through the **inputs dictionary**.
 
-As an example, lets create a variable called Location and set a value of "Brooklyn, NY"
+As an example, let's create a variable called "Location" and set a value of "Brooklyn, NY"
 
 ![](../../../.gitbook/assets/screenshot-2019-07-16-14.03.23.png)
 
