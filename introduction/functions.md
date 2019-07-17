@@ -58,3 +58,27 @@ To do this math, we are going to use the [Calculator Module](../library/modules/
 
 Now, we set up our calculator to multiply our Inputted Number by 2. We name the output "Doubled Number".
 
+![](../.gitbook/assets/multiplication.png)
+
+To show the power of functions, we are going to print the value of "Doubled Number" from within the function, then we are going to pass the value of Doubled Number back to our Main branch so we can use it at further steps. To do this, we use the [Return](../library/logic/functions/return.md) module.
+
+![](../.gitbook/assets/return_demo.png)
+
+{% hint style="warning" %}
+If you [define outputs](functions.md#step-two-create-a-function) in your function setup, you must return or your program will throw an error.
+{% endhint %}
+
+Your returned value is now a variable in your main branch \(the branch that called the function\).
+
+![](../.gitbook/assets/func_output.png)
+
+Now run your program and read the log to see the [Program Flow](program-flow.md)
+
+![](../.gitbook/assets/func_demo_final.png)
+
+## Advanced Features
+
+### Recursion
+
+Wayscript allows for recursive function calls. Using the example from above, the Double function can call itself.
+
