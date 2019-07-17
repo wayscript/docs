@@ -86,9 +86,9 @@
   * [Twilio](library/modules/twilio.md)
   * [Twitch](library/modules/twitch.md)
   * [Twitter](library/modules/twitter.md)
+  * [URL Encoder](library/modules/url-encoder.md)
   * [Weather API](library/modules/weather-api.md)
   * [Word](library/modules/word.md)
-  * [URL Encoder](library/modules/url-encoder.md)
   * [Yahoo Finance](library/modules/yahoo-finance.md)
   * [Yelp](library/modules/yelp.md)
 
