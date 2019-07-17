@@ -14,7 +14,7 @@ In order to use the Google Sheets module, you must first link your Google accoun
 You can add additional accounts from the Google Sheets module settings.
 {% endhint %}
 
-## Read Files
+## Read File
 
 When the Google Sheets module is activated, the default setting is to read a file.
 
@@ -41,7 +41,7 @@ Once a spreadsheet is selected, the spreadsheet will populate on the page.
 In order to import a column as a variable, the column must be labelled. Once labelled, the column will appear under variables.
 {% endhint %}
 
-## Write Files
+## Write File
 
 ### Choose File to Write
 

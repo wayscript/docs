@@ -58,6 +58,7 @@
   * [Diffbot](library/modules/diffbot.md)
   * [Discord](library/modules/discord.md)
   * [Dropbox](library/modules/dropbox.md)
+  * [Excel](library/modules/excel.md)
   * [FuzzyWuzzy](library/modules/fuzzywuzzy.md)
   * [Giphy](library/modules/giphy.md)
   * [Gmail](library/modules/gmail.md)
