@@ -66,7 +66,6 @@
   * [Google Calendar](library/modules/google-calendar.md)
   * [Google Sheets](library/modules/google-sheets.md)
   * [Mapquest](library/modules/mapquest.md)
-  * [Name Parser](library/modules/name-parser.md)
   * [News API](library/modules/news-api.md)
   * [Hacker News](library/modules/hackernews.md)
   * [NLP](library/modules/nlp.md)

@@ -19,6 +19,6 @@ This module returns to you the Latitude and Longitude coordinates for an address
 
 ## Outputs
 
-* **Latitude**
-* **Longitude**
+* Latitude
+* Longitude
 
