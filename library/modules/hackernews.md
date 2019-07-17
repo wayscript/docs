@@ -6,7 +6,7 @@ description: A social news website focusing on computer science and entrepreneur
 
 ## Settings
 
-### Mode
+#### Mode
 
 * Get Top Stories
 * Get New Stories
