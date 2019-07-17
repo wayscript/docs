@@ -1,6 +1,6 @@
 # Financial Math
 
-![Perform Financial Math Operations](../../.gitbook/assets/financial_math.png)
+![Perform financial math operations.](../../.gitbook/assets/financial_math.png)
 
 ## Relative Strength Index
 

@@ -1,8 +1,6 @@
 # Mailchimp
 
-![Marketing Automation Platform and an Email Marketing Service](../../.gitbook/assets/mailchimp.png)
-
-
+![Marketing automation platform and email marketing service.](../../.gitbook/assets/mailchimp.png)
 
 ## Link Your Mailchimp Account
 

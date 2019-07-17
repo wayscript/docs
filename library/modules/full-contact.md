@@ -1,6 +1,6 @@
 # Full Contact
 
-![Build Real-Time Customer Intelligence Into Everything You Do](../../.gitbook/assets/full_contact.png)
+![Build realtime customer intelligence into everything you do.](../../.gitbook/assets/full_contact.png)
 
 ## Company Lookup
 

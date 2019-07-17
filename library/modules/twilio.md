@@ -1,6 +1,6 @@
 # Twilio
 
-![Send Text Messages.](../../.gitbook/assets/twilio.png)
+![Send text messages.](../../.gitbook/assets/twilio.png)
 
 {% hint style="warning" %}
 This module requires that you have a Twilio SMS account. If you don't please set one up before continuing. 

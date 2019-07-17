@@ -2,8 +2,6 @@
 
 ![Read and write to Excel files.](../../.gitbook/assets/excel_128x128.png)
 
-![Read and Write to Excel Files](../../.gitbook/assets/excel%20%281%29.png)
-
 {% hint style="warning" %}
 WayScript supports Excel Files with extension 'xlsx'.
 {% endhint %}
