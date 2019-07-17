@@ -1,6 +1,6 @@
 # Zillow
 
-![Real Estate Data](../../.gitbook/assets/zillow_data.png)
+![Real estate data.](../../.gitbook/assets/zillow_data.png)
 
 {% hint style="warning" %}
 The Zillow modules requires you to create an API Key on Zillow. See [Registering for an API Key](zillow.md#registering-for-an-api-key) below. 
