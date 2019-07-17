@@ -1,6 +1,6 @@
 # Yelp
 
-![Look up business information from Yelp](../../.gitbook/assets/yelp%20%281%29.png)
+![Look up business information from Yelp.](../../.gitbook/assets/yelp%20%281%29.png)
 
 ## Settings
 

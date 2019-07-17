@@ -1,6 +1,6 @@
 # Spotify
 
-![Spotify is a Swedish audio streaming platform](../../.gitbook/assets/spotify%20%282%29.png)
+![A Swedish audio streaming platform.](../../.gitbook/assets/spotify%20%282%29.png)
 
 ## Settings
 

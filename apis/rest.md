@@ -1,5 +1,5 @@
 ---
-description: Run WayScript programs via HTTP requests
+description: Run WayScript programs via HTTP requests.
 ---
 
 # REST API

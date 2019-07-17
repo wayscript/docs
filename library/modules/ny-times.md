@@ -1,6 +1,6 @@
 # NY Times
 
-![Pull Articles From NY Times.](../../.gitbook/assets/ny_times.png)
+![Pull articles from the NY Times.](../../.gitbook/assets/ny_times.png)
 
 ## Get Top Stories
 
