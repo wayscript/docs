@@ -79,6 +79,7 @@
   * [Python](library/modules/python/README.md)
     * [Python Libraries](library/modules/python/libraries.md)
   * [Requests](library/modules/requests.md)
+  * [Reddit](library/modules/reddit.md)
   * [Salesforce](library/modules/salesforce.md)
   * [Twilio](library/modules/twilio.md)
   * [Twitch](library/modules/twitch.md)
