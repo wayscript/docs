@@ -54,6 +54,7 @@
   * [Date Time](library/modules/date-time.md)
   * [Diffbot](library/modules/diffbot.md)
   * [CSV](library/modules/csv.md)
+  * [FuzzyWuzzy](library/modules/fuzzywuzzy.md)
   * [Giphy](library/modules/giphy.md)
   * [Gmail](library/modules/gmail.md)
   * [Google Calendar](library/modules/google-calendar.md)
