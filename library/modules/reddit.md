@@ -12,7 +12,7 @@
 * **Link Karma** - Total Karma from Links
 * **Number of Subscribers** - Total Number of Account Subscribers
 * **Account Has Gold** - Returns True or False
-* **JSON Data** - Raw JSON data from the API Request
+* **JSON Data** - Raw JSON of the API query response
 
 ## Search a Subreddit
 
@@ -36,7 +36,7 @@
 * **Number of Comments** - A List of the Number of Comments of the Subreddit Posts
 * **Post Reddit URLs** - A List of the Reddit URLs of the Posts
 * **Post Link URLs** - If the post is a link to another website, this will be the URL of the link
-* **JSON Data -** Raw JSON Data of API query
+* **JSON Data -** Raw JSON of the API query response
 
 ![Search a Subreddit](../../.gitbook/assets/reddit_sub.png)
 
@@ -56,7 +56,7 @@
 * **Link Karma** - Total Karma from Links
 * **Number of Subscribers** - Total Number of Account Subscribers
 * **Account Has Gold** - Returns True or False
-* **JSON Data** - Raw JSON data from the API Request
+* **JSON Data** - Raw JSON of the API query response
 
 ![Data About Other Users](../../.gitbook/assets/reddit_other_users.png)
 
