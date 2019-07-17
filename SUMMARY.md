@@ -88,6 +88,7 @@
   * [Word](library/modules/word.md)
   * [Reddit](library/modules/reddit.md)
   * [Yahoo Finance](library/modules/yahoo-finance.md)
+  * [Yelp](library/modules/yelp.md)
 
 ## APIs
 
