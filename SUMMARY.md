@@ -60,6 +60,7 @@
   * [Gmail](library/modules/gmail.md)
   * [Google Calendar](library/modules/google-calendar.md)
   * [Google Sheets](library/modules/google-sheets.md)
+  * [HackerNews](library/modules/hackernews.md)
   * [NLP](library/modules/nlp.md)
   * [Outlook](library/modules/outlook.md)
   * [Python](library/modules/python/README.md)
