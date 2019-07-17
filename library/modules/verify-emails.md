@@ -1,6 +1,6 @@
 # Verify Emails
 
-![Verify that an email is valid.](../../.gitbook/assets/email_verifier.png)
+![Verify that an email address is valid.](../../.gitbook/assets/email_verifier.png)
 
 {% hint style="info" %}
 Powered by [mailboxlayer](https://mailboxlayer.com/).
