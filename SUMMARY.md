@@ -65,6 +65,7 @@
   * [Google Calendar](library/modules/google-calendar.md)
   * [Google Sheets](library/modules/google-sheets.md)
   * [Hacker News](library/modules/hackernews.md)
+  * [News API](library/modules/news-api.md)
   * [NLP](library/modules/nlp.md)
   * [Outlook](library/modules/outlook.md)
   * [Python](library/modules/python/README.md)
