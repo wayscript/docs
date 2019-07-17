@@ -7,7 +7,7 @@ description: >-
 # Functions
 
 {% hint style="warning" %}
-Please read the [Hello World](hello-world.md), [Variables](variables.md), and [Modules](modules.md) sections before continuing with this section.
+Please read the [Hello World](hello-world.md), [Variables](variables.md), [Modules](modules.md), and [Program Flow](program-flow.md) sections before continuing with this section.
 {% endhint %}
 
 {% hint style="info" %}
@@ -55,4 +55,6 @@ The goal of the 'Double' function is to double our 'Inputted Number' and return 
 To do this math, we are going to use the [Calculator Module](../library/modules/calculator.md). Drag the Calulator into your function branch. 
 
 ![Calculator in the function branch](../.gitbook/assets/calc_function.png)
+
+Now, we set up our calculator to multiply our Inputted Number by 2. We name the output "Doubled Number".
 
