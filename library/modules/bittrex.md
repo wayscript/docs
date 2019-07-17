@@ -1,8 +1,6 @@
----
-description: Real-time and Historical Data on Digital Currencies.
----
-
 # Bittrex
+
+![Realtime and historical data on digital currencies, such as Bitcoin.](../../.gitbook/assets/bittrex.png)
 
 ## Input
 

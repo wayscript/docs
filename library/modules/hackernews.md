@@ -1,8 +1,6 @@
----
-description: A social news website focusing on computer science and entrepreneurship.
----
-
 # Hacker News
+
+![A social news website focusing on computer science and entrepreneurship.](../../.gitbook/assets/hacker_news.png)
 
 ## Settings
 

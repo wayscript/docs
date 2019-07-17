@@ -1,8 +1,6 @@
----
-description: Enrich your data with Clearbit.
----
-
 # Clearbit
+
+![Enrich your data with Clearbit.](../../.gitbook/assets/clearbit.png)
 
 ## Authorization
 

@@ -1,8 +1,6 @@
----
-description: Retrieve stock information from Yahoo Finance.
----
-
 # Yahoo Finance
+
+![Retrieve stock information from Yahoo Finance.](../../.gitbook/assets/yahoo_finance.png)
 
 ## Inputs
 

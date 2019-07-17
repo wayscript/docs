@@ -1,10 +1,6 @@
----
-description: >-
-  Airtable works like a spreadsheet, but gives you the power of a database to
-  organize anything
----
-
 # Airtable
+
+![Airtable works like a spreadsheet, but gives you the power of a database to organize anything.](../../.gitbook/assets/airtable.png)
 
 ## Functionality
 

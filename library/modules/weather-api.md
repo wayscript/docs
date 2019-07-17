@@ -1,11 +1,9 @@
----
-description: 'Open Weather Map: Current weather and forecasts in your city.'
----
-
 # Weather API
 
+![Current weather and forecasts in your city.](../../.gitbook/assets/open_weather_map.png)
+
 {% hint style="info" %}
-You can read a tutorial on this Module [here](../../introduction/modules.md).
+You can read a tutorial using this Module [here](../../introduction/modules.md).
 {% endhint %}
 
 ## Settings

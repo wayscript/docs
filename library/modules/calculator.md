@@ -1,8 +1,6 @@
----
-description: Do Math.
----
-
 # Calculator
+
+![Do Math.](../../.gitbook/assets/calculator.png)
 
 ## Input
 

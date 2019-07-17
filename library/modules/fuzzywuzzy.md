@@ -1,16 +1,12 @@
----
-description: >-
-  Fuzzy string matching like a boss. It uses Levenshtein Distance to calculate
-  the differences between sequences in a simple-to-use package.
----
-
 # FuzzyWuzzy
 
+![Fuzzy string matching like a boss. ](../../.gitbook/assets/fuzzy_wuzzy.png)
+
 {% hint style="info" %}
-Opensource - Here is a link to the [GitHub Repo](https://github.com/seatgeek/fuzzywuzzy)
+Opensource - Check out the [GitHub Repo](https://github.com/seatgeek/fuzzywuzzy).
 {% endhint %}
 
-FuzzyWuzzy is a string similarity matching library. In other words, it tells you how similar two pieces of text are \(and some other functionality\).
+FuzzyWuzzy is a string similarity matching library. In other words, it tells you how similar two pieces of text are \(and some other functionality\). FuzzyWuzzy uses Levenshtein Distance to calculate the differences between sequences in a simple-to-use package.
 
 ## Simple Ratio
 

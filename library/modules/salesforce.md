@@ -1,8 +1,6 @@
----
-description: 'Create, edit, and query Salesforce objects'
----
-
 # Salesforce
+
+![Create, edit, and query Salesforce objects.](../../.gitbook/assets/salesforce.png)
 
 ## Setup
 

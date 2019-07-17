@@ -1,8 +1,6 @@
----
-description: Search the web with Bing
----
-
 # Bing
+
+![Search the web with Bing.](../../.gitbook/assets/bing.png)
 
 ## Search Term
 

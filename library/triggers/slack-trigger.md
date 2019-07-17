@@ -1,8 +1,6 @@
----
-description: Run your program when Slack events occur
----
-
 # Slack Trigger
+
+![Run your program when Slack events occur.](../../.gitbook/assets/slack.png)
 
 ## Link Your Slack Account
 

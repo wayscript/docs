@@ -1,8 +1,6 @@
----
-description: Run your program when Gmail messages change.
----
-
 # Gmail Trigger
+
+![Run your program when Gmail messages change.](../../.gitbook/assets/gmail.png)
 
 ## Link Your Gmail Account
 

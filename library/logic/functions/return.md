@@ -1,8 +1,6 @@
----
-description: Return values from the current function.
----
-
 # Return
+
+![Return values from the current function.](../../../.gitbook/assets/return.png)
 
 ## **Return from the Current Function**
 

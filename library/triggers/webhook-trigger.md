@@ -1,8 +1,6 @@
----
-description: Run your program via a web request.
----
-
 # Webhook Trigger
+
+![Run your program via a web request.](../../.gitbook/assets/webhook.png)
 
 ## Overview
 

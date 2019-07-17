@@ -1,8 +1,6 @@
----
-description: Write Python Code. (Python 3)
----
-
 # Python
+
+![Write Python Code.](../../../.gitbook/assets/python_128x128.png)
 
 ## Inputs
 

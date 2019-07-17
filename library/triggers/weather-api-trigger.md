@@ -1,8 +1,8 @@
----
-description: Run your program at sunrise and/or sunset in a given location
----
-
 # Weather API Trigger
+
+![Run your program at sunrise and/or sunset in a given location.](../../.gitbook/assets/open_weather_map.png)
+
+## Setup
 
 Enter your zip code, then select whether you want to run your WayScript program at sunrise, sunset, or both.
 

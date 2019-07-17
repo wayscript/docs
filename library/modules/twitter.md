@@ -1,8 +1,6 @@
----
-description: A Social Media Platform
----
-
 # Twitter
+
+![A social media platform.](../../.gitbook/assets/twitter.png)
 
 ## Search for a Word or \#Hashtag
 

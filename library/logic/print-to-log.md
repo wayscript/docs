@@ -1,8 +1,6 @@
----
-description: Print the contents of a variable to the log.
----
-
 # Print To Log
+
+![Print the contents of a variable to the log.](../../.gitbook/assets/print_to_log.png)
 
 ## **Inputs**
 

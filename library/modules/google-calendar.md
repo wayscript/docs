@@ -1,8 +1,6 @@
----
-description: Create new events and import events from your Google Calendar.
----
-
 # Google Calendar
+
+![Create new events and import events from your Google Calendar.](../../.gitbook/assets/google_calendar.png)
 
 ## Setup
 

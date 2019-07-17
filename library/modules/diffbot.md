@@ -1,8 +1,6 @@
----
-description: Turn Websites Into Data in Seconds.
----
-
 # Diffbot
+
+![Turn Websites Into Data in Seconds.](../../.gitbook/assets/diffbot.png)
 
 {% hint style="info" %}
 Learn more about Diffbot on their [website](https://www.diffbot.com)

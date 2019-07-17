@@ -1,8 +1,6 @@
----
-description: Common programming operations on text
----
-
 # Text Actions
+
+![Perform common programming operations on text.](../../.gitbook/assets/string_actions.png)
 
 ## **Get Text Length**
 

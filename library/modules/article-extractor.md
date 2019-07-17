@@ -1,8 +1,6 @@
----
-description: Pull text from a website
----
-
 # Article Extractor
+
+![Pull text from a website.](../../.gitbook/assets/article_pull.png)
 
 ## Inputs
 

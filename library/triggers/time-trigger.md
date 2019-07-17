@@ -1,8 +1,8 @@
----
-description: Run your program periodically
----
-
 # Time Trigger
+
+![Run your program periodically.](../../.gitbook/assets/cron.png)
+
+## Activate the Time Trigger
 
 In order to Trigger programs at a particular time, add the Trigger Module to the triggers section of your program and activate the trigger.
 

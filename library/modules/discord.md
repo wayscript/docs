@@ -1,8 +1,6 @@
----
-description: Interact with discord channels using the WayScript bot
----
-
 # Discord
+
+![Interact with discord channels using the WayScript bot.](../../.gitbook/assets/discord.png)
 
 ## **Setup**
 

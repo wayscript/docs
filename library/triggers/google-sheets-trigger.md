@@ -1,8 +1,6 @@
----
-description: Run your program when a Google Sheet changes
----
-
 # Google Sheets Trigger
+
+![Run your program when a Google Sheet changes.](../../.gitbook/assets/google_sheets.png)
 
 ## Link Your Google Account
 

@@ -1,8 +1,6 @@
----
-description: Work with Twitch data
----
-
 # Twitch
+
+![Work with Twitch data.](../../.gitbook/assets/twitch.png)
 
 ## Get a List of the Current Top Games
 

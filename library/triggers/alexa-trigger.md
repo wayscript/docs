@@ -1,8 +1,6 @@
----
-description: Run your program using an Alexa voice command.
----
-
 # Alexa Trigger
+
+![Run your program using an Alexa voice command.](../../.gitbook/assets/alexa_128x128.png)
 
 ## Setup
 

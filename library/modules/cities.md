@@ -1,8 +1,8 @@
----
-description: Generate a list of U.S. cities
----
-
 # Cities
+
+![Generate a list of U.S. cities.](../../.gitbook/assets/city_data.png)
+
+## Overview
 
 Returns a [List](../../introduction/variables.md#lists) of all cities in the U.S., or in a given State.
 

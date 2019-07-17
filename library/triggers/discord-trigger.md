@@ -1,8 +1,6 @@
----
-description: Run your program when Discord events occur.
----
-
 # Discord Trigger
+
+![Run your program when Discord events occur.](../../.gitbook/assets/discord.png)
 
 ## Link Your Discord Account
 

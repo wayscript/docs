@@ -1,8 +1,6 @@
----
-description: Get the current date and time
----
-
 # Date Time
+
+![Get the current date and time.](../../.gitbook/assets/datetime.png)
 
 ## Get Current Date Time
 

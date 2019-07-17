@@ -1,8 +1,6 @@
----
-description: Run your program by sending an email.
----
-
 # Email Trigger
+
+![Run your program by sending an email.](../../.gitbook/assets/email.png)
 
 ## New Variable Inputs
 
@@ -18,7 +16,7 @@ Email Subject: Program Name
 
 Email Body: New variable values separated by commas.
 
-![](../../.gitbook/assets/email%20%281%29.png)
+![](../../.gitbook/assets/email%20%282%29.png)
 
 {% hint style="info" %}
 * Variables must be submitted in the email in the same order as defined in the Module Outputs.

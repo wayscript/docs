@@ -1,8 +1,10 @@
 ---
-description: 'Work with Microsoft Word. Read file data, and build word documents.'
+description: Work with Microsoft Word.
 ---
 
 # Word
+
+![Read file data, and build word documents.](../../.gitbook/assets/word_128x128.png)
 
 ## Read File
 

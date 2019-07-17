@@ -1,8 +1,6 @@
----
-description: Read and Write to CSV files.
----
-
 # CSV
+
+![Read and Write to CSV files.](../../.gitbook/assets/csv_reader.png)
 
 ## Read File
 

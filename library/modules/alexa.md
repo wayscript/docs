@@ -1,8 +1,6 @@
----
-description: Have Alexa speak a phrase
----
-
 # Alexa
+
+![Have Alexa speak a phrase.](../../.gitbook/assets/alexa_128x128.png)
 
 ## Setup
 

@@ -1,8 +1,6 @@
----
-description: Create a variable.
----
-
 # Create Variable
+
+![Create a variable.](../../../.gitbook/assets/create_var.png)
 
 ## **Variable Name**
 

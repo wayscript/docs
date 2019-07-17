@@ -1,8 +1,6 @@
----
-description: Call a function.
----
-
 # Function Call
+
+![Call a function.](../../../.gitbook/assets/func_call.png)
 
 ## **Select a Function to Call**
 

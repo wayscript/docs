@@ -1,10 +1,6 @@
----
-description: >-
-  Run your program when changes are made to your Trello boards, lists, and
-  cards.
----
-
 # Trello Trigger
+
+![Run your program when changes are made to your Trello boards, lists, and cards.](../../.gitbook/assets/trello.png)
 
 ## Link Your Trello Account
 

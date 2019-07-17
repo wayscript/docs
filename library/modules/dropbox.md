@@ -1,8 +1,6 @@
----
-description: Work with Dropbox.
----
-
 # Dropbox
+
+![Work with Dropbox.](../../.gitbook/assets/dropbox.png)
 
 ## Authorization
 

@@ -1,8 +1,6 @@
----
-description: Work with Google Sheets
----
-
 # Google Sheets
+
+![Work with Google Sheets.](../../.gitbook/assets/google_sheets.png)
 
 ## Link Your Google Account
 

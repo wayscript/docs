@@ -1,11 +1,9 @@
----
-description: Automate actions with Gmail.
----
-
 # Gmail
 
+![Automate actions with Gmail.](../../.gitbook/assets/gmail.png)
+
 {% hint style="info" %}
-If you are looking to trigger a program with Gmail, see the [Gmail Trigger](../triggers/gmail-trigger.md)
+If you are looking to trigger a program with Gmail, see the [Gmail Trigger](../triggers/gmail-trigger.md).
 {% endhint %}
 
 ## Setup

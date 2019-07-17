@@ -1,13 +1,9 @@
----
-description: >-
-  Natural Language Processing such as Sentiment Analysis, Keyword Extraction,
-  and more.
----
-
 # NLP
 
+![Natural Language Processing such as Sentiment Analysis, Keyword Extraction, and more.](../../.gitbook/assets/nlp_toolkit.png)
+
 {% hint style="info" %}
-This module is using the [TextBlob library](https://textblob.readthedocs.io/en/dev/)
+This module is using the [TextBlob library](https://textblob.readthedocs.io/en/dev/).
 {% endhint %}
 
 ## Inputs

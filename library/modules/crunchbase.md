@@ -1,8 +1,6 @@
----
-description: Find business information about private and public companies.
----
-
 # Crunchbase
+
+![Find business information about private and public companies.](../../.gitbook/assets/crunchbase.png)
 
 ## Authorization
 

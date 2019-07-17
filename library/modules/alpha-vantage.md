@@ -1,8 +1,8 @@
----
-description: Realtime and Historical Stock Market and Crypto Data
----
-
 # Alpha Vantage
+
+![Realtime and historical stock market and crypto data.](../../.gitbook/assets/stocks.png)
+
+## Overview
 
 [Alpha Vantage Inc.](https://www.alphavantage.co/#about) "is a leading provider of free APIs for realtime and historical data on stocks, forex \(FX\), and digital/crypto currencies."
 
