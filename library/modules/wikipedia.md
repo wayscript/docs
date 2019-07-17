@@ -13,5 +13,16 @@
 
 * Article Titles
 
+## Get Contents of a Wikipedia Page
 
+### Inputs
+
+* Wikipedia Page Title
+
+### Outputs
+
+* Page Contents
+* Page Summaries
+* Page References
+* URLs of Images on the Page
 

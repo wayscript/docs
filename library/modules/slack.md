@@ -6,7 +6,7 @@
 
 ## Link Your Slack Account
 
-When you drag in a Slack module for the first time, follow the prompt to authorize access.
+When using Slack module for the first time, follow the prompt to authorize access.
 
 {% hint style="info" %}
 You can add additional accounts from 'Select Workspace' dropdown in the Slack module settings

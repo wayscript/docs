@@ -4,7 +4,7 @@
 
 ## Link Your Mailchimp Account
 
-When you drag in a Mailchimp module for the first time, follow the prompt to authorize access.
+When using a Mailchimp module for the first time, follow the prompt to authorize access.
 
 {% hint style="info" %}
 You can add additional accounts from the Mailchimp module settings.
