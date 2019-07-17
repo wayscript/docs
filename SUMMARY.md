@@ -100,6 +100,7 @@
   * [Website Searcher](library/modules/website-searcher.md)
   * [Word](library/modules/word.md)
   * [Yahoo Finance](library/modules/yahoo-finance.md)
+  * [Yellow Pages](library/modules/yellow-pages.md)
   * [Yelp](library/modules/yelp.md)
   * [Zillow](library/modules/zillow.md)
 

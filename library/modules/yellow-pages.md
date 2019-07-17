@@ -1,10 +1,10 @@
-# Yelp
+# Yellow Pages
 
-![Look up business information from Yelp.](../../.gitbook/assets/yelp%20%281%29.png)
+![Look up business information from Yellow Pages.](../../.gitbook/assets/yellow_pages%20%281%29.png)
 
 ## Settings
 
-* **Search Radius \(Miles\)** - Maxiumum distance of business from **Location Input** 
+* **Search Radius \(Miles\)** - Maxiumum distance of business from **Location Input**
 * **Number of Results** - Number of Businesses to return
 
 ## Inputs
@@ -21,7 +21,7 @@
 * **Business State**
 * **Business Zipcode**
 * **Business Phone Numbers**
-* **Business Is Permanently Closed**
-* **Number of Reviews**
 * **JSON Data** - Raw JSON data received from the API
+
+![](../../.gitbook/assets/yellow_pages_ex.png)
 
