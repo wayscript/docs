@@ -2,7 +2,7 @@
 description: A social news website focusing on computer science and entrepreneurship.
 ---
 
-# HackerNews
+# Hacker News
 
 ## Settings
 
@@ -28,4 +28,6 @@ description: A social news website focusing on computer science and entrepreneur
 * **Titles**
 * **URLs**
 * **JSON Data**
+
+![Hacker News Module Preview](../../.gitbook/assets/screenshot-2019-07-17-10.32.50.png)
 
