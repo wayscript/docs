@@ -21,7 +21,7 @@ You can connect multiple Dropbox accounts to WayScript. Select the one you would
 WayScript currently supports reading the following file types from Dropbox:
 
 * [Word Documents](word.md) \(.docx\)
-* [Excel Spreadsheets]() \(.xlsx\)
+* [Excel Spreadsheets](excel.md) \(.xlsx\)
 * [CSV Files](csv.md) \(.csv\)
 
 ![Choose the File Type to Read](../../.gitbook/assets/choose_file_type.png)
