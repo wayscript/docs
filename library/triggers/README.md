@@ -33,8 +33,8 @@ These Triggers can be added only once to a single function.
 * [Google Sheets Trigger](google-sheets-trigger.md)
 * [Slack Trigger](slack-trigger.md)
 * [Text Message Trigger](text-message-trigger.md)
-* [Trello Trigger](trello-trigger.md)
-* [Weather API Trigger](weather-api-trigger.md)
+* [Trello Trigger](untitled.md)
+* [Weather API Trigger](untitled-1.md)
 
 ## Activating Triggers
 
