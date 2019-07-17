@@ -65,8 +65,8 @@
   * [Giphy](library/modules/giphy.md)
   * [GitHub](library/modules/github.md)
   * [Gmail](library/modules/gmail.md)
-  * [Google Calendar](library/modules/google-calendar.md)
   * [Google Sheets](library/modules/google-sheets.md)
+  * [Google Calendar](library/modules/google-calendar.md)
   * [Hacker News](library/modules/hackernews.md)
   * [Hunter.io](library/modules/hunter.io.md)
   * [Mailchimp](library/modules/mailchimp.md)
@@ -74,8 +74,8 @@
   * [Medium](library/modules/medium.md)
   * [Name Parser](library/modules/name-parser.md)
   * [News API](library/modules/news-api.md)
-  * [NLP](library/modules/nlp.md)
   * [NY Times](library/modules/ny-times.md)
+  * [NLP](library/modules/nlp.md)
   * [Outlook](library/modules/outlook.md)
   * [Phillips Hue](library/modules/phillips-hue.md)
   * [Python](library/modules/python/README.md)
@@ -101,6 +101,7 @@
   * [Word](library/modules/word.md)
   * [Yahoo Finance](library/modules/yahoo-finance.md)
   * [Yelp](library/modules/yelp.md)
+  * [Zillow](library/modules/zillow.md)
 
 ## APIs
 
