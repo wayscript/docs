@@ -2,6 +2,10 @@
 
 ![Have Alexa speak a phrase.](../../.gitbook/assets/alexa_128x128.png)
 
+{% hint style="info" %}
+To run your program using an Alexa voice command, use the [Alexa Trigger](../triggers/alexa-trigger.md).
+{% endhint %}
+
 ## Setup
 
 In order for your speech to be read, you must include an Alexa Trigger in your program and launch the program from an Alexa-enabled device.

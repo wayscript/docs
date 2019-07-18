@@ -2,6 +2,10 @@
 
 ![Run your program when Discord events occur.](../../.gitbook/assets/discord.png)
 
+{% hint style="info" %}
+To interact with discord channels using the WayScript bot, use the [Discord module](../modules/discord.md).
+{% endhint %}
+
 ## Link Your Discord Account
 
 You can trigger WayScript programs to run when various Discord events occur.

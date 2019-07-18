@@ -6,6 +6,10 @@
 You can read a tutorial using this Module [here](../../getting_started/modules.md).
 {% endhint %}
 
+{% hint style="info" %}
+To run your program at sunrise and/or sunset in a given location, use the [Weather API Trigger](../triggers/weather-api-trigger.md).
+{% endhint %}
+
 ## Settings
 
 * **Temperature Type**: Fahrenheit, Celcius, Kelvin

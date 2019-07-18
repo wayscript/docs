@@ -2,6 +2,10 @@
 
 ![Run your program when Gmail messages change.](../../.gitbook/assets/gmail.png)
 
+{% hint style="info" %}
+To automate actions with Gmail, use the [Gmail module](../modules/gmail.md).
+{% endhint %}
+
 ## Link Your Gmail Account
 
 When you drag in a Gmail Trigger for the first time, follow the prompt to authorize access.

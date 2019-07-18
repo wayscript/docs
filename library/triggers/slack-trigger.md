@@ -2,6 +2,10 @@
 
 ![Run your program when Slack events occur.](../../.gitbook/assets/slack.png)
 
+{% hint style="info" %}
+To work with Slack channels and users, use the [Slack module](../modules/slack.md).
+{% endhint %}
+
 ## Link Your Slack Account
 
 When you drag in a Slack Trigger for the first time, follow the prompt to authorize access.

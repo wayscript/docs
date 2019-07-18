@@ -2,6 +2,10 @@
 
 ![Run your program when changes are made to your Trello boards, lists, and cards.](../../.gitbook/assets/trello.png)
 
+{% hint style="info" %}
+To get data from Trello or automate creating new cards, use the [Trello module](../modules/trello.md).
+{% endhint %}
+
 ## Link Your Trello Account
 
 When you add a Trello Trigger to your program, you will be prompted to link an account if you have not done so already. 

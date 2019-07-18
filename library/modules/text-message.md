@@ -2,6 +2,10 @@
 
 ![Send text messages to yourself.](../../.gitbook/assets/text_message_128x128%20%281%29.png)
 
+{% hint style="info" %}
+To run your program with a text message, use the [Text Message Trigger](../triggers/text-message-trigger.md).
+{% endhint %}
+
 ## About
 
 The Text Message module allows you to send text messages to yourself. This can be especially useful in combination with the [Text Message Trigger](../triggers/text-message-trigger.md) if you want to send a message to WayScript and then have WayScript reply with a result.

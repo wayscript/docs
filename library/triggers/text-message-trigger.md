@@ -7,6 +7,10 @@ You can trigger WayScript programs to run by sending a text message to WayScript
 **\(415\) WYS-CRPT**   \(+1 415 997 2778\)
 {% endhint %}
 
+{% hint style="info" %}
+To send text messages to yourself, use the [Text Message module](../modules/text-message.md).
+{% endhint %}
+
 ## Phone Number Verification
 
 {% hint style="warning" %}

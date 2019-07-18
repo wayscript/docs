@@ -2,6 +2,10 @@
 
 ![Trello is a team collaboration tool that lets you organize and keep projects on task.](../../.gitbook/assets/trello%20%281%29.png)
 
+{% hint style="info" %}
+To run your program when changes are made to your Trello boards, lists, and cards, use the [Trello Trigger](../triggers/trello-trigger.md).
+{% endhint %}
+
 ## Link Your Trello Account
 
 When you add a Trello Trigger to your program, you will be prompted to link an account if you have not done so already. Get My Boards

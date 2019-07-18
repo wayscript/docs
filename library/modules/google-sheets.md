@@ -2,6 +2,10 @@
 
 ![Work with Google Sheets.](../../.gitbook/assets/google_sheets.png)
 
+{% hint style="info" %}
+To run your program when a Google Sheet changes, use the [Google Sheets Trigger](../triggers/google-sheets-trigger.md).
+{% endhint %}
+
 ## Link Your Google Account
 
 In order to use the Google Sheets module, you must first link your Google account.
