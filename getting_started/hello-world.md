@@ -12,17 +12,17 @@ When you press Create, you are brought into the WayScript program builder.
 
 ### Print to Log
 
-Drag the 'Print To Log' **Module** from your **Logic** panel to your Flow Diagram.
+Drag the '[Print To Log](../library/logic/print-to-log.md)' [Module](../library/modules/) from your [Logic](../library/logic/) panel to your Flow Diagram.
 
 ![](../.gitbook/assets/screenshot-2019-07-15-11.53.38.png)
 
-On the left side of your screen, type 'Hello World!' as the input into the Print to Log module.
+On the left side of your screen, type 'Hello World!' as the input into the [Print to Log](../library/logic/print-to-log.md) module.
 
 ![](../.gitbook/assets/screenshot-2019-07-15-12.00.25.png)
 
 ### Run your Program
 
-You have now set up your program to print 'Hello World!' to your program log. Now, **press the 'Run Main'** button on your diagram to run your program on the cloud. 
+You have now set up your program to print 'Hello World!' to your program log. Now, **press the Run Main** **button** on your diagram to run your program on the cloud. 
 
 ![Press &apos;Run Main&apos; on your Flow Diagram, and your program runs.](../.gitbook/assets/screenshot-2019-07-15-12.05.30.png)
 
