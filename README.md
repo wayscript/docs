@@ -10,5 +10,5 @@ We publish weekly [YouTube tutorials](https://youtube.com/c/wayscript) of use ca
 
 ## Privacy Stance
 
-We care about your privacy. We are not sharing data about you with advertisers or anybody else. 
+We care about your privacy. We are not sharing data about you with advertisers nor anybody else. 
 
