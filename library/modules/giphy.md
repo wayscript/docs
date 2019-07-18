@@ -8,6 +8,10 @@ description: >-
 
 ![Find everything from funny GIFs, reaction GIFs, unique GIFs and more.](../../.gitbook/assets/giphy.png)
 
+{% hint style="info" %}
+Check out their [website](https://www.developers.giphy.com).
+{% endhint %}
+
 ## Mode
 
 * **Single Random Result** - returns a single random result each time. 

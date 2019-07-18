@@ -3,7 +3,7 @@
 ![Fuzzy string matching like a boss. ](../../.gitbook/assets/fuzzy_wuzzy.png)
 
 {% hint style="info" %}
-Opensource - Check out the [GitHub Repo](https://github.com/seatgeek/fuzzywuzzy).
+Check out on [GitHub](https://github.com/seatgeek/fuzzywuzzy).
 {% endhint %}
 
 ## About

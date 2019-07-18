@@ -2,6 +2,10 @@
 
 ![Use the IBM Watson machine learning library](../../.gitbook/assets/watson%20%281%29.png)
 
+{% hint style="info" %}
+View on [Github](https://github.com/watson-developer-cloud/python-sdk).
+{% endhint %}
+
 ## Sentiment Analysis
 
 

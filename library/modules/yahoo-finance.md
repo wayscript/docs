@@ -2,6 +2,10 @@
 
 ![Retrieve stock information from Yahoo Finance.](../../.gitbook/assets/yahoo_finance.png)
 
+{% hint style="info" %}
+View on [Github](https://github.com/ranaroussi/yfinance).
+{% endhint %}
+
 ## Inputs
 
 Enter the stock ticker. As an example, for Microsoft you would enter MSFT.

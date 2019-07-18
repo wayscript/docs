@@ -3,7 +3,7 @@
 ![Natural Language Processing such as Sentiment Analysis, Keyword Extraction, and more.](../../.gitbook/assets/nlp_toolkit.png)
 
 {% hint style="info" %}
-This module is using the [TextBlob library](https://textblob.readthedocs.io/en/dev/).
+Check out on [Github](https://github.com/sloria/TextBlob/).
 {% endhint %}
 
 ## Inputs

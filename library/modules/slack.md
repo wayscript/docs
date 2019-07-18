@@ -3,6 +3,10 @@
 ![Slack is where work flows.](../../.gitbook/assets/slack%20%281%29.png)
 
 {% hint style="info" %}
+Check out on [Github](https://github.com/slackapi/python-slackclient).
+{% endhint %}
+
+{% hint style="info" %}
 To run your program when Slack events occur, use the [Slack Trigger](../triggers/slack-trigger.md).
 {% endhint %}
 

@@ -3,7 +3,7 @@
 ![Extracts the individual components of a name.](../../.gitbook/assets/nameparser.png)
 
 {% hint style="info" %}
-This module is powered by an [open source project](https://github.com/derek73/python-nameparser/). 
+Check out on [Github](https://github.com/derek73/python-nameparser/).
 {% endhint %}
 
 ## Inputs

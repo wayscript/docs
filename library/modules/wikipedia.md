@@ -2,6 +2,10 @@
 
 ![Pull information from Wikipedia.](../../.gitbook/assets/wikipedia.png)
 
+{% hint style="info" %}
+View on [Github](https://github.com/goldsmith/Wikipedia).
+{% endhint %}
+
 ## Search for Wikipedia Pages by a Keyword
 
 ### Inputs

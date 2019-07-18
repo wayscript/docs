@@ -3,6 +3,10 @@
 ![Send text messages to yourself.](../../.gitbook/assets/text_message_128x128%20%281%29.png)
 
 {% hint style="info" %}
+View on [Github](https://github.com/twilio/twilio-python).
+{% endhint %}
+
+{% hint style="info" %}
 To run your program with a text message, use the [Text Message Trigger](../triggers/text-message-trigger.md).
 {% endhint %}
 

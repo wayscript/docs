@@ -2,6 +2,10 @@
 
 ![Make requests to APIs and other endpoints on the internet.](../../.gitbook/assets/http_requests.png)
 
+{% hint style="info" %}
+Check out on [Github](https://github.com/requests/requests).
+{% endhint %}
+
 ## Settings
 
 #### Mode

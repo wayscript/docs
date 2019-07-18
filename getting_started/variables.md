@@ -12,25 +12,27 @@ Drag the [Create Variable](../library/logic/variables/create-variable.md) module
 
 ![The Create Variable module is in your Logic Panel](../.gitbook/assets/screenshot-2019-07-15-12.28.05.png)
 
-Once dropped, WayScript will automatically display the Settings Panel for your [Create Variable](../library/logic/variables/create-variable.md) step. This is where you are going to set up your variable. 
+WayScript will automatically display the Settings Panel for your [Create Variable](../library/logic/variables/create-variable.md) step. This is where you are going to set up your variable. 
 
 ![](../.gitbook/assets/screenshot-2019-07-15-12.36.06.png)
 
 ## Single Item
 
-For this example, we are going to create a **Variable Name** called "Location" and set it to the **Variable Value** "Brooklyn, NY". Feel free to put in your own location instead.
+For this example, we are going to assign a **Variable Name** called "Location" and set the **Variable Value** to "Brooklyn, NY". Feel free to put in your own location instead.
 
 ![](../.gitbook/assets/screenshot-2019-07-15-12.41.46.png)
 
-Once the data is inputted, you should notice that your variable now appears in your **Variables Panel.** You can now use this variable in your program. 
+After setup, your new variable will appear in the **Variables Panel.** You can now use this variable in your program. 
 
 ![All accessible variables are in your Variables Panel](../.gitbook/assets/screenshot-2019-07-15-13.00.21.png)
 
-Notice that the Location Variable has a green border. This is a visual indication that the variable is a single item \(in this case, Brooklyn NY\).
+{% hint style="info" %}
+The green border indicates that this variable is a single item.
+{% endhint %}
 
 #### Example of using a Single Item Variable
 
-Now - you can use this variable at any future step in your WayScript program flow. In this example, we can now print a message which contains the Location variable. 
+Your variable is is available for reference at any future step in your program flow. In this example, we can now print a message which contains the Location variable. 
 
 ![](../.gitbook/assets/screenshot-2019-07-15-15.40.49.png)
 
@@ -42,7 +44,7 @@ You can begin typing the variable name to select it, or you can drag the variabl
 
 ### What is a list?
 
-A list \(also called an array\) is a tool that can be used to store multiple pieces of information at once. It can also be defined as a variable containing multiple other variables.
+A list \(also called an array\) is a data structure used to store multiple pieces of information in an ordered sequence where each has a unique 'position' \(also called index\) in the list. List variables can even store other variables.
 
 ### Creating a List
 
@@ -50,13 +52,17 @@ In your [Create Variable](../library/logic/variables/create-variable.md) Setting
 
 ![](../.gitbook/assets/screenshot-2019-07-15-15.46.17.png)
 
-A grocery list is a great example of a list we can build. The use cases for lists will be discussed more in the [Looping](looping-iteration.md) ****section of the docs. In this example, we create a list with a **Variable Name** of "Grocery List" and add our grocery list items as **Variable Values.**
+In this example, we'll create a list with **Variable Name** "Grocery List" and add items as **Variable Values.** The use cases for lists will be discussed more in the [Looping](looping-iteration.md) ****section of the docs.
 
 ![You can add as many items to a list as you want. ](../.gitbook/assets/screenshot-2019-07-15-15.49.28.png)
 
 ![](../.gitbook/assets/screenshot-2019-07-15-15.49.50.png)
 
-Your Grocery List is now a variable that can be used in your program. Note that the variable is outlined in blue and tell you the number of items in your list. 
+Your Grocery List is now a variable that can be used in your program.
+
+{% hint style="info" %}
+The blue border indicates that this variable is a list and the number badge indicates its length.
+{% endhint %}
 
 ## Variable Types
 
@@ -72,9 +78,15 @@ You explicitly define the type of your variables. Note - if you are building a [
 
 ## Power-User Features
 
-If you know some coding, you can more rapidly build variable by pressing tab and then inputting your variables. This power-user features matches the syntax of the Python programming language for strings and arrays. 
+If you know some coding, you can more rapidly build a variable from the module shortcut dropdown by entering the definition directly. 
+
+This power-user features matches the syntax of the Python programming language for strings and arrays. 
 
 ![](../.gitbook/assets/screenshot-2019-07-15-15.53.14.png)
 
 ![Press Enter to create your variable.](../.gitbook/assets/screenshot-2019-07-15-15.53.32.png)
+
+{% hint style="info" %}
+Press tab to open the shortcut dropdown at the end of your program.
+{% endhint %}
 

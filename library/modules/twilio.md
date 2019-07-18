@@ -2,12 +2,16 @@
 
 ![Send text messages.](../../.gitbook/assets/twilio.png)
 
+{% hint style="info" %}
+View on [Github](https://github.com/twilio/twilio-python).
+{% endhint %}
+
 {% hint style="warning" %}
 This module requires that you have a Twilio SMS account. If you don't please set one up before continuing. 
 {% endhint %}
 
 {% hint style="info" %}
-If you would like to send text messages to yourself, check out the Text Message module.
+If you would like to send text messages to yourself, check out the [Text Message](text-message.md) module.
 {% endhint %}
 
 ## Setting up your Account

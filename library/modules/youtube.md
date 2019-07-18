@@ -2,8 +2,6 @@
 
 ![Work with YouTube data.](../../.gitbook/assets/youtube%20%281%29.png)
 
-
-
 ## Link Your YouTube Account
 
 When using a YouTube module for the first time, follow the prompt to authorize access.

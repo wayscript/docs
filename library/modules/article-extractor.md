@@ -2,6 +2,10 @@
 
 ![Pull text from a website.](../../.gitbook/assets/article_pull.png)
 
+{% hint style="info" %}
+Check out on [Github](https://github.com/goose3/goose3).
+{% endhint %}
+
 ## Inputs
 
 * **Website URL** - Enter the URL of the article you want to pull.

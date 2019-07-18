@@ -11,7 +11,7 @@ Select the type of value you want to store in the variable:
 * Number
 
 {% hint style="info" %}
-You _can_ change the variable's type over the course of your program.
+You can change the variable's type over the course of your program.
 {% endhint %}
 
 ## Select A Variable
