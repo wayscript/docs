@@ -34,7 +34,7 @@ Do this by placing the Webhook Trigger in one or more functions within your WayS
 
 ## API Call
 
-Use Python, JavaScript, or [any other programming language ](../../apis/rest.md)to trigger your program.
+Use [Python](https://github.com/wayscript/wayscript-python), [JavaScript](https://github.com/wayscript/wayscript-js), or [any other programming language ](../../apis/rest.md)to trigger your program.
 
 ```python
 import requests
