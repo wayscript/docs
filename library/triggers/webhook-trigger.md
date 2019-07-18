@@ -9,7 +9,7 @@ Add the Webhook Trigger to the triggers section of your program and turn it on.
 Webhooks require the following data:
 
 1. Your Program ID
-2. Your unique API Key
+2. [Your unique API Key](../../account-management/managing-your-api-key.md)
 3. Optional: [New variable inputs](webhook-trigger.md#new-variable-inputs)
 
 This data can be retrieved from the settings within the Webhook Trigger.
@@ -34,7 +34,7 @@ Do this by placing the Webhook Trigger in one or more functions within your WayS
 
 ## API Call
 
-Use [Python](), [JavaScript](), or [any other programming language ](../../apis/rest.md)to trigger your program.
+Use Python, JavaScript, or [any other programming language ](../../apis/rest.md)to trigger your program.
 
 ```python
 import requests
@@ -55,6 +55,10 @@ requests.post( url, params = params )
 
 {% hint style="warning" %}
 Variables must be submitted in the same order as the Outputs defined on the Trigger Module as displayed above. 
+{% endhint %}
+
+{% hint style="info" %}
+For information on finding your API Key, see [Managing Your API Key](../../account-management/managing-your-api-key.md).
 {% endhint %}
 
 {% hint style="danger" %}

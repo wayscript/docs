@@ -118,4 +118,5 @@
 * [Phone Number Verification](account-management/phone-number-verification.md)
 * [Update Email](account-management/update-email.md)
 * [Change Password](account-management/change-password.md)
+* [Managing Your API Key](account-management/managing-your-api-key.md)
 

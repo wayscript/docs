@@ -69,6 +69,10 @@ Run this program asynchronously. \(See below.\) Defaults to `False`.
 {% endapi-method-spec %}
 {% endapi-method %}
 
+{% hint style="info" %}
+For instructions on finding your WayScript API Key, see [Managing Your API Key](../account-management/managing-your-api-key.md).
+{% endhint %}
+
 ### Examples
 
 #### Run a Program
