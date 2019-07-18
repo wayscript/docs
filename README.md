@@ -8,3 +8,7 @@ WayScript is a drag and drop programming platform built to give you superpowers.
 
 We publish weekly [YouTube tutorials](https://youtube.com/c/wayscript) of use cases, functionality, and much more. 
 
+## Privacy Stance
+
+We care about your privacy. We are not sharing data about you with advertisers or anybody else. 
+
