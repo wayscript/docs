@@ -28,3 +28,15 @@ Enter 'Hello World!' as the input to the [Print to Log](../library/logic/print-t
 
 **Congratulations** on running your first WayScript program!
 
+## What's Next?
+
+Now that you've learned the basics, check out these articles for more in-depth tutorials:
+
+* [Variables](variables.md)
+* [Program Flow](program-flow.md)
+* [Modules](modules.md)
+* [Triggers](triggers.md)
+* [Looping / Iteration](looping-iteration.md)
+* [Conditionals](conditionals.md)
+* [Functions](functions.md)
+
