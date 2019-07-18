@@ -20,9 +20,9 @@ Remember to disable Test Mode when you want to start consuming real data!
 
 ## Display Dashboard Settings
 
-When editing a module in the Settings panel, in the top right corner of the module header is a toggle labeled "Display Dashboard Settings?"
+When editing a module in the Settings panel, in the top right corner of the module header is a toggle labeled "Display Dashboard Settings."
 
-![Display Dashboard Settings?](../.gitbook/assets/display_dashboard_settings.png)
+![Display Dashboard Settings](../.gitbook/assets/display_dashboard_settings_v2.png)
 
 Enabling this toggle displays a "Show on Dashboard?" check box under every setting, input, or output of the module that supports Dashboard display.
 
