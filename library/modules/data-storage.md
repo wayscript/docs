@@ -2,7 +2,9 @@
 
 ![Save and Load variables for future use.  ](../../.gitbook/assets/datastore%20%281%29.png)
 
-The Data Storage module allows you to read/write data which can be used during every program run. 
+{% hint style="info" %}
+The Data Storage module allows you to read/write data which can be used during every program run.
+{% endhint %}
 
 ## Write Values
 

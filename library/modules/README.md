@@ -32,6 +32,7 @@ All available modules are documented in the sub-articles in this section:
 * [Clearbit](clearbit.md)
 * [Crunchbase](crunchbase.md)
 * [CSV](csv.md)
+* [Data Storage](data-storage.md)
 * [Date Time](date-time.md)
 * [Diffbot](diffbot.md)
 * [Discord](discord.md)
