@@ -22,7 +22,7 @@ You will then be presented with a modal giving two options:
 1. Report and track bugs or request new features by [creating an issue on GitHub](https://github.com/wayscript/feedback/issues/new/choose).  
 
 
-   🌟 Submitting your feedback on GitHub allows you to track its progress and discuss the issue with the WayScript team and community! 🌟   
+   🌟 Submitting your feedback on GitHub allows you to track its progress and discuss the issue with the WayScript team and community!  
 
 2. Submit feedback using the form in the modal.
 

@@ -32,5 +32,7 @@ When the "Show on Dashboard" toggle is enabled for a setting, that module settin
 
 ![Dashboard Setting](../.gitbook/assets/dashboard_setting.png)
 
-🌟 You can now edit the value of this field from the Dashboard without needing to go into the program! 🌟 
+{% hint style="success" %}
+You can now edit the value of this field from the Dashboard without needing to go into the program!
+{% endhint %}
 
