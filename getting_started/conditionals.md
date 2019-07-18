@@ -14,7 +14,7 @@ For a full list of conditions for each variable type, read the [Conditionals Log
 
 ## What is a condition?
 
-In computer science, conditional statements are features of a programming language, which perform different computations or actions depending on whether a programmer-specified _condition_ is true or false.
+In programming, a conditional \(also known as 'if-statement'\) is a control-flow statement directing your program to perform different actions depending on whether or not the programmer-specified _condition_ is true or false.
 
 ## Creating conditions in WayScript
 
@@ -34,19 +34,19 @@ Drag the "If" module from your Logic Panel as the next step in your program.
 
 ### Define your Conditions
 
-For this example, we want to build logic that says "**IF** our Number variable is greater than or equal to 100 - then print "This is a big number", **ELSE** print "This is a small number".
+For this example, we want to build logic that says "**If** our Number variable is greater than or equal to 100 - then print "This is a big number", **Else** print "This is a small number".
 
 ![If Number is Greater Than or Equal To to 100](../.gitbook/assets/screenshot-2019-07-16-11.03.50.png)
 
-### Define Your Worflow Actions
+### Add Branch Actions
 
-We can now define different sets of actions on each **branch** of the conditional. If the condition is **True,** it will execute one set of actions, otherwise it will run a different set of actions. 
+We can now add different sets of actions to each **branch** of the conditional. If the condition is **True,** it will execute one set of actions, otherwise it will run a different set of actions. 
 
 ![](../.gitbook/assets/screenshot-2019-07-16-11.07.47.png)
 
 ### Run your Program
 
-Press the 'Run Main' button to run your program. You can see, the If statement evaluated to False \(because 4 is not greater than or equal too 100\). Therefore, our program prints "This is a small number!".
+Press the 'Run Main' button to run your program. You can see that the If-statement evaluated to False \(because 4 is not greater than or equal to 100\). Our program prints "This is a small number!".
 
 ![](../.gitbook/assets/screenshot-2019-07-16-11.09.27.png)
 

@@ -6,7 +6,7 @@ If you have not read about [WayScript Lists](variables.md#lists), please do so b
 
 ## What is a loop?
 
-In computer science, a **for-loop** is a control flow statement for specifying iteration, which allows code to be executed repeatedly.
+In programming, a **for-loop** is a control-flow statement directing your program to execute the loop's contents repeatedly.
 
 ## Looping with WayScript
 
@@ -28,9 +28,11 @@ Drag in the Loop Module from the **Logic Panel** as the next step in your progra
 
 In the **Loop Settings Panel**, select your Grocery List variable as an input to loop over. 
 
-![You can add more than list to loop over by pressing the + button](../.gitbook/assets/screenshot-2019-07-15-16.42.28.png)
+![You can add more lists to loop over by pressing the + button](../.gitbook/assets/screenshot-2019-07-15-16.42.28.png)
 
-Notice how you now have a variable in your Variable Panel called **Grocery List Item.** In programming, this is known as an 'iterator' and can be used as a variable at any step inside of the loop. For each loop, the value of **Grocery List Item** will change to the next item from the list. This list will loop 4 times because there are four items in the list. To make this more clear, let's print the value of **Grocery List Item** for each loop. To do this, we must drag the Print To Log module inside of the loop.
+Notice how you now have a variable in your Variable Panel called **Grocery List Item.** In programming, this is known as an 'iterator' and can be used as a variable at any step inside of the loop. 
+
+At each loop iteration, the value of **Grocery List Item** will change to the next item in the list. This loop will iterate four times, once for each item in the list. To make this more clear, let's print the value of **Grocery List Item** for each loop. To do this, we must drag the Print To Log module inside of the loop.
 
 ![](../.gitbook/assets/screenshot-2019-07-15-16.47.52.png)
 
@@ -44,7 +46,7 @@ Finally, let's add a print statement **after** the loop that says "I'm done shop
 
 ### Run your Program
 
-Press the 'Run Main' button to run your program. Now, look at the results in the log. Notice how the loop ran 4 times, each with the new value for your Grocery List Item variable. At the end, your "I'm done shopping!" line printed. 
+Press the 'Run Main' button to run your program. Now, look at the results in the log. Notice how the loop ran four times, each time with the new value for your Grocery List Item variable. At the end, your "I'm done shopping!" line printed. 
 
 ![](../.gitbook/assets/screenshot-2019-07-15-17.14.51.png)
 

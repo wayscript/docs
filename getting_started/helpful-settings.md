@@ -5,7 +5,7 @@
 Modules return dummy data when Test Mode is activated.
 
 {% hint style="info" %}
-Test Mode is useful when you want to build and test your program using fake dummy data.
+Test Mode is useful when you want to avoid making API calls while building and testing the logic of your program.
 {% endhint %}
 
 ### Enabling Test Mode

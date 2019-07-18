@@ -28,7 +28,7 @@ In this tutorial, we are going to build functions that let us do some simple mat
 
 [Create a Number Variable](variables.md) called "Number" and set it to the value 2.
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Be sure to set the [Type of Item](../library/logic/variables/create-variable.md#define-the-characteristics-of-your-variable) to Number
 {% endhint %}
 
@@ -44,13 +44,13 @@ Next, click on the name of the function \("My Function"\) to enter the setup for
 
 ![](../.gitbook/assets/function_name%20%281%29.png)
 
-We are going to name our function "Double" because it will double our number. Its **input** will be our Number variable which we will call "Inputted Number", and its **output** will be the number \* 2. We will call this output "Doubled Number". Make sure to set the Input and Output Types to Numbers. 
+We are going to name our function "Double" because it will double our number. Its **input** will be our 'Number' variable which we will call "Input Number", and its **output** will be the number \* 2. We will call this output "Doubled Number". Make sure to set the Input and Output Types to Numbers. 
 
 ![Setting up the Double definition](../.gitbook/assets/function_definition.png)
 
 ### Step Three - Build your Logic
 
-The goal of the 'Double' function is to double our 'Inputted Number' and return that result to as our "Doubled Number"
+The goal of the 'Double' function is to double our 'Input Number' and return that result to the 'Main' function as our "Doubled Number"
 
 To do this math, we are going to use the [Calculator Module](../library/modules/calculator.md). Drag the Calulator into your function branch. 
 
@@ -80,7 +80,7 @@ Now run your program and read the log to see the [Program Flow](program-flow.md)
 
 ### Recursion
 
-Wayscript allows for recursive function calls. Using the example from above, the Double function can call itself.
+WayScript allows for recursive function calls. Referring to the example above, the 'Double' function can call itself.
 
 ![A recursive function](../.gitbook/assets/recursion.png)
 

@@ -1,11 +1,10 @@
 ---
-description: >-
-  In this section, we provide an explanation on how to think about WayScript
-  modules; How do they work, and how you can use them to do awesome things with
-  your programs.
+description: Modules are the building blocks of a WayScript program.
 ---
 
 # Modules
+
+In this section, we provide an explanation on how to think about WayScript modules; How do they work, and how you can use them to do awesome things with your programs.
 
 {% hint style="warning" %}
 Please read the [Hello World](hello-world.md) and [Variables](variables.md) sections before continuing with this section.
@@ -73,7 +72,7 @@ Yes, you can mix variables with hardcoding! If I [created a variable](variables.
 
 ### Outputs
 
-When you select Outputs from your Module, they become variables that can be used in your program. These variables are the same as those created in the [Variables Tutorial ](variables.md)in that they can be [single items](variables.md#single-item) or [lists](variables.md#lists), and can be [different data types](variables.md#variable-types) such as text, numbers, dates, etc. Notice below how the checked outputs are now available in the Variables Panel.
+When you select Outputs from your Module, they become variables that can be used in your program. These variables are like those created in the [Variables Tutorial ](variables.md)in that they can be [single items](variables.md#single-item) or [lists](variables.md#lists), and can be [different data types](variables.md#variable-types) such as text, numbers, dates, etc. Notice below how the selected outputs are now available in the Variables Panel.
 
 ![](../.gitbook/assets/screenshot-2019-07-16-13.21.13.png)
 
