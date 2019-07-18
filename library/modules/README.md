@@ -11,7 +11,11 @@ description: >-
 To learn about using modules in WayScript, see the [Introduction to Modules](../../getting_started/modules.md).
 {% endhint %}
 
-WayScript is adding new modules and third-party API integrations all the time! If there's functionality you would like to see added, [submit a feature request on GitHub](https://github.com/wayscript/feedback), or email us at founders@wayscript.com.
+{% hint style="success" %}
+WayScript is adding new modules and third-party integrations all the time!
+
+If there's functionality you would like to see added, [submit a feature request on GitHub](https://github.com/wayscript/feedback), or email us at founders@wayscript.com.
+{% endhint %}
 
 ## Available Modules
 
