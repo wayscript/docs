@@ -6,11 +6,11 @@
 Check out yfinance on [GitHub](https://github.com/ranaroussi/yfinance).
 {% endhint %}
 
-## 📥Inputs
+## 📥 Inputs
 
 Enter the stock ticker symbol. As an example, for Microsoft you would enter MSFT.
 
-## 📤Outputs
+## 📤 Outputs
 
 * Language
 * Region

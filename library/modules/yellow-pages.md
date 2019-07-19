@@ -2,17 +2,17 @@
 
 ![Look up business information from Yellow Pages.](../../.gitbook/assets/yellow_pages%20%281%29.png)
 
-## ⚙Settings
+## ⚙ Settings
 
 * **Search Radius \(Miles\)** - Maxiumum distance of business from **Location Input**
 * **Number of Results** - Number of Businesses to return
 
-## 📥Inputs
+## 📥 Inputs
 
 * **Search Term** - The search term of the business \(example - "pizza" or "auto shop"\)
 * **Location** - Location you are looking for \(example - "New York, NY"\)
 
-## 📤Outputs
+## 📤 Outputs
 
 * **Business Names**
 * **Business Addresses \(Full\)**

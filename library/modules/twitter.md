@@ -6,13 +6,13 @@
 Check out twython on [GitHub](https://github.com/ryanmcgrath/twython).
 {% endhint %}
 
-## 🔎Search for a Word or \#⃣Hashtag
+## 🔎 Search for a Word or \#⃣Hashtag
 
-### ⚙Settings
+### ⚙ Settings
 
 * **Number of Tweets** - Enter the number of tweets you want to receive.
 
-#### 💡Advanced
+#### 💡 Advanced
 
 * **Ignore Retweets** - Ignore retweets of posts. Will only return original tweets.
 * **Ignore Replies** - Ignore replies to posts. Will only return original tweets.
@@ -21,14 +21,14 @@ Check out twython on [GitHub](https://github.com/ryanmcgrath/twython).
 
 ![](../../.gitbook/assets/screenshot-2019-07-16-16.21.11.png)
 
-### 📥Inputs
+### 📥 Inputs
 
 * **Search Term** - Excepts Keywords, \#hashtags, or @usernames.
   * Max length: 500 characters.
 
 ![](../../.gitbook/assets/screenshot-2019-07-16-16.18.16.png)
 
-### 📤Outputs
+### 📤 Outputs
 
 * **Tweets**
 * **Usernames**
@@ -38,16 +38,16 @@ Check out twython on [GitHub](https://github.com/ryanmcgrath/twython).
 * **Date and Time**
 * **Tweet URLs**
 
-## 🐦Tweet History of a User
+## 🐦 Tweet History of a User
 
-### 📥Inputs
+### 📥 Inputs
 
 * **Include Retweets** - Select whether you want to include retweets or not. 
   * Options: Yes, No
 * **Username** - Enter the name of the User whose tweet history you want. 
   * Note: @ not required in username
 
-### 📤Outputs
+### 📤 Outputs
 
 * **Tweets**
 * **Persons Names**
@@ -58,14 +58,14 @@ Check out twython on [GitHub](https://github.com/ryanmcgrath/twython).
 * **URLs Mentioned in Tweet** - a [List](../../getting_started/variables.md#lists) of lists all urls in the tweet. 
 * **Hashtags** - a [List](../../getting_started/variables.md#lists) of lists all hashtags in the tweet. 
 
-## 👥Get Data on a User by Username
+## 👥 Get Data on a User by Username
 
 ### 📥Inputs
 
 * **Username** - Enter the name of the User whose tweet history you want. 
   * Note: @ not required in username
 
-### 📤Outputs
+### 📤 Outputs
 
 * **Profile Description**
 * **User Website**
@@ -79,19 +79,19 @@ Check out twython on [GitHub](https://github.com/ryanmcgrath/twython).
 * **Is Verified**
 * **Account Created Date**
 
-## 💬Post a Twitter Status
+## 💬 Post a Twitter Status
 
-### 📥Inputs
+### 📥 Inputs
 
 * **Message** - Enter in the message field what you want your status to be.
 
 ![Posting a Twitter Status](../../.gitbook/assets/screenshot-2019-07-16-16.23.32.png)
 
-## ⌛My Profile Timeline
+## ⌛ My Profile Timeline
 
 This mode pulls data from your own timeline.
 
-### 📤Outputs
+### 📤 Outputs
 
 * **Tweets**
 * **Number of Post Retweets**

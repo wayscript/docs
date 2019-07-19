@@ -10,16 +10,16 @@ You can read a tutorial using this Module [here](../../getting_started/modules.m
 To run your program at sunrise and/or sunset in a given location, use the [Weather API Trigger](../triggers/weather-api-trigger.md).
 {% endhint %}
 
-## ⚙Settings
+## ⚙ Settings
 
 * **Temperature Type**: Fahrenheit, Celcius, Kelvin
 
-## 📥Inputs
+## 📥 Inputs
 
 * **Location** - Input a location to search \(e.g. Brooklyn NY, 123 Fifth Street, etc.\) 
   * This is a required input.
 
-## 📤Outputs
+## 📤 Outputs
 
 * **City Name -** Name of the City \(ex: Palo Alto\)
 * **Weather Condition Category -** Categories: Thunderstorm, Drizzle, Rain, Snow, Clear, Clouds, Atmosphere \( implies mist, haze, fog or other visual impairments \)

@@ -6,24 +6,24 @@
 Check out Wikipedia on [GitHub](https://github.com/goldsmith/Wikipedia).
 {% endhint %}
 
-## 🔎Search for Wikipedia Pages by a Keyword
+## 🔎 Search for Wikipedia Pages by a Keyword
 
-### 📥Inputs
+### 📥 Inputs
 
 * Search Term
 * Number of Results to Retrieve
 
-### 📤Outputs
+### 📤 Outputs
 
 * Article Titles
 
-## 📖Get Contents of a Wikipedia Page
+## 📖 Get Contents of a Wikipedia Page
 
-### 📥Inputs
+### 📥 Inputs
 
 * Wikipedia Page Title
 
-### 📤Outputs
+### 📤 Outputs
 
 * Page Contents
 * Page Summaries

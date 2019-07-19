@@ -6,7 +6,7 @@ description: Work with Microsoft Word.
 
 ![Read file data, and build word documents.](../../.gitbook/assets/word_128x128.png)
 
-## 📖Read File
+## 📖 Read File
 
 ### 📂 Choose File To Read
 
@@ -14,7 +14,7 @@ description: Work with Microsoft Word.
 
 You can upload a Word document to WayScript or select a document you have already uploaded. 
 
-### 📤Outputs
+### 📤 Outputs
 
 * **Paragraphs -** A [list](../../getting_started/variables.md#lists) where each item is the contents of a paragraph. 
 * **Full Text -** A [single item](../../getting_started/variables.md#single-item) containing all of the text from the document. 
@@ -22,9 +22,9 @@ You can upload a Word document to WayScript or select a document you have alread
 
 ![Read File](../../.gitbook/assets/screenshot-2019-07-16-17.08.30.png)
 
-## ✍Write File
+## ✍ Write File
 
-### 🌟Create a File
+### 🌟 Create a File
 
 Under Settings &gt; Choose File to Write, select 'Create New File'
 
@@ -34,13 +34,13 @@ In the modal, create a name for your file.
 
 ![](../../.gitbook/assets/screenshot-2019-07-16-17.14.38.png)
 
-### ➕Add Contents
+### ➕ Add Contents
 
 You can include variables in your text document.
 
 ![](../../.gitbook/assets/screenshot-2019-07-16-17.16.32.png)
 
-### ⬇Download Document
+### ⬇ Download Document
 
 When your program runs, you can download your Word document directly from the log. 
 

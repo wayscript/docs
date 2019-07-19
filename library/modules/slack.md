@@ -10,7 +10,7 @@ Check out python-slackclient on [GitHub](https://github.com/slackapi/python-slac
 To run your program when Slack events occur, use the [Slack Trigger](../triggers/slack-trigger.md).
 {% endhint %}
 
-## 🔗Link Your Slack Account
+## 🔗 Link Your Slack Account
 
 When using Slack module for the first time, follow the prompt to authorize access.
 
@@ -18,13 +18,13 @@ When using Slack module for the first time, follow the prompt to authorize acces
 You can add additional accounts from 'Select Workspace' dropdown in the Slack module settings
 {% endhint %}
 
-## 💼Select a Slack Workspace
+## 💼 Select a Slack Workspace
 
 Select the workspace that you would like to work with.
 
-## \#⃣Work With Channels
+## \#⃣ Work With Channels
 
-### ⚙Modes
+### ⚙ Modes
 
 * Create a Channel
 * Write to a Channel
@@ -32,7 +32,7 @@ Select the workspace that you would like to work with.
 * Invite Users to a Channel
 * Get Channel's History of Messages
 
-### 🌟Create a Channel
+### 🌟 Create a Channel
 
 #### 📥 Inputs
 
@@ -67,7 +67,7 @@ Choose any channel in your Workspace.
 * List of Channel Members
 * JSON Data
 
-### 👋Invite Users to a Channel
+### 👋 Invite Users to a Channel
 
 Choose any channel in your Workspace.
 
@@ -80,7 +80,7 @@ Choose any channel in your Workspace.
 * Action status
 * JSON Data
 
-### 💬Get Channel's History of Messages
+### 💬 Get Channel's History of Messages
 
 Choose any channel in your Workspace
 
@@ -94,7 +94,7 @@ Choose any channel in your Workspace
 * Messengers
 * JSON Data
 
-## 👥Work with Users
+## 👥 Work with Users
 
 ### ⚙ Modes
 
@@ -102,7 +102,7 @@ Choose any channel in your Workspace
 * Lookup a User by their Email
 * Send a Direct Message
 
-### 👤Get a User's Member ID
+### 👤 Get a User's Member ID
 
 Choose a User
 
@@ -123,7 +123,7 @@ Choose a User
 * Member Name
 * JSON Data
 
-### 💬Send a Direct Message
+### 💬 Send a Direct Message
 
 #### 📥 Inputs
 

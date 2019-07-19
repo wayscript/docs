@@ -4,14 +4,14 @@
 
 🔗Retrieve information from a given website and its linked pages.
 
-## 🕵♀Search Website for Data
+## 🕵♀ Search Website for Data
 
-### 📥Inputs
+### 📥 Inputs
 
 * Website URL to Crawl
 * Max Number of Pages to Search
 
-### 📤Outputs
+### 📤 Outputs
 
 * Email Addresses
 * Twitter Handles
@@ -19,9 +19,9 @@
 
 ![](../../.gitbook/assets/screen-shot-2019-07-17-at-5.06.25-pm.png)
 
-## 🔎Search Website for Text and URLs
+## 🔎 Search Website for Text and URLs
 
-### 📥Inputs
+### 📥 Inputs
 
 * Search Terms
 * Website URL to Crawl
@@ -30,7 +30,7 @@
   * Find All Instances
   * Stop Upon Discovery
 
-### 📤Outputs
+### 📤 Outputs
 
 * URLs
 

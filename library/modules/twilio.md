@@ -10,7 +10,7 @@ Check out Twilio on [GitHub](https://github.com/twilio/twilio-python).
 If you would like to send text messages to yourself, check out the [Text Message](text-message.md) module.
 {% endhint %}
 
-## 🔗Setting up Your Account
+## 🔗 Setting up Your Account
 
 {% hint style="warning" %}
 This module requires that you have a Twilio SMS account. If you don't, please set one up before continuing. 
@@ -36,12 +36,12 @@ Copy and paste the data into the WayScript modal.
 
 Press submit.
 
-## ⚙Settings
+## ⚙ Settings
 
 * **Twilio Phone Number** - Input your Twilio SMS phone number. 
   * Required Format: +12223334567
 
-## 📥Inputs
+## 📥 Inputs
 
 * **Phone Number** - This is the phone number you are sending a message to.
   * Required Format: +12223334567

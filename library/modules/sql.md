@@ -2,9 +2,9 @@
 
 ![Run queries against a SQL database.](../../.gitbook/assets/sql.png)
 
-## ⚙Setup
+## ⚙ Setup
 
-### ➕Add an Account
+### ➕ Add an Account
 
 Select "Add an Account" to add a new database, or select a database you have already submitted.
 
@@ -12,7 +12,7 @@ The SQL module supports connections to **MySQL**, **SQL Server**, and **PostgreS
 
 ![Select a Database or Add An Account](../../.gitbook/assets/add_account.png)
 
-### 🌟Setting Up a New Database
+### 🌟 Setting Up a New Database
 
 You must supply the following information in order to connect to your database:
 
@@ -26,7 +26,7 @@ You must supply the following information in order to connect to your database:
 
 ![](../../.gitbook/assets/settings.png)
 
-## ✏**Compose Your SQL Query**
+## ✏ **Compose Your SQL Query**
 
 Compose your SQL query in the "Query" input box.
 
@@ -34,7 +34,7 @@ You can run your query by clicking the ****![](../../.gitbook/assets/play_button
 
 ![An example SELECT statement.](../../.gitbook/assets/sql_query.png)
 
-## 📤**Outputs**
+## 📤 **Outputs**
 
 Any data returned by your SQL query will be displayed as a table in the "Outputs" section.
 
@@ -42,7 +42,7 @@ To use output data elsewhere in your program, assign a name to each column of da
 
 ![](../../.gitbook/assets/sql_outputs.png)
 
-## 🎓**Tutorial**
+## 🎓 **Tutorial**
 
 {% embed url="https://www.youtube.com/watch?time\_continue=8&v=1FUUTjJl1N8" %}
 
