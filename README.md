@@ -1,8 +1,8 @@
 # About
 
-## What is WayScript?
+## ![](.gitbook/assets/super.png)What is WayScript?
 
-![](.gitbook/assets/super.png)WayScript is a drag and drop programming platform built to give you superpowers. 
+🦸♀ WayScript is a drag and drop programming platform built to give you superpowers. 
 
 🚀 Unlike many visual programming platforms, WayScript is a powerful programming language with variables, functions, recursion, logic, and much more.
 
