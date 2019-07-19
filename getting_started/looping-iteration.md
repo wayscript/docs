@@ -8,7 +8,7 @@ If you have not read about [WayScript Lists](variables.md#lists), please do so b
 
 In programming, a **for-loop** is a control-flow statement directing your program to execute the loop's contents repeatedly. 🔁 
 
-## Looping with WayScript
+## ![](../.gitbook/assets/super.png) Looping with WayScript
 
 ![](../.gitbook/assets/screenshot-2019-07-15-16.26.19.png)
 
