@@ -1,4 +1,4 @@
-![](../../.gitbook/assets/alexa_128x128.png)
+[![](../../.gitbook/assets/alexa_128x128.png)](https://www.amazon.com/gp/product/B07QXXG32B)
 Run your program using an Alexa voice command.
 
 {% hint style="info" %}
