@@ -1,5 +1,6 @@
+![](../../.gitbook/assets/alexa_128x128.png)
 # Alexa Trigger
-![Run your program using an Alexa voice command.](../../.gitbook/assets/alexa_128x128.png)
+Run your program using an Alexa voice command.
 
 {% hint style="info" %}
 To have Alexa speak a phrase, use the [Alexa module](../modules/alexa.md).
