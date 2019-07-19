@@ -16,11 +16,11 @@ If you're new to WayScript, click the link below to learn how to create your fir
 
 {% page-ref page="getting\_started/hello-world.md" %}
 
-## 📺YouTube Tutorials
+## 📺 YouTube Tutorials
 
 We publish weekly [YouTube tutorials](https://youtube.com/c/wayscript) of use cases, functionality, and much more.
 
-## 🔒Privacy
+## 🔒 Privacy
 
 We care about your privacy. We are not sharing data about you with advertisers nor anybody else.
 
