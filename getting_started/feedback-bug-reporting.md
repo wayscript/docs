@@ -4,7 +4,7 @@ description: We would love to hear from you!
 
 # Feedback and Bug Reporting
 
-## ![](../.gitbook/assets/introduction.png)Be a Superhero!
+## ![](../.gitbook/assets/super.png)Be a Superhero!
 
 Submit bugs, feature requests, or feedback you would like to share with the WayScript team!
 

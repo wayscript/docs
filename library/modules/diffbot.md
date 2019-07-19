@@ -1,6 +1,6 @@
 # Diffbot
 
-![Turn Websites Into Data in Seconds.](../../.gitbook/assets/diffbot.png)
+![Turn websites into data in seconds.](../../.gitbook/assets/diffbot.png)
 
 {% hint style="info" %}
 Check out Diffbot on [GitHub](https://github.com/diffbot/diffbot-python-client).
@@ -19,7 +19,7 @@ Check out Diffbot on [GitHub](https://github.com/diffbot/diffbot-python-client).
 
 ![Diffbot](../../.gitbook/assets/screenshot-2019-07-16-16.30.35.png)
 
-## 🛒Data from any Shopping or E-commerce Product Page
+## 🛒Data from any Shopping or e-Commerce Product Page
 
 ### 📥 Inputs
 

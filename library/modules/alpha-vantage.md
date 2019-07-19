@@ -404,5 +404,3 @@ The timeframe output gives the labels for each sector's data points.
 
 * JSON Data
 
-
-

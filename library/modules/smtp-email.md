@@ -2,8 +2,6 @@
 
 ![Send emails through SMTP](../../.gitbook/assets/smtp_ssl_email%20%281%29.png)
 
-
-
 ## 🔗Link Your Email
 
 When you drag in a SMTP module for the first time, follow the prompt to authorize access.

@@ -6,13 +6,13 @@
 
 ![](../../.gitbook/assets/screen-shot-2019-07-16-at-5.56.37-pm.png)
 
-### Inputs
+### 📥 Inputs
 
 * Number of Games
   * Default is 20.
   * Maximum is 100.
 
-### Outputs
+### 📤 Outputs
 
 * List of Top Games by name
 * List of Top Games by ID
@@ -26,7 +26,7 @@ A Games ID can be found in the Games by ID list at the same index that it's in t
 
 ![](../../.gitbook/assets/screen-shot-2019-07-16-at-5.57.10-pm.png)
 
-### Inputs
+### 📥 Inputs
 
 * Number of Streams
   * Default is 20.
@@ -41,7 +41,7 @@ A Games ID can be found in the Games by ID list at the same index that it's in t
   * Optional
   * Maximum 100
 
-### Outputs
+### 📤 Outputs
 
 * List of Top Streamers
 * List of Top Streamers Viewer Counts
@@ -55,11 +55,11 @@ To match streamer names to viewer counts, look at the same index in each corresp
 
 ![](../../.gitbook/assets/screen-shot-2019-07-16-at-5.57.24-pm.png)
 
-### Inputs
+### 📥 Inputs
 
 * Game ID \(Required\)
 
-### Outputs
+### 📤 Outputs
 
 * Game Name
 * JSON Data
@@ -68,11 +68,11 @@ To match streamer names to viewer counts, look at the same index in each corresp
 
 ![](../../.gitbook/assets/screen-shot-2019-07-16-at-5.57.38-pm.png)
 
-### Inputs
+### 📥 Inputs
 
 * Game Name \(Required\)
 
-### Outputs
+### 📤 Outputs
 
 * Game ID
 * JSON Data

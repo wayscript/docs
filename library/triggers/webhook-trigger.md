@@ -24,7 +24,7 @@ Declare the variables you want your Webhook Trigger to create and pass to your p
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-6.09.52-pm.png)
 
-## 🏃♀Functions
+## ![](../../.gitbook/assets/func_call.png)Functions
 
 You can specify which [function](../logic/functions/) you would like to run with your Webhook trigger.
 
@@ -32,7 +32,7 @@ Do this by placing the Webhook Trigger in one or more functions within your WayS
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-6.18.01-pm.png)
 
-## 📨API Call
+## ![](../../.gitbook/assets/rest.png)API Call
 
 Use [Python](https://github.com/wayscript/wayscript-python), [JavaScript](https://github.com/wayscript/wayscript-js), or [any other programming language ](../../apis/rest.md)to trigger your program.
 

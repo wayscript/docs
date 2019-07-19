@@ -24,7 +24,7 @@ WayScript currently supports reading the following file types from Dropbox:
 
 ![Choose the File Type to Read](../../.gitbook/assets/choose_file_type.png)
 
-### 👓Choose a File Path to Read
+### 📂Choose a File Path to Read
 
 Once you have selected a file type, select the path of the file you want to read.
 
@@ -56,7 +56,7 @@ You will start by selecting one of your files to upload to Dropbox. Alternativel
 
 ![Select a file to upload to Dropbox](../../.gitbook/assets/choose_file_to_upload.png)
 
-### ✔Provide a File Path and File Name
+### 📂Provide a File Path and File Name
 
 Once you have selected the file you wish to upload, provide the path in your Dropbox where you would like the file uploaded, as well as the name for the file.
 
@@ -65,6 +65,4 @@ The default file path is the root folder of your Dropbox and the default file na
 {% endhint %}
 
 ![Optionally provide a Dropbox file path and name](../../.gitbook/assets/screen-shot-2019-07-17-at-9.14.50-am.png)
-
- 
 

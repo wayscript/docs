@@ -58,7 +58,7 @@ List = \[ 'This', 'is', 'a', 'sentence!' \]
 Join Text On = " "   \(space\)  
 Output text = This is a sentence!
 
-## ➕**Combine Texts**
+## ➕**Combine Text**
 
 Outputs a copy of your text with the given new text appended to it.
 

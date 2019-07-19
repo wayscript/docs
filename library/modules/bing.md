@@ -1,10 +1,3 @@
----
-description: >-
-  WayScript allows you to build functions for more robust and flexible program
-  building.
-  ![Search the web with Bing.](../../.gitbook/assets/bing.png)
----
-
 # Bing
 
 ![Search the web with Bing.](../../.gitbook/assets/bing.png)

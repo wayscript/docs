@@ -4,7 +4,7 @@
 
 ## ⚙Settings
 
-#### Mode
+### ![](../../.gitbook/assets/hacker_news.png)Mode
 
 * Get Top Stories
 * Get New Stories

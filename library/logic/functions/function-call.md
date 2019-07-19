@@ -2,7 +2,7 @@
 
 ![Call a function.](../../../.gitbook/assets/func_call.png)
 
-## 🔎**Select a Function to Call**
+## \*\*\*\*![](../../../.gitbook/assets/func_call.png)**Select a Function to Call**
 
 The function dropdown will contain the available functions to call in your program.
 

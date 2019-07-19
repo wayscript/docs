@@ -6,7 +6,7 @@
 For an overview on conditionals in WayScript, refer to the [Introduction to Conditionals](../../getting_started/conditionals.md).
 {% endhint %}
 
-## ⁉Condition Block
+## ![](../../.gitbook/assets/conditional.png)Condition Block
 
 You will use this block to define a logic expression.
 
@@ -98,7 +98,7 @@ The **Else** branch will run if your logic expression evaluates to `False`.
 
 ![If Temperature is greater than or equal to 65, the left branch will run. Else, the right branch will run.](../../.gitbook/assets/screen-shot-2019-07-16-at-9.16.53-pm.png)
 
-## 🌡**Example**
+## 🌞**Example**
 
 In the below example, if the value of the variable "Temperature" is between 65 and 90, then the program will print _"It's a nice day!"_. 
 
@@ -107,6 +107,4 @@ Else, if the "Temperature" variable is outside of this range, then the program w
 The program will then continue to run the rest of the modules following the If / Else statement.
 
 ![](../../.gitbook/assets/example%20%281%29.png)
-
-## 
 

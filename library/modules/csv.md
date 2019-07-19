@@ -6,19 +6,19 @@
 
 Import columns from a CSV as WayScript variables.
 
-### ![](../../.gitbook/assets/csv_reader.png)Select or Upload CSV
+### 📂 Select or Upload CSV
 
 CSV files on your account will appear as options. Use the 'Upload File' button to add a new file.
 
 ### 🌟Create Variables
 
-Once a file is selected to read, A table with the file's contents will appear in the Outputs section. 
+Once a file is selected to read, a table with the file's contents will appear in the Outputs section. 
 
-#### Ignore Headers
+### ☑Ignore Headers
 
 Specify whether or not to ignore the first line of the file when assigning variables.
 
-#### Assigning Variables
+### ➕Assigning Variables
 
 Naming a column in the table creates a [List](../../getting_started/variables.md#lists) variable with that name containing all entries in that column.
 
