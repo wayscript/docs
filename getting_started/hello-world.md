@@ -2,7 +2,7 @@
 
 ## ![](../.gitbook/assets/wayscript_32x32.png) Creating a WayScript Program
 
-### 🌎 Initialize a New Program
+### 🌏 Initialize a New Program
 
 On the dashboard, click **Build from Scratch** and name your program 'Hello World'. Press **Create** to start building your program.
 
@@ -16,7 +16,7 @@ Drag the '[Print To Log](../library/logic/print-to-log.md)' [Module](../library/
 
 ![](../.gitbook/assets/screenshot-2019-07-15-11.53.38.png)
 
-Enter **'Hello World!'** as the input to the [Print to Log](../library/logic/print-to-log.md) module.
+Enter 'Hello World!' as the input to the [Print to Log](../library/logic/print-to-log.md) module.
 
 ![](../.gitbook/assets/screenshot-2019-07-15-12.00.25.png)
 
