@@ -6,7 +6,7 @@
 Check out Diffbot on [GitHub](https://github.com/diffbot/diffbot-python-client).
 {% endhint %}
 
-## 📰Extract Article Text
+## 📰 Extract Article Text
 
 ### 📥 Inputs
 
@@ -19,7 +19,7 @@ Check out Diffbot on [GitHub](https://github.com/diffbot/diffbot-python-client).
 
 ![Diffbot](../../.gitbook/assets/screenshot-2019-07-16-16.30.35.png)
 
-## 🛒Data from any Shopping or e-Commerce Product Page
+## 🛒 Data from any Shopping or e-Commerce Product Page
 
 ### 📥 Inputs
 
@@ -35,7 +35,7 @@ Check out Diffbot on [GitHub](https://github.com/diffbot/diffbot-python-client).
 * **Image URL**
 * **Product Availability**
 
-## 💬Forum/Discussion/Product Conversations and Reviews
+## 💬 Forum/Discussion/Product Conversations and Reviews
 
 📃 This mode, pulls [lists](../../getting_started/variables.md#lists) of all of the posts on the forum page.
 
