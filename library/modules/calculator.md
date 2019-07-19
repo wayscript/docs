@@ -2,7 +2,7 @@
 
 ![Do Math.](../../.gitbook/assets/calculator.png)
 
-## 🔢Input
+## 🔢 Input
 
 Input fields accept manually entered numbers or single number variables.
 
@@ -16,7 +16,7 @@ Lists and combined inputs are not accepted.
 
 ![This entry will be cleared automatically](../../.gitbook/assets/screen-shot-2019-07-16-at-1.17.13-pm.png)
 
-## ![](../../.gitbook/assets/calculator.png)Operations
+## ![](../../.gitbook/assets/calculator.png) Operations
 
 Select from The following list of operations.
 
@@ -28,7 +28,7 @@ Select from The following list of operations.
 * Percent Change
 * Generate a Random Number
 
-## ➕Addition
+## ➕ Addition
 
 ### 📥 Inputs
 
@@ -38,7 +38,7 @@ Select from The following list of operations.
 
 * Result
 
-## ➖Subtraction
+## ➖ Subtraction
 
 ### 📥 Inputs
 
@@ -51,7 +51,7 @@ Select from The following list of operations.
 
 * Result
 
-## ✖Multiplication
+## ✖ Multiplication
 
 ### 📥 Inputs
 
@@ -61,7 +61,7 @@ Select from The following list of operations.
 
 * Result
 
-## ➗Division
+## ➗ Division
 
 ### 📥 Inputs
 
@@ -72,7 +72,7 @@ Select from The following list of operations.
 
 * Result
 
-## 📊Average
+## 📊 Average
 
 ### 📥 Inputs
 
@@ -82,7 +82,7 @@ Select from The following list of operations.
 
 * Result
 
-## 📈Percent Change
+## 📈 Percent Change
 
 ### 📥 Inputs
 
@@ -94,7 +94,7 @@ Select from The following list of operations.
 * Decimal Result \(Same as dividing Old Value by New Value \)
 * Percent Result \(Decimal Result \* 100%\)
 
-## ❔Generate a Random Number
+## ❔ Generate a Random Number
 
 Generate a random number from the [Discrete Uniform Distribution](https://en.wikipedia.org/wiki/Discrete_uniform_distribution) _U{Min, Max}_ where Min and Max are integer-valued.
 

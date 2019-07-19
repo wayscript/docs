@@ -6,7 +6,7 @@
 Check out the Crunchbase [website](https://data.crunchbase.com/reference).
 {% endhint %}
 
-## 🗝Authorization
+## 🗝 Authorization
 
 Crunchbase is available to users who have their own API key.
 
@@ -14,12 +14,12 @@ If not authorized, you will be prompted to enter your API Key when you add the C
 
 ![](../../.gitbook/assets/screen-shot-2019-07-16-at-3.06.22-pm.png)
 
-## 📥Inputs
+## 📥 Inputs
 
 * Organization Name or Website
 * Pull Investment Data if Org is an Investor
 
-## 📤Outputs
+## 📤 Outputs
 
 * Organization Name
 * Short Description

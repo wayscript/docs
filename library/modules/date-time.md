@@ -2,7 +2,7 @@
 
 ![Get the current date and time.](../../.gitbook/assets/datetime.png)
 
-## 📅Get Current Date Time
+## 📅 Get Current Date Time
 
 ### ⚙ Settings
 
@@ -18,7 +18,7 @@
   * Format: Hour-Minute-Seconds
 * **Day of the Week -** Returns Monday, Tuesday, Wednesday, etc.
 
-## 🕔Extract Date Features
+## 🕔 Extract Date Features
 
 ### 📥 Inputs
 

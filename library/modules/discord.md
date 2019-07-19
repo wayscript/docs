@@ -6,7 +6,7 @@
 To run your program when Discord events occur, use the [Discord Trigger](../triggers/discord-trigger.md).
 {% endhint %}
 
-## ⚙**Setup**
+## ⚙ **Setup**
 
 ### 🔎 **Select a Discord Guild/Server**
 

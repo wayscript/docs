@@ -2,7 +2,7 @@
 
 ![Realtime and historical data on digital currencies, such as Bitcoin.](../../.gitbook/assets/bittrex.png)
 
-## 📥Input
+## 📥 Input
 
 Certain modes collect data about the overall market, while others look up individual Tickers.
 
@@ -16,7 +16,7 @@ For ticker queries, you can select an option from the available list, or input y
 
 ![](../../.gitbook/assets/screen-shot-2019-07-16-at-12.36.53-pm.png)
 
-## ⚙Modes
+## ⚙ Modes
 
 The Following modes are available and the listed outputs can be retrieved as variables.
 
