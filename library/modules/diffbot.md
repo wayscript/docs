@@ -3,29 +3,29 @@
 ![Turn Websites Into Data in Seconds.](../../.gitbook/assets/diffbot.png)
 
 {% hint style="info" %}
-Check out on [Github](https://github.com/diffbot/diffbot-python-client).
+Check out Diffbot on [GitHub](https://github.com/diffbot/diffbot-python-client).
 {% endhint %}
 
-## Extract Article Text
+## 📰Extract Article Text
 
-### Inputs
+### 📥 Inputs
 
 * **URL** - the website link you want to pull text from. \(E.g. wayscript.com\)
 
-### Outputs
+### 📤 Outputs
 
 * **Website Text** - The websites text.
 * **JSON Data** - The raw JSON results from Diffbot. 
 
 ![Diffbot](../../.gitbook/assets/screenshot-2019-07-16-16.30.35.png)
 
-## Data from any shopping or e-commerce product page
+## 🛒Data from any Shopping or E-commerce Product Page
 
-### Inputs
+### 📥 Inputs
 
 * **URL** - the e-commerce ****website link you want to pull text from.
 
-### Outputs
+### 📤 Outputs
 
 * **Product Name**
 * **Product Brand**
@@ -35,15 +35,15 @@ Check out on [Github](https://github.com/diffbot/diffbot-python-client).
 * **Image URL**
 * **Product Availability**
 
-## Forum/Discussion/Product conversations and reviews
+## 💬Forum/Discussion/Product Conversations and Reviews
 
-This mode, pulls [lists](../../getting_started/variables.md#lists) of all of the posts on the forum page. 
+📃 This mode, pulls [lists](../../getting_started/variables.md#lists) of all of the posts on the forum page. 
 
-### Inputs
+### 📥 Inputs
 
 * **URL** - the forum link you want to pull text from.
 
-### Outputs
+### 📤 Outputs
 
 * **Post Title**
 * **Post Author**

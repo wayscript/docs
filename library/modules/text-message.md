@@ -3,14 +3,14 @@
 ![Send text messages to yourself.](../../.gitbook/assets/text_message_128x128%20%281%29.png)
 
 {% hint style="info" %}
-View on [Github](https://github.com/twilio/twilio-python).
+Check out Twilio on [GitHub](https://github.com/twilio/twilio-python).
 {% endhint %}
 
 {% hint style="info" %}
 To run your program with a text message, use the [Text Message Trigger](../triggers/text-message-trigger.md).
 {% endhint %}
 
-## About
+## ![](../../.gitbook/assets/text_message.png)About
 
 The Text Message module allows you to send text messages to yourself. This can be especially useful in combination with the [Text Message Trigger](../triggers/text-message-trigger.md) if you want to send a message to WayScript and then have WayScript reply with a result.
 
@@ -18,13 +18,13 @@ The Text Message module allows you to send text messages to yourself. This can b
 Messages come from **\(415\) WYS-CRPT** \(+1 415 997 2778\).
 {% endhint %}
 
-## Phone Number Verification
+## 📱Phone Number Verification
 
 {% hint style="warning" %}
 If you haven't yet verified your phone number with your WayScript account, you will need to do so before using this module. See [Phone Number Verification](../../account-management/phone-number-verification.md) for details.
 {% endhint %}
 
-## Composing a Message
+## ✏Composing a Message
 
 You can use a combination of free text and variables to compose your message.
 

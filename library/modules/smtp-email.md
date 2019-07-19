@@ -4,7 +4,7 @@
 
 
 
-## Link Your Email
+## 🔗Link Your Email
 
 When you drag in a SMTP module for the first time, follow the prompt to authorize access.
 
@@ -14,7 +14,7 @@ You can edit your authorization from the module settings.
 
 ![](../../.gitbook/assets/screen-shot-2019-07-17-at-3.49.01-pm.png)
 
-## Include Variables
+## ![](../../.gitbook/assets/create_var.png)Include Variables
 
 Variables can be Included in any of the fields.
 

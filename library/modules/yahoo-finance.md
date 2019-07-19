@@ -3,14 +3,14 @@
 ![Retrieve stock information from Yahoo Finance.](../../.gitbook/assets/yahoo_finance.png)
 
 {% hint style="info" %}
-View on [Github](https://github.com/ranaroussi/yfinance).
+Check out yfinance on [GitHub](https://github.com/ranaroussi/yfinance).
 {% endhint %}
 
-## Inputs
+## 📥Inputs
 
-Enter the stock ticker. As an example, for Microsoft you would enter MSFT.
+Enter the stock ticker symbol. As an example, for Microsoft you would enter MSFT.
 
-## Outputs
+## 📤Outputs
 
 * Language
 * Region
@@ -76,6 +76,6 @@ Enter the stock ticker. As an example, for Microsoft you would enter MSFT.
 * JSON data
 
 {% hint style="warning" %}
-Not every field will have a value for any given stock.
+Not every field will have a value for any given stock ticker symbol.
 {% endhint %}
 

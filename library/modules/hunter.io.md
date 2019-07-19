@@ -6,9 +6,9 @@
 In the free tier, this library requires an API Key, which you can get on the [Hunter.io website](https://hunter.io).
 {% endhint %}
 
-## Email Finder
+## 📧Email Finder
 
-### Inputs
+### 📥 Inputs
 
 * **Company Domain/URL**
   * example - tesla.com
@@ -17,7 +17,7 @@ In the free tier, this library requires an API Key, which you can get on the [Hu
 * **Last Name**
   * example - Musk
 
-### Outputs
+### 📤 Outputs
 
 * **Email Address**
 * **Score** - Confidence in the result \(0-100\)
@@ -27,15 +27,15 @@ In the free tier, this library requires an API Key, which you can get on the [Hu
 * **Phone Number**
 * **JSON Data** - Raw JSON from the API query
 
-## Email Verification
+## ✅Email Verification
 
 This mode tests whether an email address is real/valid.
 
-### Inputs
+### 📥 Inputs
 
 * **Email Address**
 
-### Outputs
+### 📤 Outputs
 
 * **Result** - Returns Deliverable or Undeliverable
 * **SMTP Check** - Returns True or False

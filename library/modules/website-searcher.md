@@ -2,16 +2,16 @@
 
 ![Search a Website for Data. Powered by Beautiful Soup.](../../.gitbook/assets/site_siftter%20%281%29.png)
 
-Retrieve information from a given website and its linked pages.
+🔗Retrieve information from a given website and its linked pages.
 
-## Search Website for Data
+## 🕵♀Search Website for Data
 
-### Inputs
+### 📥Inputs
 
 * Website URL to Crawl
 * Max Number of Pages to Search
 
-### Outputs
+### 📤Outputs
 
 * Email Addresses
 * Twitter Handles
@@ -19,9 +19,9 @@ Retrieve information from a given website and its linked pages.
 
 ![](../../.gitbook/assets/screen-shot-2019-07-17-at-5.06.25-pm.png)
 
-## Search Website for Text and URLs
+## 🔎Search Website for Text and URLs
 
-### Inputs
+### 📥Inputs
 
 * Search Terms
 * Website URL to Crawl
@@ -30,7 +30,7 @@ Retrieve information from a given website and its linked pages.
   * Find All Instances
   * Stop Upon Discovery
 
-### Outputs
+### 📤Outputs
 
 * URLs
 

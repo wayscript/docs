@@ -3,29 +3,29 @@
 ![Build realtime customer intelligence into everything you do.](../../.gitbook/assets/full_contact.png)
 
 {% hint style="info" %}
-Check out on [GitHub](https://github.com/fullcontact/fullcontact.py).
+Check out Full Contact on [GitHub](https://github.com/fullcontact/fullcontact.py).
 {% endhint %}
 
-## Company Lookup
+## 🏢Company Lookup
 
-### Inputs
+### 📥 Inputs
 
 * Company Domain / URL
 
-### Outputs
+### 📤 Outputs
 
 * Company Name
 * Approximate Number of Employees
 * Key People Names
 * Key People Titles
 
-## Person Lookup
+## 👤Person Lookup
 
-### Inputs
+### 📥 Inputs
 
 * Email Address
 
-### Outputs
+### 📤 Outputs
 
 * Name
 * Websites

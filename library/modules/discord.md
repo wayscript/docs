@@ -6,15 +6,15 @@
 To run your program when Discord events occur, use the [Discord Trigger](../triggers/discord-trigger.md).
 {% endhint %}
 
-## **Setup**
+## ⚙**Setup**
 
-### **Select a Discord Guild/Server**
+### 🔎 **Select a Discord Guild/Server**
 
 Select the Discord Guild/Server you would like to work with.
 
 ![](../../.gitbook/assets/img1.png)
 
-### **Choose a Channel**
+### \#⃣ **Choose a Channel**
 
 Choose a Discord channel to work with.
 
@@ -24,9 +24,9 @@ If you have recently added a channel and do not see it, click the refresh button
 
 ![](../../.gitbook/assets/img2%20%284%29.png)
 
-## **Modes**
+## 🤖 **Modes**
 
-### **Write to a Channel**
+### ✏ **Write to a Channel**
 
 Enter the message you want to send.
 
@@ -34,7 +34,7 @@ Enter the message you want to send.
 
 ![](../../.gitbook/assets/img4.png)
 
-### **Get a List of Channel Members**
+### 👥 **Get a List of Channel Members**
 
 Retrieve a list of the display names of all the members in the channel.
 
@@ -42,7 +42,7 @@ Retrieve a list of the display names of all the members in the channel.
 
 ![](../../.gitbook/assets/img6.png)
 
-### Get a List of Messages from the Channel's History
+### 💬 Get a List of Messages from the Channel's History
 
 Retrieve a list of the desired number of messages from the channel history.
 

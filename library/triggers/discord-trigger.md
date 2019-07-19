@@ -6,15 +6,15 @@
 To interact with discord channels using the WayScript bot, use the [Discord module](../modules/discord.md).
 {% endhint %}
 
-## Link Your Discord Account
+## 🔗Link Your Discord Account
 
-You can trigger WayScript programs to run when various Discord events occur.
+⚡You can trigger WayScript programs to run when various Discord events occur.
 
 In order to do this, you must first link your Discord account. Then, select the Discord Guild/Server you want to work with.
 
 ![](../../.gitbook/assets/img1%20%282%29.png)
 
-## Settings
+## ⚙Settings
 
 ### Choose when to run the program
 
@@ -35,7 +35,7 @@ If you have recently added a channel and do not see it, click the refresh button
 
 ![](../../.gitbook/assets/img3%20%285%29.png)
 
-## Outputs
+## 📤Outputs
 
 The Discord User output will always be available.
 

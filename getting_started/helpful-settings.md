@@ -1,6 +1,6 @@
 # Helpful Settings
 
-## Test Mode
+## 🧪Test Mode
 
 Modules return dummy data when Test Mode is activated.
 
@@ -8,7 +8,7 @@ Modules return dummy data when Test Mode is activated.
 Test Mode is useful when you want to avoid making API calls while building and testing the logic of your program.
 {% endhint %}
 
-### Enabling Test Mode
+### ✅Enabling Test Mode
 
 To enable Test Mode while editing your program, click the check box in the top right corner of the screen.
 
@@ -18,7 +18,7 @@ To enable Test Mode while editing your program, click the check box in the top r
 Remember to disable Test Mode when you want to start consuming real data!
 {% endhint %}
 
-## Display Dashboard Settings
+## ⚙Display Dashboard Settings
 
 When editing a module in the Settings panel, in the top right corner of the module header is a toggle labeled "Display Dashboard Settings."
 

@@ -8,7 +8,7 @@ description: Variables store information that you want to use elsewhere in your 
 To learn the basics of using variables in WayScript, see the [Introduction to Variables](../../../getting_started/variables.md).
 {% endhint %}
 
-## Variable Modules
+## 📖Variable Modules
 
 The following two modules are used for creating and editing variables:
 

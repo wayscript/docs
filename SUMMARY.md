@@ -120,7 +120,7 @@
 
 * [Phone Number Verification](account-management/phone-number-verification.md)
 * [Managing Your API Key](account-management/managing-your-api-key.md)
-* [Managing Your Files](account-management/managing-your-files.md)
 * [Change Password](account-management/change-password.md)
 * [Update Email](account-management/update-email.md)
+* [Managing Your Files](account-management/managing-your-files.md)
 

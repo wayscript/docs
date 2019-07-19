@@ -6,7 +6,7 @@ description: >-
 
 # Logic
 
-## Logic Modules
+## 💡Logic Modules
 
 The following logic modules are available:
 
@@ -25,7 +25,7 @@ The following logic modules are available:
   * [Create Variable](variables/create-variable.md)
   * [Edit Variable Value](variables/edit-variable-value.md)
 
-## Introductory Articles
+## 🎓Introductory Articles
 
 For an introduction to using logic in WayScript, refer to the following articles:
 

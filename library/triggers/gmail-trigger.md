@@ -6,7 +6,7 @@
 To automate actions with Gmail, use the [Gmail module](../modules/gmail.md).
 {% endhint %}
 
-## Link Your Gmail Account
+## 🔗Link Your Gmail Account
 
 When you drag in a Gmail Trigger for the first time, follow the prompt to authorize access.
 
@@ -14,7 +14,7 @@ When you drag in a Gmail Trigger for the first time, follow the prompt to author
 You can add additional accounts from the Gmail Trigger settings.
 {% endhint %}
 
-## Settings
+## ⚙Settings
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-12.41.52-pm.png)
 
@@ -23,7 +23,7 @@ You can add additional accounts from the Gmail Trigger settings.
 1. **Run for all emails:** All emails are evaluated.
 2. **Run for emails with specific labels:** Only emails containing one of these labels will be evaluated.
 
-### Activation Method
+### ⚡Activation Method
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-12.41.24-pm.png)
 
@@ -38,7 +38,7 @@ If you do not see a label you are looking for, click the refresh button.
 Choose which event\(s\) will activate the trigger.
 
 * When one or more messages are received.
-* When one or more messages are permanently deleted\( not Trashed \).
+* When one or more messages are permanently deleted \(not Trashed\).
 * When labels are added to a message.
 * When labels are removed from a message.
 
@@ -46,7 +46,7 @@ Choose which event\(s\) will activate the trigger.
 The affected message\(s\) will be evaluated to create program variables. 
 {% endhint %}
 
-### Outputs
+### 📤Outputs
 
 Select the data to retrieve as variables for your program.
 

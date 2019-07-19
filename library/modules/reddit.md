@@ -2,9 +2,9 @@
 
 ![The front page of the internet.](../../.gitbook/assets/reddit%20%281%29.png)
 
-## Data About My Account
+## 👤Data About My Account
 
-### Outputs
+### 📤 Outputs
 
 * **Public Description** - Users public description
 * **Karma** - Total Karma from Comments and Links
@@ -14,16 +14,16 @@
 * **Account Has Gold** - Returns True or False
 * **JSON Data** - Raw JSON of the API query response
 
-## Search a Subreddit
+## 🔎Search a Subreddit
 
-### Inputs
+### 📥 Inputs
 
 * **Subreddit Name** - The name of the subreddit \(ex - '[programming](https://www.reddit.com/r/programming/)'\)
 * **Sort By**
   * **Options** - Hot, Top, New, Controversial, Rising, Random
 * **Number of Posts to Return** - How many posts you want to be outputted. 
 
-### Outputs
+### 📤 Outputs
 
 * **Number of Subscribers** - Total number of subscribers
 * **Active Accounts** - The number of accounts currently online
@@ -40,15 +40,13 @@
 
 ![Search a Subreddit](../../.gitbook/assets/reddit_sub.png)
 
+## 👥Data About Other Users
 
-
-## Data About Other Users
-
-### Inputs
+### 📥 Inputs
 
 * **Account Name** - account name of the user. 
 
-### Outputs
+### 📤 Outputs
 
 * **Public Description** - Users public description
 * **Karma** - Total Karma from Comments and Links
@@ -62,16 +60,16 @@
 
 
 
-## Get Posts from Other Users
+## 📌Get Posts from Other Users
 
 Pull in the posts of a user by their username. 
 
-### Inputs
+### 📥 Inputs
 
 * **Number of Posts to Return** - How many posts you want to be outputted. 
 * **Account Name -** account name of the user. 
 
-### Outputs
+### 📤 Outputs
 
 * **Number of Subscribers** - The number of subscribers to Account Name
 * **List of Subbreddits the Posts Belong To** - A list of the subreddits each post was posted to
@@ -84,14 +82,14 @@ Pull in the posts of a user by their username.
 * **Post Link URLs** - A list of the urls mentioned in each post
 * **JSON Data**  - Raw JSON of the API query response 
 
-## Get Comments from Other Users
+## 💬Get Comments from Other Users
 
-### Inputs
+### 📥 Inputs
 
 * **Number of Posts to Return** - How many posts you want to be outputted. 
 * **Account Name -** account name of the user. 
-* 
-### Outputs
+
+### 📤 Outputs
 
 * **Comment Text** - A List of the text of the Comments
 * **Date of Comment \(UTC\)** - A list of the date that the comment was published

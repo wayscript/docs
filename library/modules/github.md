@@ -2,9 +2,9 @@
 
 ![A web-based hosting service for version control using Git.](../../.gitbook/assets/github.png)
 
-## Search for a User
+## 👤Search for a User
 
-### Inputs
+### 📥 Inputs
 
 Search for metrics on a user account by:
 
@@ -12,7 +12,7 @@ Search for metrics on a user account by:
 * Email
 * GitHub URL
 
-### Outputs
+### 📤 Outputs
 
 Create variables for:
 
@@ -35,13 +35,13 @@ Create variables for:
 * Most Popular Repo URL
 * Raw JSON Data
 
-## Search for a Repo
+## 🔎Search for a Repo
 
-### Inputs
+### 📥 Inputs
 
 Search for metrics on a repository by entering its Github URL.
 
-### Outputs
+### 📤 Outputs
 
 Create variables for:
 

@@ -14,17 +14,19 @@ Please read the [Hello World](hello-world.md), [Variables](variables.md), [Modul
 For full details on functions, read the [Function Logic Documentation.](../library/logic/functions/)
 {% endhint %}
 
-In this introduction to functions, we are going to build a program that uses functions. Functions are useful for breaking up your code into more manageable, reusable pieces. 
+In this introduction to functions, we are going to build a program that uses functions.
+
+🧩Functions are useful for breaking up your code into more manageable, reusable pieces. 
 
 ## What is a function?
 
 > "A function is a block of organized, reusable code that is used to perform a single, related action. Functions provide better modularity for your application and a high degree of code reusing." - [TutorialsPoint](https://www.tutorialspoint.com/computer_programming/computer_programming_functions)
 
-## Building Functions Tutorial
+## 🎓Building Functions Tutorial
 
 In this tutorial, we are going to build functions that let us do some simple math.
 
-### Step One - Create a Variable
+### ![](../.gitbook/assets/create_var.png) Step One - Create a Variable
 
 [Create a Number Variable](variables.md) called "Number" and set it to the value 2.
 
@@ -34,7 +36,7 @@ Be sure to set the [Type of Item](../library/logic/variables/create-variable.md#
 
 ![Create Variable called Number and set to 2](../.gitbook/assets/screenshot-2019-07-17-11.17.36.png)
 
-### Step Two - Create a Function
+### ![](../.gitbook/assets/func_call.png)Step Two - Create a Function
 
 Now, we are going to write a function that doubles our number. [To add a function, press the + button next to your workflow branch to generate a new branch](../library/logic/functions/#creating-a-new-function).
 
@@ -48,7 +50,7 @@ We are going to name our function "Double" because it will double our number. It
 
 ![Setting up the Double definition](../.gitbook/assets/function_definition.png)
 
-### Step Three - Build your Logic
+### 🏗Step Three - Build Your Logic
 
 The goal of the 'Double' function is to double our 'Input Number' and return that result to the 'Main' function as our "Doubled Number"
 
@@ -76,9 +78,9 @@ Now run your program and read the log to see the [Program Flow](program-flow.md)
 
 ![](../.gitbook/assets/func_demo_final.png)
 
-## Advanced Features
+## 💡Advanced Features
 
-### Recursion
+### 🔄Recursion
 
 WayScript allows for recursive function calls. Referring to the example above, the 'Double' function can call itself.
 

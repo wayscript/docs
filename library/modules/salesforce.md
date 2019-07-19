@@ -2,13 +2,13 @@
 
 ![Create, edit, and query Salesforce objects.](../../.gitbook/assets/salesforce.png)
 
-## Setup
+## ⚙Setup
 
-### API Access
+### 🔑API Access
 
 First make sure you have API access enabled in Salesforce. To do this, follow [these instructions](https://ebstalimited.zendesk.com/hc/en-us/articles/229295368-How-do-I-enable-API-access-in-Salesforce).
 
-### Object IDs
+### 💡Object IDs
 
 Many of the modes of the Salesforce module utilize object IDs. This is how the API identifies the Salesforce objects. These IDs can be found in the url when viewing the object.
 
@@ -16,15 +16,15 @@ For Salesforce classic the ID will be at the end of the url. In the following ex
 
 For Salesforce Lighting Experience, the ID is the second to last section of the url. In the following example url, **7014P000000vMXUQA2** is the object ID: [https://na132.lightning.force.com/lightning/r/Campaign/7014P000000vMXUQA2/view](https://na132.lightning.force.com/lightning/r/Campaign/7014P000000vMXUQA2/view)
 
-## New Object
+## ![](../../.gitbook/assets/salesforce.png)New Object
 
 ![Select New Object Mode](../../.gitbook/assets/screen-shot-2019-07-16-at-12.56.47-pm.png)
 
-### Create New Account
+### 🌟Create New Account
 
 ![Select Create New Account](../../.gitbook/assets/screen-shot-2019-07-16-at-12.57.13-pm.png)
 
-#### Inputs
+#### 📥 Inputs
 
 * **Account Name** 
   * Required
@@ -49,17 +49,17 @@ For Salesforce Lighting Experience, the ID is the second to last section of the 
   * Separated by Street, City, State, Zip, and Country fields
 * **Description**
 
-#### Outputs
+#### 📤 Outputs
 
 * **New Account ID**
   * After successfully running the program and creating a new account, this output will be the corresponding object ID.
   * Click [here](salesforce.md#object-ids) for more information about object IDs.
 
-### Create New Campaign
+### 📈Create New Campaign
 
 ![Select Create New Campaign](../../.gitbook/assets/screen-shot-2019-07-16-at-1.02.40-pm.png)
 
-#### Inputs
+#### 📥 Inputs
 
 * **Campaign Name**
   * Required
@@ -82,17 +82,17 @@ For Salesforce Lighting Experience, the ID is the second to last section of the 
   * Click [here](salesforce.md#object-ids) for more information about object IDs.
 * **Description**
 
-#### Outputs
+#### 📤 Outputs
 
 * **New Campaign ID**
   * After successfully running the program and creating a new campaign, this output will be the corresponding object ID.
   * Click [here](salesforce.md#object-ids) for more information about object IDs.
 
-### Create New Case
+### 💼 Create New Case
 
 ![Select Create New Case](../../.gitbook/assets/screen-shot-2019-07-16-at-1.03.24-pm.png)
 
-#### Inputs
+#### 📥 Inputs
 
 * **Subject**
 * **Status**
@@ -112,17 +112,17 @@ For Salesforce Lighting Experience, the ID is the second to last section of the 
 * **Web Phone**
 * **Description**
 
-#### Outputs
+#### 📤 Outputs
 
 * **New Case ID**
   * After successfully running the program and creating a new case, this output will be the corresponding object ID.
   * Click [here](salesforce.md#object-ids) for more information about object IDs.
 
-### Create New Case Comment
+### 💬 Create New Case Comment
 
 ![Select Create New Case Comment](../../.gitbook/assets/screen-shot-2019-07-16-at-1.03.36-pm.png)
 
-#### Inputs
+#### 📥 Inputs
 
 * **Body**
   * Required
@@ -133,17 +133,17 @@ For Salesforce Lighting Experience, the ID is the second to last section of the 
   * The ID of the case that the comment is being added to.
   * Click [here](salesforce.md#object-ids) for more information about object IDs.
 
-#### Outputs
+#### 📤 Outputs
 
 * **New Case Comment ID**
   * After successfully running the program and creating a new case comment, this output will be the corresponding object ID.
   * Click [here](salesforce.md#object-ids) for more information about object IDs.
 
-### Create New Contact
+### 👤Create New Contact
 
 ![Select Create New Contact](../../.gitbook/assets/screen-shot-2019-07-16-at-1.03.46-pm.png)
 
-#### Inputs
+#### 📥 Inputs
 
 * **Salutation**
 * **First Name**
@@ -177,17 +177,17 @@ For Salesforce Lighting Experience, the ID is the second to last section of the 
   * Separated by Street, City, State, Zip, and Country fields
 * **Description**
 
-#### Outputs
+#### 📤 Outputs
 
 * **New Contact ID**
   * After successfully running the program and creating a new contact, this output will be the corresponding object ID.
   * Click [here](salesforce.md#object-ids) for more information about object IDs.
 
-### Create New Event
+### 🗓 Create New Event
 
 ![Select Create New Event](../../.gitbook/assets/screen-shot-2019-07-16-at-1.03.55-pm.png)
 
-#### Inputs
+#### 📥 Inputs
 
 * **Subject**
   * Required
@@ -217,17 +217,17 @@ For Salesforce Lighting Experience, the ID is the second to last section of the 
   * Click [here](salesforce.md#object-ids) for more information about object IDs.
 * **Description**
 
-#### Outputs
+#### 📤 Outputs
 
 * **New Event ID**
   * After successfully running the program and creating a new event, this output will be the corresponding object ID.
   * Click [here](salesforce.md#object-ids) for more information about object IDs.
 
-### Create New Lead
+### 🕵Create New Lead
 
 ![Select Create New Lead](../../.gitbook/assets/screen-shot-2019-07-16-at-1.04.08-pm.png)
 
-#### Inputs
+#### 📥 Inputs
 
 * **Salutation**
 * **First Name**
@@ -251,17 +251,17 @@ For Salesforce Lighting Experience, the ID is the second to last section of the 
   * Separated by Street, City, State, Zip, and Country fields
 * **Description**
 
-#### Outputs
+#### 📤 Outputs
 
 * **New Lead ID**
   * After successfully running the program and creating a new lead, this output will be the corresponding object ID.
   * Click [here](salesforce.md#object-ids) for more information about object IDs.
 
-### Create New Note
+### 🗒Create New Note
 
 ![Select Create New Note](../../.gitbook/assets/screen-shot-2019-07-16-at-1.04.17-pm.png)
 
-#### Inputs
+#### 📥 Inputs
 
 * **Parent ID**
   * Required
@@ -273,17 +273,17 @@ For Salesforce Lighting Experience, the ID is the second to last section of the 
 * **Private**
   * Check this box if you want to be the only one who can see this note.
 
-#### Outputs
+#### 📤 Outputs
 
 * **New Note ID**
   * After successfully running the program and creating a new note, this output will be the corresponding object ID.
   * Click [here](salesforce.md#object-ids) for more information about object IDs.
 
-### Create New Opportunity
+### ✨Create New Opportunity
 
 ![Select Create New Opportunity](../../.gitbook/assets/screen-shot-2019-07-16-at-1.04.29-pm.png)
 
-#### Inputs
+#### 📥 Inputs
 
 * **Private**
   * Check this box if you want the new opportunity to be private.
@@ -307,17 +307,17 @@ For Salesforce Lighting Experience, the ID is the second to last section of the 
   * Click [here](salesforce.md#object-ids) for more information about object IDs.
 * **Description**
 
-#### Outputs
+#### 📤 Outputs
 
 * **New Opportunity ID**
   * After successfully running the program and creating a new opportunity, this output will be the corresponding object ID.
   * Click [here](salesforce.md#object-ids) for more information about object IDs.
 
-### Create New Task
+### 📋Create New Task
 
 ![Select Create New Task](../../.gitbook/assets/screen-shot-2019-07-16-at-1.04.43-pm.png)
 
-#### Inputs
+#### 📥 Inputs
 
 * **Subject**
   * Required
@@ -334,19 +334,19 @@ For Salesforce Lighting Experience, the ID is the second to last section of the 
   * Click [here](salesforce.md#object-ids) for more information about object IDs.
 * **Description**
 
-#### Outputs
+#### 📤 Outputs
 
 * **New Task ID**
   * After successfully running the program and creating a new task, this output will be the corresponding object ID.
   * Click [here](salesforce.md#object-ids) for more information about object IDs.
 
-### Add New Campaign Member
+### 👥Add New Campaign Member
 
 ![Select Add New Campaign Member](../../.gitbook/assets/screen-shot-2019-07-16-at-1.04.55-pm.png)
 
 ![Select Campaign Member Type](../../.gitbook/assets/screen-shot-2019-07-16-at-1.09.51-pm.png)
 
-#### Inputs
+#### 📥 Inputs
 
 * **Campaign ID**
   * The ID of the campaign you are adding a member to.
@@ -356,17 +356,17 @@ For Salesforce Lighting Experience, the ID is the second to last section of the 
   * Click [here](salesforce.md#object-ids) for more information about object IDs.
 * **Member Status**
 
-#### Outputs
+#### 📤 Outputs
 
 * **New Campaign Member ID**
   * After successfully running the program and adding a new campaign member, this output will be the corresponding object ID.
   * Click [here](salesforce.md#object-ids) for more information about object IDs.
 
-## Query
+## ❔Query
 
 ![Select Query Mode](../../.gitbook/assets/screen-shot-2019-07-16-at-3.15.41-pm.png)
 
-### Interacting With Query Results
+### 🔎 Interacting With Query Results
 
 After executing a successful query, you will see something like this under **Outputs**.
 
@@ -378,7 +378,7 @@ To make a column into a variable, simply assign the column a name. The resulting
 
 If you wish to view the raw JSON returned from the query, simply select the **JSON Data** checkbox under **Outputs**.
 
-### Custom Query
+### ✂Custom Query
 
 ![Select Custom Query Mode](../../.gitbook/assets/screen-shot-2019-07-16-at-3.21.53-pm.png)
 
@@ -401,11 +401,11 @@ Click the run button to execute the query.
 
 [Interacting with query results.](salesforce.md#interacting-with-query-results)
 
-### Query Accounts
+### 👤Query Accounts
 
 ![Select Query Accounts Mode](../../.gitbook/assets/screen-shot-2019-07-16-at-3.22.10-pm.png)
 
-#### Select Fields to be Returned
+#### ☑ Select Fields to be Returned
 
 * Account ID
 * Account Name
@@ -414,7 +414,7 @@ Click the run button to execute the query.
 
 These represent the columns of results from a successful query.
 
-#### Inputs
+#### 📥 Inputs
 
 {% hint style="success" %}
 Query All Accounts
@@ -439,19 +439,17 @@ This will return results that match any fields with inputted values.
 
 **Limit** - Optional limit on the number of rows to be returned.
 
-Click the **Query** button to execute the query.
-
-![](../../.gitbook/assets/screen-shot-2019-07-16-at-4.04.35-pm.png)
+![](../../.gitbook/assets/query_button.png)Click the **Query** button to execute the query.
 
 {% hint style="info" %}
 If you wish to create more customizable queries, try the [custom query mode](salesforce.md#custom-query).
 {% endhint %}
 
-### Query Campaigns
+### 📈Query Campaigns
 
 ![Select Query Campaigns Mode](../../.gitbook/assets/screen-shot-2019-07-16-at-3.22.27-pm.png)
 
-#### Select Fields to be Returned
+#### ☑ Select Fields to be Returned
 
 * Campaign ID
 * Campaign Name
@@ -463,7 +461,7 @@ If you wish to create more customizable queries, try the [custom query mode](sal
 
 These represent the columns of results from a successful query.
 
-#### Inputs
+#### 📥 Inputs
 
 {% hint style="success" %}
 Query All Campaigns
@@ -488,19 +486,17 @@ This will return results that match any fields with inputted values.
 
 **Limit** - Optional limit on the number of rows to be returned.
 
-Click the **Query** button to execute the query.
-
-![](../../.gitbook/assets/screen-shot-2019-07-16-at-4.04.35-pm.png)
+![](../../.gitbook/assets/query_button.png) Click the **Query** button to execute the query.
 
 {% hint style="info" %}
 If you wish to create more customizable queries, try the [custom query mode](salesforce.md#custom-query).
 {% endhint %}
 
-### Query Cases
+### 💼 Query Cases
 
 ![Select Query Cases Mode](../../.gitbook/assets/screen-shot-2019-07-16-at-3.22.43-pm.png)
 
-#### Select Fields to be Returned
+#### ☑ Select Fields to be Returned
 
 * Case ID
 * Case Subject
@@ -509,7 +505,7 @@ If you wish to create more customizable queries, try the [custom query mode](sal
 
 These represent the columns of results from a successful query.
 
-#### Inputs
+#### 📥 Inputs
 
 {% hint style="success" %}
 Query All Cases
@@ -535,19 +531,17 @@ This will return results that match any fields with inputted values.
 
 **Limit** - Optional limit on the number of rows to be returned.
 
-Click the **Query** button to execute the query.
-
-![](../../.gitbook/assets/screen-shot-2019-07-16-at-4.04.35-pm.png)
+![](../../.gitbook/assets/query_button.png) Click the **Query** button to execute the query.
 
 {% hint style="info" %}
 If you wish to create more customizable queries, try the [custom query mode](salesforce.md#custom-query).
 {% endhint %}
 
-### Query Contacts
+### 👥Query Contacts
 
 ![Select Query Contacts Mode](../../.gitbook/assets/screen-shot-2019-07-16-at-3.22.55-pm.png)
 
-#### Select Fields to be Returned
+#### ☑ Select Fields to be Returned
 
 * Contact ID
 * Contact Name
@@ -556,7 +550,7 @@ If you wish to create more customizable queries, try the [custom query mode](sal
 
 These represent the columns of results from a successful query.
 
-#### Inputs
+#### 📥 Inputs
 
 {% hint style="success" %}
 Query All Contacts
@@ -579,19 +573,17 @@ This will return results that match any fields with inputted values.
 
 **Limit** - Optional limit on the number of rows to be returned.
 
-Click the **Query** button to execute the query.
-
-![](../../.gitbook/assets/screen-shot-2019-07-16-at-4.04.35-pm.png)
+![](../../.gitbook/assets/query_button.png) Click the **Query** button to execute the query.
 
 {% hint style="info" %}
 If you wish to create more customizable queries, try the [custom query mode](salesforce.md#custom-query).
 {% endhint %}
 
-### Query Events
+### 🗓 Query Events
 
 ![Select Query Events Mode](../../.gitbook/assets/screen-shot-2019-07-16-at-3.23.04-pm.png)
 
-#### Select Fields to be Returned
+#### ☑ Select Fields to be Returned
 
 * Event ID
 * Event Subject
@@ -601,7 +593,7 @@ If you wish to create more customizable queries, try the [custom query mode](sal
 
 These represent the columns of results from a successful query.
 
-#### Inputs
+#### 📥 Inputs
 
 {% hint style="success" %}
 Query All Events
@@ -627,19 +619,17 @@ This will return results that match any fields with inputted values.
 
 **Limit** - Optional limit on the number of rows to be returned.
 
-Click the **Query** button to execute the query.
-
-![](../../.gitbook/assets/screen-shot-2019-07-16-at-4.04.35-pm.png)
+![](../../.gitbook/assets/query_button.png) Click the **Query** button to execute the query.
 
 {% hint style="info" %}
 If you wish to create more customizable queries, try the [custom query mode](salesforce.md#custom-query).
 {% endhint %}
 
-### Query Leads
+### 🕵Query Leads
 
 ![Select Query Leads Mode](../../.gitbook/assets/screen-shot-2019-07-16-at-3.23.16-pm.png)
 
-#### Select Fields to be Returned
+#### ☑ Select Fields to be Returned
 
 * Lead ID
 * Lead Name
@@ -650,7 +640,7 @@ If you wish to create more customizable queries, try the [custom query mode](sal
 
 These represent the columns of results from a successful query.
 
-#### Inputs
+#### 📥 Inputs
 
 {% hint style="success" %}
 Query All Leads
@@ -675,19 +665,17 @@ This will return results that match any fields with inputted values.
 
 **Limit** - Optional limit on the number of rows to be returned.
 
-Click the **Query** button to execute the query.
-
-![](../../.gitbook/assets/screen-shot-2019-07-16-at-4.04.35-pm.png)
+![](../../.gitbook/assets/query_button.png) Click the **Query** button to execute the query.
 
 {% hint style="info" %}
 If you wish to create more customizable queries, try the [custom query mode](salesforce.md#custom-query).
 {% endhint %}
 
-### Query Opportunities
+### ✨ Query Opportunities
 
 ![Select Query Opportunities Mode](../../.gitbook/assets/screen-shot-2019-07-16-at-3.23.29-pm.png)
 
-#### Select Fields to be Returned
+#### ☑ Select Fields to be Returned
 
 * Opportunity ID
 * Opportunity Name
@@ -697,7 +685,7 @@ If you wish to create more customizable queries, try the [custom query mode](sal
 
 These represent the columns of results from a successful query.
 
-#### Inputs
+#### 📥 Inputs
 
 {% hint style="success" %}
 Query All Opportunities
@@ -723,19 +711,17 @@ This will return results that match any fields with inputted values.
 
 **Limit** - Optional limit on the number of rows to be returned.
 
-Click the **Query** button to execute the query.
-
-![](../../.gitbook/assets/screen-shot-2019-07-16-at-4.04.35-pm.png)
+![](../../.gitbook/assets/query_button.png) Click the **Query** button to execute the query.
 
 {% hint style="info" %}
 If you wish to create more customizable queries, try the [custom query mode](salesforce.md#custom-query).
 {% endhint %}
 
-### Query Tasks
+### 📋 Query Tasks
 
 ![Select Query Tasks Mode](../../.gitbook/assets/screen-shot-2019-07-16-at-3.23.45-pm.png)
 
-#### Select Fields to be Returned
+#### ☑ Select Fields to be Returned
 
 * Task ID
 * Task Subject
@@ -745,7 +731,7 @@ If you wish to create more customizable queries, try the [custom query mode](sal
 
 These represent the columns of results from a successful query.
 
-#### Inputs
+#### 📥 Inputs
 
 {% hint style="success" %}
 Query All Tasks
@@ -772,19 +758,17 @@ This will return results that match any fields with inputted values.
 
 **Limit** - Optional limit on the number of rows to be returned.
 
-Click the **Query** button to execute the query.
-
-![](../../.gitbook/assets/screen-shot-2019-07-16-at-4.04.35-pm.png)
+![](../../.gitbook/assets/query_button.png) Click the **Query** button to execute the query.
 
 {% hint style="info" %}
 If you wish to create more customizable queries, try the [custom query mode](salesforce.md#custom-query).
 {% endhint %}
 
-## Update Existing Object
+## ✏Update Existing Object
 
 ![Select Update Existing Object Mode](../../.gitbook/assets/screen-shot-2019-07-16-at-4.31.02-pm.png)
 
-### Update Account
+### 👤 Update Account
 
 ![Select Update Account Mode](../../.gitbook/assets/screen-shot-2019-07-16-at-4.33.30-pm.png)
 
@@ -798,7 +782,7 @@ If the ID is valid, all the fields will be displayed with the current values. Th
 You must run the program for the changes to be committed.
 {% endhint %}
 
-### Update Campaign
+### 📈Update Campaign
 
 ![Select Update Campaign Mode](../../.gitbook/assets/screen-shot-2019-07-16-at-4.33.42-pm.png)
 
@@ -812,7 +796,7 @@ If the ID is valid, all the fields will be displayed with the current values. Th
 You must run the program for the changes to be committed.
 {% endhint %}
 
-### Update Case
+### 💼Update Case
 
 ![Select Update Case Mode](../../.gitbook/assets/screen-shot-2019-07-16-at-4.33.56-pm.png)
 
@@ -826,7 +810,7 @@ If the ID is valid, all the fields will be displayed with the current values. Th
 You must run the program for the changes to be committed.
 {% endhint %}
 
-### Update Contact
+### 👥Update Contact
 
 ![Select Update Contact Mode](../../.gitbook/assets/screen-shot-2019-07-16-at-4.34.06-pm.png)
 
@@ -840,7 +824,7 @@ If the ID is valid, all the fields will be displayed with the current values. Th
 You must run the program for the changes to be committed.
 {% endhint %}
 
-### Update Lead
+### 🕵♀Update Lead
 
 ![Select Update Lead Mode](../../.gitbook/assets/screen-shot-2019-07-16-at-4.34.22-pm.png)
 
@@ -854,7 +838,7 @@ If the ID is valid, all the fields will be displayed with the current values. Th
 You must run the program for the changes to be committed.
 {% endhint %}
 
-### Update Opportunity
+### ✨Update Opportunity
 
 ![Select Update Opportunity Mode](../../.gitbook/assets/screen-shot-2019-07-16-at-4.34.36-pm.png)
 

@@ -3,14 +3,14 @@
 ![Pull text from a website.](../../.gitbook/assets/article_pull.png)
 
 {% hint style="info" %}
-Check out on [Github](https://github.com/goose3/goose3).
+Check out goose3 on [GitHub](https://github.com/goose3/goose3).
 {% endhint %}
 
-## Inputs
+## 📥Inputs
 
 * **Website URL** - Enter the URL of the article you want to pull.
 
-## Outputs
+## 📤Outputs
 
 * **Article Text** - Contains all of the text from the article.
 * **Article Keywords** - Contains a list of keywords that were found in the article.

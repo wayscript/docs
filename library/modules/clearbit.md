@@ -2,7 +2,7 @@
 
 ![Enrich your data with Clearbit.](../../.gitbook/assets/clearbit.png)
 
-## Authorization
+## 🗝Authorization
 
 Clearbit is available to users who have their own API key.
 
@@ -10,7 +10,7 @@ If not authorized, you will be prompted to enter your API Key when you add the C
 
 ![](../../.gitbook/assets/screen-shot-2019-07-16-at-2.32.17-pm.png)
 
-## Inputs
+## 📥Inputs
 
 All Inputs accept manual, variable, or combined inputs.
 
@@ -20,9 +20,9 @@ All Inputs accept manual, variable, or combined inputs.
 Optional Inputs will can help improve the accuracy of your search
 {% endhint %}
 
-## Lookup Company
+## 🏢Lookup Company
 
-### Inputs
+### 📥 Inputs
 
 * Company Domain Name _\(Required\)_
 * Company Name _\(Optional\)_
@@ -30,7 +30,7 @@ Optional Inputs will can help improve the accuracy of your search
 * Twitter Handle _\(Optional\)_
 * Facebook URL _\(Optional\)_
 
-### Outputs
+### 📤 Outputs
 
 * Company Name
 * Company Legal Name
@@ -57,9 +57,9 @@ Optional Inputs will can help improve the accuracy of your search
 * Company Crunchbase URL
 * JSON Data
 
-## Lookup Person
+## 👤Lookup Person
 
-### Inputs
+### 📥 Inputs
 
 * Email Address _\(Required\)_
 * First Name _\(Optional\)_
@@ -71,7 +71,7 @@ Optional Inputs will can help improve the accuracy of your search
 * Twitter Handle _\(Optional\)_
 * Facebook URL _\(Optional\)_
 
-### Outputs
+### 📤 Outputs
 
 * Full Name
 * Person's Email
@@ -89,9 +89,9 @@ Optional Inputs will can help improve the accuracy of your search
 * Person's Github URL
 * JSON Data
 
-## Lookup Combined
+## 🕵♀Lookup Combined
 
-### Inputs
+### 📥 Inputs
 
 * Email Address _\(Required\)_
 * First Name _\(Optional\)_
@@ -103,7 +103,7 @@ Optional Inputs will can help improve the accuracy of your search
 * Twitte Handle _\(Optional\)_
 * Facebook URL _\(Optional\)_
 
-### Outputs
+### 📤 Outputs
 
 * Full Name
 * Person's Email

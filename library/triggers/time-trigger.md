@@ -2,13 +2,13 @@
 
 ![Run your program periodically.](../../.gitbook/assets/cron.png)
 
-## Activate the Time Trigger
+## ⚡Activate the Time Trigger
 
 In order to Trigger programs at a particular time, add the Trigger Module to the triggers section of your program and activate the trigger.
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-4.11.18-pm.png)
 
-## Select a Run Frequency
+## 🗓Select a Run Frequency
 
 * Monthly
 * Weekly
@@ -28,6 +28,4 @@ If you select the **monthly frequency**, you will have an option to choose a day
 {% hint style="info" %}
 If you select the 29th, 30th, or 31st, your program will not run on months with fewer than that number of days. **Use the "Last Day" option if you would like your program to run at the end of each month.**
 {% endhint %}
-
-\*\*\*\*
 

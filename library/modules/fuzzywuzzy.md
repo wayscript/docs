@@ -3,10 +3,10 @@
 ![Fuzzy string matching like a boss. ](../../.gitbook/assets/fuzzy_wuzzy.png)
 
 {% hint style="info" %}
-Check out on [GitHub](https://github.com/seatgeek/fuzzywuzzy).
+Check out FuzzyWuzzy on [GitHub](https://github.com/seatgeek/fuzzywuzzy).
 {% endhint %}
 
-## About
+## ![](../../.gitbook/assets/fuzzy_wuzzy.png)About
 
 FuzzyWuzzy is a string similarity matching library. In other words, it tells you how similar two pieces of text are \(and some other functionality\). 
 

@@ -6,7 +6,7 @@
 To run your program using an Alexa voice command, use the [Alexa Trigger](../triggers/alexa-trigger.md).
 {% endhint %}
 
-## Setup
+## ⚙Setup
 
 In order for your speech to be read, you must include an Alexa Trigger in your program and launch the program from an Alexa-enabled device.
 
@@ -14,7 +14,7 @@ In order for your speech to be read, you must include an Alexa Trigger in your p
 See the [Alexa Trigger documentation](../triggers/alexa-trigger.md) for more details.
 {% endhint %}
 
-### Speech Text
+### 🗣Speech Text
 
 Enter the phrase you would like Alexa to speak in the "Speech Text" field.
 

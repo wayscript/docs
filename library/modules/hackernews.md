@@ -2,7 +2,7 @@
 
 ![A social news website focusing on computer science and entrepreneurship.](../../.gitbook/assets/hacker_news.png)
 
-## Settings
+## ⚙Settings
 
 #### Mode
 
@@ -10,12 +10,12 @@
 * Get New Stories
 * Get Best Stories
 
-## Inputs
+## 📥Inputs
 
 * Number of Stories - Input the number of results you would like returned as outputs. 
   * Note - When the program is not running, only 20 results will be returned. 
 
-## Outputs
+## 📤Outputs
 
 * **Story IDs**
 * **Authors**

@@ -2,7 +2,7 @@
 
 ![Run your program via a web request.](../../.gitbook/assets/webhook.png)
 
-## Overview
+## ⚡Setup
 
 Add the Webhook Trigger to the triggers section of your program and turn it on.
 
@@ -16,7 +16,7 @@ This data can be retrieved from the settings within the Webhook Trigger.
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-6.06.16-pm.png)
 
-## New Variable Inputs
+## 📥New Variable Inputs
 
 You can dynamically input new variable data into your WayScript programs from your api call. 
 
@@ -24,7 +24,7 @@ Declare the variables you want your Webhook Trigger to create and pass to your p
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-6.09.52-pm.png)
 
-## Functions
+## 🏃♀Functions
 
 You can specify which [function](../logic/functions/) you would like to run with your Webhook trigger.
 
@@ -32,7 +32,7 @@ Do this by placing the Webhook Trigger in one or more functions within your WayS
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-6.18.01-pm.png)
 
-## API Call
+## 📨API Call
 
 Use [Python](https://github.com/wayscript/wayscript-python), [JavaScript](https://github.com/wayscript/wayscript-js), or [any other programming language ](../../apis/rest.md)to trigger your program.
 

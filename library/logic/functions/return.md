@@ -2,13 +2,13 @@
 
 ![Return values from the current function.](../../../.gitbook/assets/return.png)
 
-## **Return from the Current Function**
+## \*\*\*\*![](../../../.gitbook/assets/return.png)**Return from the Current Function**
 
 Use the Return module inside a function to finish running the current function and return values to the location that called the function.
 
 The Return module will populate the settings panel with a field for each output that was set up for the current function.
 
-## Example
+## ✨Example
 
 [Define a function](function-definition.md) with two outputs, called "Output one" and "Output two."
 

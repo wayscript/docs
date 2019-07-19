@@ -3,17 +3,17 @@
 ![Make requests to APIs and other endpoints on the internet.](../../.gitbook/assets/http_requests.png)
 
 {% hint style="info" %}
-Check out on [Github](https://github.com/requests/requests).
+Check out the Requests library on [GitHub](https://github.com/requests/requests).
 {% endhint %}
 
-## Settings
+## ⚙Settings
 
 #### Mode
 
 * GET Request - ****used to request data from a specified resource
 * POST Request - used to send data to a server to create/update a resource
 
-## Inputs
+## 📥Inputs
 
 * **URL** - The URL you are requesting
 * **Add URL Parameters** - The query string name/value pairs.
@@ -22,12 +22,12 @@ Check out on [Github](https://github.com/requests/requests).
 
 This example calls: https://www.exampleapi.com?api\_key=12345
 
-#### Advanced Inputs
+### 💡Advanced Inputs
 
 * **Add URL Headers** - Name/Value pairs of headers information.
 * **Add URL Data** - Name/Value paris of data information.
 
-## Outputs
+## 📤Outputs
 
 * **JSON Data** - Raw JSON recieved from the endpoint
 

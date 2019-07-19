@@ -2,13 +2,13 @@
 
 ![Create a variable.](../../../.gitbook/assets/create_var.png)
 
-## **Variable Name**
+## 🔤**Variable Name**
 
 Assign a name to your variable. This name will be used to reference the value of your variable throughout your program.
 
 ![](../../../.gitbook/assets/create_variable.png)
 
-## **Define the Characteristics of Your Variable**
+## ⚙**Define the Characteristics of Your Variable**
 
 Define whether your variable will have a [single value](../../../getting_started/variables.md#single-item) or contain a [list of values](../../../getting_started/variables.md#lists).
 
@@ -16,7 +16,7 @@ Choose what [type of data](../../../getting_started/variables.md#variable-types)
 
 ![](../../../.gitbook/assets/variable_type.png)
 
-## **Set the Value of Your Variable**
+## ✏**Set the Value of Your Variable**
 
 Type in the value for your variable.
 

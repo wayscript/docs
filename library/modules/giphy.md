@@ -9,21 +9,21 @@ description: >-
 ![Find everything from funny GIFs, reaction GIFs, unique GIFs and more.](../../.gitbook/assets/giphy.png)
 
 {% hint style="info" %}
-Check out their [website](https://www.developers.giphy.com).
+Check out the GIPHY [website](https://www.developers.giphy.com).
 {% endhint %}
 
-## Mode
+## ⚙Mode
 
 * **Single Random Result** - returns a single random result each time. 
   * This turns the Giphy outputs into [Single Items](../../getting_started/variables.md#single-item)
 * **All Results** - All Results returns the top 25 results. 
   * This turns Giphy outputs in [Lists](../../getting_started/variables.md#lists)
 
-## Inputs
+## 📥Inputs
 
 * **Search Term** - This is the search term for the GIF you want. 
 
-## Outputs
+## 📤Outputs
 
 {% hint style="warning" %}
 [Variable Type](../../getting_started/variables.md) of Outputs changes based on Mode above

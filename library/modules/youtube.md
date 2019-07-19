@@ -2,7 +2,7 @@
 
 ![Work with YouTube data.](../../.gitbook/assets/youtube%20%281%29.png)
 
-## Link Your YouTube Account
+## 🔗Link Your YouTube Account
 
 When using a YouTube module for the first time, follow the prompt to authorize access.
 
@@ -10,9 +10,9 @@ When using a YouTube module for the first time, follow the prompt to authorize a
 You can add additional accounts from the YouTube module settings.
 {% endhint %}
 
-## Search for Videos by Keyword
+## 🔎Search for Videos by Keyword
 
-### Inputs
+### 📥 Inputs
 
 * Search Term
 * Maximum Number of Results
@@ -20,7 +20,7 @@ You can add additional accounts from the YouTube module settings.
   * Sort Order
   * Filter Results by U.S. Zip Code
 
-### Outputs
+### 📤 Outputs
 
 * Video Title
 * Author Channel Username
@@ -30,13 +30,13 @@ You can add additional accounts from the YouTube module settings.
 * Author Channel ID
 * Video ID
 
-## Get Data About a Video
+## 📺Get Data About a Video
 
-### Inputs
+### 📥 Inputs
 
 * Video URL
 
-### Outputs
+### 📤 Outputs
 
 * Video Title
 * Author Channel Username
@@ -52,9 +52,9 @@ You can add additional accounts from the YouTube module settings.
 
 ![](../../.gitbook/assets/screen-shot-2019-07-17-at-6.12.40-pm.png)
 
-## Get Comments on a Video
+## 💬Get Comments on a Video
 
-### Inputs
+### 📥Inputs
 
 * Video URL
 * Maximum Number of Comments
@@ -62,7 +62,7 @@ You can add additional accounts from the YouTube module settings.
   * Time
   * Relevance
 
-### Outputs
+### 📤Outputs
 
 * Comment Text
 * Author Channel Username
@@ -72,13 +72,13 @@ You can add additional accounts from the YouTube module settings.
 * Like Count
 * Reply Count
 
-## Get Data on a Channel \(User Account\)
+## 👤Get Data on a Channel \(User Account\)
 
-### Inputs
+### 📥Inputs
 
 * Account/Channel Username
 
-### Outputs
+### 📤Outputs
 
 * Video Description
 * View Count

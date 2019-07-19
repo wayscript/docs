@@ -11,13 +11,13 @@ You can trigger WayScript programs to run by sending a text message to WayScript
 To send text messages to yourself, use the [Text Message module](../modules/text-message.md).
 {% endhint %}
 
-## Phone Number Verification
+## 📱Phone Number Verification
 
 {% hint style="warning" %}
 If you haven't yet verified your phone number with your WayScript account, you will need to do so before using this module. See [Phone Number Verification](../../account-management/phone-number-verification.md) for details.
 {% endhint %}
 
-## New Variable Inputs
+## 📥New Variable Inputs
 
 You can dynamically input new variable data into your program via text message. Specify these variables in the "Variables to Create" section.
 
@@ -25,7 +25,7 @@ You can dynamically input new variable data into your program via text message. 
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-4.28.50-pm.png)
 
-## Sending a Text
+## 💬Sending a Text
 
 Send your text message to **\(415\) WYS-CRPT** \(+1 415 997 2778\).
 

@@ -2,15 +2,15 @@
 
 ![Encode urls with variables](../../.gitbook/assets/url_encoder.png)
 
-This module lets you build urls with key/value parameters. This can be used to generate custom links or api urls.
+🔗 This module lets you build urls with key/value parameters. This can be used to generate custom links or api urls.
 
-## Inputs
+## 📥Inputs
 
 * **URL** - The base url you want to use. 
   * Example - https://wayscript.com
 * **Add variables to the URL**
 
-## Outputs
+## 📤Outputs
 
 * **Encoded URL** - The result is your encoded url
 

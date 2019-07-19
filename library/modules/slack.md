@@ -3,14 +3,14 @@
 ![Slack is where work flows.](../../.gitbook/assets/slack%20%281%29.png)
 
 {% hint style="info" %}
-Check out on [Github](https://github.com/slackapi/python-slackclient).
+Check out python-slackclient on [GitHub](https://github.com/slackapi/python-slackclient).
 {% endhint %}
 
 {% hint style="info" %}
 To run your program when Slack events occur, use the [Slack Trigger](../triggers/slack-trigger.md).
 {% endhint %}
 
-## Link Your Slack Account
+## 🔗Link Your Slack Account
 
 When using Slack module for the first time, follow the prompt to authorize access.
 
@@ -18,13 +18,13 @@ When using Slack module for the first time, follow the prompt to authorize acces
 You can add additional accounts from 'Select Workspace' dropdown in the Slack module settings
 {% endhint %}
 
-## Select a Slack Workspace
+## 💼Select a Slack Workspace
 
 Select the workspace that you would like to work with.
 
-## Work With Channels
+## \#⃣Work With Channels
 
-### What Would you Like to Do
+### ⚙Modes
 
 * Create a Channel
 * Write to a Channel
@@ -32,104 +32,104 @@ Select the workspace that you would like to work with.
 * Invite Users to a Channel
 * Get Channel's History of Messages
 
-### Create a Channel
+### 🌟Create a Channel
 
-#### Inputs
+#### 📥 Inputs
 
 * Name _\(required\)_
 * Make Private
 
-#### Outputs
+#### 📤 Outputs
 
 * New Channel's ID
 * JSON Data
 
-### Write to a Channel
+### ✏ Write to a Channel
 
 Choose any channel in your Workspace.
 
-#### Inputs
+#### 📥 Inputs
 
 * Message
 * As Bot
 
-#### Outputs
+#### 📤 Outputs
 
 * Action status
 * JSON Data
 
-### Get a List of Channel Members
+### 👥 Get a List of Channel Members
 
 Choose any channel in your Workspace.
 
-#### Outputs
+#### 📤 Outputs
 
 * List of Channel Members
 * JSON Data
 
-### Invite Users to a Channel
+### 👋Invite Users to a Channel
 
 Choose any channel in your Workspace.
 
-#### Inputs
+#### 📥 Inputs
 
 * Users IDs
 
-#### Outputs
+#### 📤 Outputs
 
 * Action status
 * JSON Data
 
-### Get Channel's History of Messages
+### 💬Get Channel's History of Messages
 
 Choose any channel in your Workspace
 
-#### Inputs
+#### 📥 Inputs
 
 * Number of Messages to Retrieve
 
-#### Outputs
+#### 📤 Outputs
 
 * Message History
 * Messengers
 * JSON Data
 
-## Work with Users
+## 👥Work with Users
 
-### What Would you Like to Do
+### ⚙ Modes
 
 * Get a User's Member ID
 * Lookup a User by their Email
 * Send a Direct Message
 
-### Get a User's Member ID
+### 👤Get a User's Member ID
 
 Choose a User
 
-#### Outputs
+#### 📤 Outputs
 
 * Member ID
 * JSON Data
 
-### Lookup a User by their Email
+### 📧 Lookup a User by their Email
 
-#### Inputs
+#### 📥 Inputs
 
 * Email
 
-#### Outputs
+#### 📤 Outputs
 
 * Member ID
 * Member Name
 * JSON Data
 
-### Send a Direct Message
+### 💬Send a Direct Message
 
-#### Inputs
+#### 📥 Inputs
 
 * Message
 
-#### Outputs
+#### 📤 Outputs
 
 * Action status
 * JSON Data

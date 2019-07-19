@@ -2,7 +2,7 @@
 
 ![Continue to the next iteration of the current loop.](../../../.gitbook/assets/continue.png)
 
-## Usage
+## ![](../../../.gitbook/assets/continue.png)Usage
 
 Use the Continue module inside a [loop](./) to finish the current iteration of a loop and continue the program at the next iteration.
 

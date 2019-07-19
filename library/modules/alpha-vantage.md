@@ -6,7 +6,7 @@
 Check out their [website](https://www.alphavantage.co/documentation/).
 {% endhint %}
 
-## Overview
+## 📈Overview
 
 [Alpha Vantage Inc.](https://www.alphavantage.co/#about) "is a leading provider of free APIs for realtime and historical data on stocks, forex \(FX\), and digital/crypto currencies."
 
@@ -14,7 +14,7 @@ The WayScript Alpha Vantage module gives you easy access to this information.
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-8.33.32-pm.png)
 
-### Available Data
+### 📖Available Data
 
 * [Most Recent Stock Data](alpha-vantage.md#most-recent-stock-data)
 * [Time Series Data](alpha-vantage.md#time-series-data)
@@ -34,13 +34,13 @@ The WayScript Alpha Vantage module gives you easy access to this information.
 
 ## Most Recent Stock Data
 
-### Inputs
+### 📥 Inputs
 
 Enter the name of the equity of your choice.
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-8.31.09-pm.png)
 
-### Outputs
+### 📤 Outputs
 
 * Open
 * High
@@ -51,7 +51,7 @@ Enter the name of the equity of your choice.
 
 ## Time Series Data
 
-### Settings
+### ⚙ Settings
 
 * Time Interval Between Data Points
 * Time Period
@@ -59,13 +59,13 @@ Enter the name of the equity of your choice.
   * Last 100 Data Points
   * All Data Points \(Returns the full-length time series of up to 20 years of historical data\)
 
-### Inputs
+### 📥 Inputs
 
 Enter the name of the equity of your choice.
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-8.34.39-pm.png)
 
-### Outputs
+### 📤 Outputs
 
 * Date
 * Open
@@ -77,7 +77,7 @@ Enter the name of the equity of your choice.
 
 ## Digital/Crypto Currencies
 
-### Settings
+### ⚙ Settings
 
 * Digital Currency
 * Exchange Market
@@ -85,7 +85,7 @@ Enter the name of the equity of your choice.
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-8.37.58-pm.png)
 
-### Outputs
+### 📤 Outputs
 
 * Timestamp
 * Open \(CNY\)
@@ -102,19 +102,19 @@ Enter the name of the equity of your choice.
 
 ## Simple Moving Average \(SMA\)
 
-### **Settings**
+### ⚙ **Settings**
 
 * **Time Interval Between Data Points -** Time interval between two consecutive data points in the time series.
 * **Time Series Period** - Number of data points used to calculate each SMA value. Positive integers are accepted. \(e.g. Time Period = 60, Time Period = 200\)
 * **Series Type** - The desired price type in the time series. Four types are supported: Close, Open, High, Low.
 
-### **Inputs**
+### 📥 **Inputs**
 
 Enter the name of the equity of your choice.
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-8.44.51-pm.png)
 
-### **Outputs**
+### 📤 **Outputs**
 
 * Date
 * SMA
@@ -122,19 +122,19 @@ Enter the name of the equity of your choice.
 
 ## Exponential Moving Average \(EMA\)
 
-### **Settings**
+### ⚙ **Settings**
 
 * **Time Interval Between Data Points -** Time interval between two consecutive data points in the time series.
 * **Time Series Period** - Number of data points used to calculate each EMA value. Positive integers are accepted. \(e.g. Time Period = 60, Time Period = 200\)
 * **Series Type** - The desired price type in the time series. Four types are supported: Close, Open, High, Low.
 
-### **Inputs**
+### 📥 **Inputs**
 
 Enter the name of the equity of your choice.
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-8.44.51-pm.png)
 
-### **Outputs**
+### 📤 **Outputs**
 
 * Date
 * EMA
@@ -144,12 +144,12 @@ Enter the name of the equity of your choice.
 
 For more information, see [How to use moving-average convergence divergence \(MACD\)](https://blog.liquid.com/cryptocurrency-technical-analysis-moving-average-convergence-divergence-macd).
 
-### **Settings**
+### ⚙ **Settings**
 
 * **Time Interval Between Data Points -** Time interval between two consecutive data points in the time series.
 * **Series Type** - The desired price type in the time series. Four types are supported: Close, Open, High, Low.
 
-### Advanced Settings
+### 💡 Advanced Settings
 
 * **Fast Period** - Defaults to 12.
 * **Slow Period** - Defaults to 26.
@@ -157,11 +157,11 @@ For more information, see [How to use moving-average convergence divergence \(MA
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-8.56.56-pm.png)
 
-### **Inputs**
+### 📥 **Inputs**
 
 Enter the name of the equity of your choice.
 
-### Outputs
+### 📤 Outputs
 
 * Date
 * MACD
@@ -173,11 +173,11 @@ Enter the name of the equity of your choice.
 
 For more information, see [Stochastic oscillator](https://en.wikipedia.org/wiki/Stochastic_oscillator).
 
-### **Settings**
+### ⚙ **Settings**
 
 * **Time Interval Between Data Points -** Time interval between two consecutive data points in the time series.
 
-### Advanced Settings
+### 💡 Advanced Settings
 
 * **Fast K Period** - Defaults to 5.
 * **Slow K Period** - Defaults to 3.
@@ -205,11 +205,11 @@ For more information, see [Stochastic oscillator](https://en.wikipedia.org/wiki/
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-8.59.29-pm.png)
 
-### **Inputs**
+### 📥 **Inputs**
 
 Enter the name of the equity of your choice.
 
-### Outputs
+### 📤 Outputs
 
 * Date
 * Slow K
@@ -218,7 +218,7 @@ Enter the name of the equity of your choice.
 
 ## Relative Strength Index \(RSI\)
 
-### **Settings**
+### ⚙ **Settings**
 
 * **Time Interval Between Data Points -** Time interval between two consecutive data points in the time series.
 * **Time Series Period** - Number of data points used to calculate each RSI value. Positive integers are accepted. \(e.g. Time Period = 60, Time Period = 200\)
@@ -227,13 +227,13 @@ Enter the name of the equity of your choice.
   * Most Recent \(Only the latest RSI\)
   * All
 
-### **Inputs**
+### 📥 **Inputs**
 
 Enter the name of the equity of your choice.
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-9.04.47-pm.png)
 
-### Outputs
+### 📤 Outputs
 
 * Date
 * RSI
@@ -241,18 +241,18 @@ Enter the name of the equity of your choice.
 
 ## Average Directional Movement Index \(ADX\)
 
-### **Settings**
+### ⚙ **Settings**
 
 * **Time Interval Between Data Points -** Time interval between two consecutive data points in the time series.
 * **Time Series Period** - Number of data points used to calculate each ADX value. Positive integers are accepted. \(e.g. Time Period = 60, Time Period = 200\)
 
-### **Inputs**
+### 📥 **Inputs**
 
 Enter the name of the equity of your choice.
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-9.08.52-pm.png)
 
-### Outputs
+### 📤 Outputs
 
 * Date
 * ADX
@@ -260,18 +260,18 @@ Enter the name of the equity of your choice.
 
 ## Commodity Channel Index \(CCI\)
 
-### **Settings**
+### ⚙ **Settings**
 
 * **Time Interval Between Data Points -** Time interval between two consecutive data points in the time series.
 * **Time Series Period** - Number of data points used to calculate each CCI value. Positive integers are accepted. \(e.g. Time Period = 60, Time Period = 200\)
 
-### **Inputs**
+### 📥 **Inputs**
 
 Enter the name of the equity of your choice.
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-9.08.52-pm.png)
 
-### Outputs
+### 📤 Outputs
 
 * Date
 * CCI
@@ -281,18 +281,18 @@ Enter the name of the equity of your choice.
 
 For more information, see [Aroon](https://school.stockcharts.com/doku.php?id=technical_indicators:aroon).
 
-### **Settings**
+### ⚙ **Settings**
 
 * **Time Interval Between Data Points -** Time interval between two consecutive data points in the time series.
 * **Time Series Period** - Number of data points used to calculate each Aroon value. Positive integers are accepted. \(e.g. Time Period = 60, Time Period = 200\)
 
-### **Inputs**
+### 📥 **Inputs**
 
 Enter the name of the equity of your choice.
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-9.08.52-pm.png)
 
-### Outputs
+### 📤 Outputs
 
 * Date
 * Aroon Down
@@ -303,13 +303,13 @@ Enter the name of the equity of your choice.
 
 For more information, see [Bollinger Bands](https://www.bollingerbands.com/bollinger-bands).
 
-### **Settings**
+### ⚙ **Settings**
 
 * **Time Interval Between Data Points -** Time interval between two consecutive data points in the time series.
 * **Time Series Period** - Number of data points used to calculate each band value. Positive integers are accepted. \(e.g. Time Period = 60, Time Period = 200\)
 * **Series Type** - The desired price type in the time series. Four types are supported: Close, Open, High, Low.
 
-### Advanced Settings
+### 💡 Advanced Settings
 
 * **Number Deviation Up** - The standard deviation multiplier of the upper bound. Defaults to 2.
 * **Number Deviation Down** - The standard deviation multiplier of the lower bound. Defaults to 2.
@@ -324,13 +324,13 @@ For more information, see [Bollinger Bands](https://www.bollingerbands.com/bolli
   * Kaufman Adaptive Moving Average \(KAMA\)
   * MESA Adaptive Moving Average \(MAMA\)
 
-### **Inputs**
+### 📥 **Inputs**
 
 Enter the name of the equity of your choice.
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-9.15.42-pm.png)
 
-### Outputs
+### 📤 Outputs
 
 * Date
 * Real Middle Band
@@ -340,17 +340,17 @@ Enter the name of the equity of your choice.
 
 ## Chaikin A/D Line \(AD\)
 
-### **Settings**
+### ⚙ **Settings**
 
 * **Time Interval Between Data Points -** Time interval between two consecutive data points in the time series.
 
-### **Inputs**
+### 📥 **Inputs**
 
 Enter the name of the equity of your choice.
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-9.27.30-pm.png)
 
-### Outputs
+### 📤 Outputs
 
 * Date
 * Chaikin A/D
@@ -358,17 +358,17 @@ Enter the name of the equity of your choice.
 
 ## On Balance Volume \(OBV\)
 
-### **Settings**
+### ⚙ **Settings**
 
 * **Time Interval Between Data Points -** Time interval between two consecutive data points in the time series.
 
-### **Inputs**
+### 📥 **Inputs**
 
 Enter the name of the equity of your choice.
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-9.27.30-pm.png)
 
-### Outputs
+### 📤 Outputs
 
 * Date
 * OBV
@@ -378,13 +378,13 @@ Enter the name of the equity of your choice.
 
 Outputs performance data for various market sectors.
 
-### Timeframe
+### 🗓 Timeframe
 
 The timeframe output gives the labels for each sector's data points.
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-9.32.05-pm.png)
 
-### Sectors
+### 🏛 Sectors
 
 * Utilities
 * Consumer Staples
@@ -400,7 +400,7 @@ The timeframe output gives the labels for each sector's data points.
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-9.36.06-pm.png)
 
-### Other Outputs
+### 📤 Other Outputs
 
 * JSON Data
 

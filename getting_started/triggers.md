@@ -12,17 +12,17 @@ You can get a full list of all Triggers and their functionality in the [Library]
 
 ![](../.gitbook/assets/screenshot-2019-07-16-13.31.03.png)
 
-So far in this introduction, we have run our programs by pressing the 'Run Main' button. Whether you realized it or not - this button is a Trigger! 
+▶ So far in this introduction, we have run our programs by pressing the "Run Main" button. Whether you realized it or not - this button is a Trigger! 
 
-Trigger events cause your program to run \(in the Run Main case it is just pressing the button\). However, there are many types of triggers you can set up to run your programs.  
+⚡Trigger events cause your program to run. In the "Run Main" case, the Trigger is just pressing the button. However, there are many other types of triggers you can set up to run your programs.  
 
 {% hint style="info" %}
 A simple example of this is the [Time Trigger](../library/triggers/time-trigger.md).
 {% endhint %}
 
-## How to Add a Trigger
+## ➕How to Add a Trigger
 
-To add a trigger, press the + button next to Add Trigger. 
+To add a trigger, press the **+** button next to Add Trigger. 
 
 ![](../.gitbook/assets/screenshot-2019-07-16-13.37.54.png)
 

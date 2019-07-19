@@ -3,14 +3,14 @@
 ![Extracts the individual components of a name.](../../.gitbook/assets/nameparser.png)
 
 {% hint style="info" %}
-Check out on [Github](https://github.com/derek73/python-nameparser/).
+Check out python-nameparser ****on [GitHub](https://github.com/derek73/python-nameparser/).
 {% endhint %}
 
-## Inputs
+## 📥Inputs
 
 * **Name** - example: Dr. Juan Q. Xavier de la Vega III \(Doc Vega\)
 
-## Outputs
+## 📤Outputs
 
 * **Title** - example: Dr.
 * **First Name** - example: Juan

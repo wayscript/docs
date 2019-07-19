@@ -6,7 +6,7 @@
 To run your program when Gmail messages change, use the [Gmail Trigger](../triggers/gmail-trigger.md).
 {% endhint %}
 
-## Setup
+## ⚙Setup
 
 Select an account or add an account to work with Gmail.
 
@@ -14,34 +14,34 @@ Select an account or add an account to work with Gmail.
 
 
 
-## Send Email
+## 📧Send Email
 
-### To
+### 👤To
 
 * You can input a [single item variable](../../getting_started/variables.md#single-item) or [hardcode](../../getting_started/modules.md#option-two-hardcode-a-value) an email address.
 * * This is a required input.
 * If you want to send to multiple emails, you can comma separate them. 
 
-### CC/BCC
+### 👥 CC/BCC
 
 * You can input a [single item variable](../../getting_started/variables.md#single-item) or [hardcode](../../getting_started/modules.md#option-two-hardcode-a-value) an email address.
 * If you want to send to multiple emails, you can comma separate them. 
 
-### Subject
+### 🔤 Subject
 
 * You can input a [single item variable](../../getting_started/variables.md#single-item) or [hardcode](../../getting_started/modules.md#option-two-hardcode-a-value) a subject.
 
-### Body
+### 📝 Body
 
 * Build the email body and [insert variables](../../getting_started/modules.md#option-one-insert-a-variable) wherever you want. 
 
 ![Gmail Setup Example](../../.gitbook/assets/screenshot-2019-07-16-17.39.05.png)
 
-## Import Emails
+## 📩Import Emails
 
 This mode pulls in data on all of the emails in your inbox. The outputs are all [lists](../../getting_started/variables.md#lists). 
 
-### Outputs
+### 📤 Outputs
 
 * **All Email Recipients** - For each message, returns a list of ALL email recipients \(includes To and Cc\)
 * **To Email Recipients** - All emails in the To section of the messages.

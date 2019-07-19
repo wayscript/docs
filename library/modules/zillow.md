@@ -3,14 +3,14 @@
 ![Real estate data.](../../.gitbook/assets/zillow_data.png)
 
 {% hint style="info" %}
-View on [Github](https://github.com/seme0021/python-zillow).
+Check out python-zillow on [GitHub](https://github.com/seme0021/python-zillow).
 {% endhint %}
+
+## 🔑Registering for an API Key
 
 {% hint style="warning" %}
-The Zillow modules requires you to create an API Key on Zillow. See [Registering for an API Key](zillow.md#registering-for-an-api-key) below. 
+The Zillow module requires you to create an API Key on Zillow.
 {% endhint %}
-
-## Registering for an API Key
 
 ### 1\) Go to [Zillow API Signup Dashboard](https://www.zillow.com/user/Register.htm)
 
@@ -28,14 +28,14 @@ CHECK ALL APIs under the select API\(s\) section!
 
 ### 4\) You will recieve your Zillow Identification Key \(ZWSID\) via email. 
 
-## Inputs
+## 📥Inputs
 
 * **Address** - Format: Street, Town, State
   * Ex: 3400 Pacific Ave., Marina Del Rey, CA
 * **Zip Code** - United States Zip \(postal\) Code
   * Ex: 90292
 
-## Outputs
+## 📤Outputs
 
 {% hint style="info" %}
 Outputs are [single Items](../../getting_started/variables.md#single-item) if mode is "Get Data on an Address." Outputs are [lists](../../getting_started/variables.md#lists) if mode is "Get Comparables to an Address."

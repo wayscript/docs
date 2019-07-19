@@ -4,11 +4,11 @@
 
 The Send Email module allows you to send emails to the address associated with your account.
 
-## Include Variables
+## ![](../../.gitbook/assets/create_var.png) Include Variables
 
 Variables can be Included in the Subject and Body of your email.
 
-## Attach File
+## 📎 Attach File
 
 You can select any [file on your account](../../account-management/managing-your-files.md) to include as an attachment.
 

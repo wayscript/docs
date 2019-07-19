@@ -2,13 +2,13 @@
 
 ![Get the current date and time.](../../.gitbook/assets/datetime.png)
 
-## Get Current Date Time
+## 📅Get Current Date Time
 
-### Settings
+### ⚙ Settings
 
 * **Time Zone** - Select the Time Zone you want to pull. 
 
-### Outputs
+### 📤 Outputs
 
 * **Date and Time** - Returns the current date and time
   * Format: Year-Month-Day Hour-Minute-Seconds
@@ -18,13 +18,13 @@
   * Format: Hour-Minute-Seconds
 * **Day of the Week -** Returns Monday, Tuesday, Wednesday, etc.
 
-## Extract Date Features
+## 🕔Extract Date Features
 
-### Inputs
+### 📥 Inputs
 
 * **DateTime** - Takes a Date Type variable as an input
 
-### Outputs
+### 📤 Outputs
 
 * **Date** - Returns the current date.
   * Format: Year-Month-Day

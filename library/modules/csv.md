@@ -2,15 +2,15 @@
 
 ![Read and Write to CSV files.](../../.gitbook/assets/csv_reader.png)
 
-## Read File
+## 📖Read File
 
 Import columns from a CSV as WayScript variables.
 
-### Select or Upload CSV
+### ![](../../.gitbook/assets/csv_reader.png)Select or Upload CSV
 
 CSV files on your account will appear as options. Use the 'Upload File' button to add a new file.
 
-### Create Variables
+### 🌟Create Variables
 
 Once a file is selected to read, A table with the file's contents will appear in the Outputs section. 
 
@@ -26,17 +26,17 @@ Naming a column in the table creates a [List](../../getting_started/variables.md
 
 ![Note that first row is ignored in creating variables](../../.gitbook/assets/screen-shot-2019-07-17-at-11.25.14-am.png)
 
-## Write File
+## ✍Write File
 
-### Select File
+### ⚙Select File
 
 Use the file dropdown to select an [existing file on your account](../../account-management/managing-your-files.md) or create a new one.
 
-### Include Headers
+### ☑Include Headers
 
 If checked, the variable name will be written as the first row of each column.
 
-### Write Mode
+### ✏Write Mode
 
 1. Add to File: Every time the program runs, new rows of data will be added to the bottom of the CSV file.
 2. Replace File: Every time the program runs, the file will be cleared before writing new data.
@@ -47,7 +47,7 @@ Headers will only be written when the file is blank.
 If 'Include Headers' is selected, changing a variable name when adding to an existing and non-empty file will not replace the header row.
 {% endhint %}
 
-### Adding variables
+### ➕Adding Variables
 
 Each time the CSV Module executes in Write Mode, one row of data is added.  
 
@@ -57,7 +57,7 @@ Each time the CSV Module executes in Write Mode, one row of data is added.
 To write each entry of list to a new row, use a [Loop](../../getting_started/looping-iteration.md).
 {% endhint %}
 
-### Preview
+### 🔎Preview
 
 As variables are added and removed, the Outputs section displays a preview of what will be written.
 

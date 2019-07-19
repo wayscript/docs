@@ -2,7 +2,7 @@
 
 ![Airtable works like a spreadsheet, but gives you the power of a database to organize anything.](../../.gitbook/assets/airtable.png)
 
-## Functionality
+## ![](../../.gitbook/assets/airtable.png) Functionality
 
 With the Airtable module you can:
 
@@ -10,7 +10,7 @@ With the Airtable module you can:
 * Delete Table Rows
 * Create New Table Rows
 
-## Setting Up Your Airtable Account
+## ⚙Setting Up Your Airtable Account
 
 ### 1. Drag the Airtable module into your WayScript program
 
@@ -68,7 +68,7 @@ In this example, we are using the "Event Marketing" base. Click on the base.
 
 ![](../../.gitbook/assets/submitted.png)
 
-## Working with a Table
+## 💼Working with a Table
 
 Choose the table you want to work with in the "Table Name" input. \(In this case, the "Events" table.\)
 
@@ -76,13 +76,13 @@ Choose the table you want to work with in the "Table Name" input. \(In this case
 
 ![](../../.gitbook/assets/table_input.png)
 
-### Select an Operation
+### 🔎 Select an Operation
 
 Choose whether you would like to **Get Records**, **Delete Rows**, or **Create a New Record**.
 
 ![What would you like to do?](../../.gitbook/assets/screen-shot-2019-07-15-at-7.55.25-pm.png)
 
-### Get Records
+### 🗃Get Records
 
 The "Get Records" option allows you to retrieve data from a table.
 
@@ -106,11 +106,11 @@ All rows matching your settings above will display in the "Inputs" section.
 Click the "Refresh" button for the most up-to-date results.
 {% endhint %}
 
-### Delete Rows
+### ❌Delete Rows
 
 The "Delete Rows" option works much in the same way as the "Get Records" option, but deletes any matching records instead of retrieving them.
 
-### Create a New Record
+### 🌟Create a New Record
 
 You also have the option to Create a New Record. 
 
@@ -131,7 +131,7 @@ If you opt to input raw JSON, you will need to select the WayScript variable tha
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-8.13.08-pm.png)
 
-## Outputs
+## 📤 Outputs
 
 Each column of your table will be available to select as an output from the Airtable module.
 

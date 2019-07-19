@@ -6,11 +6,11 @@
 Powered by [mailboxlayer](https://mailboxlayer.com/).
 {% endhint %}
 
-## Inputs
+## 📥Inputs
 
 * **Email** - Email address you want to verify
 
-## Outputs
+## 📤Outputs
 
 * **Email Format** - Returns 'Valid' for proper email syntax, otherwise returns 'Invalid'.
 * **SMTP Test** - Contacts the email address via the Simple Mail Tansfer Protocol \(SMTP\) to determine whether the email address provided actually exists. Returns 'Passed' if the email address exists, otherwise returns 'Failed'

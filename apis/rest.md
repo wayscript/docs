@@ -4,7 +4,7 @@ description: Run WayScript programs via HTTP requests.
 
 # REST API
 
-## **Add a Webhook Trigger**
+## \*\*\*\*![](../.gitbook/assets/webhook.png)**Add a Webhook Trigger**
 
 In order to trigger WayScript programs with an api call, you must first add a [Webhook Trigger](../library/triggers/webhook-trigger.md) to your program.
 
@@ -73,7 +73,7 @@ Run this program asynchronously. \(See below.\) Defaults to `False`.
 For instructions on finding your WayScript API Key, see [Managing Your API Key](../account-management/managing-your-api-key.md).
 {% endhint %}
 
-### Examples
+### 💡Examples
 
 #### Run a Program
 

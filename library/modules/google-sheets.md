@@ -6,7 +6,7 @@
 To run your program when a Google Sheet changes, use the [Google Sheets Trigger](../triggers/google-sheets-trigger.md).
 {% endhint %}
 
-## Link Your Google Account
+## 🔗Link Your Google Account
 
 In order to use the Google Sheets module, you must first link your Google account.
 
@@ -16,13 +16,13 @@ In order to use the Google Sheets module, you must first link your Google accoun
 You can add additional accounts from the Google Sheets module settings.
 {% endhint %}
 
-## Read File
+## 📖Read File
 
 When the Google Sheets module is activated, the default setting is to read a file.
 
 Reading files allows you to import columns into WayScript as variables.
 
-### Choose File to Read
+### 📂 Choose File to Read
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-11.57.31-am.png)
 
@@ -30,7 +30,7 @@ Reading files allows you to import columns into WayScript as variables.
 If you do not see the Google Sheet you are looking for, click the refresh button.
 {% endhint %}
 
-### Importing Columns as Variables
+### ➕ Importing Columns as Variables
 
 Once a spreadsheet is selected, the spreadsheet will populate on the page.
 
@@ -43,9 +43,9 @@ Once a spreadsheet is selected, the spreadsheet will populate on the page.
 In order to import a column as a variable, the column must be labelled. Once labelled, the column will appear under variables.
 {% endhint %}
 
-## Write File
+## ✍Write File
 
-### Choose File to Write
+### 📂 Choose File to Write
 
 Pick the Google Sheet you want your WayScript program to write to.
 
@@ -55,26 +55,26 @@ Pick the Google Sheet you want your WayScript program to write to.
 If you do not see the Google Sheet you are looking for, click the refresh button.
 {% endhint %}
 
-### Choose a Worksheet
+### ![](../../.gitbook/assets/google_sheets.png) Choose a Worksheet
 
 Select the Worksheet you would like to write.
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-12.13.10-pm.png)
 
-### Include Headers
+### ☑ Include Headers
 
 If "Include Headers" is selected, data headers will be written to your Google Sheet.
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-12.14.36-pm.png)
 
-### Write Mode
+### ✏ Write Mode
 
 * **Add To File:** Every time the program runs, new rows of data will be added to the bottom of the spreadsheet.
 * **Replace File:** Every time the program runs, the file will be wiped clean before it is written.
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-12.14.40-pm.png)
 
-### Ignore Duplicates
+### 🧹 Ignore Duplicates
 
 The Google Sheets module allows you to ignore duplicates. If the same data already exists as a row in the spreadsheet, it will not be written to the file again.
 
@@ -88,7 +88,7 @@ If the entire row is equal to another entire row in the spreadsheet, it will not
 
 If the selected column already contains the value about to be written to that row, the row will not be written.
 
-### Add Your Variables
+### ➕ Add Your Variables
 
 You need to assign values to columns by pressing the **+** button under "Add Your Variables."
 
@@ -100,7 +100,7 @@ You can add as many columns as you like.
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-12.28.51-pm.png)
 
-### Fire Notification
+### ⚡ Fire Notification
 
 By default, changes WayScript makes to your Google Sheets do not fire notifications. This is to prevent your program from triggering another program with a [Google Sheets Trigger](../triggers/google-sheets-trigger.md).
 
@@ -108,7 +108,7 @@ If you want your changes to fire a notification, enable this setting.
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-12.09.29-pm.png)
 
-### Writing a List Variable to a Spreadsheet Column
+### 💡 Writing a List Variable to a Spreadsheet Column
 
 {% hint style="info" %}
 To learn how to write each item of a list variable to a separate cell in a single column of your spreadsheet, see [Protip: Writing Lists to Spreadsheets](https://wayscript.com/blog_entry/38).

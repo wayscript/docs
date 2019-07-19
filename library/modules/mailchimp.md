@@ -2,7 +2,7 @@
 
 ![Marketing automation platform and email marketing service.](../../.gitbook/assets/mailchimp.png)
 
-## Link Your Mailchimp Account
+## 🔗Link Your Mailchimp Account
 
 When using a Mailchimp module for the first time, follow the prompt to authorize access.
 
@@ -10,9 +10,9 @@ When using a Mailchimp module for the first time, follow the prompt to authorize
 You can add additional accounts from the Mailchimp module settings.
 {% endhint %}
 
-## Create a List
+## 📋Create a List
 
-### Inputs
+### 📥 Inputs
 
 * List Name _\(required\)_
 * Company Name _\(required\)_
@@ -32,13 +32,13 @@ You can add additional accounts from the Mailchimp module settings.
   * True
   * False
 
-### Outputs
+### 📤 Outputs
 
 * JSON Data
 
-## Add a New Member to a List
+## 👤Add a New Member to a List
 
-### Inputs
+### 📥 Inputs
 
 * List ID _\(required\)_
 * Email Address _\(required\)_
@@ -49,25 +49,25 @@ You can add additional accounts from the Mailchimp module settings.
   * Pending
 * Tags
 
-### Outputs
+### 📤 Outputs
 
 * JSON Data
 
-## Get Information About All Your Lists
+## 🔎Get Information About All Your Lists
 
-### Outputs
+### 📤 Outputs
 
 * List ID
 * List Name
 * JSON Data
 
-## Get All Members in a List
+## 👥Get All Members in a List
 
-### Inputs
+### 📥 Inputs
 
 * List ID _\(required\)_
 
-### Outputs
+### 📤 Outputs
 
 * Member Email Addresses
 * Member IDs

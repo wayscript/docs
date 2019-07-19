@@ -6,7 +6,7 @@
 >
 > -[LaunchSchool](https://launchschool.com/books/ruby/read/variables)
 
-## Create Variable Setup
+## ![](../.gitbook/assets/create_var.png)Create Variable Setup
 
 Drag the [Create Variable](../library/logic/variables/create-variable.md) module into your program flow diagram.
 
@@ -40,7 +40,7 @@ You can begin typing the variable name to select it, or you can drag the variabl
 
 ![Your variable data is printed when the program runs.](../.gitbook/assets/screenshot-2019-07-15-15.36.21.png)
 
-## Lists
+## 📃Lists
 
 ### What is a list?
 
@@ -68,15 +68,15 @@ The blue border indicates that this variable is a list and the number badge indi
 
 Variables currently have the following types:
 
-* Text
-* Number
-* Date/Time
+* Text 🔤 
+* Number 🔢 
+* Date/Time 📆 
 
 You explicitly define the type of your variables. Note - if you are building a [List](variables.md#lists) - the variable type defines the type of data in _each_ list item. WayScript performs type validation on each of your items. As an example, if you create a Number Type, but set your variable value to a non-number, the value will be rejected. This is important because many [modules](../library/modules/) often only accept inputs of particular types. 
 
 ![](../.gitbook/assets/screenshot-2019-07-16-09.56.45.png)
 
-## Power-User Features
+## 💪Power-User Features
 
 If you know some coding, you can more rapidly build a variable from the module shortcut dropdown by entering the definition directly. 
 
