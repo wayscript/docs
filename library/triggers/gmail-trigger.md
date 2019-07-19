@@ -18,7 +18,7 @@ You can add additional accounts from the Gmail Trigger settings.
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-12.41.52-pm.png)
 
-### Modes
+### ![](../../.gitbook/assets/gmail.png) Modes
 
 1. **Run for all emails:** All emails are evaluated.
 2. **Run for emails with specific labels:** Only emails containing one of these labels will be evaluated.

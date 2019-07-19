@@ -28,7 +28,7 @@ Select what type of change to a Google Sheet will trigger your program:
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-11.23.05-am.png)
 
-### Choose a Spreadsheet/Worksheet
+### ![](../../.gitbook/assets/google_sheets.png)Choose a Spreadsheet/Worksheet
 
 Depending on what type of Google Sheets change you selected in the step above, you will need to choose a Spreadsheet and Worksheet.
 
