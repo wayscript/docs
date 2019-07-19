@@ -4,19 +4,19 @@ description: Change a function's name or declare inputs and outputs.
 
 # Function Definition
 
-## ⚙Settings
+## ⚙ Settings
 
 To access the Function Definition settings, click on the name of the function.
 
 ![Click the name of the function to access settings](../../../.gitbook/assets/function_name.png)
 
-### ✏**Give your Function a Name \(Optional\)**
+### ✏ **Give your Function a Name \(Optional\)**
 
 You can optionally give your function a name using the "Function Name" field. If you choose not to, a default name will be provided for you.
 
 ![Enter a name for your function](../../../.gitbook/assets/img1%20%281%29.png)
 
-## 🏭Inputs and Outputs
+## 🏭 Inputs and Outputs
 
 Add any inputs and outputs your function needs. You must provide a name for each input and output, and can also set their types \(ie, text, number, etc\).
 
