@@ -2,7 +2,7 @@
 
 ![Work with Twitch data.](../../.gitbook/assets/twitch.png)
 
-## 🎮Get a List of the Current Top Games
+## 🎮 Get a List of the Current Top Games
 
 ![](../../.gitbook/assets/screen-shot-2019-07-16-at-5.56.37-pm.png)
 
@@ -22,7 +22,7 @@
 A Games ID can be found in the Games by ID list at the same index that it's in this list.
 {% endhint %}
 
-## 📺Get a List of the Current Top Streams
+## 📺 Get a List of the Current Top Streams
 
 ![](../../.gitbook/assets/screen-shot-2019-07-16-at-5.57.10-pm.png)
 
@@ -51,7 +51,7 @@ A Games ID can be found in the Games by ID list at the same index that it's in t
 To match streamer names to viewer counts, look at the same index in each corresponding list.
 {% endhint %}
 
-## 🕹Get a Game's Name from Its ID
+## 🕹 Get a Game's Name from Its ID
 
 ![](../../.gitbook/assets/screen-shot-2019-07-16-at-5.57.24-pm.png)
 
@@ -64,7 +64,7 @@ To match streamer names to viewer counts, look at the same index in each corresp
 * Game Name
 * JSON Data
 
-## 🤖Get a Game's ID from Its Name
+## 🤖 Get a Game's ID from Its Name
 
 ![](../../.gitbook/assets/screen-shot-2019-07-16-at-5.57.38-pm.png)
 
