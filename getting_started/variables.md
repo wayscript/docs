@@ -1,4 +1,4 @@
-# Variables [](../.gitbook/assets/space.png)![](../.gitbook/assets/create_var.png)
+# Variables
 
 ## What is a Variable?
 
@@ -12,7 +12,7 @@ Drag the [Create Variable](../library/logic/variables/create-variable.md) module
 
 ![The Create Variable module is in your Logic Panel](../.gitbook/assets/screenshot-2019-07-15-12.28.05.png)
 
-WayScript will automatically display the Settings Panel for your [Create Variable](../library/logic/variables/create-variable.md) step. This is where you are going to set up your variable. 
+WayScript will automatically display the Settings Panel for your [Create Variable](../library/logic/variables/create-variable.md) step. This is where you are going to set up your variable.
 
 ![](../.gitbook/assets/screenshot-2019-07-15-12.36.06.png)
 
@@ -22,7 +22,7 @@ For this example, we are going to assign a **Variable Name** called "Location" a
 
 ![](../.gitbook/assets/screenshot-2019-07-15-12.41.46.png)
 
-After setup, your new variable will appear in the **Variables Panel.** You can now use this variable in your program. 
+After setup, your new variable will appear in the **Variables Panel.** You can now use this variable in your program.
 
 ![All accessible variables are in your Variables Panel](../.gitbook/assets/screenshot-2019-07-15-13.00.21.png)
 
@@ -32,7 +32,7 @@ The green border indicates that this variable is a single item.
 
 #### Example of using a Single Item Variable
 
-Your variable is is available for reference at any future step in your program flow. In this example, we can now print a message which contains the Location variable. 
+Your variable is is available for reference at any future step in your program flow. In this example, we can now print a message which contains the Location variable.
 
 ![](../.gitbook/assets/screenshot-2019-07-15-15.40.49.png)
 
@@ -52,7 +52,7 @@ In your [Create Variable](../library/logic/variables/create-variable.md) Setting
 
 ![](../.gitbook/assets/screenshot-2019-07-15-15.46.17.png)
 
-In this example, we'll create a list with **Variable Name** "Grocery List" and add items as **Variable Values.** The use cases for lists will be discussed more in the [Looping](looping-iteration.md) ****section of the docs.
+In this example, we'll create a list with **Variable Name** "Grocery List" and add items as **Variable Values.** The use cases for lists will be discussed more in the [Looping](looping-iteration.md) _\*\*_section of the docs.
 
 ![You can add as many items to a list as you want. ](../.gitbook/assets/screenshot-2019-07-15-15.49.28.png)
 
@@ -72,15 +72,15 @@ Variables currently have the following types:
 * Number 🔢 
 * Date/Time 📆 
 
-You explicitly define the type of your variables. Note - if you are building a [List](variables.md#lists) - the variable type defines the type of data in _each_ list item. WayScript performs type validation on each of your items. As an example, if you create a Number Type, but set your variable value to a non-number, the value will be rejected. This is important because many [modules](../library/modules/) often only accept inputs of particular types. 
+You explicitly define the type of your variables. Note - if you are building a [List](variables.md#lists) - the variable type defines the type of data in _each_ list item. WayScript performs type validation on each of your items. As an example, if you create a Number Type, but set your variable value to a non-number, the value will be rejected. This is important because many [modules](../library/modules/) often only accept inputs of particular types.
 
 ![](../.gitbook/assets/screenshot-2019-07-16-09.56.45.png)
 
 ## 💪Power-User Features
 
-If you know some coding, you can more rapidly build a variable from the module shortcut dropdown by entering the definition directly. 
+If you know some coding, you can more rapidly build a variable from the module shortcut dropdown by entering the definition directly.
 
-This power-user features matches the syntax of the Python programming language for strings and arrays. 
+This power-user features matches the syntax of the Python programming language for strings and arrays.
 
 ![](../.gitbook/assets/screenshot-2019-07-15-15.53.14.png)
 
