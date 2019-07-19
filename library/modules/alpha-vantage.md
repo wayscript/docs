@@ -6,7 +6,7 @@
 Check out their [website](https://www.alphavantage.co/documentation/).
 {% endhint %}
 
-## 📈Overview
+## 📈 Overview
 
 [Alpha Vantage Inc.](https://www.alphavantage.co/#about) "is a leading provider of free APIs for realtime and historical data on stocks, forex \(FX\), and digital/crypto currencies."
 
@@ -14,7 +14,7 @@ The WayScript Alpha Vantage module gives you easy access to this information.
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-8.33.32-pm.png)
 
-### 📖Available Data
+### 📖 Available Data
 
 * [Most Recent Stock Data](alpha-vantage.md#most-recent-stock-data)
 * [Time Series Data](alpha-vantage.md#time-series-data)
@@ -384,7 +384,7 @@ The timeframe output gives the labels for each sector's data points.
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-9.32.05-pm.png)
 
-### 🏛 Sectors
+### 🏦 Sectors
 
 * Utilities
 * Consumer Staples
