@@ -20,3 +20,7 @@ Enter the phrase you would like Alexa to speak in the "Speech Text" field.
 
 You can include variable values by dragging them into this field from the Variables panel.
 
+{% hint style="warning" %}
+Speech Text has a maximum length of 600 characters. Messages over that limit will be truncated.
+{% endhint %}
+

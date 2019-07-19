@@ -16,7 +16,7 @@ In order to do this, you must first link your Discord account. Then, select the 
 
 ## ⚙Settings
 
-### Choose when to run the program
+### ⚡Choose when to run the program
 
 Run program when:
 
@@ -25,7 +25,7 @@ Run program when:
 
 ![](../../.gitbook/assets/img2.png)
 
-### Choose a Channel
+### \#Choose a Channel
 
 Choose a Discord channel to work with.
 
