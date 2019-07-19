@@ -6,9 +6,9 @@
 To have Alexa speak a phrase, use the [Alexa module](../modules/alexa.md).
 {% endhint %}
 
-## ⚙Setup
+## ⚙ Setup
 
-### ![](../../.gitbook/assets/alexa_128x128.png)Enable Alexa
+### ![](../../.gitbook/assets/alexa_128x128.png) Enable Alexa
 
 Add the WayScript skill to your Amazon Alexa account. [Get the WayScript Alexa Skill.](https://www.amazon.com/gp/product/B07QXXG32B)
 
@@ -16,7 +16,7 @@ Add the WayScript skill to your Amazon Alexa account. [Get the WayScript Alexa S
 WayScript will remind you to do this the first time you use an Alexa Trigger.
 {% endhint %}
 
-### 🕵♀Program Alias
+### 🕵♀ Program Alias
 
 You can supply an easy-to-understand alias for your program.
 
@@ -26,7 +26,7 @@ You can supply an easy-to-understand alias for your program.
 Useful when your program name is long or difficult for Alexa to understand
 {% endhint %}
 
-## 🗣Voice Commands
+## 🗣 Voice Commands
 
 ### ➡ Pass in Spoken Input
 
@@ -40,7 +40,7 @@ Suppose your program is called 'Stock Prices' and takes a single input called \[
 
 > "Alexa, launch WayScript and run 'Stock Prices' with AAPL."
 
-### 💬Speak a Phrase
+### 💬 Speak a Phrase
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-3.12.35-pm.png)
 
@@ -48,11 +48,11 @@ Once you have added the Alexa Trigger to a program, you can include the Alexa mo
 
 You can reference variables that were created earlier in the program and insert them into an Alexa Phrase. See the [Alexa module documentation](../modules/alexa.md) for more details.
 
-## 🎓Tutorial
+## 🎓 Tutorial
 
 For a brief tutorial on how to use the Alexa Trigger, see [Run a Python Script with an Alexa Voice Command.](https://wayscript.com/blog_entry/36)
 
-## ❓FAQs
+## ❓ FAQs
 
 **Q.** When I say "Alexa, launch WayScript and run 'Hello World'", Alexa replies "You have WayScript enabled, Do you want to open it?" No matter what I say next, nothing happens.
 

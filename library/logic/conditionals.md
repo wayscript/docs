@@ -6,7 +6,7 @@
 For an overview on conditionals in WayScript, refer to the [Introduction to Conditionals](../../getting_started/conditionals.md).
 {% endhint %}
 
-## ![](../../.gitbook/assets/conditional.png)Condition Block
+## ![](../../.gitbook/assets/conditional.png) Condition Block
 
 You will use this block to define a logic expression.
 
@@ -90,7 +90,7 @@ By pressing the **+** button in the Inputs section, you can add additional condi
 
 ![Multiple conditions being compared using the Or operator](../../.gitbook/assets/or.png)
 
-## ![](../../.gitbook/assets/conditional.png)**If / Else**
+## ![](../../.gitbook/assets/conditional.png) **If / Else**
 
 The **If** branch will run if your logic expression evaluates to `True`.
 

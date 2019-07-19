@@ -4,14 +4,14 @@ description: Linking your phone number allows you to interact with WayScript via
 
 # Phone Number Verification
 
-## 📱Adding a Phone Number
+## 📱 Adding a Phone Number
 
 1. When you first drag in a module that requires a linked phone number \([Text Message](../library/modules/text-message.md), [Text Message Trigger](../library/triggers/text-message-trigger.md)\). You will be prompted to verify your phone number. 
 2. Use the Account Dropdown in the navigation bar to and select [Update Contact Info](https://wayscript.com/auth/update-contact-info).
 
 ![](../.gitbook/assets/screen-shot-2019-07-17-at-12.23.23-pm.png)
 
-## ✅Verification Process
+## ✅ Verification Process
 
 First, enter your number in the "Provide a Phone Number" dialog when prompted.
 

@@ -17,7 +17,7 @@ WayScript is adding new modules and third-party integrations all the time!
 If there's functionality you would like to see added, [submit a feature request on GitHub](https://github.com/wayscript/feedback), or email us at founders@wayscript.com.
 {% endhint %}
 
-## ![](../../.gitbook/assets/wayscript_32x32.png)Available Modules
+## ![](../../.gitbook/assets/wayscript_32x32.png) Available Modules
 
 All available modules are documented in the sub-articles in this section:
 

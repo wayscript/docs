@@ -6,19 +6,19 @@
 To work with Slack channels and users, use the [Slack module](../modules/slack.md).
 {% endhint %}
 
-## 🔗Link Your Slack Account
+## 🔗 Link Your Slack Account
 
 When you drag in a Slack Trigger for the first time, follow the prompt to authorize access.
 
-## ⚙Settings
+## ⚙ Settings
 
-### 💼Workspace
+### 💼 Workspace
 
 Select a linked workspace, or add a new one.
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-2.57.01-pm.png)
 
-### ⚡Mode
+### ⚡ Mode
 
 Choose which event\(s\) will trigger your program
 
@@ -53,7 +53,7 @@ Exclude messages from bots if you have a WayScript program that is posting as a 
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-3.07.39-pm.png)
 
-## 📤Outputs
+## 📤 Outputs
 
 Select what event data you would like to retrieve as a program variable and set default values.
 

@@ -6,7 +6,7 @@
 To automate actions with Gmail, use the [Gmail module](../modules/gmail.md).
 {% endhint %}
 
-## 🔗Link Your Gmail Account
+## 🔗 Link Your Gmail Account
 
 When you drag in a Gmail Trigger for the first time, follow the prompt to authorize access.
 
@@ -14,7 +14,7 @@ When you drag in a Gmail Trigger for the first time, follow the prompt to author
 You can add additional accounts from the Gmail Trigger settings.
 {% endhint %}
 
-## ⚙Settings
+## ⚙ Settings
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-12.41.52-pm.png)
 
@@ -46,7 +46,7 @@ Choose which event\(s\) will activate the trigger.
 The affected message\(s\) will be evaluated to create program variables. 
 {% endhint %}
 
-### 📤Outputs
+### 📤 Outputs
 
 Select the data to retrieve as variables for your program.
 

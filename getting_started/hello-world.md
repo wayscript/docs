@@ -1,8 +1,8 @@
 # Hello World
 
-## ![](../.gitbook/assets/wayscript_32x32.png)Creating a WayScript Program
+## ![](../.gitbook/assets/wayscript_32x32.png) Creating a WayScript Program
 
-### 🌎Initialize a New Program
+### 🌎 Initialize a New Program
 
 On the dashboard, click **Build from Scratch** and name your program 'Hello World'. Press **Create** to start building your program.
 
@@ -10,7 +10,7 @@ On the dashboard, click **Build from Scratch** and name your program 'Hello Worl
 
 When you press Create, you are brought into the WayScript program builder.
 
-### 🖨Print to Log
+### 🖨 Print to Log
 
 Drag the '[Print To Log](../library/logic/print-to-log.md)' [Module](../library/modules/) from your [Logic](../library/logic/) panel to your Flow Diagram.
 
@@ -20,15 +20,15 @@ Enter 'Hello World!' as the input to the [Print to Log](../library/logic/print-t
 
 ![](../.gitbook/assets/screenshot-2019-07-15-12.00.25.png)
 
-### ▶Run Your Program
+### ▶ Run Your Program
 
 **Press the Run Main button** to run your program in the cloud. 'Hello World!' will print to the program log.
 
 ![Press &apos;Run Main&apos; on your Flow Diagram, and your program runs.](../.gitbook/assets/screenshot-2019-07-15-12.05.30.png)
 
-🎉**Congratulations** on running your first WayScript program!
+🎉 **Congratulations** on running your first WayScript program!
 
-## 📖What's Next?
+## 📖 What's Next?
 
 Now that you've learned the basics, check out these articles for more in-depth tutorials:
 

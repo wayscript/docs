@@ -4,7 +4,7 @@ description: We would love to hear from you!
 
 # Feedback and Bug Reporting
 
-## ![](../.gitbook/assets/super.png)Be a Superhero!
+## ![](../.gitbook/assets/super.png) Be a Superhero!
 
 Submit bugs, feature requests, or feedback you would like to share with the WayScript team!
 
@@ -30,7 +30,7 @@ You will then be presented with a modal giving two options:
 
 Drop us a line at **founders@wayscript.com**_._
 
-### ![](../.gitbook/assets/discord.png)Send a Discord Message
+### ![](../.gitbook/assets/discord.png) Send a Discord Message
 
 Send a Discord message by clicking the icon in the lower right corner of the site.
 

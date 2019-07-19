@@ -6,7 +6,7 @@
 To learn about using loops in WayScript, see [Looping / Iteration](../../../getting_started/looping-iteration.md).
 {% endhint %}
 
-## 📥Input
+## 📥 Input
 
 Looping over a list will perform the same operations on each value in the list.
 
@@ -24,9 +24,9 @@ You can select multiple variables to loop over in one Loop module.
 You can only loop over a list, so only variables that are lists will appear as options. 
 {% endhint %}
 
-## 💡Advanced Options
+## 💡 Advanced Options
 
-### ☝Start at Index
+### ☝ Start at Index
 
 Define what index of the list you want to start iterating at. 
 
@@ -34,19 +34,19 @@ Define what index of the list you want to start iterating at.
 Indexes in a list start at 0, so the first item in a list is at index 0.
 {% endhint %}
 
-### 🔂Maximum Number of Times to Loop
+### 🔂 Maximum Number of Times to Loop
 
 Define the maximum number of values you want to iterate over in your list.
 
 ![](../../../.gitbook/assets/screen-shot-2019-07-16-at-10.21.00-am.png)
 
-## ![](../../../.gitbook/assets/loop.png)Example
+## ![](../../../.gitbook/assets/loop.png) Example
 
 In the example below, the Loop module will iterate over each value in the "My List" variable and print each value to the log using the [Print To Log ](../print-to-log.md)module.
 
  ![](../../../.gitbook/assets/screen-shot-2019-07-16-at-10.22.18-am.png) ![](../../../.gitbook/assets/screen-shot-2019-07-16-at-10.28.24-am.png) 
 
-## 📖Control Flow Statements
+## 📖 Control Flow Statements
 
 The following loop control flow statements are available:
 

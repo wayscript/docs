@@ -14,13 +14,13 @@ In programming, a **for-loop** is a control-flow statement directing your progra
 
 The power of looping is easiest to demonstrate with an example.
 
-### ![](../.gitbook/assets/create_var.png)Create a List
+### ![](../.gitbook/assets/create_var.png) Create a List
 
 In this example, we build the same grocery list variable from the [WayScript Lists documentation](variables.md#lists). 
 
 ![Varialbes outlined in blue are lists.](../.gitbook/assets/screenshot-2019-07-15-15.49.50.png)
 
-### ![](../.gitbook/assets/loop.png)Create a Loop
+### ![](../.gitbook/assets/loop.png) Create a Loop
 
 Drag in the Loop Module from the **Logic Panel** as the next step in your program flow. 
 
@@ -44,7 +44,7 @@ Finally, let's add a print statement **after** the loop that says "I'm done shop
 
 ![Notice how the final print is after the loop.](../.gitbook/assets/screenshot-2019-07-15-16.54.17.png)
 
-### ▶Run Your Program
+### ▶ Run Your Program
 
 Press the "Run Main" button to run your program. Now, look at the results in the log. Notice how the loop ran four times, each time with the new value for your Grocery List Item variable. At the end, your "I'm done shopping!" line printed. 
 

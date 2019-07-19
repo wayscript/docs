@@ -6,7 +6,7 @@
 >
 > -[LaunchSchool](https://launchschool.com/books/ruby/read/variables)
 
-## ![](../.gitbook/assets/create_var.png)Create Variable Setup
+## ⚙ Create Variable Setup
 
 Drag the [Create Variable](../library/logic/variables/create-variable.md) module into your program flow diagram.
 
@@ -16,7 +16,7 @@ WayScript will automatically display the Settings Panel for your [Create Variabl
 
 ![](../.gitbook/assets/screenshot-2019-07-15-12.36.06.png)
 
-## Single Item
+## ![](../.gitbook/assets/create_var.png) Single Item
 
 For this example, we are going to assign a **Variable Name** called "Location" and set the **Variable Value** to "Brooklyn, NY". Feel free to put in your own location instead.
 
@@ -42,11 +42,11 @@ You can begin typing the variable name to select it, or you can drag the variabl
 
 ## 📃 Lists
 
-### What is a list?
+### 💡 What is a list?
 
 A list \(also called an array\) is a data structure used to store multiple pieces of information in an ordered sequence where each has a unique 'position' \(also called index\) in the list. List variables can even store other variables.
 
-### Creating a List
+### ![](../.gitbook/assets/create_var.png) Creating a List
 
 In your [Create Variable](../library/logic/variables/create-variable.md) Settings, change your mode to a **List of Items.**
 
@@ -64,9 +64,9 @@ Your Grocery List is now a variable that can be used in your program.
 The blue border indicates that this variable is a list and the number badge indicates its length.
 {% endhint %}
 
-## Variable Types
+## ![](../.gitbook/assets/create_var.png) Variable Types
 
-Variables currently have the following types:
+Variables can have the following types:
 
 * Text 🔤 
 * Number 🔢 

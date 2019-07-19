@@ -2,7 +2,7 @@
 
 ![Create a variable.](../../../.gitbook/assets/create_var.png)
 
-## 🔤**Variable Name**
+## 🔤 **Variable Name**
 
 Assign a name to your variable. This name will be used to reference the value of your variable throughout your program.
 

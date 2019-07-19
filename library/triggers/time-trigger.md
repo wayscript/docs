@@ -2,13 +2,13 @@
 
 ![Run your program periodically.](../../.gitbook/assets/cron.png)
 
-## ⚡Activate the Time Trigger
+## ⚡ Activate the Time Trigger
 
 In order to Trigger programs at a particular time, add the Trigger Module to the triggers section of your program and activate the trigger.
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-4.11.18-pm.png)
 
-## 🗓Select a Run Frequency
+## 🗓 Select a Run Frequency
 
 * Monthly
 * Weekly

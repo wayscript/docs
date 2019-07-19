@@ -2,7 +2,7 @@
 
 ![Change the value of a variable.](../../../.gitbook/assets/set_var_value.png)
 
-## ⚙Choose Variable Type
+## ⚙ Choose Variable Type
 
 Select the type of value you want to store in the variable:
 
@@ -14,11 +14,11 @@ Select the type of value you want to store in the variable:
 You can change the variable's type over the course of your program.
 {% endhint %}
 
-## 🔎Select A Variable
+## 🔎 Select A Variable
 
 Choose the variable you want to update.
 
-## ✏New Value
+## ✏ New Value
 
 Input a new value for your variable.
 

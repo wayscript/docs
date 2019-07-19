@@ -2,11 +2,11 @@
 
 ![Run your program by sending an email.](../../.gitbook/assets/email.png)
 
-## 📥New Variable Inputs
+## 📥 New Variable Inputs
 
 You can dynamically input new variables into your WayScript programs by sending an email. You can assign these values under the Module Outputs.
 
-## 📧Sending an Email
+## 📧 Sending an Email
 
 **Send your Email to: `run@wayscript.com`**
 
