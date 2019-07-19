@@ -8,13 +8,13 @@ You can dynamically input new variables into your WayScript programs by sending 
 
 ## 📧Sending an Email
 
-Send your Email to: **run@wayscript.com**
+**Send your Email to: `run@wayscript.com`**
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-4.26.31-pm.png)
 
-Email Subject: Program Name
+**Email Subject:** `Program Name`
 
-Email Body: New variable values separated by commas.
+**Email Body:** `New variable values separated by commas.`
 
 ![](../../.gitbook/assets/email%20%282%29.png)
 
