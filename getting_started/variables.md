@@ -1,4 +1,4 @@
-# Variables!    [](../.gitbook/assets/create_var.png)
+# Variables    ![](../.gitbook/assets/create_var.png)
 
 ## What is a Variable?
 
