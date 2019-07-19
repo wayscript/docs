@@ -14,7 +14,7 @@ For a full list of conditions for each variable type, read the [Conditionals Log
 
 ## What is a condition?
 
-⁉In programming, a conditional \(also known as "if-statement"\) is a control-flow statement directing your program to perform different actions depending on whether or not the programmer-specified _condition_ is true or false.
+In programming, a conditional \(also known as "[if-statement](../library/logic/conditionals.md#if-else)"\) is a control-flow statement directing your program to perform different actions depending on whether or not the programmer-specified _condition_ is `true` or `false`.
 
 ## 🌟Creating Conditions in WayScript
 

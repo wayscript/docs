@@ -14,15 +14,15 @@ If you were to switch the order of these two steps, then the 'Location' variable
 
 Like in other programming languages - **the names of variables matter**. Therefore, if you create a second variable with the same name, the value of the variable is overwritten. 
 
-#### Different Variable Names
+### Different Variable Names
 
 In the image below, a new variable, 'Location2' has been created. Therefore, the 'Location' variable with value "Brooklyn, NY" still exists. 
 
 ![There are Two Different Variables because they have different names.](../.gitbook/assets/diff_var_names.png)
 
-#### Overwrite Variable
+### Overwrite Variable
 
-Below,elow, at step 2 the value of 'Location' is "New York, NY". The starting value, "Brooklyn, NY" was overwritten since the same variable name was used.
+Below, at step 2, the value of 'Location' is "New York, NY". The starting value, "Brooklyn, NY" was overwritten since the same variable name was used.
 
 ![Brooklyn, NY has been overwritten because this variable uses has the same name.](../.gitbook/assets/overwrite_var_name.png)
 

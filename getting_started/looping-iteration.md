@@ -6,7 +6,7 @@ If you have not read about [WayScript Lists](variables.md#lists), please do so b
 
 ## What is a loop?
 
-🔁In programming, a **for-loop** is a control-flow statement directing your program to execute the loop's contents repeatedly.
+In programming, a **for-loop** is a control-flow statement directing your program to execute the loop's contents repeatedly. 🔁 
 
 ## Looping with WayScript
 
