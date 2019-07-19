@@ -10,7 +10,7 @@ When using a Mailchimp module for the first time, follow the prompt to authorize
 You can add additional accounts from the Mailchimp module settings.
 {% endhint %}
 
-## 📋Create a List
+## 📋 Create a List
 
 ### 📥 Inputs
 
@@ -36,7 +36,7 @@ You can add additional accounts from the Mailchimp module settings.
 
 * JSON Data
 
-## 👤Add a New Member to a List
+## 👤 Add a New Member to a List
 
 ### 📥 Inputs
 
@@ -53,7 +53,7 @@ You can add additional accounts from the Mailchimp module settings.
 
 * JSON Data
 
-## 🔎Get Information About All Your Lists
+## 🔎 Get Information About All Your Lists
 
 ### 📤 Outputs
 
@@ -61,7 +61,7 @@ You can add additional accounts from the Mailchimp module settings.
 * List Name
 * JSON Data
 
-## 👥Get All Members in a List
+## 👥 Get All Members in a List
 
 ### 📥 Inputs
 

@@ -2,13 +2,13 @@
 
 ![Search for Magic: The Gathering Cards](../../.gitbook/assets/scryfall.png)
 
-## 🔎Search for cards
+## 🔎 Search for cards
 
-### ⚙Settings
+### ⚙ Settings
 
 * **Search Term** - Name of magic card
 
-### 📤Outputs
+### 📤 Outputs
 
 * **Card Names**
 * **Card Mana Costs**

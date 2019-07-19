@@ -9,7 +9,7 @@
 * **Article Database** - We index every recent news and blog article published by over 30,000 different sources large and small, and you can search through them with this endpoint. This endpoint is better suited for news analysis and article discovery, but can be used to retrieve articles for display too.
 * **Latest Articles** - Returns breaking news headlines for a country and category, or currently running on a single or multiple sources.
 
-## 📥Inputs
+## 📥 Inputs
 
 * **Number of Articles** - The number of articles to be returned. 
 * **Sort By** 

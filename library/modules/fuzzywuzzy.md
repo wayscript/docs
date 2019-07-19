@@ -6,7 +6,7 @@
 Check out FuzzyWuzzy on [GitHub](https://github.com/seatgeek/fuzzywuzzy).
 {% endhint %}
 
-## ![](../../.gitbook/assets/fuzzy_wuzzy.png)About
+## ![](../../.gitbook/assets/fuzzy_wuzzy.png) About
 
 FuzzyWuzzy is a string similarity matching library. In other words, it tells you how similar two pieces of text are \(and some other functionality\). 
 

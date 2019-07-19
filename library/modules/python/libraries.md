@@ -4,11 +4,11 @@ description: WayScript is running Python 3.
 
 # Python Libraries
 
-## ➕Add a Python Library
+## ➕ Add a Python Library
 
 If you need a Python library that isn't currently available, just [let us know](../../../getting_started/feedback-bug-reporting.md) and we'll quickly add it!
 
-## ![](../../../.gitbook/assets/python_128x128.png)Available Python Libraries
+## ![](../../../.gitbook/assets/python_128x128.png) Available Python Libraries
 
 * [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 * [iPython](https://ipython.org)

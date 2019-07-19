@@ -2,7 +2,7 @@
 
 ![A web-based hosting service for version control using Git.](../../.gitbook/assets/github.png)
 
-## 👤Search for a User
+## 👤 Search for a User
 
 ### 📥 Inputs
 
@@ -35,7 +35,7 @@ Create variables for:
 * Most Popular Repo URL
 * Raw JSON Data
 
-## 🔎Search for a Repo
+## 🔎 Search for a Repo
 
 ### 📥 Inputs
 

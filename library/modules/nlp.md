@@ -6,11 +6,11 @@
 Check out TextBlob on [GitHub](https://github.com/sloria/TextBlob/).
 {% endhint %}
 
-## 📥Inputs
+## 📥 Inputs
 
 * **Text** - You can input any text into the NLP module for analysis
 
-## 📤Outputs
+## 📤 Outputs
 
 * **Sentiment Score** - Returns a number between -1 to 1 \( ****-1 is very bad, 0 is neutral, 1 is very good \).
 * **Sentiment Label** - Returns Positive, Negative, or Neutral.

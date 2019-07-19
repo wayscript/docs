@@ -2,7 +2,7 @@
 
 ![The front page of the internet.](../../.gitbook/assets/reddit%20%281%29.png)
 
-## 👤Data About My Account
+## 👤 Data About My Account
 
 ### 📤 Outputs
 
@@ -14,7 +14,7 @@
 * **Account Has Gold** - Returns True or False
 * **JSON Data** - Raw JSON of the API query response
 
-## 🔎Search a Subreddit
+## 🔎 Search a Subreddit
 
 ### 📥 Inputs
 
@@ -40,7 +40,7 @@
 
 ![Search a Subreddit](../../.gitbook/assets/reddit_sub.png)
 
-## 👥Data About Other Users
+## 👥 Data About Other Users
 
 ### 📥 Inputs
 
@@ -60,7 +60,7 @@
 
 
 
-## 📌Get Posts from Other Users
+## 📌 Get Posts from Other Users
 
 Pull in the posts of a user by their username. 
 
@@ -82,7 +82,7 @@ Pull in the posts of a user by their username.
 * **Post Link URLs** - A list of the urls mentioned in each post
 * **JSON Data**  - Raw JSON of the API query response 
 
-## 💬Get Comments from Other Users
+## 💬 Get Comments from Other Users
 
 ### 📥 Inputs
 

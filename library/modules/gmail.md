@@ -6,7 +6,7 @@
 To run your program when Gmail messages change, use the [Gmail Trigger](../triggers/gmail-trigger.md).
 {% endhint %}
 
-## ⚙Setup
+## ⚙ Setup
 
 Select an account or add an account to work with Gmail.
 
@@ -14,9 +14,9 @@ Select an account or add an account to work with Gmail.
 
 
 
-## 📧Send Email
+## 📧 Send Email
 
-### 👤To
+### 👤 To
 
 * You can input a [single item variable](../../getting_started/variables.md#single-item) or [hardcode](../../getting_started/modules.md#option-two-hardcode-a-value) an email address.
 * * This is a required input.
@@ -37,7 +37,7 @@ Select an account or add an account to work with Gmail.
 
 ![Gmail Setup Example](../../.gitbook/assets/screenshot-2019-07-16-17.39.05.png)
 
-## 📩Import Emails
+## 📩 Import Emails
 
 This mode pulls in data on all of the emails in your inbox. The outputs are all [lists](../../getting_started/variables.md#lists). 
 

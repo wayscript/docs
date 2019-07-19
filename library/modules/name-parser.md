@@ -6,11 +6,11 @@
 Check out python-nameparser ****on [GitHub](https://github.com/derek73/python-nameparser/).
 {% endhint %}
 
-## 📥Inputs
+## 📥 Inputs
 
 * **Name** - example: Dr. Juan Q. Xavier de la Vega III \(Doc Vega\)
 
-## 📤Outputs
+## 📤 Outputs
 
 * **Title** - example: Dr.
 * **First Name** - example: Juan

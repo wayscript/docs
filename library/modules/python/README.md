@@ -24,7 +24,7 @@ var = inputs[ "<var_name>" ]
 
 ![](../../../.gitbook/assets/screenshot-2019-07-16-14.14.03.png)
 
-## ![](../../../.gitbook/assets/python.png)Outputs
+## ![](../../../.gitbook/assets/python.png) Outputs
 
 You can also output data from your python scripts and turn these into variables that can be used by other [Modules](../../../getting_started/modules.md) in your program. 
 
@@ -40,7 +40,7 @@ outputs[ "Date" ] = str( datetime.today() )
 
 ![](../../../.gitbook/assets/screenshot-2019-07-16-14.12.32.png)
 
-## ▶Running Python
+## ▶ Running Python
 
 While working on your script, you can press the ![](../../../.gitbook/assets/play_button.png)\("play"\) button inside the Python module to run the Python code. 
 

@@ -2,9 +2,9 @@
 
 ![Pull articles from the NY Times.](../../.gitbook/assets/ny_times.png)
 
-## 📰Get Top Stories
+## 📰 Get Top Stories
 
-### 📥Inputs
+### 📥 Inputs
 
 * Section
   * Home

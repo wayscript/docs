@@ -6,7 +6,7 @@
 Check out Full Contact on [GitHub](https://github.com/fullcontact/fullcontact.py).
 {% endhint %}
 
-## 🏢Company Lookup
+## 🏢 Company Lookup
 
 ### 📥 Inputs
 
@@ -19,7 +19,7 @@ Check out Full Contact on [GitHub](https://github.com/fullcontact/fullcontact.py
 * Key People Names
 * Key People Titles
 
-## 👤Person Lookup
+## 👤 Person Lookup
 
 ### 📥 Inputs
 

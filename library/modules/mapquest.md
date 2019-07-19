@@ -6,16 +6,16 @@
 Check out the Mapquest [website](https://developer.mapquest.com/documentation/).
 {% endhint %}
 
-## ![](../../.gitbook/assets/mapquest.png)Overview
+## ![](../../.gitbook/assets/mapquest.png) Overview
 
 This module returns to you the Latitude and Longitude coordinates for an address / location.
 
-## ⚙Settings
+## ⚙ Settings
 
 * **Mode**
   * Geocoding
 
-## 📥Inputs
+## 📥 Inputs
 
 * **Address** - Accepts a location/address \(e.g. Brooklyn NY, 112 Happy Street Brooklyn NY, etc.\) 
 

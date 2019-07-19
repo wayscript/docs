@@ -2,13 +2,13 @@
 
 ![Create new events and import events from your Google Calendar.](../../.gitbook/assets/google_calendar.png)
 
-## ⚙Setup
+## ⚙ Setup
 
 Select the Google account you would like to work with.
 
 ![Select an Account](../../.gitbook/assets/img1%20%284%29.png)
 
-## 🌟Create Event
+## 🌟 Create Event
 
 ![Select Create Event](../../.gitbook/assets/img3%20%281%29.png)
 
@@ -42,7 +42,7 @@ Select a calendar. If you have recently added a calendar and do not see it, clic
 
 Run the program to create the new event.
 
-## 🗓Import Upcoming Events
+## 🗓 Import Upcoming Events
 
 ![Select Import Upcoming Events](../../.gitbook/assets/img12.png)
 

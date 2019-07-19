@@ -6,7 +6,7 @@
 In the free tier, this library requires an API Key, which you can get on the [Hunter.io website](https://hunter.io).
 {% endhint %}
 
-## 📧Email Finder
+## 📧 Email Finder
 
 ### 📥 Inputs
 
@@ -27,7 +27,7 @@ In the free tier, this library requires an API Key, which you can get on the [Hu
 * **Phone Number**
 * **JSON Data** - Raw JSON from the API query
 
-## ✅Email Verification
+## ✅ Email Verification
 
 This mode tests whether an email address is real/valid.
 
