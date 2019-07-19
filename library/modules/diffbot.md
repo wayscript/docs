@@ -23,7 +23,7 @@ Check out Diffbot on [GitHub](https://github.com/diffbot/diffbot-python-client).
 
 ### 📥 Inputs
 
-* **URL** - the e-commerce ****website link you want to pull text from.
+* **URL** - the e-commerce _\*\*_website link you want to pull text from.
 
 ### 📤 Outputs
 
@@ -37,7 +37,7 @@ Check out Diffbot on [GitHub](https://github.com/diffbot/diffbot-python-client).
 
 ## 💬Forum/Discussion/Product Conversations and Reviews
 
-📃 This mode, pulls [lists](../../getting_started/variables.md#lists) of all of the posts on the forum page. 
+📃 This mode, pulls [lists](../../getting_started/variables.md#lists) of all of the posts on the forum page.
 
 ### 📥 Inputs
 

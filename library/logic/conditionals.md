@@ -20,7 +20,7 @@ Some comparisons, such as "Has Increased," "Has Decreased," "Has a Value," or "D
 
 ## 🔎Comparison Field
 
-After defining a value for the first Variable, you can select an option for the Comparison field. 
+After defining a value for the first Variable, you can select an option for the Comparison field.
 
 ![Select a Comparison Option](../../.gitbook/assets/options%20%281%29.png)
 
@@ -71,7 +71,7 @@ You will not be able to select a value for the Comparison field until a value fo
 
 For non-Number fields, you will have the option to compare in a Case Sensitive manner. \(Default comparison is Case Insensitive.\)
 
-![](../../.gitbook/assets/screen-shot-2019-07-16-at-9.05.14-pm.png) 
+![](../../.gitbook/assets/screen-shot-2019-07-16-at-9.05.14-pm.png)
 
 ### 📈"Changed By" Comparisons
 
@@ -100,7 +100,7 @@ The **Else** branch will run if your logic expression evaluates to `False`.
 
 ## 🌞**Example**
 
-In the below example, if the value of the variable "Temperature" is between 65 and 90, then the program will print _"It's a nice day!"_. 
+In the below example, if the value of the variable "Temperature" is between 65 and 90, then the program will print _"It's a nice day!"_.
 
 Else, if the "Temperature" variable is outside of this range, then the program will print _"It's too cold!"_.
 

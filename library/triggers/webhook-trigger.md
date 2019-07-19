@@ -18,7 +18,7 @@ This data can be retrieved from the settings within the Webhook Trigger.
 
 ## 📥New Variable Inputs
 
-You can dynamically input new variable data into your WayScript programs from your api call. 
+You can dynamically input new variable data into your WayScript programs from your api call.
 
 Declare the variables you want your Webhook Trigger to create and pass to your program in the Outputs section.
 
@@ -54,7 +54,7 @@ requests.post( url, params = params )
 ```
 
 {% hint style="warning" %}
-Variables must be submitted in the same order as the Outputs defined on the Trigger Module as displayed above. 
+Variables must be submitted in the same order as the Outputs defined on the Trigger Module as displayed above.
 {% endhint %}
 
 {% hint style="info" %}

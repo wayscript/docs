@@ -61,7 +61,7 @@ You will start by selecting one of your files to upload to Dropbox. Alternativel
 Once you have selected the file you wish to upload, provide the path in your Dropbox where you would like the file uploaded, as well as the name for the file.
 
 {% hint style="info" %}
-The default file path is the root folder of your Dropbox and the default file name is the  name of the file you selected to upload.
+The default file path is the root folder of your Dropbox and the default file name is the name of the file you selected to upload.
 {% endhint %}
 
 ![Optionally provide a Dropbox file path and name](../../.gitbook/assets/screen-shot-2019-07-17-at-9.14.50-am.png)

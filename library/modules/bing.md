@@ -1,6 +1,5 @@
 ---
-description: >-
-  Search the web with Bing
+description: Search the web with Bing
 ---
 
 # Bing

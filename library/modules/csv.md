@@ -12,7 +12,7 @@ CSV files on your account will appear as options. Use the 'Upload File' button t
 
 ### 🌟Create Variables
 
-Once a file is selected to read, a table with the file's contents will appear in the Outputs section. 
+Once a file is selected to read, a table with the file's contents will appear in the Outputs section.
 
 ### ☑Ignore Headers
 
@@ -42,14 +42,14 @@ If checked, the variable name will be written as the first row of each column.
 2. Replace File: Every time the program runs, the file will be cleared before writing new data.
 
 {% hint style="info" %}
-Headers will only be written when the file is blank. 
+Headers will only be written when the file is blank.
 
 If 'Include Headers' is selected, changing a variable name when adding to an existing and non-empty file will not replace the header row.
 {% endhint %}
 
 ### ➕Adding Variables
 
-Each time the CSV Module executes in Write Mode, one row of data is added.  
+Each time the CSV Module executes in Write Mode, one row of data is added.
 
 ![](../../.gitbook/assets/screen-shot-2019-07-17-at-11.49.04-am.png)
 

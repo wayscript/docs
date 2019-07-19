@@ -10,7 +10,7 @@ Check out the Requests library on [GitHub](https://github.com/requests/requests)
 
 ### ![](../../.gitbook/assets/http_requests.png) Mode
 
-* GET Request - ****used to request data from a specified resource
+* GET Request - _\*\*_used to request data from a specified resource
 * POST Request - used to send data to a server to create/update a resource
 
 ## 📥Inputs
@@ -20,7 +20,7 @@ Check out the Requests library on [GitHub](https://github.com/requests/requests)
 
 ![](../../.gitbook/assets/screenshot-2019-07-17-11.02.15.png)
 
-This example calls: https://www.exampleapi.com?api\_key=12345
+This example calls: [https://www.exampleapi.com?api\_key=12345](https://www.exampleapi.com?api_key=12345)
 
 ### 💡Advanced Inputs
 

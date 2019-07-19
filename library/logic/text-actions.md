@@ -22,10 +22,10 @@ Outputs the number of words in your text.
 
 Outputs a new text variable containing the characters from the starting index up to the ending index of your text.
 
-**Example:**   
-Text = This is a sentence!   
-Starting index = 5   
-Ending index = 9   
+**Example:**  
+Text = This is a sentence!  
+Starting index = 5  
+Ending index = 9  
 Substring = is a
 
 {% hint style="info" %}
@@ -45,17 +45,17 @@ Outputs a copy of your text with all the characters converted to uppercase.
 Outputs a list of text objects after splitting your text up by the given "Split Text On" string.
 
 **Example:**  
-Text = This is a sentence!   
-Split Text On = " "   \(space\)  
+Text = This is a sentence!  
+Split Text On = " " \(space\)  
 Output list = \[ 'This', 'is', 'a', 'sentence!' \]
 
 ## 🔗Join List Items Into Text
 
 Concatenates the values of every item in your list by separating each list entry with the text you specify in "Join Text On," then outputs the result as a single text variable.
 
-**Example:**   
+**Example:**  
 List = \[ 'This', 'is', 'a', 'sentence!' \]  
-Join Text On = " "   \(space\)  
+Join Text On = " " \(space\)  
 Output text = This is a sentence!
 
 ## ➕**Combine Text**
