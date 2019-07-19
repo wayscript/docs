@@ -18,5 +18,3 @@
 
 ![](../.gitbook/assets/confirm_delete.png)
 
-
-
