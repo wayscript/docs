@@ -1,5 +1,4 @@
 ![](../../.gitbook/assets/alexa_128x128.png)
-# Alexa Trigger
 Run your program using an Alexa voice command.
 
 {% hint style="info" %}
