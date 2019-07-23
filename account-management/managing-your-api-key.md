@@ -6,7 +6,7 @@
 
 ## 🔑 Locating Your API Key
 
-1. Navigate to your profile page:  ![](../.gitbook/assets/profile_link.png)  
+1. Navigate to your profile page:  ![](../.gitbook/assets/profile.png)  
 2. Your API Key is located in your profile, under your user info.
 
 ![User Info and API Key](../.gitbook/assets/user_info_and_api_key.png)

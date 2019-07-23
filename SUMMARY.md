@@ -124,4 +124,5 @@
 * [Change Password](account-management/change-password.md)
 * [Update Email](account-management/update-email.md)
 * [Managing Your Files](account-management/managing-your-files.md)
+* [Managing Your Linked Accounts](account-management/managing-linked-accounts.md)
 

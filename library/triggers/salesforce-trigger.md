@@ -1,6 +1,10 @@
 # Salesforce Trigger
 
-![Run a program when a Salesforce object is created/updated.](../../.gitbook/assets/salesforce.png)
+![Run a program when a Salesforce object is created or updated.](../../.gitbook/assets/salesforce.png)
+
+{% hint style="info" %}
+To create, edit, and query Salesforce objects, use the [Salesforce Module](../modules/salesforce.md).
+{% endhint %}
 
 ## ⚙ Setup
 
@@ -22,7 +26,7 @@ Run the program whenever a new Salesforce object is created.
 
 ![Select New Account Mode](../../.gitbook/assets/screen-shot-2019-07-23-at-11.46.22-am.png)
 
-{% hint style="info" %}
+{% hint style="success" %}
 Program will run when a new account is created.
 {% endhint %}
 
@@ -64,7 +68,7 @@ Program will run when a new account is created.
 
 ![Select New Campaign Mode](../../.gitbook/assets/screen-shot-2019-07-23-at-11.52.40-am.png)
 
-{% hint style="info" %}
+{% hint style="success" %}
 Program will run when a new campaign is created.
 {% endhint %}
 
@@ -94,7 +98,7 @@ Program will run when a new campaign is created.
 
 ![Select New Case Mode](../../.gitbook/assets/screen-shot-2019-07-23-at-11.56.22-am.png)
 
-{% hint style="info" %}
+{% hint style="success" %}
 Program will run when a new case is created.
 {% endhint %}
 
@@ -124,7 +128,7 @@ Program will run when a new case is created.
 
 ![Select New Contact Mode](../../.gitbook/assets/screen-shot-2019-07-23-at-11.59.47-am.png)
 
-{% hint style="info" %}
+{% hint style="success" %}
 Program will run when a new contact is created.
 {% endhint %}
 
@@ -168,7 +172,7 @@ Program will run when a new contact is created.
 
 ![Select New Event Mode](../../.gitbook/assets/screen-shot-2019-07-23-at-12.05.45-pm.png)
 
-{% hint style="info" %}
+{% hint style="success" %}
 Program will run when a new event is created.
 {% endhint %}
 
@@ -193,7 +197,7 @@ Program will run when a new event is created.
 
 ![Select New Lead Mode](../../.gitbook/assets/screen-shot-2019-07-23-at-12.08.33-pm.png)
 
-{% hint style="info" %}
+{% hint style="success" %}
 Program will run when a new lead is created.
 {% endhint %}
 
@@ -229,7 +233,7 @@ Program will run when a new lead is created.
 
 ![Select New Note Mode](../../.gitbook/assets/screen-shot-2019-07-23-at-12.11.28-pm.png)
 
-{% hint style="info" %}
+{% hint style="success" %}
 Program will run when a new note is created.
 {% endhint %}
 
@@ -249,7 +253,7 @@ Program will run when a new note is created.
 
 ![Select New Opportunity Mode](../../.gitbook/assets/screen-shot-2019-07-23-at-12.13.32-pm.png)
 
-{% hint style="info" %}
+{% hint style="success" %}
 Program will run when a new opportunity is created.
 {% endhint %}
 
@@ -278,7 +282,7 @@ Program will run when a new opportunity is created.
 
 ![Select New Task Mode](../../.gitbook/assets/screen-shot-2019-07-23-at-12.16.50-pm.png)
 
-{% hint style="info" %}
+{% hint style="success" %}
 Program will run when a new task is created.
 {% endhint %}
 
@@ -308,7 +312,7 @@ Run the program whenever a Salesforce object is updated.
 
 ![Select Campaign Updated Mode](../../.gitbook/assets/screen-shot-2019-07-23-at-12.21.16-pm.png)
 
-{% hint style="info" %}
+{% hint style="success" %}
 Program will run when a campaign is updated.
 {% endhint %}
 
@@ -338,7 +342,7 @@ Program will run when a campaign is updated.
 
 ![Select Case Updated Mode](../../.gitbook/assets/screen-shot-2019-07-23-at-12.23.43-pm.png)
 
-{% hint style="info" %}
+{% hint style="success" %}
 Program will run when a case is updated.
 {% endhint %}
 
@@ -368,7 +372,7 @@ Program will run when a case is updated.
 
 ![Select Lead Updated Mode](../../.gitbook/assets/screen-shot-2019-07-23-at-12.25.06-pm.png)
 
-{% hint style="info" %}
+{% hint style="success" %}
 Program will run when a lead is updated.
 {% endhint %}
 
@@ -404,7 +408,7 @@ Program will run when a lead is updated.
 
 ![Select Opportunity Updated Mode](../../.gitbook/assets/screen-shot-2019-07-23-at-12.26.14-pm.png)
 
-{% hint style="info" %}
+{% hint style="success" %}
 Program will run when an opportunity is updated.
 {% endhint %}
 
@@ -433,7 +437,7 @@ Program will run when an opportunity is updated.
 
 ![Select Task Updated Mode](../../.gitbook/assets/screen-shot-2019-07-23-at-12.27.34-pm.png)
 
-{% hint style="info" %}
+{% hint style="success" %}
 Program will run when a task is updated.
 {% endhint %}
 
