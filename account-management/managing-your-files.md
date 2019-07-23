@@ -2,7 +2,7 @@
 
 ## 🗄 Accessing Your Uploaded Files
 
-1. Navigate to the [Manage Files](https://wayscript.com/file_manager) page:  ![](../.gitbook/assets/manage_files.png)  
+1. Navigate to the [Manage Files](https://wayscript.com/file_manager) page.  ![](../.gitbook/assets/manage_files.png)  
 2. You will see a list of all your uploaded files.  ![](../.gitbook/assets/files_list.png)  
 3. Click the ![](../.gitbook/assets/download.png) \(download\) button to the right of a file to download it.
 
