@@ -12,8 +12,6 @@ Check out their [website](https://www.alphavantage.co/documentation/).
 
 The WayScript Alpha Vantage module gives you easy access to this information.
 
-![](../../.gitbook/assets/screen-shot-2019-07-15-at-8.33.32-pm.png)
-
 ### 📖 Available Data
 
 * [Most Recent Stock Data](alpha-vantage.md#most-recent-stock-data)
@@ -31,6 +29,8 @@ The WayScript Alpha Vantage module gives you easy access to this information.
 * [Chaikin A/D Line \(AD\)](alpha-vantage.md#chaikin-a-d-line-ad)
 * [On Balance Volume \(OBV\)](alpha-vantage.md#on-balance-volume-obv)
 * [Sector Performances \(SECTOR\)](alpha-vantage.md#sector-performances-sector)
+
+![](../../.gitbook/assets/screen-shot-2019-07-22-at-9.28.59-am.png)
 
 ## Most Recent Stock Data
 
@@ -382,7 +382,7 @@ Outputs performance data for various market sectors.
 
 The timeframe output gives the labels for each sector's data points.
 
-![](../../.gitbook/assets/screen-shot-2019-07-15-at-9.32.05-pm.png)
+![](../../.gitbook/assets/screen-shot-2019-07-19-at-7.18.23-pm.png)
 
 ### 🏦 Sectors
 
@@ -398,7 +398,7 @@ The timeframe output gives the labels for each sector's data points.
 * Health Care
 * Energy
 
-![](../../.gitbook/assets/screen-shot-2019-07-15-at-9.36.06-pm.png)
+![](../../.gitbook/assets/screen-shot-2019-07-19-at-7.20.50-pm.png)
 
 ### 📤 Other Outputs
 

@@ -31,10 +31,13 @@ These Triggers can be added only once to a single function.
 * [Email Trigger](email-trigger.md)
 * [Gmail Trigger](gmail-trigger.md)
 * [Google Sheets Trigger](google-sheets-trigger.md)
+* [Salesforce Trigger](salesforce-trigger.md)
 * [Slack Trigger](slack-trigger.md)
 * [Text Message Trigger](text-message-trigger.md)
+* [Time Trigger](time-trigger.md)
 * [Trello Trigger](trello-trigger.md)
 * [Weather API Trigger](weather-api-trigger.md)
+* [Webhook Trigger](webhook-trigger.md)
 
 ## ⚡ Activating Triggers
 

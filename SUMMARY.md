@@ -23,6 +23,7 @@
   * [Email Trigger](library/triggers/email-trigger.md)
   * [Gmail Trigger](library/triggers/gmail-trigger.md)
   * [Google Sheets Trigger](library/triggers/google-sheets-trigger.md)
+  * [Salesforce Trigger](library/triggers/salesforce-trigger.md)
   * [Slack Trigger](library/triggers/slack-trigger.md)
   * [Text Message Trigger](library/triggers/text-message-trigger.md)
   * [Time Trigger](library/triggers/time-trigger.md)
