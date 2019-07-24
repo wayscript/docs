@@ -86,6 +86,7 @@
     * [Python Libraries](library/modules/python/libraries.md)
   * [Reddit](library/modules/reddit.md)
   * [Requests](library/modules/requests.md)
+  * [RocketReach](library/modules/rocketreach.md)
   * [Salesforce](library/modules/salesforce.md)
   * [Scryfall](library/modules/scryfall.md)
   * [Send Email](library/modules/send-email.md)

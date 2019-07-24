@@ -60,6 +60,7 @@ All available modules are documented in the sub-articles in this section:
 * [Python](python/)
 * [Reddit](reddit.md)
 * [Requests](requests.md)
+* [RocketReach](rocketreach.md)
 * [Salesforce](salesforce.md)
 * [Scryfall](scryfall.md)
 * [Send Email](send-email.md)
