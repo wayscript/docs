@@ -1,7 +1,3 @@
----
-description: Coming Soon!
----
-
 # RocketReach
 
 ![Find profiles for professionals using RocketReach.](../../.gitbook/assets/rocket_reach.png)
