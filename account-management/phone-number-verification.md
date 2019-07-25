@@ -17,15 +17,17 @@ First, enter your number in the "Provide a Phone Number" dialog when prompted.
 
 ![](../.gitbook/assets/screen-shot-2019-07-15-at-3.52.17-pm.png)
 
-
-
 Next, in the "Verify Your Phone Number" dialog, click "Send Code" to receive a one-time verification code via text message. \(Standard text messaging rates apply\).
 
 ![](../.gitbook/assets/screen-shot-2019-07-15-at-3.54.35-pm.png)
 
-Last, once you receive the code, enter it in the "Verify Your Phone Number" dialog and click "Verify".
+Once you receive the code, enter it in the "Verify Your Phone Number" dialog and click "Verify".
 
-![](../.gitbook/assets/screen-shot-2019-07-15-at-3.59.06-pm.png)
+{% hint style="success" %}
+You can optionally [enable two-factor authentication](two-factor-authentication.md#enabling-two-factor-authentication) on your account in this step.
+{% endhint %}
+
+![](../.gitbook/assets/screen-shot-2019-07-25-at-2.45.13-pm.png)
 
 {% hint style="info" %}
 You can update this number later from 'Update Contact Info' as shown above.
