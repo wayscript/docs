@@ -78,3 +78,29 @@ When you select Outputs from your Module, they become variables that can be used
 
 ![](../.gitbook/assets/screenshot-2019-07-16-13.21.13.png)
 
+## Remove Module
+
+There are two ways to remove a module.
+
+### Drag to Trash Bin
+
+![](../.gitbook/assets/screen-shot-2019-07-26-at-1.42.13-pm.png)
+
+### From Module Drawer
+
+When a module is selected or moused over, the module drawer will appear.
+
+![](../.gitbook/assets/screen-shot-2019-07-26-at-1.48.34-pm.png)
+
+## Disable Module
+
+Disabling a module is convenient way to try out different program setups without having to redo work. When a module is disabled, WayScript will ignore it and any of its sub-steps.
+
+![](../.gitbook/assets/screen-shot-2019-07-26-at-1.58.31-pm.png)
+
+![](../.gitbook/assets/screen-shot-2019-07-26-at-2.07.55-pm.png)
+
+### 
+
+
+
