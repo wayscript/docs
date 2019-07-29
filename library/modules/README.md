@@ -49,7 +49,7 @@ All available modules are documented in the sub-articles in this section:
 * [Hacker News](hackernews.md)
 * [Hunter.io](hunter.io.md)
 * [Mailchimp](mailchimp.md)
-* [Mapquest](mapquest.md)
+* [MapQuest](mapquest.md)
 * [Medium](medium.md)
 * [Name Parser](name-parser.md)
 * [News API](news-api.md)

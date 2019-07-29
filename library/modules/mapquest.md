@@ -1,9 +1,9 @@
-# Mapquest
+# MapQuest
 
 ![MapQuest is an American free online web mapping service owned by Verizon Media.](../../.gitbook/assets/mapquest.png)
 
 {% hint style="info" %}
-Check out the Mapquest [website](https://developer.mapquest.com/documentation/).
+Check out the MapQuest [website](https://developer.mapquest.com/documentation/).
 {% endhint %}
 
 ## ![](../../.gitbook/assets/mapquest.png) Overview

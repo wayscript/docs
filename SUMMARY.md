@@ -74,7 +74,7 @@
   * [Hacker News](library/modules/hackernews.md)
   * [Hunter.io](library/modules/hunter.io.md)
   * [Mailchimp](library/modules/mailchimp.md)
-  * [Mapquest](library/modules/mapquest.md)
+  * [MapQuest](library/modules/mapquest.md)
   * [Medium](library/modules/medium.md)
   * [Name Parser](library/modules/name-parser.md)
   * [News API](library/modules/news-api.md)
