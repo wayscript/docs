@@ -25,6 +25,7 @@
   * [Google Sheets Trigger](library/triggers/google-sheets-trigger.md)
   * [Salesforce Trigger](library/triggers/salesforce-trigger.md)
   * [Slack Trigger](library/triggers/slack-trigger.md)
+  * [Survey Monkey Trigger](library/triggers/survey-monkey-trigger.md)
   * [Text Message Trigger](library/triggers/text-message-trigger.md)
   * [Time Trigger](library/triggers/time-trigger.md)
   * [Trello Trigger](library/triggers/trello-trigger.md)
