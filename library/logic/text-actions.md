@@ -10,6 +10,27 @@ Outputs the number of characters in your text.
 White space counts as a character
 {% endhint %}
 
+## Append
+
+### Inputs
+
+This mode allows you to append a text value to another value. 
+
+* Text 
+* Text to Append
+
+**Example:**
+
+**Text** = 'Hello'
+
+**Text to Append** = ' From WayScript'
+
+After this, text will now have a value of 'Hello From WayScript'
+
+![Before Append](../../.gitbook/assets/text_append_before.png)
+
+![After Append](../../.gitbook/assets/text_append_after.png)
+
 ## \#⃣ **Get Number of Times A Word Occurs**
 
 Outputs the number of times the word you're looking for occurs in your text.

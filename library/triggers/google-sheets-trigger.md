@@ -48,3 +48,9 @@ Depending on the option you select, you may have the Spreadsheet or Worksheet Na
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-11.12.49-am.png)
 
+#### Default Values
+
+* **Row Data** - While building with the Google Sheets trigger, you are going to want sample data to work with. To do this, you can make a change in your google sheet that triggers the event. Alternatively, you can enter comma separated values into your default value. These values will represent the row data brought into your program. These values will be overwritten with real data when the program triggers. 
+* 
+![](../../.gitbook/assets/row_data_trigger.png)
+
