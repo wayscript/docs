@@ -4,9 +4,17 @@
 
 ## ⚙ Setup
 
-![](../../.gitbook/assets/screen-shot-2019-07-24-at-4.42.37-pm.png)
+![](../../.gitbook/assets/screen-shot-2019-08-02-at-1.15.22-pm.png)
 
-Enter your RocketReach API key. If you do not have a RocketReach account, visit [https://rocketreach.co/signup](https://rocketreach.co/signup) to create one.
+Under **Select an API Key**, click **Add an Account**.
+
+![](../../.gitbook/assets/screen-shot-2019-08-02-at-1.08.18-pm.png)
+
+A popup will appear, allowing you to enter your RocketReach API key and name for reference. If you do not have a RocketReach account, visit [https://rocketreach.co/signup](https://rocketreach.co/signup) to create one. Click **Submit** to confirm.
+
+![](../../.gitbook/assets/screen-shot-2019-08-02-at-1.12.12-pm.png)
+
+Now you can select the API key that you just added. If you wish to change the name or API key, simply click the edit button and the popup will reappear. If you wish to add another API key, click **Add an Account**.
 
 ## 👤 Lookup Profile
 
