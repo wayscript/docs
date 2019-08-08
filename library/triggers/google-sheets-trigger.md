@@ -51,6 +51,15 @@ Depending on the option you select, you may have the Spreadsheet or Worksheet Na
 #### Default Values
 
 * **Row Data** - While building with the Google Sheets trigger, you are going to want sample data to work with. To do this, you can make a change in your google sheet that triggers the event. Alternatively, you can enter comma separated values into your default value. These values will represent the row data brought into your program. These values will be overwritten with real data when the program triggers. 
-* 
+* **Spreadsheet Name -** The name of the spreadsheet you are using
+
 ![](../../.gitbook/assets/row_data_trigger.png)
+
+#### **Columns**
+
+If you are triggering your program based on a row being updated or a new row being added, each of you columns will appear as a unique variable. If you update your spreadsheet, just press the refresh button next to your Worksheet and the columns will update. 
+
+![You can import the values of each column as variables](../../.gitbook/assets/gs_trigger_cols.png)
+
+ 
 
