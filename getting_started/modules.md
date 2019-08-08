@@ -100,7 +100,3 @@ Disabling a module is convenient way to try out different program setups without
 
 ![](../.gitbook/assets/screen-shot-2019-07-26-at-2.07.55-pm.png)
 
-### 
-
-
-
