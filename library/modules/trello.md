@@ -32,6 +32,10 @@ Select a Board
 * Card Descriptions
 * Card Lists
 
+{% hint style="info" %}
+This will return up to 1000 of the most-recent cards on your Trello board.
+{% endhint %}
+
 ## 🌟 Create a New Card
 
 1. Select a Board

@@ -61,5 +61,3 @@ If you are triggering your program based on a row being updated or a new row bei
 
 ![You can import the values of each column as variables](../../.gitbook/assets/gs_trigger_cols.png)
 
- 
-

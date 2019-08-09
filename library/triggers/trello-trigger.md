@@ -20,6 +20,10 @@ Choose when you would like the trigger to run:
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-5.15.53-pm.png)
 
+{% hint style="info" %}
+If the trigger is set to run "when a specific card changes," you will be able to select one of the 1000 most-recent cards on your Trello board.
+{% endhint %}
+
 ## 📤 Outputs
 
 Select which Trello event data to retrieve as program variables.
