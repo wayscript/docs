@@ -21,6 +21,7 @@
   * [Alexa Trigger](library/triggers/alexa-trigger.md)
   * [Discord Trigger](library/triggers/discord-trigger.md)
   * [Email Trigger](library/triggers/email-trigger.md)
+  * [GitHub Trigger](library/triggers/github-trigger.md)
   * [Gmail Trigger](library/triggers/gmail-trigger.md)
   * [Google Sheets Trigger](library/triggers/google-sheets-trigger.md)
   * [Salesforce Trigger](library/triggers/salesforce-trigger.md)
