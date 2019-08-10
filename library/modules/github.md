@@ -2,6 +2,10 @@
 
 ![A web-based hosting service for version control using Git.](../../.gitbook/assets/github.png)
 
+{% hint style="info" %}
+To run your program when GitHub events occur, use the [GitHub Trigger](../triggers/github-trigger.md).
+{% endhint %}
+
 ## 👤 Search for a User
 
 ### 📥 Inputs

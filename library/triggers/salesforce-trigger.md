@@ -3,7 +3,7 @@
 ![Run a program when a Salesforce object is created or updated.](../../.gitbook/assets/salesforce.png)
 
 {% hint style="info" %}
-To create, edit, and query Salesforce objects, use the [Salesforce Module](../modules/salesforce.md).
+To create, edit, and query Salesforce objects, use the [Salesforce module](../modules/salesforce.md).
 {% endhint %}
 
 ## ⚙ Setup
