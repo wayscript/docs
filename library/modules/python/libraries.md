@@ -4,9 +4,9 @@ description: WayScript is running Python 3.7
 
 # Python Libraries
 
-{% hint style="info" %}
-If you need a Python library that isn't currently available, you can declare additional requirements in the "Requirements" field of the Python module. \(See [Adding Additional Requirements](./#adding-additional-requirements).\)
-{% endhint %}
+## ➕ Add a Python Library
+
+If you need a Python library that isn't currently available, just [let us know](../../../getting_started/feedback-bug-reporting.md) and we'll quickly add it!
 
 ## ![](../../../.gitbook/assets/python_128x128.png) Available Python Libraries
 
