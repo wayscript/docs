@@ -22,7 +22,7 @@ More abstractly, you reference any variable with the format:
 var = inputs[ "<var_name>" ] 
 ```
 
-![](../../../.gitbook/assets/screenshot-2019-07-16-14.14.03.png)
+![](../../../.gitbook/assets/screen-shot-2019-08-14-at-10.30.31-pm.png)
 
 ## ![](../../../.gitbook/assets/python.png) Outputs
 
@@ -38,9 +38,21 @@ from datetime import datetime
 outputs[ "Date" ] = str( datetime.today() )
 ```
 
-![](../../../.gitbook/assets/screenshot-2019-07-16-14.12.32.png)
+![](../../../.gitbook/assets/screen-shot-2019-08-14-at-10.32.30-pm.png)
 
 ## ▶ Running Python
 
-While working on your script, you can press the ![](../../../.gitbook/assets/play_button.png)\("play"\) button inside the Python module to run the Python code. 
+While working on your script, you can press the "Run Code" button inside the Python module to run the Python code and see updated results.
+
+## 📦 Adding Additional Requirements
+
+The Python module comes with [many pre-installed Python Libraries](libraries.md). However, if you would like to use a module that isn't already installed, you can declare those requirements in the "Requirements" field.
+
+Declare these requirements as you would in a [pip Requirements File](https://pip.pypa.io/en/stable/user_guide/#requirements-files), using the [Requirements File Format](https://pip.pypa.io/en/stable/reference/pip_install/#requirements-file-format).
+
+![](../../../.gitbook/assets/screen-shot-2019-08-14-at-10.27.30-pm.png)
+
+{% hint style="info" %}
+For faster code execution, only add requirements that aren't already pre-installed in the Python module.
+{% endhint %}
 
