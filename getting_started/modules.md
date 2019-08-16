@@ -42,6 +42,10 @@ Notice the three sections of this module - Settings, Inputs, and Outputs. When s
 
 Under Settings, we set up the options for our Module. In this case, the Weather API Module wants to know if we want our results returned in Fahrenheit, Celcius, or Kelvin.
 
+{% hint style="info" %}
+If the module requires authentication \(for example, Gmail requires you to log in using your Google account\), there will be a dropdown at the top of the settings panel to select or add an account. Click "Add an Account..." from the dropdown and follow the steps to authenticate your account. You can delete an authenticated account by selecting it from the dropdown and hitting the edit button, then clicking the delete button in the dialog.
+{% endhint %}
+
 ### 📥 Inputs
 
 ![The Red Star means this input is required.](../.gitbook/assets/screenshot-2019-07-16-13.07.21.png)
