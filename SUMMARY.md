@@ -75,6 +75,7 @@
   * [Google Sheets](library/modules/google-sheets.md)
   * [Hacker News](library/modules/hackernews.md)
   * [Hunter.io](library/modules/hunter.io.md)
+  * [JavaScript](library/modules/javascript.md)
   * [Mailchimp](library/modules/mailchimp.md)
   * [MapQuest](library/modules/mapquest.md)
   * [Medium](library/modules/medium.md)

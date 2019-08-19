@@ -4,7 +4,7 @@
 
 ## ![](../../../.gitbook/assets/create_var.png) Inputs
 
-WayScript's python editor lets you reference [Variables](../../../getting_started/variables.md) that exist in your program. To do this, you can drag your variables into the codebox or reference them through the **inputs dictionary**.
+WayScript's python editor lets you reference [Variables](../../../getting_started/variables.md) that exist in your program. To do this, you can reference them through the **inputs dictionary**.
 
 As an example, let's create a variable called "Location" and set a value of "Brooklyn, NY"
 
