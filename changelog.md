@@ -14,5 +14,5 @@ description: Updates and improvements to the WayScript platform.
 ## August 15th, 2019
 
 * Added a [Template Library](https://wayscript.com/library), where you can get started with ready-made scripts. This replaces the Sidekick functionality.
-* You can now [define custom requirements](library/modules/python/#adding-additional-requirements) in the Python module.
+* You can now [define custom requirements](library/modules/python/#adding-additional-requirements) in the Python module and edit your code in an expanded full-screen mode.
 
