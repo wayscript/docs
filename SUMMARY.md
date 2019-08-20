@@ -1,6 +1,7 @@
 # Table of contents
 
 * [About](README.md)
+* [What's new?](changelog.md)
 
 ## Getting Started <a id="getting_started"></a>
 
@@ -84,6 +85,7 @@
   * [NLP](library/modules/nlp.md)
   * [NY Times](library/modules/ny-times.md)
   * [Outlook](library/modules/outlook.md)
+  * [Pie Chart](library/modules/pie-chart.md)
   * [Phillips Hue](library/modules/phillips-hue.md)
   * [Python](library/modules/python/README.md)
     * [Python Libraries](library/modules/python/libraries.md)
@@ -114,7 +116,6 @@
   * [Yelp](library/modules/yelp.md)
   * [YouTube](library/modules/youtube.md)
   * [Zillow](library/modules/zillow.md)
-  * [Pie Chart](library/modules/pie-chart.md)
 
 ## APIs
 
