@@ -114,6 +114,7 @@
   * [Yelp](library/modules/yelp.md)
   * [YouTube](library/modules/youtube.md)
   * [Zillow](library/modules/zillow.md)
+  * [Pie Chart](library/modules/pie-chart.md)
 
 ## APIs
 
