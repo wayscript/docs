@@ -41,6 +41,7 @@
     * [Return](library/logic/functions/return.md)
   * [List Actions](library/logic/list-actions.md)
   * [Loops](library/logic/loop/README.md)
+    * [While Loop](library/logic/loop/while-loop.md)
     * [Break](library/logic/loop/break.md)
     * [Continue](library/logic/loop/continue.md)
   * [Print To Log](library/logic/print-to-log.md)
