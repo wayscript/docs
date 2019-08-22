@@ -36,11 +36,13 @@ Drag the "If" module from your Logic Panel as the next step in your program.
 
 For this example, we want to build logic that says "**If** our Number variable is greater than or equal to 100 - then print "This is a big number", **Else** print "This is a small number".
 
-![If Number is Greater Than or Equal To to 100](../.gitbook/assets/screenshot-2019-07-16-11.03.50.png)
+![If Number is Greater Than or Equal to 100](../.gitbook/assets/screen-shot-2019-08-22-at-12.52.15-pm.png)
 
-{% hint style="info" %}
-You can also add additional branches inside the conditional. The first branch which is **True** will execute. If no branch is true then the **Else** branch will execute.
-{% endhint %}
+### 🌵Add Branches
+
+We can also add additional branches to our conditional. The first branch which is **True** will execute. If no branch is **True** then the **Else** branch will execute.
+
+![If Number is Greater Than or Equal to 100, Else If Number is Less Than 200](../.gitbook/assets/screen-shot-2019-08-22-at-12.50.41-pm.png)
 
 ### 🌲 Add Branch Actions
 
