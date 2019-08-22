@@ -39,7 +39,7 @@ For this example, we want to build logic that says "**If** our Number variable i
 ![If Number is Greater Than or Equal To to 100](../.gitbook/assets/screenshot-2019-07-16-11.03.50.png)
 
 {% hint style="info" %}
-You can also add additional branches inside the conditional. The first branch which is **true** will execute. If not branch is true then the **Else** branch will execute.
+You can also add additional branches inside the conditional. The first branch who's condition is true will execute. If not branch is true then the **Else** branch will execute.
 {% endhint %}
 
 ### 🌲 Add Branch Actions
