@@ -36,7 +36,7 @@ Drag the "If" module from your Logic Panel as the next step in your program.
 
 For this example, we want to build logic that says "**If** our Number variable is greater than or equal to 100 - then print "This is a big number", **Else** print "This is a small number".
 
-![If Number is Greater Than or Equal To to 100](../.gitbook/assets/screenshot-2019-07-16-11.03.50.png)
+![If Number is Greater Than or Equal to 100](../.gitbook/assets/screen-shot-2019-08-22-at-12.52.15-pm.png)
 
 ### 🌵Add Branches
 
