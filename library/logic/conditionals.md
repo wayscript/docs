@@ -12,7 +12,7 @@ You will use this block to define a logic expression.
 
 To create a logic expression, you will typically define values for the two Variable fields and then select how you want to compare them using the Comparison field.
 
-![](../../.gitbook/assets/screen-shot-2019-08-22-at-9.58.37-am.png)
+![The Condition Block consists of a Variable and a Comparison \(often to the value of another Variable\).](../../.gitbook/assets/screen-shot-2019-08-22-at-9.58.37-am.png)
 
 {% hint style="info" %}
 Some comparisons, such as "Has Increased," "Has Decreased," "Has a Value," or "Does Not Have a Value," do not require a second variable input.
@@ -22,7 +22,7 @@ Some comparisons, such as "Has Increased," "Has Decreased," "Has a Value," or "D
 
 After defining a value for the first Variable, you can select an option for the Comparison field.
 
-![](../../.gitbook/assets/screen-shot-2019-08-22-at-10.00.00-am.png)
+![Select a Comparison Option](../../.gitbook/assets/screen-shot-2019-08-22-at-10.00.00-am.png)
 
 {% hint style="warning" %}
 You will not be able to select a value for the Comparison field until a value for the first Variable has been defined.
