@@ -13,6 +13,7 @@
 * [Looping / Iteration](getting_started/looping-iteration.md)
 * [Conditionals](getting_started/conditionals.md)
 * [Functions](getting_started/functions.md)
+* [Code Editors](getting_started/code-editors.md)
 * [Helpful Settings](getting_started/helpful-settings.md)
 * [Feedback and Bug Reporting](getting_started/feedback-bug-reporting.md)
 
