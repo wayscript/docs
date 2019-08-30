@@ -2,6 +2,10 @@
 
 ![Write Python code.](../../../.gitbook/assets/python_128x128.png)
 
+{% hint style="info" %}
+See [Code Editors](../../../getting_started/code-editors.md) for more information on composing code in WayScript.
+{% endhint %}
+
 ## ![](../../../.gitbook/assets/create_var.png) Inputs
 
 WayScript's python editor lets you reference [Variables](../../../getting_started/variables.md) that exist in your program. To do this, you can reference them through the **inputs dictionary**.

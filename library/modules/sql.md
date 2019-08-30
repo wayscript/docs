@@ -2,6 +2,10 @@
 
 ![Run queries against a SQL database.](../../.gitbook/assets/sql.png)
 
+{% hint style="info" %}
+See [Code Editors](../../getting_started/code-editors.md) for more information on composing code in WayScript.
+{% endhint %}
+
 ## ⚙ Setup
 
 ### ➕ Add an Account

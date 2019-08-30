@@ -82,6 +82,7 @@
   * [HTML](library/modules/html.md)
   * [Hunter.io](library/modules/hunter.io.md)
   * [HTTP Response](library/modules/http-response.md)
+  * [Images](library/modules/images.md)
   * [JavaScript](library/modules/javascript.md)
   * [Mailchimp](library/modules/mailchimp.md)
   * [MapQuest](library/modules/mapquest.md)
