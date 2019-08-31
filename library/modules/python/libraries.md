@@ -12,7 +12,7 @@ If you need a Python library that isn't currently available, you can declare add
 
 ### Using [Selenium](https://selenium-python.readthedocs.io)
 
-The [Python module](./) includes the [Chrome headless browser](https://developers.google.com/web/updates/2017/04/headless-chrome), which you can interact with using selenium. Here is some sample code to do this:
+The [Python module](./) includes the [Chrome headless browser](https://developers.google.com/web/updates/2017/04/headless-chrome), which you can interact with using _selenium_. Here is some sample code to do this:
 
 ```python
 from selenium import webdriver

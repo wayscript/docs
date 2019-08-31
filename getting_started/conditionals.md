@@ -22,7 +22,7 @@ In programming, a conditional \(also known as "[if-statement](../library/logic/c
 
 ### ![](../.gitbook/assets/create_var.png) Create a Variable
 
-For this example, we create a variable called Number and set it to the value 4. 
+For this example, we create a variable called Number and set it to the value 4.
 
 ![](../.gitbook/assets/screenshot-2019-07-16-09.55.12.png)
 
@@ -56,7 +56,7 @@ Press the "Run Main" button to run your program. You can see that the If-stateme
 
 ![](../.gitbook/assets/screenshot-2019-07-16-11.09.27.png)
 
-Try changing the number of your Number variable and rerunning the program. 
+Try changing the number of your Number variable and rerunning the program.
 
 {% hint style="info" %}
 For a full list of conditions for each variable type, read the [Conditionals Logic Documentation](../library/logic/conditionals.md).

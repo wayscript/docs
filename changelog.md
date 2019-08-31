@@ -4,9 +4,22 @@ description: Updates and improvements to the WayScript platform.
 
 # What's new?
 
+## August 30th, 2019
+
+* Added functionality for [hosting your own web app in WayScript](https://www.youtube.com/watch?reload=9&v=OrZMjdVhFfA&feature=youtu.be). This includes the following features:
+  * [HTTP Trigger](library/triggers/http-trigger.md), which allows you to trigger a function when a user visits a URL.
+  * [HTTP Response](library/modules/http-response.md) module, which returns the output of your script as an HTTP response.
+  * [HTML module](library/modules/html.md) for composing HTML code to serve as content on your webpage.
+  * [CSS module ](library/modules/css.md)for styling your webpage.
+  * [Images module](library/modules/images.md) for adding images to your scripts and including them in HTML.
+  * Option to [output raw JS code](library/modules/javascript.md#output-raw-javascript-code) from the [JavaScript module](library/modules/javascript.md), to include it in HTML.
+  * The [Build a Website](https://wayscript.com/library/Build_A_Website) template is not available in the [Template Library](https://wayscript.com/library).
+* The [Python module](library/modules/python/) now includes the [Chrome headless browser](https://developers.google.com/web/updates/2017/04/headless-chrome), which you can interact with [using Selenium](library/modules/python/libraries.md#using-selenium). 
+* You can now [add comments to steps within your scripts](getting_started/modules.md#add-comments-to-a-step).
+
 ## August 23rd, 2019
 
-* [Python Slackbot](https://wayscript.com/library/Slack_Bot) added to [Template Library](https://wayscript.com/library).
+* [Python Slackbot](https://wayscript.com/library/Slack_Bot) added to the [Template Library](https://wayscript.com/library).
 * Variable pills now work in code editors.
 * You can now share scripts that contain modules requiring authentication.
 * Added ability to [trust a computer](account-management/two-factor-authentication.md#trust-a-computer) when using Two-Factor Authentication.

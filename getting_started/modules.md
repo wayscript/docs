@@ -104,3 +104,13 @@ Disabling a module is convenient way to try out different program setups without
 
 ![](../.gitbook/assets/screen-shot-2019-07-26-at-2.07.55-pm.png)
 
+## ![](../.gitbook/assets/comment_open.png) Add Comments to a Step
+
+To add comments to a step of your script, click the ![](../.gitbook/assets/comment.png) \(speech bubble\) icon to the right of the step.
+
+![When hovering over a step, the comments icon will appear to the right.](../.gitbook/assets/screen-shot-2019-08-30-at-4.59.13-pm.png)
+
+This will open up a panel where you can view, add, and edit comments for that section of your script.
+
+![Comments Panel](../.gitbook/assets/screen-shot-2019-08-30-at-5.00.20-pm.png)
+
