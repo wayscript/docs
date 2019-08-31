@@ -13,7 +13,7 @@ description: Updates and improvements to the WayScript platform.
   * [CSS module ](library/modules/css.md)for styling your webpage.
   * [Images module](library/modules/images.md) for adding images to your scripts and including them in HTML.
   * Option to [output raw JS code](library/modules/javascript.md#output-raw-javascript-code) from the [JavaScript module](library/modules/javascript.md), to include it in HTML.
-  * The [Build a Website](https://wayscript.com/library/Build_A_Website) template is not available in the [Template Library](https://wayscript.com/library).
+  * The [Build a Website](https://wayscript.com/library/Build_A_Website) template is now available in the [Template Library](https://wayscript.com/library).
 * The [Python module](library/modules/python/) now includes the [Chrome headless browser](https://developers.google.com/web/updates/2017/04/headless-chrome), which you can interact with [using Selenium](library/modules/python/libraries.md#using-selenium). 
 * You can now [add comments to steps within your scripts](getting_started/modules.md#add-comments-to-a-step).
 
