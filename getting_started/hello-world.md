@@ -1,6 +1,6 @@
 # Hello World
 
-## ![](../.gitbook/assets/super.png) Creating a WayScript Program
+## ![](../.gitbook/assets/super%20%281%29.png) Creating a WayScript Program
 
 ### 🌏 Initialize a New Program
 
