@@ -1,6 +1,6 @@
 # About
 
-## ![](.gitbook/assets/super%20%281%29.png) What is WayScript?
+## ![](.gitbook/assets/super.png) What is WayScript?
 
 🦸♀ WayScript is a drag and drop programming platform built to give you superpowers.
 
@@ -23,6 +23,4 @@ We publish weekly [YouTube tutorials](https://youtube.com/c/wayscript) of use ca
 ## 🔒 Privacy
 
 We care about your privacy. We are not sharing data about you with advertisers nor anybody else.
-
-![](.gitbook/assets/super.png)
 
