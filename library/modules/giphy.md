@@ -1,6 +1,6 @@
 # Giphy
 
-![Find everything from funny GIFs, reaction GIFs, unique GIFs and more.](../../.gitbook/assets/giphy.png)
+![GIPHY is your top source for the best &amp; newest GIFs &amp; Animated Stickers online.](../../.gitbook/assets/giphy.png)
 
 {% hint style="info" %}
 Check out the GIPHY [website](https://www.developers.giphy.com).
