@@ -1,8 +1,6 @@
----
-description: Modules are the building blocks of a WayScript program.
----
-
 # Modules
+
+Modules are the building blocks of WayScript programs.
 
 In this section, we provide an explanation on how to think about WayScript modules, how they work, and how you can use them to do awesome things with your programs.
 
