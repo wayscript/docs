@@ -1,8 +1,6 @@
----
-description: Triggers tell your WayScript program to run.
----
-
 # Triggers
+
+Triggers tell your WayScript program to run.
 
 {% hint style="info" %}
 You can get a full list of all Triggers and their functionality in the [Library](../library/triggers/). 
