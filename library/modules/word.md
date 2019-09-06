@@ -1,6 +1,6 @@
 # Word
 
-![Read file data, and build Word documents.](../../.gitbook/assets/word_128x128.png)
+![Work with Microsoft Word. Read file data, and build Word documents.](../../.gitbook/assets/word_128x128.png)
 
 ## 📖 Read File
 
@@ -8,7 +8,7 @@
 
 ![Select a Word Document](../../.gitbook/assets/screenshot-2019-07-16-17.04.18.png)
 
-You can upload a Word document to WayScript or select a document you have already uploaded. 
+You can upload a Word document to WayScript or select a document you have already uploaded.
 
 ### 📤 Outputs
 
@@ -26,7 +26,7 @@ Under Settings &gt; Choose File to Write, select 'Create New File'
 
 ![Create New File](../../.gitbook/assets/screenshot-2019-07-16-17.13.06.png)
 
-In the modal, create a name for your file. 
+In the modal, create a name for your file.
 
 ![](../../.gitbook/assets/screenshot-2019-07-16-17.14.38.png)
 
@@ -38,7 +38,7 @@ You can include variables in your text document.
 
 ### ⬇ Download Document
 
-When your program runs, you can download your Word document directly from the log. 
+When your program runs, you can download your Word document directly from the log.
 
 ![Download Button in Log](../../.gitbook/assets/screenshot-2019-07-16-17.17.41.png)
 
