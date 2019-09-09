@@ -10,7 +10,7 @@ To have your Google Assistant speak a phrase, use the [Google Assistant module](
 
 ### ​![](../../.gitbook/assets/google_assistant.png) Enable Google Assistant <a id="enable-alexa"></a>
 
-Add the WayScript action to your Google Assistant account. [Get the WayScript Trigger action.](https://assistant.google.com/u/0/services/a/uid/000000dfb9940d69?hl=en-US&source=web)​
+Add the WayScript action to your Google Assistant account. [Get the WayScript Trigger action.](https://assistant.google.com/u/0/services/a/uid/000000dfb9940d69?hl=en-US&source=docs)​
 
 {% hint style="info" %}
 WayScript will remind you to do this the first time you use a Google Assistant Trigger.‌
