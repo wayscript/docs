@@ -4,6 +4,12 @@ description: Updates and improvements to the WayScript platform.
 
 # What's new?
 
+## September 6th, 2019
+
+* Now you can preview [templates](https://wayscript.com/library) in "read-only" mode. [Click here for an example!](https://wayscript.com/view_template/Build%20A%20Website)
+* WayScript no longer requires a beta key, so anyone can create an account!
+* Documentation for each module now appears in a panel on the right side of the script editor, so you don't have to interrupt your flow to look something up!
+
 ## August 30th, 2019
 
 * Added functionality for [hosting your own web app in WayScript](https://www.youtube.com/watch?reload=9&v=OrZMjdVhFfA&feature=youtu.be). This includes the following features:
