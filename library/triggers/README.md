@@ -15,6 +15,7 @@ description: Triggers allow you to run your programs automatically.
 These Triggers can be added to any function, as many times as desired. 
 
 * [Time Trigger](time-trigger.md)
+* [HTTP Trigger](http-trigger.md)
 
 #### One per function
 
@@ -36,6 +37,7 @@ These Triggers can be added only once to each function.
 These Triggers can be added only once to a single function.
 
 * [Alexa Trigger](alexa-trigger.md)
+* [Google Assistant Trigger](google-assistant-trigger.md)
 * [Email Trigger](email-trigger.md)
 * [Text Message Trigger](text-message-trigger.md)
 
