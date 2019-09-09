@@ -34,15 +34,19 @@ You can pass an argument to your Google Assistant-Triggered program by enabling 
 
 ![](../../.gitbook/assets/screen-shot-2019-09-09-at-10.22.05-am.png)
 
-Suppose your program is called 'Stock Prices' and takes a single input called \[Symbol\] as input, you could then speak the following phrase to the Google Assistant:
+Suppose your program is called 'Stocks' and takes a single input called \[Symbol\] as input, you could then speak the following phrase to the Google Assistant:
 
-> "Hey Google, ask WayScript Trigger to run 'Stock Prices' with AAPL."
-
-### ​💬 Speak a Phrase <a id="speak-a-phrase"></a>
+> "Hey Google, ask WayScript Trigger to run 'Stocks' with AAPL."
 
 ![](../../.gitbook/assets/screen-shot-2019-09-09-at-10.24.21-am.png)
+
+### ​💬 Speak a Phrase <a id="speak-a-phrase"></a>
 
 Once you have added the Google Assistant Trigger to a program, you can include the [Google Assistant module](../modules/google-assistant.md), which will allow the Google Assistant to speak to you while your program is running.‌
 
 You can reference variables that were created earlier in the program and insert them into an Google Assistant Phrase. See the [Google Assistant module documentation](../modules/google-assistant.md) for more details.‌
+
+## 🎓 Tutorial
+
+For a brief tutorial on how to use the Google Assistant Trigger, see [Run a Python Script with a Google Assistant Voice Command.](https://wayscript.com/blog_entry/44)
 

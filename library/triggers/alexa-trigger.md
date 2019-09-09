@@ -40,9 +40,9 @@ Suppose your program is called 'Stock Prices' and takes a single input called \[
 
 > "Alexa, launch WayScript and run 'Stock Prices' with AAPL."
 
-### 💬 Speak a Phrase
-
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-3.12.35-pm.png)
+
+### 💬 Speak a Phrase
 
 Once you have added the Alexa Trigger to a program, you can include the Alexa module, which will allow Alexa to speak to you while your program is running.
 
