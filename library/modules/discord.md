@@ -28,19 +28,11 @@ If you have recently added a channel and do not see it, click the refresh button
 
 ### ✏ **Write to a Channel**
 
-Enter the message you want to send.
+Enter the message you want to send. You can also specify a name that the bot should use and an image URL for the bot to use as its icon.
 
 ![](../../.gitbook/assets/img3%20%284%29.png)
 
 ![](../../.gitbook/assets/img4.png)
-
-### 👥 **Get a List of Channel Members**
-
-Retrieve a list of the display names of all the members in the channel.
-
-![](../../.gitbook/assets/img5%20%281%29.png)
-
-![](../../.gitbook/assets/img6.png)
 
 ### 💬 Get a List of Messages from the Channel's History
 
