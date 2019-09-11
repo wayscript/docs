@@ -21,9 +21,7 @@ In order to do this, you must first link your Discord account. Then, select the 
 Run program when:
 
 * A message was posted to the channel
-* A user joined the channel
-
-![](../../.gitbook/assets/img2.png)
+* A user joined the server
 
 ### \# Choose a Channel
 
