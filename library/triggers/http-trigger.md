@@ -40,6 +40,16 @@ When a user goes to access your endpoint for the first time, they will now be pr
 
 ![Custom endpoint login prompt](../../.gitbook/assets/screen-shot-2019-09-09-at-9.07.16-am.png)
 
+### Basic Authentication
+
+If you password-protect your endpoints, you can access them without the login endpoint by including an `Authorization` header in your request.
+
+This header should follow the standard for [HTTP basic access authentication](https://en.wikipedia.org/wiki/Basic_access_authentication). For example, suppose your Username is "**captain@wayscript.com**" and your Password is "**letmein**," you would create the `Authorization` header by:
+
+1. Joining the Username and Password into a single string, separated by a semicolon: **`captain@wayscript.com:letmein`**
+2. Encoding that string in Base64: **`Y2FwdGFpbkB3YXlzY3JpcHQuY29tOmxldG1laW4=`**
+3. Passing that encoded string to your custom endpoint by including the `Authorization: Basic` **`Y2FwdGFpbkB3YXlzY3JpcHQuY29tOmxldG1laW4=`** header in your request.
+
 ## 🎓 Tutorial
 
 {% embed url="https://www.youtube.com/watch?reload=9&v=OrZMjdVhFfA&feature=youtu.be" caption="Standup a Web App on the Cloud in 1 Minute" %}
