@@ -48,7 +48,7 @@ This header should follow the standard for [HTTP basic access authentication](ht
 
 1. Joining the Username and Password into a single string, separated by a semicolon: **`captain@wayscript.com:letmein`**
 2. Encoding that string in Base64: **`Y2FwdGFpbkB3YXlzY3JpcHQuY29tOmxldG1laW4=`**
-3. Passing that encoded string to your custom endpoint by including the `Authorization: Basic` **`Y2FwdGFpbkB3YXlzY3JpcHQuY29tOmxldG1laW4=`** header in your request.
+3. Passing that encoded string to your custom endpoint by including the `Authorization: Basic Y2FwdGFpbkB3YXlzY3JpcHQuY29tOmxldG1laW4=` header in your request.
 
 ## 🎓 Tutorial
 
