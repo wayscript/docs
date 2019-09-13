@@ -83,7 +83,7 @@ Check out twython on [GitHub](https://github.com/ryanmcgrath/twython).
 ## 📖 Get User Followers and Following
 
 {% hint style="warning" %}
-Due to Twitter's Rate Limiting Policy, this is a slow operation \(takes 1 minute per 200 users in either category... so be careful with this mode\).
+Due to Twitter's Rate Limiting Policy, this is a slow operation \(takes 1 minute per 200 users in either category... so be selective with this mode\).
 {% endhint %}
 
 This mode lets you pull in lists of the usernames of a users followers and friends \(people the user follows\).
