@@ -4,6 +4,15 @@ description: Updates and improvements to the WayScript platform.
 
 # What's new?
 
+## September 13th, 2019
+
+* [Google Assistant](library/triggers/google-assistant-trigger.md) integration is now available! Trigger your WayScript programs by saying "Hey, Google" and have the Google Assistant [respond back to you](library/modules/google-assistant.md).
+* You can now [password-protect your custom HTTP endpoints](library/triggers/http-trigger.md#password-protect-your-endpoints).
+* Added [Discord](library/triggers/discord-trigger.md) functionality, so you can trigger WayScript programs to run when various Discord events occur, or interact with Discord channels [using the WayScript bot](library/modules/discord.md).
+* New [Twitter](library/modules/twitter.md) functionality:
+  * Pull a list of followers/following for a Twitter username
+  * Like Twitter posts
+
 ## September 6th, 2019
 
 * Now you can preview [templates](https://wayscript.com/library) in "read-only" mode. [Click here for an example!](https://wayscript.com/view_template/Build%20A%20Website)
