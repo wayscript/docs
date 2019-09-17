@@ -10,8 +10,8 @@ description: Updates and improvements to the WayScript platform.
 * You can now [password-protect your custom HTTP endpoints](library/triggers/http-trigger.md#password-protect-your-endpoints).
 * Added [Discord](library/triggers/discord-trigger.md) functionality, so you can trigger WayScript programs to run when various Discord events occur, or interact with Discord channels [using the WayScript bot](library/modules/discord.md).
 * New [Twitter](library/modules/twitter.md) functionality:
-  * Pull a list of followers/following for a Twitter username
-  * Like Twitter posts
+  * [Pull a list of followers/following for a Twitter username](library/modules/twitter.md#get-user-followers-and-following)
+  * [Like Twitter posts](library/modules/twitter.md#like-a-tweet)
 
 ## September 6th, 2019
 

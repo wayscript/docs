@@ -6,7 +6,7 @@
 Check out twython on [GitHub](https://github.com/ryanmcgrath/twython).
 {% endhint %}
 
-## 🔎 Search for a Word or \#⃣Hashtag
+## 🔎 Search for a Word or \#Hashtag
 
 ### ⚙ Settings
 
