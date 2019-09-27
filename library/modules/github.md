@@ -66,3 +66,61 @@ Create variables for:
 * README content
 * Raw JSON Data
 
+## 🖊 Create an Issue
+
+### 📥 Inputs
+
+Create an issue for a repository by:
+
+* GitHub Repo URL
+* Title
+* Content
+* Labels
+* Assignments 
+* Milestone number
+
+### 📤 Outputs
+
+ Create variables for:
+
+* Raw JSON Data
+
+## 🖊 Edit an Issue
+
+### 📥 Inputs
+
+Edit an issue for a repository by:
+
+* GitHub Repo URL
+* Status
+* Title
+* Content
+* Labels
+* Assignments
+* Milestone number
+
+### 📤 Outputs
+
+Create variables for:
+
+* Raw JSON data
+
+## 📓 Retrieve File Contents
+
+### 📥 Inputs
+
+Retrieve contents of a file in a repository by:
+
+* GitHub Repo URL
+* Path URL relative to GitHub URL
+* Branch name
+
+### 📤 Outputs
+
+Create variables for:
+
+* File Contents
+* Raw JSON data
+
+
+

@@ -28,10 +28,19 @@ You can add additional accounts from the GitHub Trigger settings.
   * Run program when:
     * An issue is opened.
     * An issue is closed.
+    * An issue is commented on.
+    * An issue is assigned.
+    * An issue is unassigned.
+    * An issue is labeled.
+    * An issue is unlabeled.
 * **Pull Request Events**
   * Run program when:
     * A pull request is opened.
     * A pull request is closed.
+    * A pull request review is submitted.
+    * A pull request review is modified.
+    * A pull request is commented on.
+    * A pull request's code is commented on.
 * **Push Events**
   * Run program when there is a push to a repository branch.
   * Select a branch
