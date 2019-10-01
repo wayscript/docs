@@ -10,7 +10,7 @@ Outputs the number of characters in your text.
 White space counts as a character
 {% endhint %}
 
-## Append
+## ➕ Append
 
 ### Inputs
 
