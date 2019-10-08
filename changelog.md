@@ -4,6 +4,10 @@ description: Updates and improvements to the WayScript platform.
 
 # What's new?
 
+## October 8th, 2019
+
+* You can now log in with GitHub!
+
 ## September 13th, 2019
 
 * [Google Assistant](library/triggers/google-assistant-trigger.md) integration is now available! Trigger your WayScript programs by saying "Hey, Google" and have the Google Assistant [respond back to you](library/modules/google-assistant.md).
