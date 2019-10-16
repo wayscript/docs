@@ -4,6 +4,10 @@ description: Updates and improvements to the WayScript platform.
 
 # What's new?
 
+## October 16th, 2019
+
+* Reply-to addresses are now available as an [output of the Gmail trigger](library/triggers/gmail-trigger.md#outputs).
+
 ## October 8th, 2019
 
 * You can now log in with GitHub!

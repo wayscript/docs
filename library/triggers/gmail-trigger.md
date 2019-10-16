@@ -59,6 +59,8 @@ Select the data to retrieve as variables for your program.
 * **All Email Recipients** - All email addresses that received this message.
 * **To Email Recipients** - Email addresses that were on the "To" line of the message.
 * **Cc Email Recipients** - Email addresses that were on the "Cc" line of the message.
+* **Cc Email Recipients** - Email addresses that were on the "Cc" line of the message.
+* **Reply-to Addresses** - Values of the "Reply-to" email header field.
 * **Senders** - The sender \("From" line\) of each message in the changeset.
 * **Subjects** - The "Subject" line of each message in the changeset.
 * **Body Snippets** - A preview of the body of each message in the changeset.
