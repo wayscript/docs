@@ -3,7 +3,7 @@
 ![Automate actions with Gmail.](../../.gitbook/assets/gmail.png)
 
 {% hint style="info" %}
-To run your program when Gmail messages change, use the [Gmail Trigger](../triggers/gmail-trigger.md).
+To run your script when Gmail messages change, use the [Gmail Trigger](../triggers/gmail-trigger.md).
 {% endhint %}
 
 ## ⚙ Setup

@@ -4,7 +4,7 @@
 
 ## ⚡ Activate the Time Trigger
 
-In order to Trigger programs at a particular time, add the Trigger Module to the triggers section of your program and activate the trigger.
+In order to Trigger programs at a particular time, add the Trigger Module to the triggers section of your script and activate the trigger.
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-4.11.18-pm.png)
 

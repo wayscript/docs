@@ -1,6 +1,6 @@
 # Text Message Trigger
 
-![Run your program with a text message.](../../.gitbook/assets/text_message_128x128.png)
+![Run your script with a text message.](../../.gitbook/assets/text_message_128x128.png)
 
 {% hint style="success" %}
 You can trigger WayScript programs to run by sending a text message to WayScript at  

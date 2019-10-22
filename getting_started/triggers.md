@@ -10,9 +10,9 @@ You can get a full list of all Triggers and their functionality in the [Library]
 
 ![](../.gitbook/assets/screenshot-2019-07-16-13.31.03.png)
 
-▶ So far in this introduction, we have run our programs by pressing the "Run Main" button. Whether you realized it or not - this button is a Trigger! 
+▶ So far in this introduction, we have run our scripts by pressing the "Run Main" button. Whether you realized it or not - this button is a Trigger! 
 
-⚡Trigger events cause your program to run. In the "Run Main" case, the Trigger is just pressing the button. However, there are many other types of triggers you can set up to run your programs.  
+⚡Trigger events cause your script to run. In the "Run Main" case, the Trigger is just pressing the button. However, there are many other types of triggers you can set up to run your scripts.  
 
 {% hint style="info" %}
 A simple example of this is the [Time Trigger](../library/triggers/time-trigger.md).

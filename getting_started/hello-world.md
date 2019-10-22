@@ -2,11 +2,11 @@
 
 ## ![](../.gitbook/assets/super%20%281%29.png) Creating a WayScript Program
 
-### 🌏 Initialize a New Program
+### 🌏 Initialize a New Script
 
-On the dashboard, click **Build from Scratch** and name your program 'Hello World'. Press **Create** to start building your program.
+On the dashboard, click **Create a new script** and name your program 'Hello World'. Press **Create** to start building your script.
 
-![Press the Create button to Initialize your new program.](../.gitbook/assets/screenshot-2019-07-15-11.43.27.png)
+![Press the Create button to get started with your new script.](../.gitbook/assets/screen-shot-2019-10-21-at-7.55.08-pm.png)
 
 When you press Create, you are brought into the WayScript program builder.
 

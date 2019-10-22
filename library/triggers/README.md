@@ -1,12 +1,12 @@
 ---
-description: Triggers allow you to run your programs automatically.
+description: Triggers allow you to run your scripts automatically.
 ---
 
 # Triggers
 
 ## ➕ Adding a Trigger
 
-![The Text Message Trigger is restricted to one per program](../../.gitbook/assets/screen-shot-2019-07-16-at-10.54.29-am.png)
+![The Text Message Trigger is restricted to one per script.](../../.gitbook/assets/screen-shot-2019-07-16-at-10.54.29-am.png)
 
 ### ❗ Trigger Restrictions
 
@@ -32,9 +32,9 @@ These Triggers can be added only once to each function.
 * [Trello Trigger](trello-trigger.md)
 * [Weather API Trigger](weather-api-trigger.md)
 
-#### One per Program
+#### One per script
 
-These Triggers can be added only once to a single function.
+These Triggers can be added only once anywhere within a script.
 
 * [Alexa Trigger](alexa-trigger.md)
 * [Google Assistant Trigger](google-assistant-trigger.md)
@@ -49,7 +49,7 @@ Trigger Settings
 
 ![Trigger Settings](../../.gitbook/assets/screen-shot-2019-07-16-at-11.08.46-am.png)
 
-On the Dashboard, all triggers appear in the footer of the program tile.
+On the Dashboard, all triggers appear in the footer of the script tile.
 
 ![Dashboard](../../.gitbook/assets/screen-shot-2019-07-16-at-11.10.15-am.png)
 

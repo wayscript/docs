@@ -3,7 +3,7 @@
 ![Interact with Discord channels using the WayScript bot.](../../.gitbook/assets/discord.png)
 
 {% hint style="info" %}
-To run your program when Discord events occur, use the [Discord Trigger](../triggers/discord-trigger.md).
+To run your script when Discord events occur, use the [Discord Trigger](../triggers/discord-trigger.md).
 {% endhint %}
 
 ## ⚙ **Setup**

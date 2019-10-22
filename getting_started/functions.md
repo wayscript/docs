@@ -14,7 +14,7 @@ Please read the [Hello World](hello-world.md), [Variables](variables.md), [Modul
 For full details on functions, read the [Function Logic Documentation.](../library/logic/functions/)
 {% endhint %}
 
-In this introduction to functions, we are going to build a program that uses functions.
+In this introduction to functions, we are going to build a script that uses functions.
 
 🧩 Functions are useful for breaking up your code into more manageable, reusable pieces. 
 
@@ -67,14 +67,14 @@ To show the power of functions, we are going to print the value of "Doubled Numb
 ![](../.gitbook/assets/return_demo.png)
 
 {% hint style="warning" %}
-If you [define outputs](functions.md#step-two-create-a-function) in your function setup, you must return or your program will throw an error.
+If you [define outputs](functions.md#step-two-create-a-function) in your function setup, you must return or your script will throw an error.
 {% endhint %}
 
 Your returned value is now a variable in your main branch \(the branch that called the function\).
 
 ![](../.gitbook/assets/func_output.png)
 
-Now run your program and read the log to see the [Program Flow](program-flow.md)
+Now run your script and read the log to see the [Program Flow](program-flow.md)
 
 ![](../.gitbook/assets/func_demo_final.png)
 

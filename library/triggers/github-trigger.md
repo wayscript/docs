@@ -1,6 +1,6 @@
 # GitHub Trigger
 
-![Run your program when GitHub events occur.](../../.gitbook/assets/github%20%282%29.png)
+![Run your script when GitHub events occur.](../../.gitbook/assets/github%20%282%29.png)
 
 {% hint style="info" %}
 To automate actions with GitHub, use the [GitHub module](../modules/github.md).

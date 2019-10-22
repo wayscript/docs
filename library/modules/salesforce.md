@@ -3,7 +3,7 @@
 ![Create, edit, and query Salesforce objects.](../../.gitbook/assets/salesforce.png)
 
 {% hint style="info" %}
-To run a program when a Salesforce object is created or updated, use the [Salesforce Trigger](../triggers/salesforce-trigger.md).
+To run your script when a Salesforce object is created or updated, use the [Salesforce Trigger](../triggers/salesforce-trigger.md).
 {% endhint %}
 
 ## ⚙ Setup

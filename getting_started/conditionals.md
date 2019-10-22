@@ -1,5 +1,5 @@
 ---
-description: Add logic to your programs by creating conditions with the If Module.
+description: Add logic to your scripts by creating conditions with the If Module.
 ---
 
 # Conditionals
