@@ -4,7 +4,7 @@
 
 ### 🌏 Initialize a New Script
 
-On the dashboard, click **Create a new script** and name your program 'Hello World'. Press **Create** to start building your script.
+On the dashboard, click **Create a new script** and name your script 'Hello World'. Press **Create** to start building your script.
 
 ![Press the Create button to get started with your new script.](../.gitbook/assets/screen-shot-2019-10-21-at-7.55.08-pm.png)
 

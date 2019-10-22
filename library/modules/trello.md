@@ -7,12 +7,12 @@ Check out py-trello on [GitHub](https://github.com/sarumont/py-trello).
 {% endhint %}
 
 {% hint style="info" %}
-To run your program when changes are made to your Trello boards, lists, and cards, use the [Trello Trigger](../triggers/trello-trigger.md).
+To run your script when changes are made to your Trello boards, lists, and cards, use the [Trello Trigger](../triggers/trello-trigger.md).
 {% endhint %}
 
 ## 🔗 Link Your Trello Account
 
-When you add a Trello Trigger to your program, you will be prompted to link an account if you have not done so already. Get My Boards
+When you add a Trello Trigger to your script, you will be prompted to link an account, if you have not done so already.
 
 ## ![](../../.gitbook/assets/trello%20%281%29.png) Get My Boards
 
