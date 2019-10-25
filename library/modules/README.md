@@ -66,6 +66,7 @@ All available modules are documented in the sub-articles in this section:
 * [Phillips Hue](phillips-hue.md)
 * [Python](python/)
 * [Reddit](reddit.md)
+* [RegEx](regex.md)
 * [Requests](requests.md)
 * [RocketReach](rocketreach.md)
 * [Salesforce](salesforce.md)
