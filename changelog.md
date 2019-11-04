@@ -10,7 +10,7 @@ description: Updates and improvements to the WayScript platform.
 * We have made it easier to add comments within your scripts.
 * Added more consistent styling for variable colors, so it's easer to determine the types of your variables.
 * When adding variables, you are now given a preview of the variable's content.
-* You can now drill down into variables using the `.` operator. For example, you can access the content of a particular Tweet within a list of Tweets by referencing `Tweets.0.content`.
+* You can now drill down into variables using the `.` operator. For example, you can access the content of a particular [Tweet](library/modules/twitter.md) within a list of Tweets by referencing `Tweets.0.content`.
 
 ![Updated variable styling, content previews, and &apos;.&apos; operator syntax.](.gitbook/assets/screen-shot-2019-11-04-at-11.17.54-am.png)
 
