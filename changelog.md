@@ -4,6 +4,16 @@ description: Updates and improvements to the WayScript platform.
 
 # What's new?
 
+## November 4th, 2019
+
+* We have updated the login and signup flows to provide more information and streamline the process.
+* We have made it easier to add comments within your scripts.
+* Added more consistent styling for variable colors, so it's easer to determine the types of your variables.
+* When adding variables, you are now given a preview of the variable's content.
+* You can now drill down into variables using the `.` operator. For example, you can access the content of a particular Tweet within a list of Tweets by referencing `Tweets.0.content`.
+
+![Updated variable styling, content previews, and &apos;.&apos; operator syntax.](.gitbook/assets/screen-shot-2019-11-04-at-11.17.54-am.png)
+
 ## October 16th, 2019
 
 * Reply-to addresses are now available as an [output of the Gmail trigger](library/triggers/gmail-trigger.md#outputs).
