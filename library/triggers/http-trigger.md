@@ -42,13 +42,19 @@ When a user goes to access your endpoint for the first time, they will now be pr
 
 ### Basic Authentication
 
-If you password-protect your endpoints, you can access them without being prompted to login by including an `Authorization` header in your request.
+If you password-protect your endpoints, you can use the credentials added above to access your endpoints by including an `Authorization: Basic` header in your request.
 
 This header should follow the standard for [HTTP basic access authentication](https://en.wikipedia.org/wiki/Basic_access_authentication). For example, suppose your Username is "**captain@wayscript.com**" and your Password is "**letmein**," you would create the Authorization header by:
 
 1. Joining the Username and Password into a single string, separated by a semicolon: **`captain@wayscript.com:letmein`**
 2. Encoding that string in Base64: **`Y2FwdGFpbkB3YXlzY3JpcHQuY29tOmxldG1laW4=`**
 3. Passing that encoded string to your custom endpoint by including the `Authorization: Basic Y2FwdGFpbkB3YXlzY3JpcHQuY29tOmxldG1laW4=` header in your request.
+
+### Authenticating Using Your API Key
+
+If your endpoint is not public, you can also use your [WayScript API Key](../../account-management/managing-your-api-key.md) to access your endpoints api call by including an `Authorization: Bearer` header in your request.
+
+For example, if your WayScript API Key is **`fhAEdGT9EbFDh_migcrukZ1Vb28rLFKqt9AxOiq9bdQ`**, you would include the `Authorization: Bearer fhAEdGT9EbFDh_migcrukZ1Vb28rLFKqt9AxOiq9bdQ` header in your request.
 
 ## 🎓 Tutorial
 
