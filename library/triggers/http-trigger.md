@@ -30,7 +30,7 @@ A button to "Manage Login Credentials" will appear.
 
 Clicking this button will take you to the "Script Setup" tab, where you can manage the usernames and passwords that will allow people to log in to your endpoints.
 
-![Script Setup](../../.gitbook/assets/screen-shot-2019-09-09-at-9.01.25-am.png)
+![](../../.gitbook/assets/screen-shot-2019-11-07-at-9.59.15-am.png)
 
 When you click "Add a credential," a new login will be automatically generated for you, including a username and randomly-generated password. You can choose to use these values, or edit them as you see fit.
 
@@ -49,6 +49,8 @@ This header should follow the standard for [HTTP basic access authentication](ht
 1. Joining the Username and Password into a single string, separated by a semicolon: **`captain@wayscript.com:letmein`**
 2. Encoding that string in Base64: **`Y2FwdGFpbkB3YXlzY3JpcHQuY29tOmxldG1laW4=`**
 3. Passing that encoded string to your custom endpoint by including the `Authorization: Basic Y2FwdGFpbkB3YXlzY3JpcHQuY29tOmxldG1laW4=` header in your request.
+
+These headers are also displayed for you under each password in the "Login Credentials" section of the "Script Setup" tab.
 
 ### Authenticating Using Your API Key
 
