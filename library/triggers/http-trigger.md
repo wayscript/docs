@@ -101,6 +101,26 @@ If your endpoint is not public, you can also use your [WayScript API Key](../../
 
 For example, if your WayScript API Key is **`fhAEdGT9EbFDh_migcrukZ1Vb28rLFKqt9AxOiq9bdQ`**, you would include the `Authorization: Bearer fhAEdGT9EbFDh_migcrukZ1Vb28rLFKqt9AxOiq9bdQ` header in your request.
 
+## 📤 Outputs
+
+The Outputs section allows you to define variables that you would like the HTTP Trigger to create and make available for use later in your script. You can pass values for these variables within the request to your endpoint.
+
+You can add as many variable outputs as you like, as well as pass any combination of query parameters and JSON body data.
+
+### ❔ Request Query Parameters
+
+This section allows you to define variable outputs whose values you will pass as query parameters to your script. For example, if you define a query parameter output called "_hero_," you would pass its value to your script by appending the query parameter to your endpoint url:  [https://10834.wayscript.com?hero=Spiderman](https://10834.wayscript.com?hero=superman)
+
+### 🗒 Request JSON Body Parameters
+
+If you define an output to be passed as a JSON body parameter, you will include the data as a key-value pair within the body of your request. For example, if you define a JSON body parameter called "_name_," you will pass its value to your script by including the relevant data within your request:
+
+```bash
+curl -d '{"name":"Peter Parker"}' \
+    -H "Content-Type: application/json" \
+    https://10834.wayscript.com
+```
+
 ## 🎓 Tutorial
 
 {% embed url="https://www.youtube.com/watch?reload=9&v=OrZMjdVhFfA&feature=youtu.be" caption="Standup a Web App on the Cloud in 1 Minute" %}
