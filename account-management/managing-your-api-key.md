@@ -19,10 +19,10 @@ To reset your API Key, click the "Reset API Key" button in the "Account Security
 
 ![Account Security](../.gitbook/assets/account_security.png)
 
-You will see a dialog asking you to confirm the reset. If you reset your API Key, you will need to update any [WayScript API ](../apis/rest.md)calls in your code to use the new key.
+You will see a dialog asking you to confirm the reset. If you reset your API Key, you will need to update any [WayScript API ]()calls in your code to use the new key.
 
 {% hint style="danger" %}
-Regenerating your API Key will reset the key for all WayScript [webhooks](../library/triggers/webhook-trigger.md). This action cannot be reversed.
+Regenerating your API Key will reset the key for all WayScript [webhooks](). This action cannot be reversed.
 {% endhint %}
 
 ![Continue with reset?](../.gitbook/assets/continue_with_reset%20%281%29.png)

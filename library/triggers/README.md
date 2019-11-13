@@ -21,7 +21,6 @@ These Triggers can be added to any function, as many times as desired.
 
 These Triggers can be added only once to each function.
 
-* [Webhook Trigger](webhook-trigger.md)
 * [Discord Trigger](discord-trigger.md)
 * [GitHub Trigger](github-trigger.md)
 * [Gmail Trigger](gmail-trigger.md)

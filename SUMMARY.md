@@ -35,7 +35,6 @@
   * [Time Trigger](library/triggers/time-trigger.md)
   * [Trello Trigger](library/triggers/trello-trigger.md)
   * [Weather API Trigger](library/triggers/weather-api-trigger.md)
-  * [Webhook Trigger](library/triggers/webhook-trigger.md)
 * [Logic](library/logic/README.md)
   * [Conditionals](library/logic/conditionals.md)
   * [Functions](library/logic/functions/README.md)
@@ -129,7 +128,6 @@
 
 ## APIs
 
-* [REST API](apis/rest.md)
 * [Python](https://github.com/wayscript/wayscript-python)
 * [JavaScript](https://github.com/wayscript/wayscript-js)
 

@@ -8,37 +8,80 @@ To display a webpage back to the user, use the [HTTP Response](../modules/http-r
 
 ## ⚙ Setup
 
-The HTTP Trigger is used to setup a web request. You can use it to implement a web page endpoint, a json post request, or other types of web requests.
+The HTTP Trigger is used to setup a web request. You can use it to implement a web page endpoint, a JSON post request, or other types of web requests.
 
-![](../../.gitbook/assets/screen-shot-2019-09-09-at-8.57.49-am.png)
+![](../../.gitbook/assets/screen-shot-2019-11-12-at-7.17.39-pm.png)
+
+### ✒ Sample Code
+
+To get you started quickly, the HTTP Trigger provides cURL, Python, and JavaScript sample code, which can simply be pasted into your terminal and run.
+
+This sample code includes some data that demonstrates how to pass query parameters and JSON body parameters with your request.
+
+{% tabs %}
+{% tab title="cURL" %}
+```bash
+curl -d '{"name":"Peter Parker"}' \
+    -H "Content-Type: application/json" \
+    https://10834.wayscript.com/?hero=Spiderman
+```
+{% endtab %}
+
+{% tab title="Python" %}
+```python
+import http.client
+data = {"name":"Peter Parker"}
+conn = http.client.HTTPSConnection("10834.wayscript.com")
+conn.request("POST", "/?hero=Spiderman", str(data), headers={"Content-Type":"application/json"})
+```
+{% endtab %}
+
+{% tab title="JavaScript" %}
+```javascript
+const data = {"name":"Peter Parker"};
+fetch("https://10834.wayscript.com/?hero=Spiderman", {
+    method: "POST",
+    headers: new Headers({"Content-Type":"application/json"}),
+    mode: "cors",
+    body: JSON.stringify(data),
+})
+```
+{% endtab %}
+{% endtabs %}
+
+{% hint style="info" %}
+Use the WayScript [Python](https://github.com/wayscript/wayscript-python) and [JavaScript](https://github.com/wayscript/wayscript-js) libraries to make calling your HTTP endpoints even easier!
+{% endhint %}
 
 ### 🔗 Endpoints
 
-To set up the HTTP Trigger, give your endpoint a name. You can also leave the field blank to match the root URL. You can add multiple endpoints.
+When setting up the HTTP Trigger, you can create as many named endpoints as you like. If you don't provide a name for your endpoint, the trigger will match the root URL.
 
-To access the endpoint, use the program ID as a subdomain of wayscript.com. For example, in the image above, you could access this endpoint using https://8503.wayscript.com/endpoint.
+![](../../.gitbook/assets/screen-shot-2019-11-12-at-7.36.46-pm.png)
 
-Remember to Activate your trigger before using the endpoint.
+To access your endpoints, use the program ID as a subdomain of wayscript.com. For example, in the image above, you can trigger your script by hitting either [https://10834.wayscript.com/](https://10834.wayscript.com/) or [https://10834.wayscript.com/custom\_endpoint](https://10834.wayscript.com/custom_endpoint).
+
+Remember to activate your trigger before using the endpoint!
 
 ### 🔐 Password-Protect your Endpoints
 
-If you would like the endpoints in your HTTP trigger to require a login to view, uncheck the "Publicly Accessible" checkbox.
+If you would like the endpoints in your HTTP trigger to require a login to view, enable the "Password Protection" toggle.
 
 A button to "Manage Login Credentials" will appear.
 
-![Manage Login Credentials](../../.gitbook/assets/screen-shot-2019-09-09-at-8.59.56-am.png)
+![](../../.gitbook/assets/screen-shot-2019-11-12-at-7.39.21-pm.png)
 
-Clicking this button will take you to the "Script Setup" tab, where you can manage the usernames and passwords that will allow people to log in to your endpoints.
+Clicking this button will take you to "Login Credentials" section of the "Script Setup" tab, where you can manage the usernames and passwords that will allow people to log in to your endpoints.
 
-![](../../.gitbook/assets/screen-shot-2019-11-07-at-9.59.15-am.png)
+![](../../.gitbook/assets/screen-shot-2019-11-12-at-7.40.18-pm.png)
 
 When you click "Add a credential," a new login will be automatically generated for you, including a username and randomly-generated password. You can choose to use these values, or edit them as you see fit.
 
-![Username and randomly-generated password](../../.gitbook/assets/screen-shot-2019-09-09-at-9.04.12-am.png)
+![](../../.gitbook/assets/screen-shot-2019-11-12-at-7.41.50-pm.png)
 
 When a user goes to access your endpoint for the first time, they will now be prompted to login.
 
-![Custom endpoint login prompt](../../.gitbook/assets/screen-shot-2019-09-09-at-9.07.16-am.png)
+![Custom Endpoint Login Prompt](../../.gitbook/assets/screen-shot-2019-11-12-at-7.50.17-pm%20%281%29.png)
 
 ### Basic Authentication
 
