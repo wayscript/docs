@@ -4,6 +4,22 @@ description: Updates and improvements to the WayScript platform.
 
 # What's new?
 
+## November 13th, 2019
+
+* **You can now easily share scripts with public links and manage permissions!**
+  * Share with the world via a publicly accessible link
+  * Limit access by only sharing with a specific person
+  * Allow users to run scripts in your account without needing to copy the script to their account
+  * Manage permissions by adding, deleting, or changing users' access
+
+![](.gitbook/assets/screen-shot-2019-11-13-at-7.30.41-pm.png)
+
+* **We have revamped the experience in the** [**HTTP Trigger**](library/triggers/http-trigger.md)**!**
+  * [Sample code](library/triggers/http-trigger.md#sample-code) makes it easier than ever to quickly run a program from your terminal
+  * You can pass [query parameters](library/triggers/http-trigger.md#request-query-parameters) and/or [JSON body parameters](library/triggers/http-trigger.md#request-json-body-parameters) when triggering your program
+  * The WayScript [Python](https://pypi.org/project/wayscript/) and [JavaScript](https://www.npmjs.com/package/wayscript) libraries have been updated to take advantage of the new functionality in the HTTP Trigger
+  * The Webhook Trigger has been deprecated, as all of its functionality \(and more!\) is available in the HTTP Trigger
+
 ## November 4th, 2019
 
 * We have updated the login and signup flows to provide more information and streamline the process.

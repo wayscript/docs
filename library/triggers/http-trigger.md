@@ -23,7 +23,7 @@ This sample code includes some data that demonstrates how to pass query paramete
 ```bash
 curl -d '{"name":"Peter Parker"}' \
     -H "Content-Type: application/json" \
-    https://10834.wayscript.com/?hero=Spiderman
+    https://1234.wayscript.com/?hero=Spiderman
 ```
 {% endtab %}
 
@@ -31,7 +31,7 @@ curl -d '{"name":"Peter Parker"}' \
 ```python
 import http.client
 data = {"name":"Peter Parker"}
-conn = http.client.HTTPSConnection("10834.wayscript.com")
+conn = http.client.HTTPSConnection("1234.wayscript.com")
 conn.request("POST", "/?hero=Spiderman", str(data), headers={"Content-Type":"application/json"})
 ```
 {% endtab %}
@@ -39,7 +39,7 @@ conn.request("POST", "/?hero=Spiderman", str(data), headers={"Content-Type":"app
 {% tab title="JavaScript" %}
 ```javascript
 const data = {"name":"Peter Parker"};
-fetch("https://10834.wayscript.com/?hero=Spiderman", {
+fetch("https://1234.wayscript.com/?hero=Spiderman", {
     method: "POST",
     headers: new Headers({"Content-Type":"application/json"}),
     mode: "cors",
