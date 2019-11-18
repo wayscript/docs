@@ -14,11 +14,11 @@ In addition to email and link sharing, you can also control run access. "Can vie
 
 ![Pressing &quot;Copy&quot; copies the public link to your clipboard.](../.gitbook/assets/sharemodal.png)
 
+## Managing Sharing & Access
+
 Clicking "Manage Sharing" lets you control which user accounts have access to your script, and their level of permissions. 
 
 ![You can add or delete more users here.](../.gitbook/assets/manageshare.png)
 
 That's it! Share scripts with friends or coworkers to help them supercharge their projects and workflows.
-
-
 

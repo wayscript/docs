@@ -6,9 +6,9 @@ description: Updates and improvements to the WayScript platform.
 
 ## November 13th, 2019
 
-* **You can now easily share scripts with public links and manage permissions!**
-  * Share with the world via a publicly accessible link
-  * Limit access by only sharing with a specific person
+* **You can now** [**easily share scripts**](getting_started/sharing.md) **with public links and manage permissions!**
+  * [Share with the world](getting_started/sharing.md#sharing-your-script) via a publicly accessible link
+  * [Limit access](getting_started/sharing.md#managing-sharing-and-access) by only sharing with a specific person
   * Allow users to run scripts in your account without needing to copy the script to their account
   * Manage permissions by adding, deleting, or changing users' access
 
