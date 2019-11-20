@@ -94,6 +94,20 @@ Choose any channel in your Workspace
 * Messengers
 * JSON Data
 
+### ⚡ Run a Slash Command
+
+Choose a channel in your Workspace where the command you would like to run is available.
+
+#### 📥 Inputs
+
+* **Command:** The slash command you would like to run. \(e.g. _/poll "A question" "An answer" "Another Answer"_\) [Click here to learn about Slack slash commands.](https://api.slack.com/interactivity/slash-commands)
+* **Legacy Token:** Your Legacy account token. Running slash commands via API requires a legacy account token. You can generate a token for your workspace here: [https://api.slack.com/custom-integrations/legacy-tokens](https://api.slack.com/custom-integrations/legacy-tokens)
+
+#### 📤 Outputs
+
+* Action status
+* JSON Data
+
 ## 👥 Work with Users
 
 ### ⚙ Modes
