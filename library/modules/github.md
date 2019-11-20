@@ -91,7 +91,7 @@ Create an issue for a repository by:
 
 Edit an issue for a repository by:
 
-* GitHub Repo URL
+* GitHub Issue URL
 * Status
 * Title
 * Content
@@ -122,5 +122,21 @@ Create variables for:
 * File Contents
 * Raw JSON data
 
+## 📚 Merge Into Branch 
 
+### 📥 Inputs
+
+Merge files into a branch by:
+
+* Source Branch Name
+* Destination Branch Name 
+* Commit Message
+
+### 📤 Outputs
+
+Create variables for: 
+
+* Success 
+* Error 
+* Raw JSON data
 
