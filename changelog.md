@@ -4,6 +4,21 @@ description: Updates and improvements to the WayScript platform.
 
 # What's new?
 
+## November 20th, 2019
+
+* We have added a [RegEx module](library/modules/regex.md) that makes it easy to find pattern matches in text.
+* The Dashboard has been updated to show a more streamlined view of your scripts.
+
+![Hover over a dashboard tile to manage the script.](.gitbook/assets/screen-shot-2019-11-20-at-11.27.58-am.png)
+
+* You can now run [Slack "Slash Commands"](https://api.slack.com/interactivity/slash-commands) using the [Slack module](library/modules/slack.md). These commands require use of the [Legacy Slack API](https://api.slack.com/custom-integrations/legacy-tokens), so [follow the docs](library/modules/slack.md#run-a-slash-command) for details on setting this up.
+
+![Run a slash command, like /poll, using the WayScript Slack module.](.gitbook/assets/screen-shot-2019-11-20-at-11.16.03-am.png)
+
+* SQL and Spreadsheet column outputs now infer the type of the variable in the column.
+
+![SQL output variables have different types, depending on the content of the column.](.gitbook/assets/screen-shot-2019-11-20-at-11.20.23-am.png)
+
 ## November 13th, 2019
 
 * **You can now** [**easily share scripts**](getting_started/sharing.md) **with public links and manage permissions!**

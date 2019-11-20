@@ -1,5 +1,7 @@
 # RegEx
 
+![Find matching patterns within text.](../../.gitbook/assets/regex.png)
+
 ## 📥 Inputs
 
 * **String** - sequence of characters
