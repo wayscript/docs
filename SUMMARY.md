@@ -52,6 +52,7 @@
   * [Variables](library/logic/variables/README.md)
     * [Create Variable](library/logic/variables/create-variable.md)
     * [Edit Variable Value](library/logic/variables/edit-variable-value.md)
+  * [Variable Storage](library/logic/variable-storage.md)
 * [Modules](library/modules/README.md)
   * [Airtable](library/modules/airtable.md)
   * [Alexa](library/modules/alexa.md)
