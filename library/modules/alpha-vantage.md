@@ -305,10 +305,30 @@ Enter the name of the equity of your choice.
 
 ### 📤 Outputs
 
-* Date
-* Slow K
-* Slow D
-* JSON Data
+```graphql
+STOCH = {
+    meta : {
+        symbol : String,
+        indicator : String,
+        indicator_sym : String,
+        last_refreshed : String,
+        interval : String,
+        fastk_period : Int,
+        slowk_period : Int,
+        slowk_ma_type : Int,
+        slowd_period : Int,
+        slowd_ma_type : String,
+        timezone : String,
+    },
+    data : [
+        {
+            date : Date,
+            slowk : Float,
+            slowd : Float,
+        },
+    ]
+}
+```
 
 ## Relative Strength Index \(RSI\)
 
