@@ -34,12 +34,45 @@
   * Upshot
   * World
 
-### 📤 Outputs
+### 📤 Output
 
-* Titles
-* Abstracts
-* URLs
-* Authors
-* Date Published
-* JSON Data
+```graphql
+Articles = [
+    {
+        title : String, 
+        author : String, 
+        abstract : String, 
+        date_published : Date, 
+        url : Url, 
+        des_facet : [
+            String,
+        ],
+        geo_facet : [
+            String,
+        ],
+        org_facet : [
+            String, 
+        ],
+        person_facet : [
+            String,
+        ],
+        section : String, 
+        short_url : Url, 
+        subsection : String, 
+        updated_date : Date, 
+        multimedia : [
+            {
+                caption : String, 
+                copyright : String, 
+                format : String, 
+                height : Int, 
+                subtype : String, 
+                type : String, 
+                url : Url, 
+                width : Int,
+            },
+        ],
+    },
+]
+```
 
