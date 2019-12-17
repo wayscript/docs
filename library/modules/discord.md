@@ -40,9 +40,3 @@ Retrieve a list of the desired number of messages from the channel history.
 
 Input the number of messages you want retrieved. If you do not enter a number, it will default to 5 messages.
 
-![](../../.gitbook/assets/img7.png)
-
-![](../../.gitbook/assets/img8.png)
-
-![](../../.gitbook/assets/img9.png)
-
