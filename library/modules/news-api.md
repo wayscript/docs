@@ -17,16 +17,19 @@
 * **Topic To Search** - Enter the search term you want news articles on \(e.g. "Tesla"\)
   * required
 
-## 📤Outputs
+## 📤Output
 
-Outputs are [Lists](../../getting_started/variables.md#lists)
-
-* **Website**
-* **Author**
-* **Title**
-* **Description**
-* **URL**
-* **Image URL**
-* **Date Published**
-* **JSON Data** - Raw JSON recieved from API query.
+```graphql
+Articles = [
+    {
+        title : String, 
+        url : Url, 
+        author : String, 
+        description : String, 
+        source : Url, 
+        img_url : Url, 
+        published_at : Date,
+    },
+]
+```
 
