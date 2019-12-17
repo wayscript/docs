@@ -30,7 +30,22 @@ _Note: '_JSON Data' is available for all modes and is always a single item.
 
 ### List of All Tickers _\(List\)_
 
-* All Ticker Symbols: List of all Digital Currency pairs in the market
+```graphql
+Markets = [
+    {
+        market_name : String,
+        min_trade_size : Float,
+        created : Date,
+        base_currency : String,
+        base_currency_name : String,
+        is_active : Bool,
+        is_restricted : Bool,
+        logo_url : Url,
+        market_currency : String,
+        market_currency_name : String,
+    },
+]
+```
 
 ### Current Data for a Ticker _\(Single\)_
 
