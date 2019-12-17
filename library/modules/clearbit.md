@@ -80,21 +80,23 @@ Company_Data = {
 
 ### 📤 Outputs
 
-* Full Name
-* Person's Email
-* Person's Bio
-* Person's Website
-* Person's Location
-* Employer
-* Employer Website
-* Job Title
-* Job Role
-* Employment Seniority
-* Person's Facebook URL
-* Person's Twitter URL
-* Person's LinkedIn URL
-* Person's Github URL
-* JSON Data
+```graphql
+Person_Data = {
+    name : String, 
+    email : String, 
+    bio : String, 
+    website : String, 
+    location : String, 
+    employer : String, 
+    employer_website : Url,
+    job_title : String,
+    job_role : String, 
+    seniority : String, 
+    facebook_url : Url,
+    twitter_url : Url, 
+    github_url : Url,   
+}
+```
 
 ## 🕵♀ Lookup Combined
 
@@ -112,41 +114,5 @@ Company_Data = {
 
 ### 📤 Outputs
 
-* Full Name
-* Person's Email
-* Person's Bio
-* Person's Website
-* Person's Location
-* Employer
-* Employer Website
-* Job Title
-* Job Role
-* Employment Seniority
-* Person's Facebook URL
-* Person's Twitter URL
-* Person's LinkedIn URL
-* Person's Github URL
-* Company Name
-* Company Legal Name
-* Industry
-* Sector
-* SIC Code
-* NAICS Code
-* Company Technologies
-* Company Tags
-* Company Type
-* Company Description
-* Year Founded
-* Company EIN
-* Company Location
-* Number of Employees
-* Fiscal Year End
-* Company Annual Revenue
-* Alexa US Rank
-* Alexa Global Rank
-* Company Phone Number
-* Company Facebook URL
-* Company Twitter URL
-* Company LinkedIn URL
-* JSON Data
+Returns both the Company\_Data and Person\_Data objects from above
 

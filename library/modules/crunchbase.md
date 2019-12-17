@@ -21,18 +21,34 @@ If not authorized, you will be prompted to enter your API Key when you add the C
 
 ## 📤 Outputs
 
-* Organization Name
-* Short Description
-* Description
-* Min Number of Employees
-* Max Number of Employees
-* Total Funding USD
-* Founder Names
-* Founder Bios
-* Current Team Names
-* Current Team Job Titles
-* Investment Company Names
-* Investment Company Name for CB Search
-* Investment Company URLs
-* Investment Amount \(USD\)
+```graphql
+CB_Data = {
+    name : String, 
+    short_description : String, 
+    description : String, 
+    num_employees_min : Int, 
+    num_employees_max : Int, 
+    total_funding_usd : Int, 
+    founders : [
+        {
+            name : String, 
+            bio : String, 
+        },    
+    ],
+    team : [
+        {
+            name : String, 
+            title : String, 
+        },
+    ],
+    investments : [
+        {
+            name : String, 
+            permalink : String, 
+            url : Url, 
+            investment_amount_usd : Int,
+        },
+    ]
+}
+```
 
