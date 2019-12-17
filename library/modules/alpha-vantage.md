@@ -79,7 +79,7 @@ Enter the name of the equity of your choice.
   * output\_size \(String\)
   * timezone \(String\)
 * series\_data \(List\( Struct \)\)
-  * date \(DateType\)
+  * date \(Date\)
   * open \(Float\)
   * high \(Float\)
   * low \(Float\)
@@ -100,18 +100,29 @@ Enter the name of the equity of your choice.
 
 ### 📤 Outputs
 
-* Timestamp
-* Open \(CNY\)
-* High \(CNY\)
-* Low \(CNY\)
-* Close \(CNY\)
-* Open \(USD\)
-* High \(USD\)
-* Low \(USD\)
-* Close
-* Volume
-* Market Cap \(CNY\)
-* JSON Data
+**Crypto\_Data** \(Struct\)
+
+* meta \(Struct\)
+  * digital\_currency\_code \(String\)
+  * digital\_currency\_name \(String\)
+  * market\_code \(String\)
+  * market\_name \(String\)
+  * last\_refreshed \(Date\)
+  * timezone \(String\)
+* data \(List\(Struct\)\)
+  * date \(date\)
+  * open\_usd \(Float\)
+  * open\_cny \(Float\)
+  * high\_usd \(Float\)
+  * high\_cny \(Float\)
+  * low\_usd \(Float\)
+  * low\_cny \(Float\)
+  * close\_usd \(Float\)
+  * close\_cny \(Float\)
+  * volume \(Float\)
+  * mkt\_cap\_usd \(Float\)
+
+**JSON\_DATA** \(String\)
 
 ## Simple Moving Average \(SMA\)
 
