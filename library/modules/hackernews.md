@@ -15,7 +15,7 @@
 * Number of Stories - Input the number of results you would like returned as outputs. 
   * Note - When the program is not running, only 20 results will be returned. 
 
-## 📤 Outputs
+## 📤 Output
 
 ```graphql
 Posts = [

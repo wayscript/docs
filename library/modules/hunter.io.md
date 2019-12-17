@@ -19,13 +19,17 @@ In the free tier, this library requires an API Key, which you can get on the [Hu
 
 ### 📤 Outputs
 
-* **Email Address**
-* **Score** - Confidence in the result \(0-100\)
-* **Position** - Role / Job-Title
-* **Twitter** - Twitter Handle
-* **LinkedIn URL**
-* **Phone Number**
-* **JSON Data** - Raw JSON from the API query
+```graphql
+HunterIO_Data = {
+    email : String, 
+    company : String, 
+    linkedin_url : Url, 
+    twitter : String, 
+    phone_number : String, 
+    position : String, 
+    score : Int,
+}
+```
 
 ## ✅ Email Verification
 
@@ -37,7 +41,7 @@ This mode tests whether an email address is real/valid.
 
 ### 📤 Outputs
 
-* **Result** - Returns Deliverable or Undeliverable
-* **SMTP Check** - Returns True or False
+* **Result** - Returns Deliverable or Undeliverable \(String\)
+* **SMTP Check** - Returns True or False \(Bool\)
 * **JSON Data** - Raw JSON from the API query
 
