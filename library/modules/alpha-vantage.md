@@ -42,7 +42,7 @@ Enter the name of the equity of your choice.
 
 ### 📤 Outputs
 
-**Stock\_Data**
+**Stock\_Data** \(Struct\)
 
 * open \(Float\)
 * high \(Float\)
@@ -51,7 +51,7 @@ Enter the name of the equity of your choice.
 * Volume \(Float\)
 * Ticker \(String\)
 
-**JSON\_DATA**
+**JSON\_DATA** \(String\)
 
 ## Time Series Data
 
@@ -71,7 +71,7 @@ Enter the name of the equity of your choice.
 
 ### 📤 Outputs
 
-**Time\_Series**
+**Time\_Series** \(Struct\)
 
 * meta \(Struct\)
   * symbol \(String\)
@@ -86,7 +86,7 @@ Enter the name of the equity of your choice.
   * close \(Float\)
   * volume \(Float\)
 
-**JSON\_Data**
+**JSON\_Data** \(String\)
 
 ## Digital/Crypto Currencies
 
