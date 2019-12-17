@@ -18,26 +18,92 @@ Search for metrics on a user account by:
 
 ### 📤 Outputs
 
-Create variables for:
+```graphql
+User_Data = {
+    name : String,
+    company : String, 
+    username : String, 
+    bio : String, 
+    avatar_url : Url, 
+    blog : Url, 
+    created_at : Date, 
+    email : String, 
+    events_url : Url, 
+    followers : Int, 
+    followers_url : Url, 
+    gists_url : Url, 
+    gravatar_id : String, 
+    hireable : Bool, 
+    html_url : String, 
+    id : Int, 
+    location : String, 
+    login : String, 
+    node_id : String, 
+    orgs_url : Url, 
+    public_gists : Int, 
+    public_repos : Int, 
+    repos_url : Url, 
+    site_admin : Bool, 
+    starred_url : Url, 
+    subscrip_url : Url, 
+    type : String,
+    updated_at : Date, 
+    url : Url,
+}
+```
 
-* Name
-* Company
-* Blog
-* Location
-* Email
-* Bio
-* Number of Public Repos
-* Number of Public Gists
-* Number of Followers
-* Number Following
-* Names of Public Repos
-* Public Repo URLs
-* Most Popular Repo Name
-* Most Popular Number of Stars
-* Most Popular Number of Forks
-* Most Popular Number Watches
-* Most Popular Repo URL
-* Raw JSON Data
+```graphql
+User_Repo_Data = [
+    {
+        name : String, 
+        description : String, 
+        url : Url, 
+        private : Bool, 
+        forks : Int, 
+        watchers : Int, 
+        stargazers : Int, 
+        open_issues : Int, 
+        archived : Bool, 
+        clone_url : Url, 
+        contributors : Url, 
+        created_at : Date,
+        default_branch : String, 
+        deployments_url : Url, 
+        downloads_url : Url, 
+        events_url : Url, 
+        fork : Bool, 
+        forks_url : Url, 
+        full_name : String, 
+        git_url : Url,
+        has_downloads : Bool, 
+        has_issues : Bool,
+        has_pages : Bool, 
+        has_projects : Bool, 
+        has_wiki : Bool, 
+        homepage : Url,
+        hooks_url : Url, 
+        html_url : Url, 
+        id : Int, 
+        language : String, 
+        merges_url : Url, 
+        node_id : String, 
+        permissions : {
+            admin : Bool, 
+            pull : Bool, 
+            push : Bool,
+        },
+        pushed_at : Date, 
+        size : Int, 
+        ssh_url : Url, 
+        stargazers_url : Url, 
+        subscribers_url : Url, 
+        svn_url : Url,
+        tags_url : Url,
+        teams_url : Url, 
+        updated_at : Date,
+    },
+]
+```
 
 ## 🔎 Search for a Repo
 

@@ -12,12 +12,20 @@ Check out Full Contact on [GitHub](https://github.com/fullcontact/fullcontact.py
 
 * Company Domain / URL
 
-### 📤 Outputs
+### 📤 Output
 
-* Company Name
-* Approximate Number of Employees
-* Key People Names
-* Key People Titles
+```graphql
+Company = {
+    name : String, 
+    num_employees : Int, 
+    key_people : [
+        {
+            name : String, 
+            title : String, 
+        },
+    ],
+}
+```
 
 ## 👤 Person Lookup
 

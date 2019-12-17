@@ -17,17 +17,33 @@ Check out the GIPHY [website](https://www.developers.giphy.com).
 
 * **Search Term** - This is the search term for the GIF you want. 
 
-## 📤 Outputs
+## 📤 Output
 
-{% hint style="warning" %}
-[Variable Type](../../getting_started/variables.md) of Outputs changes based on Mode above
-{% endhint %}
+Single Random Result
 
-* **GIF Link** - URL Link to the GIF
-* **Title -** Name of the GIF
-* **Rating** - Rating of the GIF
-* **ID** - Programmatic ID of the GIF
-* **JSON Data** - Raw JSON Data from the API call
+```graphql
+Gif = {
+    title : String, 
+    url : Url, 
+    img : Html,
+    rating : String, 
+    id : String, 
+}
+```
 
-![Giphy Module - Single Random Result](../../.gitbook/assets/screenshot-2019-07-16-16.50.30.png)
+All Results
+
+```graphql
+Gifs = [
+    {
+        title : String, 
+        url : Url, 
+        img : Html,
+        rating : String, 
+        id : String,
+    },
+]
+```
+
+
 
