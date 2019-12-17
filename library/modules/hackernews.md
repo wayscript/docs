@@ -17,15 +17,22 @@
 
 ## 📤 Outputs
 
-* **Story IDs**
-* **Authors**
-* **Descendants** - Total Number of Comments
-* **Kids** - The ids of the item's comments, in ranked display order.
-* **Scores**
-* **Times**
-* **Titles**
-* **URLs**
-* **JSON Data**
+```graphql
+Posts = [
+    {
+        title : String, 
+        score : Int, 
+        author : String, 
+        url : Url, 
+        id : Int, 
+        descendants : Int, 
+        kids : [
+            Int,
+        ],
+        datetime : Date,
+    },
+]
+```
 
-![Hacker News Module Preview](../../.gitbook/assets/screenshot-2019-07-17-10.32.50.png)
+
 
