@@ -16,29 +16,31 @@ Choose between:
 
 Choose one of the many subtopics for the main topic you chose above.
 
-![Suptopic options change depending on the topic selected.](../../.gitbook/assets/screen-shot-2019-07-17-at-1.23.27-pm.png)
-
 ## 📤 Output
 
-Create variables for:
+```graphql
+Articles = [
+    {
+        title : String, 
+        author : String, 
+        username : String, 
+        subtitle : String, 
+        clap_count : Int, 
+        times_recommended : Int, 
+        num_comments : Int, 
+        Url : Url, 
+        author_url : Url, 
+        author_bio : String, 
+        twitter_handle : String, 
+        word_count : Int, 
+        image_count : Int, 
+        read_time : Float, 
+        references : [
+            Url,
+        ],
+    },
+]
+```
 
-* Article Title
-* Article Subtitle
-* Article Clap Count
-* Number of Recommendations
-* Number of Comments
-* Author Name
-* Article URL
-* Author Page URL
-* Author Bio
-* Author Twitter Handle
-* Article Word Count
-* Article Image Count
-* Time to Read
-* Article URL References
-* Raw JSON Data
 
-{% hint style="info" %}
-Each variable contains a list of values.
-{% endhint %}
 
