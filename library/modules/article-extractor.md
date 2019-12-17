@@ -12,8 +12,23 @@ Check out goose3 on [GitHub](https://github.com/goose3/goose3).
 
 ## 📤 Outputs
 
-* **Article Text** - Contains all of the text from the article.
-* **Article Keywords** - Contains a list of keywords that were found in the article.
-
-![](../../.gitbook/assets/screen-shot-2019-07-15-at-9.59.31-pm.png)
+```graphql
+Article = {
+    title : String, 
+    authors : [ 
+        String, 
+    ],
+    description : String,
+    article_text : String,
+    domain : Url,
+    keywords : String,
+    links : [
+        Url,
+    ],
+    raw_html : Html,
+    image : Url,
+    publish_date : Date,
+    language : String,
+}
+```
 

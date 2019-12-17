@@ -4,20 +4,32 @@
 
 ## 🔎 Search Term
 
-You can build a search phrase using one or multiple components, each having any combination of text and variable input.
-
-For example, suppose I have a list variable containing movie titles, and I want to search for the 'Rotten Tomatoes' page for each movie.
-
-![The purple variable border indicates that the value is converted to a string.](../../.gitbook/assets/screen-shot-2019-07-16-at-11.31.44-am.png)
-
-![This formulation is equivalent](../../.gitbook/assets/screen-shot-2019-07-16-at-11.33.01-am.png)
+Insert your search term into the Search Term input. This is equivalent to what you would enter in search bar in a Bing search. 
 
 ## 📤 Outputs
 
-* Bing Result URLs: A list of URLs from the top 5 search results.
-* JSON Data: The raw data return from Bing.
-
-![](../../.gitbook/assets/screen-shot-2019-07-16-at-11.40.00-am.png)
-
-![](../../.gitbook/assets/screen-shot-2019-07-16-at-11.43.15-am.png)
+```graphql
+Bing_Results = {
+    web_results : [
+        {
+            name : String, 
+            snippet : String,
+            url : Url,
+            date_last_crawled : Date,
+        },
+    ],
+    video_results : [
+        {
+            name : String,
+            description : String,
+            date_published : Date,
+            url : Url,
+            view_count : Int,
+            embed_html : Html,
+            encoding_format : String,
+            publisher : String,
+        },
+    ],
+}
+```
 

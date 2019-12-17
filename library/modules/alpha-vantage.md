@@ -349,9 +349,26 @@ Enter the name of the equity of your choice.
 
 ### 📤 Outputs
 
-* Date
-* RSI
-* JSON Data
+```graphql
+Stock_Indicator = {
+    meta : {
+        symbol : String,
+        indicator : String,
+        indicator_sym : String,
+        last_refreshed : Date,
+        interval : String,
+        time_period : Int,
+        series_type : String,
+        timezone : String,
+    },
+    data : [
+        {
+            datetime : Date,
+            data : Float,
+        },
+    ],
+}
+```
 
 ## Average Directional Movement Index \(ADX\)
 
@@ -368,9 +385,26 @@ Enter the name of the equity of your choice.
 
 ### 📤 Outputs
 
-* Date
-* ADX
-* JSON Data
+```graphql
+Stock_Indicator = {
+    meta : {
+        symbol : String,
+        indicator : String,
+        indicator_sym : String,
+        last_refreshed : Date,
+        interval : String,
+        time_period : Int,
+        series_type : String,
+        timezone : String,
+    },
+    data : [
+        {
+            datetime : Date,
+            data : Float,
+        },
+    ],
+}
+```
 
 ## Commodity Channel Index \(CCI\)
 
@@ -387,9 +421,26 @@ Enter the name of the equity of your choice.
 
 ### 📤 Outputs
 
-* Date
-* CCI
-* JSON Data
+```graphql
+Stock_Indicator = {
+    meta : {
+        symbol : String,
+        indicator : String,
+        indicator_sym : String,
+        last_refreshed : Date,
+        interval : String,
+        time_period : Int,
+        series_type : String,
+        timezone : String,
+    },
+    data : [
+        {
+            datetime : Date,
+            data : Float,
+        },
+    ],
+}
+```
 
 ## Aroon \(AROON\)
 
@@ -408,10 +459,27 @@ Enter the name of the equity of your choice.
 
 ### 📤 Outputs
 
-* Date
-* Aroon Down
-* Aroon Up
-* JSON Data
+```graphql
+Aroon = {
+    meta : {
+        symbol : String,
+        indicator : String,
+        indicator_sym : String,
+        last_refreshed : Date,
+        interval : String, 
+        time_period : Int,
+        series_type : String,
+        timezone : String,
+    },
+    data : [
+        {
+            datetime : Date,
+            aroon_up : Float,
+            aroon_down : Float,
+        },
+    ],
+}
+```
 
 ## Bollinger Bands \(BBANDS\)
 
@@ -446,11 +514,31 @@ Enter the name of the equity of your choice.
 
 ### 📤 Outputs
 
-* Date
-* Real Middle Band
-* Real Lower Band
-* Real Upper Band
-* JSON Data
+```graphql
+Bbands = {
+    meta : {
+        symbol : String,
+        indicator : String,
+        indicator_sym : String,
+        last_refreshed : Date,
+        interval : String,
+        time_period : Int,
+        deviation_mult_upper : Int,
+        deviation_mult_lower : Int,
+        ma_type : Int,
+        series_type : String,
+        timezone : String,
+    },
+    data : [
+        {
+            datetime : Date,
+            real_middle_band : Float,
+            real_upper_band : Float,
+            real_lower_band : Float,
+        },
+    ],
+}
+```
 
 ## Chaikin A/D Line \(AD\)
 
@@ -466,9 +554,26 @@ Enter the name of the equity of your choice.
 
 ### 📤 Outputs
 
-* Date
-* Chaikin A/D
-* JSON Data
+```graphql
+Stock_Indicator = {
+    meta : {
+        symbol : String,
+        indicator : String,
+        indicator_sym : String,
+        last_refreshed : Date,
+        interval : String,
+        time_period : Int,
+        series_type : String,
+        timezone : String,
+    },
+    data : [
+        {
+            datetime : Date,
+            data : Float,
+        },
+    ],
+}
+```
 
 ## On Balance Volume \(OBV\)
 
@@ -484,37 +589,24 @@ Enter the name of the equity of your choice.
 
 ### 📤 Outputs
 
-* Date
-* OBV
-* JSON Data
-
-## Sector Performances \(SECTOR\)
-
-Outputs performance data for various market sectors.
-
-### 🗓 Timeframe
-
-The timeframe output gives the labels for each sector's data points.
-
-![](../../.gitbook/assets/screen-shot-2019-07-19-at-7.18.23-pm.png)
-
-### 🏦 Sectors
-
-* Utilities
-* Consumer Staples
-* Information Technology
-* Real Estate
-* Consumer Discretionary
-* Industrials
-* Materials
-* Financials
-* Communication Services
-* Health Care
-* Energy
-
-![](../../.gitbook/assets/screen-shot-2019-07-19-at-7.20.50-pm.png)
-
-### 📤 Other Outputs
-
-* JSON Data
+```graphql
+Stock_Indicator = {
+    meta : {
+        symbol : String,
+        indicator : String,
+        indicator_sym : String,
+        last_refreshed : Date,
+        interval : String,
+        time_period : Int,
+        series_type : String,
+        timezone : String,
+    },
+    data : [
+        {
+            datetime : Date,
+            data : Float,
+        },
+    ],
+}
+```
 
