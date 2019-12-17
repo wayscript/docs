@@ -105,6 +105,36 @@ Create variables for:
 
 * Raw JSON data
 
+## 👓 View Issue Labels
+
+### 📥 Inputs
+
+View a list labels of an issue by:
+
+* GitHub Issue URL
+
+### 📤 Outputs
+
+Create variables for:
+
+* Label List
+* Raw JSON data
+
+## 👓 View Issue Assignees
+
+### 📥 Inputs
+
+View a list of users assigned to an issue by:
+
+* GitHub Issue URL
+
+### 📤 Outputs
+
+Create variables for:
+
+* Assignee List
+* Raw JSON data
+
 ## 📓 Retrieve File Contents
 
 ### 📥 Inputs

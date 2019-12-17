@@ -42,12 +42,16 @@ Enter the name of the equity of your choice.
 
 ### 📤 Outputs
 
-* Open
-* High
-* Low
-* Close
-* Volume
-* JSON Data
+**Stock\_Data**
+
+* open \(Float\)
+* high \(Float\)
+* Low \(Float\)
+* Close \(Float\)
+* Volume \(Float\)
+* Ticker \(String\)
+
+**JSON\_DATA**
 
 ## Time Series Data
 
@@ -67,13 +71,22 @@ Enter the name of the equity of your choice.
 
 ### 📤 Outputs
 
-* Date
-* Open
-* High
-* Low
-* Close
-* Volume
-* JSON Data
+**Time\_Series**
+
+* meta \(Struct\)
+  * symbol \(String\)
+  * last\_refreshed \(String\)
+  * output\_size \(String\)
+  * timezone \(String\)
+* series\_data \(List\( Struct \)\)
+  * date \(DateType\)
+  * open \(Float\)
+  * high \(Float\)
+  * low \(Float\)
+  * close \(Float\)
+  * volume \(Float\)
+
+**JSON\_Data**
 
 ## Digital/Crypto Currencies
 
