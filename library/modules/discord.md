@@ -40,3 +40,59 @@ Retrieve a list of the desired number of messages from the channel history.
 
 Input the number of messages you want retrieved. If you do not enter a number, it will default to 5 messages.
 
+### 📤 Output
+
+```graphql
+Message_History = [
+    {
+        content : String, 
+        author : {
+            username : String, 
+            avatar : String, 
+            discriminator : String, 
+            id : String,
+        },
+        attachments : [
+            {
+                filename : String, 
+                height : Int, 
+                id : String, 
+                proxy_url : Url, 
+                size : Int, 
+                url : Url, 
+                width : Int, 
+            },
+        ],
+        channel_id : String, 
+        edited_timestamp : Date, 
+        embeds : [
+            {
+                author : String, 
+                title : String, 
+                type : String, 
+                description : String, 
+                url : Url, 
+                timestamp : Date,
+            },
+        ],
+        id : String, 
+        mention_everyone : Bool, 
+        mention_roles : [
+            String, 
+        ],
+        mentions : [
+            {
+                username : String, 
+                avatar : String,
+                discriminator : String, 
+                id : String,
+            },
+        ],
+        pinned : Bool, 
+        timestamp : Date, 
+        tts : Bool, 
+        type : Int, 
+    },
+]
+```
+
