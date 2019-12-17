@@ -111,26 +111,41 @@ User_Repo_Data = [
 
 Search for metrics on a repository by entering its Github URL.
 
-### 📤 Outputs
+### 📤 Output
 
-Create variables for:
-
-* Repo Name
-* Repo Author Username
-* Date Created
-* Date of Last Update
-* Date of Last Push
-* Repo Size \(KB\)
-* Number of Stars
-* Subscriber Count
-* Number of Forks
-* Repo Language
-* Open Issues Count
-* Network Count
-* Contributor Usernames
-* Contributor URLs
-* README content
-* Raw JSON Data
+```graphql
+Repo = {
+    name : String, 
+    author_username : String, 
+    description : String, 
+    created_at : Date, 
+    updated_at : Date, 
+    pushed_at : Date, 
+    repo_size_kb : Int,
+    stargazers_count : Int, 
+    subscribers_count : Int,
+    forks_count : Int,
+    language : String, 
+    open_issues_count : Int, 
+    network_count : Int, 
+    contributors : [
+        {
+            username : String, 
+            url : Url,
+        },
+    ],
+    available_assignees : [
+        {
+            username : String, 
+            url : Url,
+        },
+    ],
+    readme : String,
+    default_branch : String, 
+    id : Int,
+    watchers : Int, 
+}
+```
 
 ## 🖊 Create an Issue
 
