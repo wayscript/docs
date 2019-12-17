@@ -4,15 +4,27 @@
 
 ## 👤 Data About My Account
 
-### 📤 Outputs
+### 📤 Output
 
-* **Public Description** - Users public description
-* **Karma** - Total Karma from Comments and Links
-* **Comment Karma** - Total Karma from Comments
-* **Link Karma** - Total Karma from Links
-* **Number of Subscribers** - Total Number of Account Subscribers
-* **Account Has Gold** - Returns True or False
-* **JSON Data** - Raw JSON of the API query response
+```graphql
+Account = {
+    description : String,
+    karma : Int,
+    comment_karma : Int,
+    link_karma : Int,
+    subscribers : Int,
+    coins : Int,
+    created_utc : Date,
+    gold_credits : Int,
+    icon_img : Url,
+    id : String,
+    inbox_count : Int,
+    is_employee : Bool,
+    is_suspended : Bool,
+    name : String,
+    num_friends : Int,
+}
+```
 
 ## 🔎 Search a Subreddit
 
