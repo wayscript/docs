@@ -216,7 +216,7 @@ Create variables for:
 * Assignee List
 * Raw JSON data
 
-## 📓 Retrieve File Contents
+## 📓 Fetch File Contents
 
 ### 📥 Inputs
 

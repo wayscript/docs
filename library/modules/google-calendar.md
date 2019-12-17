@@ -62,13 +62,18 @@ If you selected **Import a specified number of upcoming events**, enter the numb
 
 ### 📤 Outputs
 
-* Event Summaries
-* Event Start Date/Time
-* Event End Date/Time
-* Event Descriptions
-* Event Locations
-* Event Attendees
-* JSON Data
-
-![Example Output Variables](../../.gitbook/assets/img16.png)
+```graphql
+Events = [
+    {
+        summary : String, 
+        start : Date, 
+        end : Date, 
+        description : String, 
+        location : String, 
+        attendees : [
+            String,
+        ],
+    },
+]
+```
 
