@@ -25,15 +25,51 @@ Check out Full Contact on [GitHub](https://github.com/fullcontact/fullcontact.py
 
 * Email Address
 
-### 📤 Outputs
+### 📤 Output
 
-* Name
-* Websites
-* Gender
-* Organization
-* Job Title
-* LinkedIn URL
-* Facebook URL
-* Twitter Handle
-* Instagram Username
+```graphql
+Person = {
+    contact_info : {
+        last_name : String, 
+        full_name : String, 
+        first_name : String, 
+        websites : [
+            Url,
+        ],
+    },
+    demographics : {
+        age : Int, 
+        age_range : String, 
+        gender : String, 
+        location : {
+            city : String, 
+            continent : String, 
+            country : String, 
+            county : String, 
+            full : String, 
+            state : {
+                code : String, 
+                name : String, 
+            },
+        },
+    },
+    likelihood : Float, 
+    organizations : [
+        {
+            current : Bool, 
+            primary : Bool,
+            name : String, 
+            start_date : String, 
+            title : String,
+        },
+    ],
+    social_profiles : {
+        facebook : Url, 
+        instagram : Url, 
+        linkedin : Url, 
+        twitter : Url, 
+        youtube : Url,
+    },
+}
+```
 
