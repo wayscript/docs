@@ -66,7 +66,6 @@
   * [Crunchbase](library/modules/crunchbase.md)
   * [CSS](library/modules/css.md)
   * [CSV](library/modules/csv.md)
-  * [Data Storage](library/modules/data-storage.md)
   * [Date Time](library/modules/date-time.md)
   * [Diffbot](library/modules/diffbot.md)
   * [Discord](library/modules/discord.md)

@@ -12,12 +12,22 @@ Check out Diffbot on [GitHub](https://github.com/diffbot/diffbot-python-client).
 
 * **URL** - the website link you want to pull text from. \(E.g. wayscript.com\)
 
-### 📤 Outputs
+### 📤 Output
 
-* **Website Text** - The websites text.
-* **JSON Data** - The raw JSON results from Diffbot. 
-
-![Diffbot](../../.gitbook/assets/screenshot-2019-07-16-16.30.35.png)
+```graphql
+Article = {
+    title : String, 
+    text : String, 
+    date : Date, 
+    html : Html, 
+    tags : [
+        String,
+    ],
+    icon : Url,
+    url : Url, 
+    type : String, 
+}
+```
 
 ## 🛒 Data from any Shopping or e-Commerce Product Page
 
@@ -25,15 +35,21 @@ Check out Diffbot on [GitHub](https://github.com/diffbot/diffbot-python-client).
 
 * **URL** - the e-commerce website link you want to pull text from.
 
-### 📤 Outputs
+### 📤 Output
 
-* **Product Name**
-* **Product Brand**
-* **Product Price**
-* **SKU Number**
-* **Description**
-* **Image URL**
-* **Product Availability**
+```graphql
+Product = {
+    title : String, 
+    brand : String, 
+    price : Float, 
+    sku : String, 
+    description : String, 
+    image_url : Url, 
+    availability : Bool,
+}
+```
+
+\*\*\*\*
 
 ## 💬 Forum/Discussion/Product Conversations and Reviews
 
@@ -43,12 +59,19 @@ Check out Diffbot on [GitHub](https://github.com/diffbot/diffbot-python-client).
 
 * **URL** - the forum link you want to pull text from.
 
-### 📤 Outputs
+### 📤 Output
 
-* **Post Title**
-* **Post Author**
-* **Post Text**
-* **Post Author URL**
-* **Post Date**
-* **Post Language**
+```graphql
+Posts = [
+    {
+        title : String, 
+        author : String, 
+        text : String, 
+        url : Url, 
+        date : Date,
+        html : Html, 
+        language : String, 
+    },
+]
+```
 
