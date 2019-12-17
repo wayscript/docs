@@ -32,30 +32,37 @@ Optional Inputs will can help improve the accuracy of your search
 
 ### 📤 Outputs
 
-* Company Name
-* Company Legal Name
-* Industry
-* Sector
-* SIC Code
-* NAICS Code
-* Company Technologies
-* Company Tags
-* Company Type
-* Company Description
-* Year Founded
-* Company EIN
-* Company Location
-* Number of Employees
-* Fiscal Year End
-* Company Annual Revenue
-* Alexa US Rank
-* Alexa Global Rank
-* Company Phone Number
-* Company Facebook URL
-* Company Twitter URL
-* Company LinkedIn URL
-* Company Crunchbase URL
-* JSON Data
+```graphql
+Company_Data = {
+    company_name : String, 
+    company_legal_name : String, 
+    industry : String, 
+    sector : String, 
+    sic_code : Int, 
+    naics_code : Int, 
+    technologies : [
+        String,
+    ],
+    tags : [
+        String,
+    ],
+    type : String, 
+    description : String, 
+    year_founded : String, 
+    ein : String, 
+    address : String,
+    number_of_employees : Int, 
+    fiscal_year_end : String, 
+    annual_revenue : Int, 
+    alexa_us_rank : Int, 
+    alexa_global_rank : Int, 
+    phone_number : String, 
+    facebook_url : Url,
+    twitter_url : Url, 
+    linkedin_url : Url, 
+    crunchbase_url : Url,
+}
+```
 
 ## 👤 Lookup Person
 
