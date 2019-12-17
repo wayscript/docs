@@ -42,14 +42,16 @@ Enter the name of the equity of your choice.
 
 ### 📤 Outputs
 
-**Stock\_Data** \(Struct\)
-
-* open \(Float\)
-* high \(Float\)
-* Low \(Float\)
-* Close \(Float\)
-* Volume \(Float\)
-* Ticker \(String\)
+```text
+Stock_Data = {
+    open : Float,
+    high : Float,
+    low : Float,
+    close : Float,
+    volume : Float,
+    ticker : String,
+}
+```
 
 **JSON\_DATA** \(String\)
 
