@@ -71,20 +71,27 @@ Enter the name of the equity of your choice.
 
 ### 📤 Outputs
 
-**Time\_Series** \(Struct\)
+```text
+Time_Series = { 
+    meta = { 
+        symbol : String,
+        last_refreshed: String,
+        output_size : String,
+        timezone: String, 
+    },
+    data = [ 
+       { 
+           date : Date,
+           open : Float,
+           high : Float,
+           low : Float,
+           close : Float,
+           volume : Float,
+       },
+    ]
+}
 
-* meta \(Struct\)
-  * symbol \(String\)
-  * last\_refreshed \(String\)
-  * output\_size \(String\)
-  * timezone \(String\)
-* series\_data \(List\( Struct \)\)
-  * date \(Date\)
-  * open \(Float\)
-  * high \(Float\)
-  * low \(Float\)
-  * close \(Float\)
-  * volume \(Float\)
+```
 
 **JSON\_Data** \(String\)
 
