@@ -109,27 +109,33 @@ Time_Series = {
 
 ### 📤 Outputs
 
-**Crypto\_Data** \(Struct\)
-
-* meta \(Struct\)
-  * digital\_currency\_code \(String\)
-  * digital\_currency\_name \(String\)
-  * market\_code \(String\)
-  * market\_name \(String\)
-  * last\_refreshed \(Date\)
-  * timezone \(String\)
-* data \(List\(Struct\)\)
-  * date \(date\)
-  * open\_usd \(Float\)
-  * open\_cny \(Float\)
-  * high\_usd \(Float\)
-  * high\_cny \(Float\)
-  * low\_usd \(Float\)
-  * low\_cny \(Float\)
-  * close\_usd \(Float\)
-  * close\_cny \(Float\)
-  * volume \(Float\)
-  * mkt\_cap\_usd \(Float\)
+```text
+Crypto_Data = {
+    meta : {
+        digital_currency_code : String,
+        digital_currency_name : String,
+        market_code : String,
+        market_name : String,
+        last_refreshed : Date,
+        timezone : String,
+    },
+    data : [
+        {
+          date : Date,
+          open_usd : Float,
+          open_cny : Float,
+          high_usd : Float,
+          high_cny : Float,
+          low_usd : Float,
+          low_cny : Float,
+          close_usd : Float,
+          close_cny : Float,
+          volume : Float,
+          mkt_cap_usd : Float,  
+        },
+    ]
+}
+```
 
 **JSON\_DATA** \(String\)
 
