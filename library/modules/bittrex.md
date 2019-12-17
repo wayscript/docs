@@ -49,49 +49,73 @@ Markets = [
 
 ### Current Data for a Ticker _\(Single\)_
 
-* Bid Price
-* Ask Price
-* Last Price
+```graphql
+Ticker = {
+    market_name : String,
+    ask : Float,
+    bid : Float,
+    last : Float,
+}
+```
 
 ### Last 24 Hour Summaries of all Active Exchanges _\(List\)_
 
-* Market Names
-* High Prices
-* Low Prices
-* Volumes
-* Last Prices
-* Base Volumes
-* Timestamps
-* Bid Prices
-* Ask Prices
-* Number of Open Buy Orders
-* Number of Open Sell Orders
-* Previous Days
+```graphql
+Market_Summaries = [
+    {
+        market_name : String,
+        ask : Float,
+        base_volume : Float,
+        bid : Float, 
+        created : Date,
+        high : Float, 
+        last : Float, 
+        low : Float, 
+        open_buy_orders : Float, 
+        open_sell_orders: Float, 
+        prev_day : Float, 
+        timestamp : Date, 
+        volume : Float, 
+    },
+]
+```
 
 ### Last 24 Hour Summary of a Ticker _\(Single\)_
 
-* Bid Price
-* Ask Price
-* Last Price
-* Market Name
-* High Price
-* Low Price
-* Volume
-* Base Volume
-* Timestamp
-* Open Buy Orders
-* Open Sell Orders
-* Previous Day
+```graphql
+Market_Summary = {
+    ask : Float, 
+    base_volume : Float, 
+    bid : Float, 
+    created : Date, 
+    high : Float, 
+    last : Float, 
+    low : Float, 
+    market_name : String, 
+    open_buy_orders : Int, 
+    open_sell_orders : Int, 
+    prev_day : Float, 
+    timestamp : Date, 
+    volume : Float, 
+}
+```
 
 ### Historical Market Data for a Ticker _\(List\)_
 
-* Timestamps
-* IDs
-* Quantities
-* Prices
-* Totals
-* Fill Types
-* Order Types
+```graphql
+Historical_Date = [
+    {
+        fill_type : String, 
+        id : Int, 
+        order_type : String, 
+        price : Float, 
+        quantity : Float, 
+        timestamp : Date,
+        total : Float, 
+        uuid : String, 
+    },
+]
+```
 
-![](../../.gitbook/assets/screen-shot-2019-07-16-at-12.58.04-pm.png)
+
 
