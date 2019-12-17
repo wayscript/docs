@@ -40,7 +40,7 @@ Retrieve a list of the desired number of messages from the channel history.
 
 Input the number of messages you want retrieved. If you do not enter a number, it will default to 5 messages.
 
-### 📤 Output
+#### 📤 Output
 
 ```graphql
 Message_History = [
