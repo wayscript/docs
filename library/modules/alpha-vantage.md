@@ -42,7 +42,7 @@ Enter the name of the equity of your choice.
 
 ### 📤 Outputs
 
-```text
+```graphql
 Stock_Data = {
     open : Float,
     high : Float,
@@ -73,15 +73,15 @@ Enter the name of the equity of your choice.
 
 ### 📤 Outputs
 
-```text
+```graphql
 Time_Series = { 
-    meta = { 
+    meta : { 
         symbol : String,
         last_refreshed: String,
         output_size : String,
         timezone: String, 
     },
-    data = [ 
+    data : [ 
        { 
            date : Date,
            open : Float,
@@ -109,7 +109,7 @@ Time_Series = {
 
 ### 📤 Outputs
 
-```text
+```graphql
 Crypto_Data = {
     meta : {
         digital_currency_code : String,
@@ -155,9 +155,26 @@ Enter the name of the equity of your choice.
 
 ### 📤 **Outputs**
 
-* Date
-* SMA
-* JSON Data
+```graphql
+Stock_Indicator = {
+    meta : {
+        symbol : String,
+        indicator : String,
+        indicator_sym : String,
+        last_refreshed : Date,
+        interval : String,
+        time_period : Int,
+        series_type : String,
+        timezone : String,
+    },
+    data : [
+        {
+            datetime : Date,
+            data : Float,
+        },
+    ]
+}
+```
 
 ## Exponential Moving Average \(EMA\)
 
@@ -175,9 +192,28 @@ Enter the name of the equity of your choice.
 
 ### 📤 **Outputs**
 
-* Date
-* EMA
-* JSON Data
+```graphql
+Stock_Indicator = {
+    meta : {
+        symbol : String,
+        indicator : String,
+        indicator_sym : String,
+        last_refreshed : Date,
+        interval : String,
+        time_period : Int,
+        series_type : String,
+        timezone : String,
+    },
+    data : [
+        {
+            datetime : Date,
+            data : Float,
+        },
+    ]
+}
+```
+
+\*\*\*\*
 
 ## Moving Average Convergence / Divergence \(MACD\)
 
@@ -202,11 +238,30 @@ Enter the name of the equity of your choice.
 
 ### 📤 Outputs
 
-* Date
-* MACD
-* MACD Signal
-* MACD Histogram
-* JSON Data
+```graphql
+MACD = {
+    meta : {
+        symbol : String,
+        indicator : String,
+        indicator_sym : String,
+        last_refreshed : String,
+        interval : String,
+        fast_period : Int,
+        slow_period : Int,
+        signal_period : Int,
+        series_type : String,
+        timezone : String,
+    },
+    data : [
+        {
+            date : Date,
+            macd_hist : Float,
+            macd_signal : Float,
+            macd : Float,
+        },
+    ]
+}
+```
 
 ## Stochastic Oscillator \(STOCH\)
 
