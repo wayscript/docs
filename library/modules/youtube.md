@@ -20,15 +20,21 @@ You can add additional accounts from the YouTube module settings.
   * Sort Order
   * Filter Results by U.S. Zip Code
 
-### 📤 Outputs
+### 📤 Output
 
-* Video Title
-* Author Channel Username
-* Video URL
-* Video Description
-* Date Published
-* Author Channel ID
-* Video ID
+```graphql
+YouTube_Videos = [
+    {
+        title : String,
+        channel : String,
+        url : Url,
+        description : String,
+        published_at : Date,
+        channel_id : String, 
+        video_id : String,
+    },
+]
+```
 
 ## 📺 Get Data About a Video
 
@@ -36,21 +42,25 @@ You can add additional accounts from the YouTube module settings.
 
 * Video URL
 
-### 📤 Outputs
+### 📤 Output
 
-* Video Title
-* Author Channel Username
-* Video Description
-* Date Published
-* Author Channel ID
-* Video Tags
-* View Count
-* Comment Count
-* Like Count
-* Dislike Count
-* Favorited Count
-
-![](../../.gitbook/assets/screen-shot-2019-07-17-at-6.12.40-pm.png)
+```graphql
+YouTube_Video = {
+    title : String, 
+    channel : String, 
+    description : String, 
+    published_at : Date, 
+    channel_id : String, 
+    tags : [
+        String,
+    ],
+    comment_count : Int,
+    dislike_count : Int,
+    favorite_count : Int,
+    like_count : Int,
+    view_count : Int,
+}
+```
 
 ## 💬 Get Comments on a Video
 
@@ -62,15 +72,21 @@ You can add additional accounts from the YouTube module settings.
   * Time
   * Relevance
 
-### 📤Outputs
+### 📤Output
 
-* Comment Text
-* Author Channel Username
-* Date Published
-* Author Channel ID
-* Author Channel URL
-* Like Count
-* Reply Count
+```graphql
+Video_Comments = [
+    {
+        text : String, 
+        author_display_name : String, 
+        author_channel_id : String, 
+        author_channel_url : String, 
+        like_count : String, 
+        published_at : Date, 
+        reply_count : Int,
+    },
+]
+```
 
 ## 👤 Get Data on a Channel \(User Account\)
 
@@ -78,12 +94,18 @@ You can add additional accounts from the YouTube module settings.
 
 * Account/Channel Username
 
-### 📤Outputs
+### 📤Output
 
-* Video Description
-* View Count
-* Comment Count
-* Subscriber Count
-* Number of Videos Uploaded
-* Channel URL
+```graphql
+YouTube_Channel = {
+    description : String, 
+    view_count : Int,
+    comment_count : Int, 
+    subscriber_count : Int, 
+    video_count : Int,
+    url : Url,
+}
+```
+
+
 
