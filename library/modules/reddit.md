@@ -65,6 +65,29 @@ Subreddit = {
 }
 ```
 
+```graphql
+Subreddit_Posts = [
+    {
+        title : String, 
+        date : Date. 
+        author : String, 
+        text : String, 
+        score : Int, 
+        upvotes : Int, 
+        downvotes : Int, 
+        num_comments : Int, 
+        permalink : Url, 
+        post_url : Url, 
+        gilded : Int, 
+        id : String, 
+        is_video : Bool, 
+        num_crossposts : Int, 
+        num_reports : Int, 
+        over18 : Bool, 
+    },
+]
+```
+
 ## 👥 Data About Other Users
 
 ### 📥 Inputs
