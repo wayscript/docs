@@ -12,68 +12,71 @@ Enter the stock ticker symbol. As an example, for Microsoft you would enter MSFT
 
 ## 📤 Outputs
 
-* Language
-* Region
-* Quote Type
-* Quote Source Name
-* Currency
-* Regular Market Price
-* Regular Market Time
-* Regular Market Change
-* Regular Market Open
-* Regular Market Day High
-* Exchange Data Delayed By
-* Exchange
-* Market Cap
-* Regular Market Change Percent
-* Regular Market Previous Close
-* Bid
-* Ask
-* Bid Size
-* Ask Size
-* Message Board ID
-* Full Exchange Name
-* Long Name
-* Financial Currency
-* Average Daily Volume 3 Month
-* Fifty Two Week Low Change
-* Fifty Two Week Low Change Percent
-* Fifty Two Week High Change
-* Fifty Two Week High Change Percent
-* Fifty Two Week Low
-* Fifty Two Week High
-* Dividend Date
-* Earnings Timestamp
-* Earnings Timestamp Start
-* Earnings Timestamp End
-* Trailing Annual Dividend Rate
-* Trailing PE
-* Trailing Annual Dividend Yield
-* EPS Trailing Twelve Months
-* EPS Forward
-* Average Daily Volume 10 Day
-* Shares Outstanding
-* Book Value
-* Fifty Day Average
-* Fifty Day Average Change
-* Fifty Day Average Change Percent
-* Two Hundred Day Average
-* Two Hundred Day Average Change
-* Two Hundred Day Average Change Percent
-* Forward PE
-* Price to Book
-* Source Interval
-* Exchange Timezone Name
-* Exchange Timezone Short Name
-* GMT Off Set Milliseconds
-* Regular Market Day Low
-* Regular Market Volume
-* Price Hint
-* Short Name
-* Market
-* Market State
-* Symbol
-* JSON data
+```graphql
+Stock = {
+    bid : Number,
+    ask : Number,
+    market_cap : Number,
+    exchange : String, 
+    symbol : String,
+    language : String,
+    region : String,
+    quote_type : String,
+    quote_source_name : String,
+    currency : String,
+    regular_market_price : Number,
+    regular_market_time : Number,
+    regular_market_change : Number,
+    regular_market_open : Number,
+    regular_market_day_high : Number,
+    regular_market_day_low : Number,
+    regular_market_volume : Number,
+    exchange_date_delayed_by : Number,
+    regular_market_change_percent : Number,
+    regular_market_previous_close : Number,
+    bid_size : Number,
+    ask_size : Number,
+    message_board_id : String,
+    full_exchange_name : String,
+    long_name : String,
+    financial_currency : String,
+    average_daily_volume_3_month : Number,
+    average_daily_volume_10_day : Number,
+    fifty_two_week_low_change : Number,
+    fifty_two_week_low_change_pct : Number,
+    fifty_two_week_high_change : Number,
+    fifty_two_week_high_change_pct : Number,
+    fifty_two_week_low : Number,
+    fifty_two_week_high : Number, 
+    dividend_date : Number,
+    earnings_timestamp : Number,
+    earnings_timestamp_start : Number,
+    earnings_timestamp_end : Number,
+    trailing_annual_dividend_rate : Number,
+    trailing_pe : Number, 
+    trailing_annual_dividend_yield : Number, 
+    eps_trailing_twelve_months : Number, 
+    eps_forward : Number, 
+    shares_outstanding : Number, 
+    book_value : Number, 
+    fifty_day_average : Number, 
+    fifty_day_average_change : Number, 
+    fifty_day_average_change_pct : Number, 
+    two_hundred_day_average : Number, 
+    two_hundred_day_average_change : Number, 
+    two_hundred_day_average_change_pct : Number, 
+    forward_pe : Number, 
+    price_to_book : Number, 
+    source_interval : Number, 
+    exchange_timezone_name : String, 
+    exchange_timezone_short_name : String, 
+    gmt_offsett_milliseconds : Number, 
+    price_hint : Number, 
+    short_name : String, 
+    market : String,
+    market_state : String, 
+}
+```
 
 {% hint style="warning" %}
 Not every field will have a value for any given stock ticker symbol.
