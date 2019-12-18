@@ -37,20 +37,33 @@ Account = {
 
 ### 📤 Outputs
 
-* **Number of Subscribers** - Total number of subscribers
-* **Active Accounts** - The number of accounts currently online
-* **Subreddit Description** - Subreddits description
-* **Post Titles** - A [List](../../getting_started/variables.md#lists) of the Titles of the Subreddit Posts
-* **Date of Post \(UTC\)** - ****A List of the Dates that the posts were published
-* **Post Text** - A List of the Text of the Subreddit Posts
-* **Post Author** - A List of the Authors of the Subreddit Posts
-* **Number of Upvotes** - A List of the Number of Upvotes of the Subreddit Posts
-* **Number of Comments** - A List of the Number of Comments of the Subreddit Posts
-* **Post Reddit URLs** - A List of the Reddit URLs of the Posts
-* **Post Link URLs** - If the post is a link to another website, this will be the URL of the link
-* **JSON Data -** Raw JSON of the API query response
-
-![Search a Subreddit](../../.gitbook/assets/reddit_sub.png)
+```graphql
+Subreddit = {
+    num_subscribers : Int,
+    active_accounts : Int,
+    public_description : String,
+    description : String,
+    advertiser_category : String,
+    all_original_content : Bool,
+    banner_background_color : String,
+    banner_img : Url,
+    community_icon : Url,
+    created_utc : Date,
+    display_name : String,
+    display_name_prefixed : String,
+    emojis_enabled : Bool,
+    header_img : Url,
+    hide_ads : Bool,
+    icon_img : Url,
+    id : String,
+    lang : String,
+    link_flair_enabled : Bool,
+    over18 : Bool,
+    spoilers_enabled : Bool,
+    url : Url,
+    wiki_enabled : Bool,
+}
+```
 
 ## 👥 Data About Other Users
 
