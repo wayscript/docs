@@ -163,11 +163,40 @@ Choose a User
 
 * Email
 
-#### 📤 Outputs
+#### 📤 Output
 
-* Member ID
-* Member Name
-* JSON Data
+```graphql
+User = {
+    username : String, 
+    real_name : String, 
+    id : String, 
+    is_admin : Bool,
+    is_app_user : Bool,
+    is_bot : Bool,
+    is_owner : Bool,
+    is_primary_owner : Bool,
+    is_restricted : Bool,
+    is_ultra_restricted : Bool,
+    profile : {
+        display_name : String, 
+        email : String, 
+        phone : String, 
+        skype : String, 
+        status_emoji : String, 
+        status_text : String, 
+        status_expiration : String, 
+        title : String, 
+        image_192 : Url,
+        image_24 : Url,
+        image_32 : Url,
+        image_48 : Url,
+        image_512 : Url,
+        image_72 : Url,
+    },
+    timezone : String,
+    tz_label : String, 
+}
+```
 
 ### 💬 Send a Direct Message
 
