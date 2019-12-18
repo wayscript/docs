@@ -4,6 +4,28 @@ description: Updates and improvements to the WayScript platform.
 
 # What's new?
 
+## December 17th, 2019
+
+* We have added the ability to edit your user profile!
+  * You can now update your profile image, add a bio, and set your contact information.
+  * You can also [share the URL of your profile](https://wayscript.com/user/captain1217) to allow people to see your page and view your publicly available scripts.
+
+![](.gitbook/assets/screen-shot-2019-12-17-at-9.21.22-pm.png)
+
+* We have added a customizable landing page for your scripts! From this page, you can:
+  * Edit the name and description of your script.
+  * Add a ReadMe using Markdown.
+  * Customize the script logo and banner image.
+  * Delete, clone, share, or edit your script.
+  * View statistics about your script.
+
+![](.gitbook/assets/screen-shot-2019-12-17-at-9.22.51-pm.png)
+
+* We have added a [Variable Storage](library/logic/variable-storage.md) module, which  allows you to store the values of variables in your WayScript programs.
+* The outputs of most modules have been updated to utilize the new, easy-to-use "struct" variable type.
+  * Structs allows you to drill down into variables using the `.` operator. For example, you can access the content of a particular [Tweet](library/modules/twitter.md) within a list of Tweets by referencing `Tweets.0.content`.
+  * Refer to the documentation for each individual module to see the contents and structure of the output data.
+
 ## November 20th, 2019
 
 * We have added a [RegEx module](library/modules/regex.md) that makes it easy to find pattern matches in text.

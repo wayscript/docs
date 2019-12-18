@@ -26,97 +26,70 @@ Returns data for a single matching profile.
 
 ### 🆔 By ID
 
-![Select Lookup Profile By Id](../../.gitbook/assets/screen-shot-2019-07-24-at-4.46.30-pm.png)
-
 #### 📥 Inputs
 
 * Id - RocketReach profile Id
 
-#### 📤 Outputs
-
-* Id
-* Current Employer
-* Current Title
-* Profile Picture
-* LinkedIn URL
-* Current Personal Email
-* Current Work Email
-* Location
-* Name
-* Link Accounts
-  * Each account is matched to a URL at the same index in **Link URLs**.
-* Link URLs
-  * Each URL is matched to an account at the same index in **Link Accounts**.
-* Phones
-* Email SMTP Valid
-  * Each SMTP Valid item is matched to an email address in **Email Addresses**.
-* Email Addresses
-  * Each email address is matched to an SMTP Valid item in **Email SMTP Valid**.
-* JSON Data
-  * Raw JSON data received from the API.
-
 ### 🔗 By LinkedIn URL
-
-![Select Lookup Profile By LinkedIn URL](../../.gitbook/assets/screen-shot-2019-07-24-at-4.46.46-pm.png)
 
 #### 📥 Inputs
 
 * LinkedIn URL
-
-#### 📤 Outputs
-
-* Id
-* Current Employer
-* Current Title
-* Profile Picture
-* LinkedIn URL
-* Current Personal Email
-* Current Work Email
-* Location
-* Name
-* Link Accounts
-  * Each account is matched to a URL at the same index in **Link URLs**.
-* Link URLs
-  * Each URL is matched to an account at the same index in **Link Accounts**.
-* Phones
-* Email SMTP Valid
-  * Each SMTP Valid item is matched to an email address in **Email Addresses**.
-* Email Addresses
-  * Each email address is matched to an SMTP Valid item in **Email SMTP Valid**.
-* JSON Data
-  * Raw JSON data received from the API.
 
 ### 📔 By Name and Current Employer
 
-![Select Lookup Profile by Name and Current Employer](../../.gitbook/assets/screen-shot-2019-07-24-at-4.47.00-pm.png)
-
 #### 📥 Inputs
 
 * Name
 * Current Employer
 
-#### 📤 Outputs
+#### 📤 Output
 
-* Id
-* Current Employer
-* Current Title
-* Profile Picture
-* LinkedIn URL
-* Current Personal Email
-* Current Work Email
-* Location
-* Name
-* Link Accounts
-  * Each account is matched to a URL at the same index in **Link URLs**.
-* Link URLs
-  * Each URL is matched to an account at the same index in **Link Accounts**.
-* Phones
-* Email SMTP Valid
-  * Each SMTP Valid item is matched to an email address in **Email Addresses**.
-* Email Addresses
-  * Each email address is matched to an SMTP Valid item in **Email SMTP Valid**.
-* JSON Data
-  * Raw JSON data received from the API.
+```graphql
+Profile = {
+    name : String,
+    current_employer : String, 
+    current_title : String, 
+    personal_email : String, 
+    work_email : String, 
+    emails : [
+        {
+            email : String, 
+            smtp_valid : String, 
+            type : String, 
+        },
+    ],
+    linkedin_url : Url,
+    links : {
+         aboutme : Url,
+         amazon : Url, 
+         angel : Url, 
+         angellist : Url,
+         crunchbase : Url,
+         facebook : Url,
+         github : Url,
+         google : Url,
+         google_plus : Url,
+         gravatar : Url,
+         hi5 : Url,
+         instagram : Url,
+         klout : Url,
+         linkedin : Url,
+         meetup : Url,
+         pinterest : Url,
+         quora : Url,
+         salesforce : Url,
+         twicsy : Url,
+         twitter : Url,   
+    },
+    location : String, 
+    phones : [
+        String,
+    ],
+    profile_pic : Url,
+    id : Int,
+}
+```
 
 ## 🔎 Search
 
@@ -135,21 +108,21 @@ Return data from multiple profiles matching the search criteria.
 * Company
 * Location
 
-#### 📤 Outputs
+#### 📤 Output
 
-* Ids
-* Names
-* Profile Pictures
-* Locations
-* Cities
-* Regions
-* Country Codes
-* Current Titles
-* Current Employers
-* JSON Data
-  * Raw JSON data received from the API.
-
-{% hint style="info" %}
-Data for a single profile can be found at the same index of each output list.
-{% endhint %}
+```graphql
+Profiles = [
+    {
+        name : String,
+        city : String,
+        country_code : String, 
+        current_employer : String,
+        current_title : String,
+        id : Int,
+        location : String, 
+        profile_pic : Url,
+        region : String,
+    },
+]
+```
 
