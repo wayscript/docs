@@ -12,16 +12,40 @@
 * **Search Term** - The search term of the business \(example - "pizza" or "auto shop"\)
 * **Location** - Location you are looking for \(example - "New York, NY"\)
 
-## 📤 Outputs
+## 📤 Output
 
-* **Business Names**
-* **Business Addresses \(Full\)**
-* **Business Street**
-* **Business City**
-* **Business State**
-* **Business Zipcode**
-* **Business Phone Numbers**
-* **Business Is Permanently Closed**
-* **Number of Reviews**
-* **JSON Data** - Raw JSON data received from the API
+```graphql
+Businesses = [
+    {
+        name : String,
+        location : {
+            address1 : String, 
+            address2 : String, 
+            address3 : String, 
+            city : String, 
+            country : String,
+            display_address : [
+                String,
+            ],
+            state : String, 
+            zipcode : String, 
+            full_address : String, 
+        },
+        display_phone : Stirng, 
+        coordinates : {
+            lat : Float, 
+            long : Float,
+        },
+        image_url : Url,
+        is_closed : Bool,
+        phone : String, 
+        price : String, 
+        rating : Float, 
+        review_count : Int,
+        yelp_url : Url,
+    },
+]
+```
+
+
 
