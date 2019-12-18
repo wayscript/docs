@@ -94,19 +94,26 @@ Subreddit_Posts = [
 
 * **Account Name** - account name of the user. 
 
-### 📤 Outputs
+### 📤 Output
 
-* **Public Description** - Users public description
-* **Karma** - Total Karma from Comments and Links
-* **Comment Karma** - Total Karma from Comments
-* **Link Karma** - Total Karma from Links
-* **Number of Subscribers** - Total Number of Account Subscribers
-* **Account Has Gold** - Returns True or False
-* **JSON Data** - Raw JSON of the API query response
-
-![Data About Other Users](../../.gitbook/assets/reddit_other_users.png)
-
-
+```graphql
+Reddit_User = {
+    description : String, 
+    comment_karma : Int, 
+    link_karma : Int, 
+    karma : Int, 
+    subscribers : Int, 
+    created_utc : String, 
+    icon_img : Url, 
+    id : String, 
+    is_employee : Bool, 
+    is_friend : Bool, 
+    is_gold : Bool, 
+    moderator : Bool, 
+    name : String, 
+    verified : Bool,
+}
+```
 
 ## 📌 Get Posts from Other Users
 
@@ -117,18 +124,28 @@ Pull in the posts of a user by their username.
 * **Number of Posts to Return** - How many posts you want to be outputted. 
 * **Account Name -** account name of the user. 
 
-### 📤 Outputs
+### 📤 Output
 
-* **Number of Subscribers** - The number of subscribers to Account Name
-* **List of Subbreddits the Posts Belong To** - A list of the subreddits each post was posted to
-* **Post Titles** - A list of the titles of each post
-* **Date of Post \(UTC\)** - A list of the dates of each post
-* **Post Text** - A list of the text of each post
-* **Number of Upvotes** - A list of the number of upvotes of each post
-* **Number of Comments** - A list of the number of comments of each post
-* **Post Reddit URLs** - A list of the urls of each reddit post
-* **Post Link URLs** - A list of the urls mentioned in each post
-* **JSON Data**  - Raw JSON of the API query response 
+```graphql
+Posts = [
+    {
+        title : String, 
+        author : String, 
+        text : String, 
+        created_utc : Date, 
+        score : Int, 
+        upvotes : Int, 
+        downvotes : Int, 
+        num_comments : Int, 
+        permalink : Url, 
+        url : Url, 
+        subreddit : String, 
+        subreddit_subscribers : Int,
+        over_18 : Bool,
+        num_crossposts : Int,
+    },
+]
+```
 
 ## 💬 Get Comments from Other Users
 
@@ -137,14 +154,22 @@ Pull in the posts of a user by their username.
 * **Number of Posts to Return** - How many posts you want to be outputted. 
 * **Account Name -** account name of the user. 
 
-### 📤 Outputs
+### 📤 Output
 
-* **Comment Text** - A List of the text of the Comments
-* **Date of Comment \(UTC\)** - A list of the date that the comment was published
-* **Number of Comments** - A list of the Number of Comments on the Comments
-* **Number of Upvotes** - A List of the Number of Upvotes on the Comments
-* **List of Subbreddits the Comments Belong To** - A list of the subreddits each post was posted to
-* **Comment Reddit URLs** - A List of the URLs of the Comments
-* **Comment Link URLs** - A list of the urls mentioned in each comment
-* **JSON Data** - Raw JSON of the API query response
+```graphql
+Comments = [
+    {
+        text : String, 
+        author : String, 
+        created_utc : Date, 
+        score : Int, 
+        num_comments : Int, 
+        upvotes : Int, 
+        downvotes : Int, 
+        subreddit : String, 
+        permalink : Url, 
+        url : Url, 
+    },
+]
+```
 
