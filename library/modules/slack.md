@@ -39,10 +39,11 @@ Select the workspace that you would like to work with.
 * Name _\(required\)_
 * Make Private
 
-#### 📤 Outputs
+#### 📤 Output
 
-* New Channel's ID
-* JSON Data
+```graphql
+New_Channels_Id : String
+```
 
 ### ✏ Write to a Channel
 
@@ -53,19 +54,23 @@ Choose any channel in your Workspace.
 * Message
 * As Bot
 
-#### 📤 Outputs
+#### 📤 Output
 
-* Action status
-* JSON Data
+```graphql
+Action_status : String
+```
 
 ### 👥 Get a List of Channel Members
 
 Choose any channel in your Workspace.
 
-#### 📤 Outputs
+#### 📤 Output
 
-* List of Channel Members
-* JSON Data
+```graphql
+List_Of_Channel_Members : [
+    String,
+]
+```
 
 ### 👋 Invite Users to a Channel
 
@@ -75,10 +80,11 @@ Choose any channel in your Workspace.
 
 * Users IDs
 
-#### 📤 Outputs
+#### 📤 Output
 
-* Action status
-* JSON Data
+```graphql
+Action_status : String
+```
 
 ### 💬 Get Channel's History of Messages
 
@@ -135,10 +141,11 @@ Choose a channel in your Workspace where the command you would like to run is av
 * **Command:** The slash command you would like to run. \(e.g. _/poll "A question" "An answer" "Another Answer"_\) [Click here to learn about Slack slash commands.](https://api.slack.com/interactivity/slash-commands)
 * **Legacy Token:** Your Legacy account token. Running slash commands via API requires a legacy account token. You can generate a token for your workspace here: [https://api.slack.com/custom-integrations/legacy-tokens](https://api.slack.com/custom-integrations/legacy-tokens)
 
-#### 📤 Outputs
+#### 📤 Output
 
-* Action status
-* JSON Data
+```graphql
+Action_status : String
+```
 
 ## 👥 Work with Users
 
@@ -152,10 +159,11 @@ Choose a channel in your Workspace where the command you would like to run is av
 
 Choose a User
 
-#### 📤 Outputs
+#### 📤 Output
 
-* Member ID
-* JSON Data
+```graphql
+Member_ID : String
+```
 
 ### 📧 Lookup a User by their Email
 
@@ -204,8 +212,9 @@ User = {
 
 * Message
 
-#### 📤 Outputs
+#### 📤 Output
 
-* Action status
-* JSON Data
+```graphql
+Action_status : String
+```
 
