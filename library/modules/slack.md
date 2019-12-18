@@ -88,11 +88,43 @@ Choose any channel in your Workspace
 
 * Number of Messages to Retrieve
 
-#### 📤 Outputs
+#### 📤 Output
 
-* Message History
-* Messengers
-* JSON Data
+```graphql
+Message_History = [
+    {
+        username : String, 
+        text : String, 
+        timestamp : Date, 
+        is_bot : Bool,
+        attachments : [
+            {
+                title : String, 
+                text : String, 
+                author_name : String, 
+                fallback : String, 
+                color : String, 
+                pretext : String, 
+                author_link : Url,
+                author_icon : Url,
+                title_link : Url,
+                image_url : Url,
+                fields : [
+                    {
+                        title : String,
+                        value : String,
+                        short : Bool,
+                    },
+                ],
+                thumb_url : Url,
+                footer : String,
+                footer_icon : Url,
+                timestamp : Date,
+            },
+        ],
+    },
+]
+```
 
 ### ⚡ Run a Slash Command
 
