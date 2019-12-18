@@ -19,8 +19,6 @@ Check out twython on [GitHub](https://github.com/ryanmcgrath/twython).
 * **Result Type** - Specifies what type of search results you would prefer to receive. The default value is "Mixed".
   * Options: Recent, Popular, Mixed
 
-![](../../.gitbook/assets/screenshot-2019-07-16-16.21.11.png)
-
 ### 📥 Inputs
 
 * **Search Term** - Excepts Keywords, \#hashtags, or @usernames.
