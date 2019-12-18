@@ -28,16 +28,32 @@ Check out twython on [GitHub](https://github.com/ryanmcgrath/twython).
 
 ![](../../.gitbook/assets/screenshot-2019-07-16-16.18.16.png)
 
-### 📤 Outputs
+### 📤 Output
 
-* **Tweets**
-* **Usernames**
-* **Persons Names**
-* **Number of Post Retweets**
-* **Number of Followers**
-* **Date and Time**
-* **Tweet URLs**
-* **Tweet IDs**
+```graphql
+Tweets = [
+    {
+        content : String, 
+        username : String, 
+        name : String, 
+        id : Int,
+        retweet_count : Int,
+        follower_count : Int, 
+        favorite_count : Int,
+        date : Date,
+        url : String, 
+        hashtags : [
+            String,
+        ],
+        user_mentions : [
+            String,
+        ],
+        url_mentions : [
+            String,
+        ],
+    },
+]
+```
 
 ## 🐦 Tweet History of a User
 
