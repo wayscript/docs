@@ -41,16 +41,40 @@ CHECK ALL APIs under the select API\(s\) section!
 Outputs are [single Items](../../getting_started/variables.md#single-item) if mode is "Get Data on an Address." Outputs are [lists](../../getting_started/variables.md#lists) if mode is "Get Comparables to an Address."
 {% endhint %}
 
-* **Zestimate House Value** - Zestimate House Value in US Dollars
-* **Zestimate Valuation \(High\)** - Zestimate House Valuation in US Dollars
-* **Zestimate Valuation \(Low\)** - Zestimate House Valuation in US Dollars
-* **Zestimate Valuation Change** - Zestimate House Valuation Amount Changed in the last 30 days. Denoted in US Dollars.
-* **Number of Bathrooms**
-* **Number of Bedrooms**
-* **House is Completed** - True if house is completed, False if house is under construction.
-* **Square Feet**
-* **Lost Size Square Feet** - Square Feet of the entire property.
-* **Last Sold Date** - Date of the last time the house was sold.
-* **Last Sold Price** - Price of house in last sale.
-* **Tax Assessment**
+```graphql
+Property = {
+    value : Number, 
+    amount_change_30days : Number, 
+    amount_last_updated : Date, 
+    valuation_range_high : Number, 
+    valuation_range_low : Number,
+    num_bathrooms : Float, 
+    num_bedrooms : Number, 
+    finished_sqft : Number, 
+    last_sold_date : Date, 
+    last_sold_price : Number, 
+    lot_size_sqft : Number, 
+    tax_assessment : Number, 
+    tax_assessment_year : Date, 
+    year_built : Date, 
+    usecode : String, 
+    complete : Bool,
+    currency : String, 
+    zpid : String, 
+    links : {
+        comparables : Url,
+        graphs_and_data : Url,
+        home_details : Url,
+        map_this_home : Url,
+    },
+    full_address : {
+        city : String, 
+        latitude : String, 
+        longitude : String, 
+        state : String, 
+        street : String, 
+        zipcode : String,
+    },
+}
+```
 
