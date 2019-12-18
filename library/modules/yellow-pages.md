@@ -12,16 +12,24 @@
 * **Search Term** - The search term of the business \(example - "pizza" or "auto shop"\)
 * **Location** - Location you are looking for \(example - "New York, NY"\)
 
-## 📤 Outputs
+## 📤 Output
 
-* **Business Names**
-* **Business Addresses \(Full\)**
-* **Business Street**
-* **Business City**
-* **Business State**
-* **Business Zipcode**
-* **Business Phone Numbers**
-* **JSON Data** - Raw JSON data received from the API
-
-![](../../.gitbook/assets/yellow_pages_ex.png)
+```graphql
+Businesses = [
+    {
+        name : String, 
+        street : String, 
+        city : String, 
+        state : String, 
+        zipcode : String, 
+        full_address : String, 
+        phone : String, 
+        payment_methods : String,
+        slogan : String, 
+        latitude : String, 
+        longitude : String, 
+        average_rating : Int,
+    },
+]
+```
 
