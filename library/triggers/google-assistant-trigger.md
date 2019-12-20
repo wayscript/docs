@@ -10,10 +10,24 @@ To have your Google Assistant speak a phrase, use the [Google Assistant module](
 
 ### ​![](../../.gitbook/assets/google_assistant.png) Enable Google Assistant <a id="enable-alexa"></a>
 
-Add the WayScript action to your Google Assistant account. [Get the WayScript Trigger action.](https://assistant.google.com/u/0/services/a/uid/000000dfb9940d69?hl=en-US&source=docs)​
+Add the WayScript action to your Google Assistant account. 
+
+1\) [Click here to go to the WayScript Trigger Google Assistant action](https://assistant.google.com/u/0/services/a/uid/000000dfb9940d69?hl=en-US&source=docs), or click "Enable Action and Link Account" in the modal presented when "Add an Account..." is selected in the Google Assistant Trigger.
+
+![Click &quot;Enable Action and Link Account&quot;](../../.gitbook/assets/screen-shot-2019-12-20-at-10.01.35-am.png)
+
+2\) Click "Link" on the WayScript Trigger action page, or send the link to your device and click "Link" from the Google Assistant app.
+
+![Click &quot;Link&quot; or &quot;Send to device&quot; and complete linking from your device](../../.gitbook/assets/screen-shot-2019-12-20-at-10.02.20-am.png)
+
+3\) You will be taken to WayScript and prompted to sign in.
+
+4\) Sign in and that's it! Your Google Assistant account is now linked!
 
 {% hint style="info" %}
-WayScript will remind you to do this the first time you use a Google Assistant Trigger.‌
+If you wish to unlink WayScript from your account, click "Unlink" from the WayScript Trigger page in the Google Assistant app.
+
+![](../../.gitbook/assets/img_0889.jpeg) 
 {% endhint %}
 
 ### ​ 🕵 Program Alias <a id="program-alias"></a>
