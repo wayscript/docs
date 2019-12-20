@@ -8,7 +8,7 @@ To have your Google Assistant speak a phrase, use the [Google Assistant module](
 
 ## ​ ⚙ Setup <a id="setup"></a>
 
-### ​![](../../.gitbook/assets/google_assistant.png) Enable Google Assistant <a id="enable-alexa"></a>
+### ​![](../../.gitbook/assets/google_assistant.png) Enable Google Assistant <a id="enable-google-assistant"></a>
 
 Add the WayScript action to your Google Assistant account. 
 
