@@ -142,3 +142,7 @@
 * [Change Password](account-management/change-password.md)
 * [Update Email](account-management/update-email.md)
 
+## Other Information
+
+* [IP Addresses](other-information/ip-addresses.md)
+

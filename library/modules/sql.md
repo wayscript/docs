@@ -46,6 +46,12 @@ To use output data elsewhere in your program, assign a name to each column of da
 
 ![](../../.gitbook/assets/sql_outputs.png)
 
+## IP Address Whitelisting
+
+If your SQL server has a firewall enabled, please add the IP addresses listed in the link below to your firewall exceptions:
+
+{% page-ref page="../../other-information/ip-addresses.md" %}
+
 ## 🎓 **Tutorial**
 
 {% embed url="https://www.youtube.com/watch?time\_continue=8&v=1FUUTjJl1N8" %}
