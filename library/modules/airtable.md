@@ -161,7 +161,7 @@ Input Raw JSON \(Advanced\)
 #### Output
 
 ```graphql
-{ Success: Bool, } //This tells you if the row successfully updated
+Success: Bool //This tells you if the row successfully updated
 ```
 
 ## 📤 Outputs
