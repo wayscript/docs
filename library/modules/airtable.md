@@ -154,7 +154,7 @@ Input Raw JSON \(Advanced\)
 ```python
 { 
   'id' : '<INSERT_RECORD_ID>',
-  'fields' : { 'column name' : 'new value' } 
+  'fields' : { 'column name' : 'new value', } 
 }
 ```
 
