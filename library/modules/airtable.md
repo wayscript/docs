@@ -131,6 +131,37 @@ If you opt to input raw JSON, you will need to select the WayScript variable tha
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-8.13.08-pm.png)
 
+### Update a Row
+
+#### Update Type
+
+* **PATCH** - A PATCH request will only update the fields you specify, leaving the rest as they were
+* **PUT** - A PUT request will perform a destructive update and clear all unspecified cell values.
+
+#### Submission Type
+
+Build Data \(Recommended\)
+
+* **Inputs:**
+
+  * **Record ID** - The ID of the Record you want to update. This can be retrieved using the [Get Records](airtable.md#get-records) mode.
+  * **Fields -** This is where you put the Key and Value that you want to update. The Key is the name of the column, the value is the new value you want for that cell. 
+
+Input Raw JSON \(Advanced\) 
+
+* This mode allows you to input your own JSON or Struct into Airtable. The json MUST fit this structure:
+
+```graphql
+{ 'id' : <Record_ID>,
+  'fields' : { 'column name' : 'new value' } }
+```
+
+#### Output
+
+```graphql
+{ Success: Bool, } //This tells you if the row successfully updated
+```
+
 ## 📤 Outputs
 
 Each column of your table will be available to select as an output from the Airtable module.
