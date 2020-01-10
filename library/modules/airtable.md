@@ -152,8 +152,10 @@ Input Raw JSON \(Advanced\)
 * This mode allows you to input your own JSON or Struct into Airtable. The json MUST fit this structure:
 
 ```python
-{ 'id' : <Record_ID>,
-  'fields' : { 'column name' : 'new value' } }
+{ 
+  'id' : '<INSERT_RECORD_ID>',
+  'fields' : { 'column name' : 'new value' } 
+}
 ```
 
 #### Output
