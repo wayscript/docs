@@ -21,9 +21,9 @@ The following logic modules are available:
   * [Continue](loop/continue.md)
 * [Print To Log](print-to-log.md)
 * [Text Actions](text-actions.md)
-* [Variables](variables/)
-  * [Create Variable](variables/create-variable.md)
-  * [Edit Variable Value](variables/edit-variable-value.md)
+* [Variables]()
+  * [Create Variable](create-variable.md)
+  * [Edit Variable Value]()
 
 ## 🎓 Introductory Articles
 

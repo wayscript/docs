@@ -31,7 +31,7 @@ In this tutorial, we are going to build functions that let us do some simple mat
 [Create a Number Variable](variables.md) called "Number" and set it to the value 2.
 
 {% hint style="warning" %}
-Be sure to set the [Type of Item](../library/logic/variables/create-variable.md#define-the-characteristics-of-your-variable) to Number
+Be sure to set the [Type of Item](../library/logic/create-variable.md#define-the-characteristics-of-your-variable) to Number
 {% endhint %}
 
 ![Create Variable called Number and set to 2](../.gitbook/assets/screenshot-2019-07-17-11.17.36.png)
