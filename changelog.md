@@ -4,6 +4,16 @@ description: Updates and improvements to the WayScript platform.
 
 # What's new?
 
+## January 15th, 2020
+
+* We have updated the [Create Variable](library/logic/create-variable.md) module so that you can now declare variables using "Pythonic" syntax and create multiple variables of different types in the same step. For a tutorial on creating variables in WayScript, see the ["Variables" section of Getting Started](getting_started/variables.md).
+
+![An example of creating multiple variables of different types using the Create Variable module.](.gitbook/assets/screen-shot-2020-01-15-at-1.55.49-pm.png)
+
+* You can now [Update a Row](library/modules/airtable.md#update-a-row) using the Airtable module. 
+* Stop your [Python](library/modules/python/) and [JavaScript](library/modules/javascript.md) code by pressing the "Stop Running" button during code execution. ![](.gitbook/assets/screen-shot-2020-01-15-at-1.42.31-pm-3.png)  
+* We have received requests for users who want to contribute modules to the platform. [Here is a link](https://github.com/wayscript/wayscript_modules/blob/master/giphy.py) to an example of our Giphy module that you can use as a template. You can submit your modules back to us and we will publish them. This is our first step toward eventually open-sourcing our modules.   We are happy to work with anyone who tries to build a module! Please [reach out on our Discord channel](https://discord.gg/hRkE7PP) with any questions.
+
 ## December 17th, 2019
 
 * We have added the ability to edit your user profile!

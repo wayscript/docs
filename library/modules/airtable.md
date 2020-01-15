@@ -9,6 +9,7 @@ With the Airtable module you can:
 * Read Table Data into WayScript
 * Delete Table Rows
 * Create New Table Rows
+* Update a Row
 
 ## ⚙ Setting Up Your Airtable Account
 
@@ -131,7 +132,7 @@ If you opt to input raw JSON, you will need to select the WayScript variable tha
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-8.13.08-pm.png)
 
-### Update a Row
+### ✏ Update a Row
 
 #### Update Type
 
