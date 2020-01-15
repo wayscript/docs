@@ -12,7 +12,8 @@ description: Updates and improvements to the WayScript platform.
 
 * You can now [Update a Row](library/modules/airtable.md#update-a-row) using the Airtable module. 
 * Stop your [Python](library/modules/python/) and [JavaScript](library/modules/javascript.md) code by pressing the "Stop Running" button during code execution. ![](.gitbook/assets/screen-shot-2020-01-15-at-1.42.31-pm-3.png)  
-* We have received requests for users who want to contribute modules to the platform. [Here is a link](https://github.com/wayscript/wayscript_modules/blob/master/giphy.py) to an example of our Giphy module that you can use as a template. You can submit your modules back to us and we will publish them. This is our first step toward eventually open-sourcing our modules.   We are happy to work with anyone who tries to build a module! Please [reach out on our Discord channel](https://discord.gg/hRkE7PP) with any questions.
+* We have received requests for users who want to contribute modules to the platform. [Here is a link](https://github.com/wayscript/wayscript_modules/blob/master/giphy.py) to an example of our Giphy module that you can use as a template. You can submit your modules back to us and we will publish them. This is our first step toward eventually open-sourcing our modules.   We are happy to work with anyone who tries to build a module! Please [reach out on our Discord channel](https://discord.gg/hRkE7PP) with any questions. 
+* The [WayScript Marketplace](https://wayscript.com/marketplace) has been refreshed with a new look and feel!
 
 ## December 17th, 2019
 
