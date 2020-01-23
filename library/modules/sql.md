@@ -30,7 +30,7 @@ You must supply the following information in order to connect to your database:
 
 ![](../../.gitbook/assets/settings.png)
 
-## ✏ **Compose Your SQL Query**
+## \*\*\*\*✏ **Compose Your SQL Query**
 
 Compose your SQL query in the "Query" input box.
 
@@ -38,7 +38,7 @@ You can run your query by clicking the ****![](../../.gitbook/assets/play_button
 
 ![An example SELECT statement.](../../.gitbook/assets/sql_query.png)
 
-## 📤 **Outputs**
+## \*\*\*\*📤 **Outputs**
 
 Any data returned by your SQL query will be displayed as a table in the "Outputs" section.
 
@@ -52,7 +52,7 @@ If your SQL server has a firewall enabled, please add the IP addresses listed in
 
 {% page-ref page="../../other-information/ip-addresses.md" %}
 
-## 🎓 **Tutorial**
+## \*\*\*\*🎓 **Tutorial**
 
 {% embed url="https://www.youtube.com/watch?time\_continue=8&v=1FUUTjJl1N8" %}
 

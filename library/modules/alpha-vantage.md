@@ -141,19 +141,19 @@ Crypto_Data = {
 
 ## Simple Moving Average \(SMA\)
 
-### ⚙ **Settings**
+### \*\*\*\*⚙ **Settings**
 
 * **Time Interval Between Data Points -** Time interval between two consecutive data points in the time series.
 * **Time Series Period** - Number of data points used to calculate each SMA value. Positive integers are accepted. \(e.g. Time Period = 60, Time Period = 200\)
 * **Series Type** - The desired price type in the time series. Four types are supported: Close, Open, High, Low.
 
-### 📥 **Inputs**
+### \*\*\*\*📥 **Inputs**
 
 Enter the name of the equity of your choice.
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-8.44.51-pm.png)
 
-### 📤 **Outputs**
+### \*\*\*\*📤 **Outputs**
 
 ```graphql
 Stock_Indicator = {
@@ -178,19 +178,19 @@ Stock_Indicator = {
 
 ## Exponential Moving Average \(EMA\)
 
-### ⚙ **Settings**
+### \*\*\*\*⚙ **Settings**
 
 * **Time Interval Between Data Points -** Time interval between two consecutive data points in the time series.
 * **Time Series Period** - Number of data points used to calculate each EMA value. Positive integers are accepted. \(e.g. Time Period = 60, Time Period = 200\)
 * **Series Type** - The desired price type in the time series. Four types are supported: Close, Open, High, Low.
 
-### 📥 **Inputs**
+### \*\*\*\*📥 **Inputs**
 
 Enter the name of the equity of your choice.
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-8.44.51-pm.png)
 
-### 📤 **Outputs**
+### \*\*\*\*📤 **Outputs**
 
 ```graphql
 Stock_Indicator = {
@@ -219,7 +219,7 @@ Stock_Indicator = {
 
 For more information, see [How to use moving-average convergence divergence \(MACD\)](https://blog.liquid.com/cryptocurrency-technical-analysis-moving-average-convergence-divergence-macd).
 
-### ⚙ **Settings**
+### \*\*\*\*⚙ **Settings**
 
 * **Time Interval Between Data Points -** Time interval between two consecutive data points in the time series.
 * **Series Type** - The desired price type in the time series. Four types are supported: Close, Open, High, Low.
@@ -232,7 +232,7 @@ For more information, see [How to use moving-average convergence divergence \(MA
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-8.56.56-pm.png)
 
-### 📥 **Inputs**
+### \*\*\*\*📥 **Inputs**
 
 Enter the name of the equity of your choice.
 
@@ -267,7 +267,7 @@ MACD = {
 
 For more information, see [Stochastic oscillator](https://en.wikipedia.org/wiki/Stochastic_oscillator).
 
-### ⚙ **Settings**
+### \*\*\*\*⚙ **Settings**
 
 * **Time Interval Between Data Points -** Time interval between two consecutive data points in the time series.
 
@@ -299,7 +299,7 @@ For more information, see [Stochastic oscillator](https://en.wikipedia.org/wiki/
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-8.59.29-pm.png)
 
-### 📥 **Inputs**
+### \*\*\*\*📥 **Inputs**
 
 Enter the name of the equity of your choice.
 
@@ -332,7 +332,7 @@ STOCH = {
 
 ## Relative Strength Index \(RSI\)
 
-### ⚙ **Settings**
+### \*\*\*\*⚙ **Settings**
 
 * **Time Interval Between Data Points -** Time interval between two consecutive data points in the time series.
 * **Time Series Period** - Number of data points used to calculate each RSI value. Positive integers are accepted. \(e.g. Time Period = 60, Time Period = 200\)
@@ -341,7 +341,7 @@ STOCH = {
   * Most Recent \(Only the latest RSI\)
   * All
 
-### 📥 **Inputs**
+### \*\*\*\*📥 **Inputs**
 
 Enter the name of the equity of your choice.
 
@@ -372,12 +372,12 @@ Stock_Indicator = {
 
 ## Average Directional Movement Index \(ADX\)
 
-### ⚙ **Settings**
+### \*\*\*\*⚙ **Settings**
 
 * **Time Interval Between Data Points -** Time interval between two consecutive data points in the time series.
 * **Time Series Period** - Number of data points used to calculate each ADX value. Positive integers are accepted. \(e.g. Time Period = 60, Time Period = 200\)
 
-### 📥 **Inputs**
+### \*\*\*\*📥 **Inputs**
 
 Enter the name of the equity of your choice.
 
@@ -408,12 +408,12 @@ Stock_Indicator = {
 
 ## Commodity Channel Index \(CCI\)
 
-### ⚙ **Settings**
+### \*\*\*\*⚙ **Settings**
 
 * **Time Interval Between Data Points -** Time interval between two consecutive data points in the time series.
 * **Time Series Period** - Number of data points used to calculate each CCI value. Positive integers are accepted. \(e.g. Time Period = 60, Time Period = 200\)
 
-### 📥 **Inputs**
+### \*\*\*\*📥 **Inputs**
 
 Enter the name of the equity of your choice.
 
@@ -446,12 +446,12 @@ Stock_Indicator = {
 
 For more information, see [Aroon](https://school.stockcharts.com/doku.php?id=technical_indicators:aroon).
 
-### ⚙ **Settings**
+### \*\*\*\*⚙ **Settings**
 
 * **Time Interval Between Data Points -** Time interval between two consecutive data points in the time series.
 * **Time Series Period** - Number of data points used to calculate each Aroon value. Positive integers are accepted. \(e.g. Time Period = 60, Time Period = 200\)
 
-### 📥 **Inputs**
+### \*\*\*\*📥 **Inputs**
 
 Enter the name of the equity of your choice.
 
@@ -485,7 +485,7 @@ Aroon = {
 
 For more information, see [Bollinger Bands](https://www.bollingerbands.com/bollinger-bands).
 
-### ⚙ **Settings**
+### \*\*\*\*⚙ **Settings**
 
 * **Time Interval Between Data Points -** Time interval between two consecutive data points in the time series.
 * **Time Series Period** - Number of data points used to calculate each band value. Positive integers are accepted. \(e.g. Time Period = 60, Time Period = 200\)
@@ -506,7 +506,7 @@ For more information, see [Bollinger Bands](https://www.bollingerbands.com/bolli
   * Kaufman Adaptive Moving Average \(KAMA\)
   * MESA Adaptive Moving Average \(MAMA\)
 
-### 📥 **Inputs**
+### \*\*\*\*📥 **Inputs**
 
 Enter the name of the equity of your choice.
 
@@ -542,11 +542,11 @@ Bbands = {
 
 ## Chaikin A/D Line \(AD\)
 
-### ⚙ **Settings**
+### \*\*\*\*⚙ **Settings**
 
 * **Time Interval Between Data Points -** Time interval between two consecutive data points in the time series.
 
-### 📥 **Inputs**
+### \*\*\*\*📥 **Inputs**
 
 Enter the name of the equity of your choice.
 
@@ -577,11 +577,11 @@ Stock_Indicator = {
 
 ## On Balance Volume \(OBV\)
 
-### ⚙ **Settings**
+### \*\*\*\*⚙ **Settings**
 
 * **Time Interval Between Data Points -** Time interval between two consecutive data points in the time series.
 
-### 📥 **Inputs**
+### \*\*\*\*📥 **Inputs**
 
 Enter the name of the equity of your choice.
 

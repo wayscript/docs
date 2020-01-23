@@ -10,7 +10,7 @@ To access the Function Definition settings, click on the name of the function.
 
 ![Click the name of the function to access settings](../../../.gitbook/assets/function_name.png)
 
-### ✏ **Give your Function a Name \(Optional\)**
+### \*\*\*\*✏ **Give your Function a Name \(Optional\)**
 
 You can optionally give your function a name using the "Function Name" field. If you choose not to, a default name will be provided for you.
 

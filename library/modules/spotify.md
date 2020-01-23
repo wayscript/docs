@@ -8,7 +8,7 @@
 
 * **Options -** Lookup Artist
 
-### 👩🎤 **Lookup Artist By**
+### \*\*\*\*👩🎤 **Lookup Artist By**
 
 * **Options -** Artist Name, Spotify ID, Spotify URI
 * **Warning -** Looking up artist by 'Artist Name' will return top search result, correct result is not guaranteed. For full results, use the JSON Output

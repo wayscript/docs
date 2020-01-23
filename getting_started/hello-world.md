@@ -26,7 +26,7 @@ Enter **'Hello World!'** as the input to the [Print to Log](../library/logic/pri
 
 ![Press &apos;Run Main&apos; on your Flow Diagram, and your program runs.](../.gitbook/assets/screenshot-2019-07-15-12.05.30.png)
 
-🎉 **Congratulations** on running your first WayScript program!
+\*\*\*\*🎉 **Congratulations** on running your first WayScript program!
 
 ## 📖 What's Next?
 

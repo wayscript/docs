@@ -8,7 +8,7 @@ The function dropdown will contain the available functions to call in your progr
 
 ![Select a function to call](../../../.gitbook/assets/screen-shot-2019-07-16-at-12.54.08-pm.png)
 
-## ⚙ **Choose Your Inputs and Outputs**
+## \*\*\*\*⚙ **Choose Your Inputs and Outputs**
 
 Once you select a function to call, the inputs and outputs for that function will populate in the settings panel. Select your inputs and outputs as you would for any module.
 

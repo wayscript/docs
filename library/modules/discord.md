@@ -6,15 +6,15 @@
 To run your script when Discord events occur, use the [Discord Trigger](../triggers/discord-trigger.md).
 {% endhint %}
 
-## ⚙ **Setup**
+## \*\*\*\*⚙ **Setup**
 
-### 🔎 **Select a Discord Guild/Server**
+### \*\*\*\*🔎 **Select a Discord Guild/Server**
 
 Select the Discord Guild/Server you would like to work with.
 
 ![](../../.gitbook/assets/img1.png)
 
-### \#⃣ **Choose a Channel**
+### \*\*\*\*\#⃣ **Choose a Channel**
 
 Choose a Discord channel to work with.
 
@@ -24,9 +24,9 @@ If you have recently added a channel and do not see it, click the refresh button
 
 ![](../../.gitbook/assets/img2%20%284%29.png)
 
-## 🤖 **Modes**
+## \*\*\*\*🤖 **Modes**
 
-### ✏ **Write to a Channel**
+### \*\*\*\*✏ **Write to a Channel**
 
 Enter the message you want to send. You can also specify a name that the bot should use and an image URL for the bot to use as its icon.
 

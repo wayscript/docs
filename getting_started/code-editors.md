@@ -10,25 +10,33 @@ The ability to include code steps in your script allows power-users ultimate fle
 Learn how to [build a website with WayScript.](https://www.youtube.com/watch?v=OrZMjdVhFfA&feature=youtu.be)
 {% endhint %}
 
+## ✒ Editing Code
+
+In a module with a code editor, click the "Edit Code" button to open the full-screen editor.
+
+![The &quot;Edit Code&quot; button appears when you hover over a code box.](../.gitbook/assets/screen-shot-2020-01-23-at-3.11.14-pm.png)
+
+![Once opened, you will see your module settings, a File Browser, and a window for editing your code.](../.gitbook/assets/screen-shot-2020-01-23-at-3.12.41-pm.png)
+
 ## ![](../.gitbook/assets/create_var.png) Using Variables
 
 Just like most inputs in WayScript, code editors allow you to drag [variables](variables.md) directly into your code. 
 
-![](../.gitbook/assets/screen-shot-2019-08-30-at-12.50.56-pm.png)
+![](../.gitbook/assets/screen-shot-2020-01-23-at-3.05.47-pm.png)
 
 ## 🗄 Files
 
-Each code editor, has its own 'local' file, and shares any "global" files throughout your script with any other steps of the same type.
+Each code editor, has its own local file, called "scratch," and shares any global files throughout your script with any other steps of the same type.
 
 ### 📂 Accessing Files
 
-To work with files, click the chevron in the top-left corner of the code editor. You can add new global files for easy access throughout your script.
+To work with files, open the "File Browser". You can add new global files for easy access throughout your script. You also use the File Browser to select the file that you would like this module to run.
 
-![](../.gitbook/assets/screen-shot-2019-08-30-at-12.59.21-pm.png)
+![The File Browser allows you to create new files, switch between files, or edit the name of an existing file.](../.gitbook/assets/screen-shot-2020-01-23-at-3.16.32-pm.png)
 
-## 📺 Full Screen Mode
-
-For a better coding experience click the arrows at the top-right of your editor to enter full-screen mode, or use the **+** and **-** buttons to adjust the font size.
+{% hint style="info" %}
+When a step is triggered, or when you press the "Run Code" button, the active file in the editor, indicated by the green dot, will be the one that runs.
+{% endhint %}
 
 ## 👩💻 Code Modules
 

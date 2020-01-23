@@ -2,7 +2,7 @@
 
 ![Print the contents of a variable to the log.](../../.gitbook/assets/print_to_log.png)
 
-## 📥 **Inputs**
+## \*\*\*\*📥 **Inputs**
 
 Enter text into the "Content to Print" field. The text entered will display in the log when the program runs.
 

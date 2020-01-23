@@ -2,7 +2,7 @@
 
 ![Perform common programming operations on text.](../../.gitbook/assets/string_actions.png)
 
-## 📏 **Get Text Length**
+## \*\*\*\*📏 **Get Text Length**
 
 Outputs the number of characters in your text.
 
@@ -31,15 +31,15 @@ After this, text will now have a value of 'Hello From WayScript'
 
 ![After Append](../../.gitbook/assets/text_append_after.png)
 
-## \#⃣ **Get Number of Times A Word Occurs**
+## \*\*\*\*\#⃣ **Get Number of Times A Word Occurs**
 
 Outputs the number of times the word you're looking for occurs in your text.
 
-## 🔢 **Get Number of Words in Text**
+## \*\*\*\*🔢 **Get Number of Words in Text**
 
 Outputs the number of words in your text.
 
-## ✂ **Get a Substring**
+## \*\*\*\*✂ **Get a Substring**
 
 Outputs a new text variable containing the characters from the starting index up to the ending index of your text.
 
@@ -53,15 +53,15 @@ Substring = is a
 WayScript indexes are 0-based, meaning that the first character in a string has an index of 0.
 {% endhint %}
 
-## 🔡 **Make Text all Lowercase**
+## \*\*\*\*🔡 **Make Text all Lowercase**
 
 Outputs a copy of your text with all the characters converted to lowercase.
 
-## 🔠 **Make Text all Uppercase**
+## \*\*\*\*🔠 **Make Text all Uppercase**
 
 Outputs a copy of your text with all the characters converted to uppercase.
 
-## 📃 **Split Text Into a List**
+## \*\*\*\*📃 **Split Text Into a List**
 
 Outputs a list of text objects after splitting your text up by the given "Split Text On" string.
 
@@ -79,15 +79,15 @@ List = \[ 'This', 'is', 'a', 'sentence!' \]
 Join Text On = " " \(space\)  
 Output text = This is a sentence!
 
-## ➕ **Combine Text**
+## \*\*\*\*➕ **Combine Text**
 
 Outputs a copy of your text with the given new text appended to it.
 
-## 🔎 **Replace Text**
+## \*\*\*\*🔎 **Replace Text**
 
 Finds all instances of the given string you're looking for in your text, and outputs a copy of your text in which all instances of the given string have been replaced with the specified replacement text.
 
-## ⬆ **Capitalize First Letter in Every Word**
+## \*\*\*\*⬆ **Capitalize First Letter in Every Word**
 
 Outputs a copy of your text in which the first letter in all the words are converted to uppercase.
 
