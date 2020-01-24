@@ -32,11 +32,9 @@ You must supply the following information in order to connect to your database:
 
 ## \*\*\*\*✏ **Compose Your SQL Query**
 
-Compose your SQL query in the "Query" input box.
+Compose your SQL query using the Code Editor.
 
-You can run your query by clicking the ****![](../../.gitbook/assets/play_button.png) \("play"\) button on the code box, or by running your program.
-
-![An example SELECT statement.](../../.gitbook/assets/sql_query.png)
+You can run your query by clicking the "Run Code" button, or by running your program.
 
 ## \*\*\*\*📤 **Outputs**
 
@@ -44,7 +42,7 @@ Any data returned by your SQL query will be displayed as a table in the "Outputs
 
 To use output data elsewhere in your program, assign a name to each column of data you want to use. The column will then appear as a list variable in your "Variables" panel.
 
-![](../../.gitbook/assets/sql_outputs.png)
+![](../../.gitbook/assets/screen-shot-2020-01-23-at-6.32.07-pm.png)
 
 ## IP Address Whitelisting
 

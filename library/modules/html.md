@@ -16,7 +16,7 @@ You can write your HTML directly, as well as include variables.
 
 HTML steps are pre-loaded with all of the tags that you need to get started building a website.
 
-![](../../.gitbook/assets/screen-shot-2019-08-30-at-1.31.42-pm.png)
+![Drag variables from other modules into your HTML.](../../.gitbook/assets/screen-shot-2020-01-23-at-3.05.47-pm.png)
 
 {% hint style="info" %}
 Include [CSS](css.md) and [JavaScript](javascript.md) outputs inline using the provided tags. You can also [import Images](images.md) and reference their URLs in an `<img>` tag.

@@ -12,7 +12,7 @@ description: Updates and improvements to the WayScript platform.
 
 * We have launched a new [Community Marketplace](https://wayscript.com/marketplace), where you can see, sort, and clone copies of other users' public programs! \(All publicly shared programs appear in the community marketplace by default.\)
 
-![Sort users&apos; programs by number of clones, alphabetically, most recent, or number of views, or search for the exact program you&apos;re looking for.](.gitbook/assets/screen-shot-2020-01-23-at-6.02.22-pm.png)
+![Sort users&apos; programs or search for the exact one you&apos;re looking for.](.gitbook/assets/screen-shot-2020-01-23-at-6.02.22-pm.png)
 
 ## January 15th, 2020
 

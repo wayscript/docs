@@ -31,8 +31,6 @@ More abstractly, you reference any variable with the format:
 const my_var = inputs[ "<var_name>" ];
 ```
 
-![](../../.gitbook/assets/screen-shot-2019-08-19-at-1.25.06-pm.png)
-
 ## 📤 Outputs
 
 ### ![](../../.gitbook/assets/javascript_code.png) Return Data from Your JavaScript
@@ -48,8 +46,6 @@ outputs[ "<Var Name>" ] = variable;
 const currentTime = new Date();
 outputs[ "Date" ] = currentTime.toISOString();
 ```
-
-![](../../.gitbook/assets/screen-shot-2019-08-19-at-1.29.40-pm.png)
 
 ### 🖨 Output Raw JavaScript Code
 
@@ -67,11 +63,11 @@ While working on your code, you can press the "Run Code" button inside the modul
 
 ## 📦 Adding Dependencies
 
-If you would like to use an [npm](https://www.npmjs.com/) module in your code, you can declare those dependencies in the "Dependencies" field.
+If you would like to use an [npm](https://www.npmjs.com/) module in your code, you can declare those dependencies in the "Requirements.txt" file.
 
 Declare these dependencies on separate lines, using the format you would for an [npm-install](https://docs.npmjs.com/cli/install) command.
 
-![](../../.gitbook/assets/screen-shot-2019-08-19-at-1.34.56-pm.png)
+![](../../.gitbook/assets/screen-shot-2020-01-23-at-6.21.14-pm.png)
 
 You can then consume these packages in your code:
 
