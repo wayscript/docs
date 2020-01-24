@@ -4,6 +4,16 @@ description: Updates and improvements to the WayScript platform.
 
 # What's new?
 
+## January 23rd, 2020
+
+* We have a new and improved fullscreen code editing experience, where you can add and edit files, edit, and run your code, all in the same place. See [Code Editors](getting_started/code-editors.md) for more details.
+
+![Use your screen real-estate to more easily edit your code.](.gitbook/assets/screen-shot-2020-01-23-at-5.59.45-pm.png)
+
+* We have launched a new [Community Marketplace](https://wayscript.com/marketplace), where you can see, sort, and clone copies of other users' public programs! \(All publicly shared programs appear in the community marketplace by default.\)
+
+![Sort users&apos; programs by number of clones, alphabetically, most recent, or number of views, or search for the exact program you&apos;re looking for.](.gitbook/assets/screen-shot-2020-01-23-at-6.02.22-pm.png)
+
 ## January 15th, 2020
 
 * We have updated the [Create Variable](library/logic/create-variable.md) module so that you can now declare variables using "Pythonic" syntax and create multiple variables of different types in the same step. You can also [edit variable values](library/logic/create-variable.md#updating-the-value-of-a-variable) using the Create Variable module. For a tutorial on creating variables in WayScript, see the ["Variables" section of Getting Started](getting_started/variables.md).
