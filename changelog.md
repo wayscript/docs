@@ -6,9 +6,9 @@ description: Updates and improvements to the WayScript platform.
 
 ## January 23rd, 2020
 
-* We have a new and improved fullscreen code editing experience, where you can add and edit files, edit, and run your code, all in the same place. See [Code Editors](getting_started/code-editors.md) for more details.
+* We have a new and improved fullscreen code editing experience, where you can take advantage of your screen real-estate to more easily add and edit files, run your code, and see output. Refer to [Code Editors](getting_started/code-editors.md) for more details.
 
-![Use your screen real-estate to more easily edit your code.](.gitbook/assets/screen-shot-2020-01-23-at-5.59.45-pm.png)
+![](.gitbook/assets/screen-shot-2020-01-23-at-6.51.52-pm.png)
 
 * We have launched a new [Community Marketplace](https://wayscript.com/marketplace), where you can see, sort, and clone copies of other users' public programs! \(All publicly shared programs appear in the community marketplace by default.\)
 
