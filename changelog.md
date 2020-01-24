@@ -14,6 +14,8 @@ description: Updates and improvements to the WayScript platform.
 
 ![Sort users&apos; programs or search for the exact one you&apos;re looking for.](.gitbook/assets/screen-shot-2020-01-23-at-6.02.22-pm.png)
 
+{% embed url="https://www.youtube.com/watch?v=2ZtXXYCeOTI&feature=youtu.be" %}
+
 ## January 15th, 2020
 
 * We have updated the [Create Variable](library/logic/create-variable.md) module so that you can now declare variables using "Pythonic" syntax and create multiple variables of different types in the same step. You can also [edit variable values](library/logic/create-variable.md#updating-the-value-of-a-variable) using the Create Variable module. For a tutorial on creating variables in WayScript, see the ["Variables" section of Getting Started](getting_started/variables.md).
