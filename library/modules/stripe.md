@@ -8,7 +8,7 @@ Under "Select an API Key," select "Add an Account..."
 
 ![Input your Stripe account name and API Key into the dialog.](../../.gitbook/assets/screen-shot-2020-02-05-at-4.45.27-pm.png)
 
-[Click here](https://stripe.com/docs/keys) for information on Strip API Keys.
+[Click here](https://stripe.com/docs/keys) for information on Stripe API Keys.
 
 ## ⚙ Modes
 
