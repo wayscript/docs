@@ -4,6 +4,12 @@ description: Updates and improvements to the WayScript platform.
 
 # What's new?
 
+## February 5th, 2020
+
+* We have added an [RSS Feed module](library/modules/rss-feed.md) for pulling data from your favorite RSS feed. 
+* We have added a [Stripe module](library/modules/stripe.md) for getting account info from Stripe. 
+* The WayScript blog page is now [WayScript Learn](https://wayscript.com/learn)! We have refreshed the look of the page, added tags, and search functionality. Happy learning!
+
 ## January 23rd, 2020
 
 * We have a new and improved fullscreen code editing experience, where you can take advantage of your screen real-estate to more easily add and edit files, run your code, and see output. Refer to [Code Editors](getting_started/code-editors.md) for more details.
