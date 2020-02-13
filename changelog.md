@@ -4,6 +4,13 @@ description: Updates and improvements to the WayScript platform.
 
 # What's new?
 
+## February 12th, 2020
+
+* You can now easily Undo & Redo changes while editing scripts!
+  * Use the Undo/Redo buttons in the editor ![](.gitbook/assets/screen-shot-2020-02-12-at-8.43.14-pm%20%281%29.png)
+  * On Mac, Undo with `⌘ Command`+`Z` and Redo with `⇧ Shift`+`⌘ Command`+`Z`
+  * On Windows, Undo with `Ctrl`+`Z` and Redo with `Ctrl`+`Y`
+
 ## February 5th, 2020
 
 * We have added an [RSS Feed module](library/modules/rss-feed.md) for pulling data from your favorite RSS feed. 
