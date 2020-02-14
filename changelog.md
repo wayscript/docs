@@ -11,6 +11,8 @@ description: Updates and improvements to the WayScript platform.
   * On Mac, Undo with `⌘ Command`+`Z` and Redo with `⇧ Shift`+`⌘ Command`+`Z`
   * On Windows, Undo with `Ctrl`+`Z` and Redo with `Ctrl`+`Y`
 
+{% embed url="https://www.youtube.com/watch?v=iu-Tp38P4cc" %}
+
 ## February 5th, 2020
 
 * We have added an [RSS Feed module](library/modules/rss-feed.md) for pulling data from your favorite RSS feed. 
