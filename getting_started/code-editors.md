@@ -38,6 +38,10 @@ To work with files, open the "File Browser". You can add new global files for ea
 When a step is triggered, or when you press the "Run Code" button, the active file in the editor, indicated by the green dot, will be the one that runs.
 {% endhint %}
 
+### ↘ Importing Code from Other Files
+
+In the [Python](../library/modules/python/#importing-code-from-other-files) and [JavaScript](../library/modules/javascript.md#importing-code-from-other-files) modules, you can import code from other files. Refer to the documentation for those modules for details.
+
 ## 👩💻 Code Modules
 
 * [CSS](../library/modules/css.md)

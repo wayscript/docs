@@ -56,3 +56,17 @@ Declare these requirements as you would in a [pip Requirements File](https://pip
 For faster code execution, only add requirements that aren't already [pre-installed](libraries.md) in the Python module.
 {% endhint %}
 
+## ↘ Importing Code from Other Files
+
+You can import code from the other Python files in your File Browser. For example, suppose you have a file called `foo.py`, which has a method `bar`.
+
+![](../../../.gitbook/assets/screen-shot-2020-02-18-at-2.06.29-pm.png)
+
+You can import and use the `bar` method in `scratch.py` by using a relative import:
+
+```python
+from .foo import bar
+```
+
+![Example of importing and using the method &quot;bar&quot; from &quot;foo.py&quot;](../../../.gitbook/assets/screen-shot-2020-02-18-at-2.06.44-pm.png)
+

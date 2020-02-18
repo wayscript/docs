@@ -6,7 +6,7 @@ description: >-
 
 # Form Trigger
 
-## Setup
+## ⚙ Setup
 
 ### Title and Description
 
@@ -58,13 +58,13 @@ The Radio element behaves exactly like the [Selector](form-trigger.md#3-selector
 
 You can customize the CSS of your form for your own look and feel. 
 
-## View Form
+## 👁🗨 View Form
 
 In order to view your live form, make sure your trigger is active and then press the **View Form** button.
 
 ![Trigger is On, press View Form](../../.gitbook/assets/screenshot-2020-02-18-11.55.35.png)
 
-## Output
+## 📤 Output
 
 The Form Trigger will output a Struct of the responses to your form. 
 

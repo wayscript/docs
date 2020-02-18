@@ -80,3 +80,17 @@ let programId = 1234;
 wayscript.runProgram( programId );
 ```
 
+## ↘ Importing Code from Other Files
+
+You can import code from the other JavaScript files in your File Browser. For example, suppose you have a file called `foo.js`, which has an exported function `bar`.
+
+![](../../.gitbook/assets/screen-shot-2020-02-18-at-2.11.18-pm.png)
+
+You can import and use the `bar` method in `scratch.js` by using a relative import:
+
+```javascript
+const foo = require('./foo');
+```
+
+![Example of importing and using the function &quot;bar&quot; from &quot;foo.js&quot;](../../.gitbook/assets/screen-shot-2020-02-18-at-2.11.28-pm.png)
+

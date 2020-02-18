@@ -10,7 +10,7 @@ This module requires an active [HTTP Trigger](../triggers/http-trigger.md) or [F
 
 ![Example Dashboard Response interface.](../../.gitbook/assets/screenshot-2020-02-18-12.09.49.png)
 
-## Setup
+## ⚙ Setup
 
 You can add unlimited variables to your dashboard and each item will display as its own dashboard container. In order to add variables, press the **+ Add Response Output** button on the modules settings. You can set custom titles for each variable as well. 
 
