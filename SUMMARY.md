@@ -24,6 +24,7 @@
   * [Alexa Trigger](library/triggers/alexa-trigger.md)
   * [Discord Trigger](library/triggers/discord-trigger.md)
   * [Email Trigger](library/triggers/email-trigger.md)
+  * [Form Trigger](library/triggers/form-trigger.md)
   * [GitHub Trigger](library/triggers/github-trigger.md)
   * [Gmail Trigger](library/triggers/gmail-trigger.md)
   * [Google Assistant Trigger](library/triggers/google-assistant-trigger.md)
