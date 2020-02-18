@@ -50,7 +50,7 @@ Your Grocery List is now a variable that can be used in your program.
 
 With WayScript, you will often be working with Structs. These datatypes are the equivalent of a [Python Dictionary](https://www.w3schools.com/python/python_dictionaries.asp). Structs allow for nesting and can hold other variables. 
 
-![Example of creating a Struct](../.gitbook/assets/screenshot-2020-02-18-12.49.38.png)
+![](../.gitbook/assets/screenshot-2020-02-18-13.04.25.png)
 
 ### Querying Variables in a Struct - Dot Syntax
 
