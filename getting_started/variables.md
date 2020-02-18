@@ -1,11 +1,5 @@
 # Variables
 
-## What is a Variable?
-
-> **"Variables** are used to store information to be referenced and manipulated in a computer program. They also provide a way of labeling data with a descriptive name, so our programs can be understood more clearly by the reader and ourselves. It is helpful to think of variables as containers that hold information. This data can then be used throughout your program."
->
-> -[LaunchSchool](https://launchschool.com/books/ruby/read/variables)
-
 ## ⚙ Create Variable Setup
 
 Drag the [Create Variable](../library/logic/create-variable.md) module into your program flow diagram.
@@ -51,6 +45,62 @@ In this example, we'll create a list with **Variable Name** "Grocery\_List" and 
 ![](../.gitbook/assets/screen-shot-2020-01-15-at-1.15.56-pm.png)
 
 Your Grocery List is now a variable that can be used in your program.
+
+## Structs
+
+With WayScript, you will often be working with Structs. These datatypes are the equivalent of a [Python Dictionary](https://www.w3schools.com/python/python_dictionaries.asp). Structs allow for nesting and can hold other variables. 
+
+![Example of creating a Struct](../.gitbook/assets/screenshot-2020-02-18-12.49.38.png)
+
+### Querying Variables in a Struct - Dot Syntax
+
+In order to access key/values within the Struct, use our **Dot Syntax**.
+
+![Dot Syntax](../.gitbook/assets/screenshot-2020-02-18-12.52.28.png)
+
+You can access values within the struct by using '.' to move to the next level in the struct. 
+
+## Common Variable Types
+
+### String
+
+```python
+x = "This is a string"
+```
+
+### Number / Float
+
+```python
+pi = 3.14
+```
+
+### Boolean
+
+```python
+yes = True
+no  = False 
+```
+
+### Null / None
+
+```python
+x = None
+```
+
+### List
+
+```python
+my_list = [1, 2.5, 3, "string"]
+```
+
+### Struct
+
+```python
+struct = {
+    'a' : 'Text',
+    'b' : [1, 2, 3 ],
+}
+```
 
 ## 💪 Power-User Features
 
