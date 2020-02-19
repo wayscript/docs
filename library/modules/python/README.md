@@ -70,3 +70,7 @@ from .foo import bar
 
 ![Example of importing and using the method &quot;bar&quot; from &quot;foo.py&quot;](../../../.gitbook/assets/screen-shot-2020-02-18-at-2.06.44-pm.png)
 
+## 🎓 Tutorial
+
+{% embed url="https://www.youtube.com/watch?v=qKmv-6CcVvY" %}
+
