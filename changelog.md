@@ -6,7 +6,7 @@ description: Updates and improvements to the WayScript platform.
 
 ## February 19th, 2020
 
-* We have added a [Form Trigger](library/triggers/form-trigger.md), which allows you to build a web form for your script. When the form is submitted, the script is triggered with the form data. You can add [text inputs](library/triggers/form-trigger.md#1-text-input) and [text areas](library/triggers/form-trigger.md#2-text-area), [selectors](library/triggers/form-trigger.md#3-selector), and [radio buttons](library/triggers/form-trigger.md#4-radio-buttons). You can also customize the look and feel of your form with [your own CSS](library/triggers/form-trigger.md#advanced).
+* We have added a [Form Trigger](library/triggers/form-trigger.md), which allows you to build a web form for your script. When the form is submitted, the script is triggered with the form data. You can add [text inputs](library/triggers/form-trigger.md#1-text-input) and [text areas](library/triggers/form-trigger.md#2-text-area), [selectors](library/triggers/form-trigger.md#3-selector), and [radio buttons](library/triggers/form-trigger.md#4-radio-buttons). You can even customize the look and feel of your form with [your own CSS](library/triggers/form-trigger.md#advanced).
 
 ![Example form](.gitbook/assets/screenshot-2020-02-18-11.49.15.png)
 
