@@ -8,9 +8,11 @@
 See [Code Editors](../../getting_started/code-editors.md) for more information on composing code in WayScript.
 {% endhint %}
 
-## ![](../../.gitbook/assets/create_var.png) Inputs
+## ![](../../.gitbook/assets/create_var.png)Working with Variables
 
-WayScript's JS editor lets you reference [Variables](../../getting_started/variables.md) that exist in your program. To do this, you can reference them through the **inputs dictionary**.
+###  📥 Inputs
+
+WayScript's JS editor lets you reference [Variables](../../getting_started/variables.md) that exist in your program. To do this, you can reference them through the **variables dictionary**.
 
 As an example, let's create a variable called "Location" and set a value of "Brooklyn, NY"
 
@@ -19,35 +21,35 @@ As an example, let's create a variable called "Location" and set a value of "Bro
 You can reference the Location variable in your JavaScript with this code:
 
 ```javascript
-location = inputs[ "Location" ];
+location = variables[ "Location" ];
 
 // Or, as a JS object
-location = inputs.Location;
+location = variables.Location;
 ```
 
 More abstractly, you reference any variable with the format:
 
 ```javascript
-const my_var = inputs[ "<var_name>" ];
+const my_var = variables[ "<var_name>" ];
 ```
 
-## 📤 Outputs
+### 📤 Outputs
 
-### ![](../../.gitbook/assets/javascript_code.png) Return Data from Your JavaScript
+#### ![](../../.gitbook/assets/javascript_code.png) Return Data from Your JavaScript
 
 You can also output data from your JS code and turn these into variables that can be used by other [Modules](../../getting_started/modules.md) in your program. 
 
-You can do this with the **outputs dictionary** in the following format:
+You can do this with the **variables dictionary** in the following format:
 
 ```javascript
-outputs[ "<Var Name>" ] = variable;
+variables[ "<Var Name>" ] = variable;
 
 // example
 const currentTime = new Date();
-outputs[ "Date" ] = currentTime.toISOString();
+variables[ "Date" ] = currentTime.toISOString();
 ```
 
-### 🖨 Output Raw JavaScript Code
+#### 🖨 Output Raw JavaScript Code
 
 You can output the raw JavaScript code from the code editor by enabling the "JavaScript Code" output. This is useful when [building a website using WayScript](https://www.youtube.com/watch?reload=9&v=OrZMjdVhFfA&feature=youtu.be) and inserting JavaScript into [HTML](html.md).
 

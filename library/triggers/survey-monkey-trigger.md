@@ -4,7 +4,7 @@ description: Coming soon!
 
 # Survey Monkey Trigger
 
-![Run your program when Survey Monkey events occur.](../../.gitbook/assets/surveymonkey-logo-300x300.png)
+![Run your script when Survey Monkey events occur.](../../.gitbook/assets/surveymonkey-logo-300x300.png)
 
 ## Settings
 

@@ -6,9 +6,11 @@
 See [Code Editors](../../../getting_started/code-editors.md) for more information on composing code in WayScript.
 {% endhint %}
 
-## ![](../../../.gitbook/assets/create_var.png) Inputs
+## ![](../../../.gitbook/assets/create_var.png)Working with Variables
 
-WayScript's python editor lets you reference [Variables](../../../getting_started/variables.md) that exist in your program. To do this, you can reference them through the **inputs dictionary**.
+###  📥 Inputs
+
+WayScript's python editor lets you reference [Variables](../../../getting_started/variables.md) that exist in your program. To do this, you can reference them through the **variables dictionary**.
 
 As an example, let's create a variable called "Location" and set a value of "Brooklyn, NY"
 
@@ -17,27 +19,27 @@ As an example, let's create a variable called "Location" and set a value of "Bro
 You can reference the Location variable in your python script with this code:
 
 ```python
-location = inputs[ "Location" ]
+location = variables[ "Location" ]
 ```
 
 More abstractly, you reference any variable with the format:
 
 ```python
-var = inputs[ "<var_name>" ] 
+var = variables[ "<var_name>" ] 
 ```
 
-## ![](../../../.gitbook/assets/python.png) Outputs
+### 📤 Outputs
 
 You can also output data from your python scripts and turn these into variables that can be used by other [Modules](../../../getting_started/modules.md) in your program. 
 
-You can do this with the **outputs dictionary** in the following format:
+You can do this with the **variables dictionary** in the following format:
 
 ```python
-outputs[ "<Var Name>" ] = variable
+variables[ "<Var Name>" ] = variable
 
 # example
 from datetime import datetime
-outputs[ "Date" ] = str( datetime.today() )
+variables[ "Date" ] = str( datetime.today() )
 ```
 
 ## ▶ Running Python

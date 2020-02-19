@@ -1,6 +1,6 @@
 # Discord Trigger
 
-![Run your program when Discord events occur.](../../.gitbook/assets/discord.png)
+![Run your script when Discord events occur.](../../.gitbook/assets/discord.png)
 
 {% hint style="info" %}
 To interact with discord channels using the WayScript bot, use the [Discord module](../modules/discord.md).

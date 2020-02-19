@@ -1,8 +1,6 @@
----
-description: Render script variables to a beautiful dashboard interface.
----
-
 # Dashboard Response
+
+![Render script variables to a beautiful dashboard interface.](../../.gitbook/assets/screen-shot-2020-02-19-at-10.02.49-am.png)
 
 {% hint style="warning" %}
 This module requires an active [HTTP Trigger](../triggers/http-trigger.md) or [Form Trigger](../triggers/form-trigger.md) in order to work. 

@@ -1,6 +1,6 @@
 # Time Trigger
 
-![Run your program periodically.](../../.gitbook/assets/cron.png)
+![Run your script periodically.](../../.gitbook/assets/cron.png)
 
 ## ⚡ Activate the Time Trigger
 

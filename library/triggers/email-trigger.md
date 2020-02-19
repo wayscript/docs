@@ -1,6 +1,6 @@
 # Email Trigger
 
-![Run your program by sending an email.](../../.gitbook/assets/email.png)
+![Run your script by sending an email.](../../.gitbook/assets/email.png)
 
 ## 📥 New Variable Inputs
 

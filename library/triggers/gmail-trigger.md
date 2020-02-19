@@ -1,6 +1,6 @@
 # Gmail Trigger
 
-![Run your program when Gmail messages change.](../../.gitbook/assets/gmail.png)
+![Run your script when Gmail messages change.](../../.gitbook/assets/gmail.png)
 
 {% hint style="info" %}
 To automate actions with Gmail, use the [Gmail module](../modules/gmail.md).

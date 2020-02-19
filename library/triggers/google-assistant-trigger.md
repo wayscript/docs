@@ -1,6 +1,6 @@
 # Google Assistant Trigger
 
-![Run your program using a Google Assistant voice command.](../../.gitbook/assets/google_assistant.png)
+![Run your script using a Google Assistant voice command.](../../.gitbook/assets/google_assistant.png)
 
 {% hint style="info" %}
 To have your Google Assistant speak a phrase, use the [Google Assistant module](../modules/google-assistant.md).‌

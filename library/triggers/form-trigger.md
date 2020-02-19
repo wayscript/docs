@@ -1,10 +1,6 @@
----
-description: >-
-  Build a GUI Form for your script. When the form is submitted, the program is
-  triggered with the form data.
----
-
 # Form Trigger
+
+![Build a GUI form and run your script when the form data is submitted.](../../.gitbook/assets/form.png)
 
 ## ⚙ Setup
 
@@ -48,13 +44,13 @@ The Selector element can be used to give users of the form a set of choices to c
 
 ![Result on the Form](../../.gitbook/assets/screenshot-2020-02-18-11.46.21.png)
 
-**4\) Radio**
+#### **4\) Radio Buttons**
 
 The Radio element behaves exactly like the [Selector](form-trigger.md#3-selector) element above. The form will render the options as radio buttons. 
 
 ![Radio button example](../../.gitbook/assets/screenshot-2020-02-18-11.49.15.png)
 
-#### Advanced
+### Advanced
 
 You can customize the CSS of your form for your own look and feel. 
 

@@ -4,6 +4,26 @@ description: Updates and improvements to the WayScript platform.
 
 # What's new?
 
+## February 19th, 2020
+
+* We have added a [Form Trigger](library/triggers/form-trigger.md), which allows you to build a web form for your script. When the form is submitted, the script is triggered with the form data. You can add [text inputs](library/triggers/form-trigger.md#1-text-input) and [text areas](library/triggers/form-trigger.md#2-text-area), [selectors](library/triggers/form-trigger.md#3-selector), and [radio buttons](library/triggers/form-trigger.md#4-radio-buttons). You can also customize the look and feel of your form with [your own CSS](library/triggers/form-trigger.md#advanced).
+
+![Example form](.gitbook/assets/screenshot-2020-02-18-11.49.15.png)
+
+* We have added a new [Dashboard Response](library/modules/dashboard-response.md) module, which will render script variables to a beautiful dashboard interface. You can use this response in conjunction with the [Form Trigger](library/triggers/form-trigger.md), as well as the [HTTP Trigger](library/triggers/http-trigger.md).
+
+![Example dashboard response](.gitbook/assets/screenshot-2020-02-18-12.09.49.png)
+
+* In the [Python](library/modules/python/#working-with-variables) and [JavaScript](library/modules/javascript.md#working-with-variables) modules, we have made working with variables easier by adding a "variables" dictionary. This dictionary can be used to reference variables from your script in your Python and JavaScript code, as well as output new variables into your script. \(The "variables" dictionary replaces the old "inputs" and "outputs" dictionaries, although these legacy dictionaries are still available, so your existing scripts won't break.\)
+
+```python
+# Read in variables created previously in your script
+x = variables[ 'An_Existing_Variable' ]
+
+# Create new variables for use later in your script
+variables[ 'First_Output' ] = 'Testing'
+```
+
 ## February 12th, 2020
 
 * You can now easily Undo & Redo changes while editing scripts!
