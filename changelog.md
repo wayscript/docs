@@ -24,6 +24,8 @@ x = variables[ 'An_Existing_Variable' ]
 variables[ 'First_Output' ] = 'Testing'
 ```
 
+{% embed url="https://www.youtube.com/watch?v=9533vbhTEas" %}
+
 ## February 12th, 2020
 
 * You can now easily Undo & Redo changes while editing scripts!
