@@ -2,6 +2,9 @@
 
 If your use-case requires you to whitelist WayScript's IP addresses, please add the following IPv4 addresses to your firewall exceptions:
 
+* 13.52.155.32
+* 13.56.111.7
+* 18.144.98.189
 * 34.196.12.141
 * 34.198.100.106
 * 34.200.135.229
@@ -22,6 +25,6 @@ If your use-case requires you to whitelist WayScript's IP addresses, please add 
 * 52.3.166.208
 * 52.70.130.114
 * 52.70.133.90
-
-
+* 54.153.66.108
+* 54.176.141.236
 
