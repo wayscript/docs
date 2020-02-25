@@ -72,7 +72,7 @@ from .foo import bar
 
 ![Example of importing and using the method &quot;bar&quot; from &quot;foo.py&quot;](../../../.gitbook/assets/screen-shot-2020-02-18-at-2.06.44-pm.png)
 
-## Using Selenium
+## ![](../../../.gitbook/assets/selenium_logo_square_green.png) Using Selenium
 
 [Click here](libraries.md#using-selenium) for information on using the Chrome headless browser with Selenium in the Python module.
 
