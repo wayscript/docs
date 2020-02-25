@@ -75,7 +75,7 @@ All available modules are documented in the sub-articles in this section:
 * [Slack](slack.md)
 * [SMTP Email](smtp-email.md)
 * [Spotify](spotify.md)
-* [SQL](sql.md)
+* [SQL](sql/)
 * [Text Message](text-message.md)
 * [Trello](trello.md)
 * [Twilio](twilio.md)
