@@ -10,7 +10,7 @@ description: WayScript is running Python 3.7
 If you need a Python library that isn't currently available, you can declare additional requirements in the "Requirements.txt" file of the Python module. \(See [Adding Additional Requirements](./#adding-additional-requirements).\)
 {% endhint %}
 
-## Using [Selenium](https://selenium-python.readthedocs.io)
+### Using [Selenium](https://selenium-python.readthedocs.io)
 
 The [Python module](./) includes the [Chrome headless browser](https://developers.google.com/web/updates/2017/04/headless-chrome), which you can interact with using _selenium_. Here is some sample code to do this:
 
@@ -32,11 +32,6 @@ print(ps)
 
 browser.close()
 ```
-
-{% hint style="warning" %}
-Be sure to add the `--headless` and `--no-sandbox` options!`option.add_argument('--headless')  
-option.add_argument('--no-sandbox')`
-{% endhint %}
 
 ## ![](../../../.gitbook/assets/python_128x128.png) Available Python Libraries
 
