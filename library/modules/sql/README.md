@@ -52,7 +52,7 @@ If your SQL server has a firewall enabled, please add the IP addresses listed in
 
 ## Connecting to SQL Azure
 
-For information on connecting to SQL Azure, refer to the article below: 
+For information on connecting to SQL Azure, refer to the article below:
 
 {% page-ref page="connecting-to-sql-azure.md" %}
 

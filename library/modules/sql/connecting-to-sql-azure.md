@@ -34,7 +34,7 @@ Make sure _all_ connection info matches, including the port!
 
 ![](../../../.gitbook/assets/screen-shot-2020-02-24-at-10.09.04-pm.png)
 
-    2. Add all of the IP Addresses described in the page below to your database firewall settings 
+    2. Add all of the IP Addresses described in the page below to your database firewall settings
 
 {% page-ref page="../../../other-information/ip-addresses.md" %}
 
