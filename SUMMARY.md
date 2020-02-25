@@ -109,7 +109,7 @@
   * [Slack](library/modules/slack.md)
   * [SMTP Email](library/modules/smtp-email.md)
   * [Spotify](library/modules/spotify.md)
-  * [SQL](library/modules/sql.md)
+  * [SQL](library/modules/sql/README.md)
     * [Connecting to SQL Azure](library/modules/sql/connecting-to-sql-azure.md)
   * [Stripe](library/modules/stripe.md)
   * [Text Message](library/modules/text-message.md)

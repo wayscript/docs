@@ -1,9 +1,9 @@
 # SQL
 
-![Run queries against a SQL database.](../../.gitbook/assets/sql.png)
+![Run queries against a SQL database.](../../../.gitbook/assets/sql.png)
 
 {% hint style="info" %}
-See [Code Editors](../../getting_started/code-editors.md) for more information on composing code in WayScript.
+See [Code Editors](../../../getting_started/code-editors.md) for more information on composing code in WayScript.
 {% endhint %}
 
 ## ⚙ Setup
@@ -14,7 +14,7 @@ Select "Add an Account" to add a new database, or select a database you have alr
 
 The SQL module supports connections to **MySQL**, **SQL Server**, and **PostgreSQL** database instances.
 
-![Select a Database or Add An Account](../../.gitbook/assets/add_account.png)
+![Select a Database or Add An Account](../../../.gitbook/assets/add_account.png)
 
 ### 🌟 Setting Up a New Database
 
@@ -28,7 +28,7 @@ You must supply the following information in order to connect to your database:
 * **User**: The username to use to connect to the database.
 * **Password**: The corresponding password for the specified user.
 
-![](../../.gitbook/assets/settings.png)
+![](../../../.gitbook/assets/settings.png)
 
 ## \*\*\*\*✏ **Compose Your SQL Query**
 
@@ -42,13 +42,19 @@ Any data returned by your SQL query will be displayed as a table in the "Outputs
 
 To use output data elsewhere in your program, assign a name to each column of data you want to use. The column will then appear as a list variable in your "Variables" panel.
 
-![](../../.gitbook/assets/screen-shot-2020-01-23-at-6.32.07-pm.png)
+![](../../../.gitbook/assets/screen-shot-2020-01-23-at-6.32.07-pm.png)
 
 ## IP Address Whitelisting
 
 If your SQL server has a firewall enabled, please add the IP addresses listed in the link below to your firewall exceptions:
 
-{% page-ref page="../../other-information/ip-addresses.md" %}
+{% page-ref page="../../../other-information/ip-addresses.md" %}
+
+## Connecting to SQL Azure
+
+For information on connecting to SQL Azure, refer to the article below: 
+
+{% page-ref page="connecting-to-sql-azure.md" %}
 
 ## \*\*\*\*🎓 **Tutorial**
 
