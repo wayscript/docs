@@ -33,6 +33,11 @@ print(ps)
 browser.close()
 ```
 
+{% hint style="warning" %}
+Be sure to add the `--headless` and `--no-sandbox` options!`option.add_argument('--headless')  
+option.add_argument('--no-sandbox')`
+{% endhint %}
+
 ## ![](../../../.gitbook/assets/python_128x128.png) Available Python Libraries
 
 * [aiodns](https://github.com/saghul/aiodns)
