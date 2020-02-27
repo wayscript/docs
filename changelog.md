@@ -6,7 +6,7 @@ description: Updates and improvements to the WayScript platform.
 
 ## February 27th, 2020
 
-* You can now import code from other Python and JavaScript files in your programs. See the [Python](library/modules/python/#importing-code-from-other-files) and [JavaScript](library/modules/javascript.md#importing-code-from-other-files) module docs for more information on how to do this.
+* You can now import and reference code from other Python and JavaScript files in your scripts. \(See the [Python](library/modules/python/#importing-code-from-other-files) and [JavaScript](library/modules/javascript.md#importing-code-from-other-files) module docs for more information on how to do this.\)
 
 ![Example of importing the function &quot;bar&quot; from &quot;foo.py&quot;](.gitbook/assets/screen-shot-2020-02-18-at-2.06.44-pm.png)
 
