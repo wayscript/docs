@@ -4,6 +4,15 @@ description: Updates and improvements to the WayScript platform.
 
 # What's new?
 
+## February 27th, 2020
+
+* You can now import code from other Python and JavaScript files in your programs. See the [Python](library/modules/python/#importing-code-from-other-files) and [JavaScript](library/modules/javascript.md#importing-code-from-other-files) module docs for more information on how to do this.
+
+![Example of importing the function &quot;bar&quot; from &quot;foo.py&quot;](.gitbook/assets/screen-shot-2020-02-18-at-2.06.44-pm.png)
+
+* We have two new modules for reading and writing [.JSON](library/modules/json.md) and [.TXT ](library/modules/txt-file.md)files. 
+* We have revamped the [Account Settings page](https://wayscript.com/settings). For details on managing your account, check out the [Account Management](account-management/update-name-email-username.md) section of the docs.
+
 ## February 19th, 2020
 
 * We have added a [Form Trigger](library/triggers/form-trigger.md), which allows you to build a web form for your script. When the form is submitted, the script is triggered with the form data. You can add [text inputs](library/triggers/form-trigger.md#1-text-input) and [text areas](library/triggers/form-trigger.md#2-text-area), [selectors](library/triggers/form-trigger.md#3-selector), and [radio buttons](library/triggers/form-trigger.md#4-radio-buttons). You can even customize the look and feel of your form with [your own CSS](library/triggers/form-trigger.md#advanced).

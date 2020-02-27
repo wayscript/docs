@@ -86,6 +86,7 @@
   * [Hunter.io](library/modules/hunter.io.md)
   * [Images](library/modules/images.md)
   * [JavaScript](library/modules/javascript.md)
+  * [JSON](library/modules/json.md)
   * [Mailchimp](library/modules/mailchimp.md)
   * [MapQuest](library/modules/mapquest.md)
   * [Medium](library/modules/medium.md)
@@ -117,6 +118,7 @@
   * [Twilio](library/modules/twilio.md)
   * [Twitch](library/modules/twitch.md)
   * [Twitter](library/modules/twitter.md)
+  * [TXT File](library/modules/txt-file.md)
   * [URL Encoder](library/modules/url-encoder.md)
   * [Verify Emails](library/modules/verify-emails.md)
   * [Watson](library/modules/watson.md)
@@ -137,13 +139,13 @@
 
 ## Account Management
 
+* [Updating Your Name, Email, and Username](account-management/update-name-email-username.md)
+* [Changing Your Password](account-management/change-password.md)
 * [Managing Your API Key](account-management/managing-your-api-key.md)
 * [Managing Your Files](account-management/managing-your-files.md)
 * [Managing Your Linked Accounts](account-management/managing-linked-accounts.md)
 * [Phone Number Verification](account-management/phone-number-verification.md)
 * [Two-Factor Authentication](account-management/two-factor-authentication.md)
-* [Change Password](account-management/change-password.md)
-* [Update Email](account-management/update-email.md)
 
 ## Other Information
 
