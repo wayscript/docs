@@ -11,7 +11,7 @@ description: Updates and improvements to the WayScript platform.
 ![Example of importing the function &quot;bar&quot; from &quot;foo.py&quot;](.gitbook/assets/screen-shot-2020-02-18-at-2.06.44-pm.png)
 
 * We have two new modules for reading and writing [.JSON](library/modules/json.md) and [.TXT ](library/modules/txt-file.md)files. 
-* We have revamped the [Account Settings page](https://wayscript.com/settings). For details on managing your account, check out the [Account Management](account-management/update-name-email-username.md) section of the docs.
+* We have revamped the [Account Settings page](https://wayscript.com/settings). For details on managing your account, check out the [Account Management](https://docs.wayscript.com/account-management) section of the docs.
 
 ## February 19th, 2020
 
