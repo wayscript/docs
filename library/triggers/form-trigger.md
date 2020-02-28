@@ -50,15 +50,65 @@ The Radio element behaves exactly like the [Selector](form-trigger.md#3-selector
 
 ![Radio button example](../../.gitbook/assets/screenshot-2020-02-18-11.49.15.png)
 
-### Advanced
+### Advanced Inputs
 
-You can customize the CSS of your form for your own look and feel. 
+**CSS** - You can customize the CSS of your form for your own look and feel. 
 
 ## 👁🗨 View Form
 
 In order to view your live form, make sure your trigger is active and then press the **View Form** button.
 
 ![Trigger is On, press View Form](../../.gitbook/assets/screenshot-2020-02-18-11.55.35.png)
+
+## ⚙ Advanced Settings
+
+### 🔗 Endpoints
+
+When setting up the Form Trigger, you can create as many named endpoints as you like. If you don't provide a name for your endpoint, the trigger will match the root URL. All endpoint names must be unique throughout your script to prevent ambiguity.
+
+![](../../.gitbook/assets/screen-shot-2019-11-12-at-7.36.46-pm.png)
+
+To access your endpoints, use the program ID as a subdomain of wayscript.com. For example, in the image above, you can trigger your script by hitting either [https://10834.wayscript.com/](https://10834.wayscript.com/) or [https://10834.wayscript.com/custom\_endpoint](https://10834.wayscript.com/custom_endpoint).
+
+Remember to activate your trigger before using the endpoint!
+
+### 🔐 Password-Protect your Form
+
+If you would like your form to require a login to view, enable the "Password Protection" toggle.
+
+A button to "Manage Login Credentials" will appear.
+
+![](../../.gitbook/assets/screen-shot-2019-11-12-at-7.39.21-pm.png)
+
+Clicking this button will take you to "Login Credentials" section of the "Script Setup" tab, where you can manage the usernames and passwords that will allow people to log in to your endpoints.
+
+![](../../.gitbook/assets/screen-shot-2019-11-12-at-7.40.18-pm.png)
+
+When you click "Add a credential," a new login will be automatically generated for you, including a username and randomly-generated password. You can choose to use these values, or edit them as you see fit.
+
+![](../../.gitbook/assets/screen-shot-2019-11-12-at-7.41.50-pm.png)
+
+When a user goes to access your form for the first time, they will now be prompted to login.
+
+![Form Login Prompt](../../.gitbook/assets/screen-shot-2019-11-12-at-7.50.17-pm%20%281%29.png)
+
+### Basic Authentication
+
+If you password-protect your endpoints, you can use the credentials added above to access your endpoints by including an `Authorization: Basic` header in your request.
+
+This header should follow the standard for [HTTP basic access authentication](https://en.wikipedia.org/wiki/Basic_access_authentication). For example, suppose your Username is "**captain@wayscript.com**" and your Password is "**letmein**," you would create the Authorization header by:
+
+1. Joining the Username and Password into a single string, separated by a semicolon: **`captain@wayscript.com:letmein`**
+2. Encoding that string in Base64: **`Y2FwdGFpbkB3YXlzY3JpcHQuY29tOmxldG1laW4=`**
+3. Passing that encoded string to your custom endpoint by including the `Authorization: Basic Y2FwdGFpbkB3YXlzY3JpcHQuY29tOmxldG1laW4=` header in your request.
+
+These headers are also displayed for you under each password in the "Login Credentials" section of the "Script Setup" tab.
+
+### Authenticating Using Your API Key
+
+If your endpoint is not public, you can also use your [WayScript API Key](../../account-management/managing-your-api-key.md) to access your endpoints api call by including an `Authorization: Bearer` header in your request.
+
+For example, if your WayScript API Key is **`fhAEdGT9EbFDh_migcrukZ1Vb28rLFKqt9AxOiq9bdQ`**, you would include the `Authorization: Bearer fhAEdGT9EbFDh_migcrukZ1Vb28rLFKqt9AxOiq9bdQ` header in your request.
 
 ## 📤 Output
 

@@ -55,7 +55,7 @@ Use the WayScript [Python](https://github.com/wayscript/wayscript-python) and [J
 
 ### 🔗 Endpoints
 
-When setting up the HTTP Trigger, you can create as many named endpoints as you like. If you don't provide a name for your endpoint, the trigger will match the root URL.
+When setting up the HTTP Trigger, you can create as many named endpoints as you like. If you don't provide a name for your endpoint, the trigger will match the root URL. All endpoint names must be unique throughout your script to prevent ambiguity.
 
 ![](../../.gitbook/assets/screen-shot-2019-11-12-at-7.36.46-pm.png)
 
