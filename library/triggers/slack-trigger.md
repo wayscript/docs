@@ -16,8 +16,6 @@ When you drag in a Slack Trigger for the first time, follow the prompt to author
 
 Select a linked workspace, or add a new one.
 
-![](../../.gitbook/assets/screen-shot-2019-07-15-at-2.57.01-pm.png)
-
 ### ⚡ Mode
 
 Choose which event\(s\) will trigger your program
