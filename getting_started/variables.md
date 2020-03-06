@@ -102,6 +102,12 @@ struct = {
 }
 ```
 
+### Chart
+
+The [Chart Module](../library/modules/chart.md) will output a Chart variable. Chart variables can be placed in a [Dashboard Response](../library/modules/dashboard-response.md), [Print to Log](../library/logic/print-to-log.md), and other places you would expect to view output.
+
+![Example Chart variable.](../.gitbook/assets/screen-shot-2020-03-06-at-1.32.20-pm.png)
+
 ## 💪 Power-User Features
 
 If you know some coding, you can more rapidly build a variable from the module shortcut dropdown by entering the definition directly.

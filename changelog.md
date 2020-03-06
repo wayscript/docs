@@ -4,6 +4,17 @@ description: Updates and improvements to the WayScript platform.
 
 # What's new?
 
+## March 6th, 2020
+
+* We have added a new [Chart Module](library/modules/chart.md),  which allows you to create [line](library/modules/chart.md#line-chart) and [pie](library/modules/chart.md#pie-chart) charts.
+  * 📊Bar charts coming soon!
+  * [Chart variables](getting_started/variables.md#chart) can be placed in a [Dashboard Response](library/modules/dashboard-response.md), [Print to Log](library/logic/print-to-log.md) statement, and other places you would expect to see output.
+
+![Example line chart](.gitbook/assets/screen-shot-2020-03-06-at-1.32.20-pm.png)
+
+* We have updated the [Form Trigger](library/triggers/form-trigger.md) to have [customizable endpoints](library/triggers/form-trigger.md#endpoints) and [password protection](library/triggers/form-trigger.md#password-protect-your-form), similar to the [HTTP Trigger](library/triggers/http-trigger.md). 
+* The [Google Sheets](library/modules/google-sheets.md) module has a new [Preserve Header Row](library/modules/google-sheets.md#preserve-header-row) setting for use when you are writing to a spreadsheet with both the "[Replace File](library/modules/google-sheets.md#write-mode)" and "[Include Headers](library/modules/google-sheets.md#include-headers)" options enabled and would like to replace everything EXCEPT the header row on each run of your script.
+
 ## February 27th, 2020
 
 * You can now import and reference code from other Python and JavaScript files in your scripts. \(See the [Python](library/modules/python/#importing-code-from-other-files) and [JavaScript](library/modules/javascript.md#importing-code-from-other-files) module docs for more information on how to do this.\)
