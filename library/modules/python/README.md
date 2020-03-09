@@ -58,6 +58,14 @@ Declare these requirements as you would in a [pip Requirements File](https://pip
 For faster code execution, only add requirements that aren't already [pre-installed](libraries.md) in the Python module.
 {% endhint %}
 
+{% hint style="info" %}
+To add a Python GitHub repository to your references file, use the following format:
+
+**git+**[**https://github.com/wayscript/wayscript-python.git\#egg=wayscript**](https://github.com/wayscript/wayscript-python.git#egg=wayscript)\*\*\*\*
+
+This example will install the `wayscript-python` package from GitHub, with the [egg](https://python101.pythonlibrary.org/chapter38_eggs.html) `wayscript`.
+{% endhint %}
+
 ## ↘ Importing Code from Other Files
 
 You can import code from the other Python files in your File Browser. For example, suppose you have a file called `foo.py`, which has a method `bar`.
