@@ -1,3 +1,7 @@
+---
+description: (Deprecated)
+---
+
 # Email Trigger
 
 ![Run your script by sending an email.](../../.gitbook/assets/email.png)
