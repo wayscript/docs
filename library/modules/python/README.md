@@ -58,12 +58,18 @@ Declare these requirements as you would in a [pip Requirements File](https://pip
 For faster code execution, only add requirements that aren't already [pre-installed](libraries.md) in the Python module.
 {% endhint %}
 
-{% hint style="info" %}
-To add a Python GitHub repository to your references file, use the following format:
+### ![](../../../.gitbook/assets/github%20%281%29.png) Referencing Python GitHub Repositories
 
-**git+**[**https://github.com/wayscript/wayscript-python.git\#egg=wayscript**](https://github.com/wayscript/wayscript-python.git#egg=wayscript)\*\*\*\*
+To consume a Python GitHub repo as a package in your code, use the following format in your `requirements.txt` file:
+
+```python
+git+https://github.com/wayscript/wayscript-python.git#egg=wayscript
+```
 
 This example will install the `wayscript-python` package from GitHub, with the [egg](https://python101.pythonlibrary.org/chapter38_eggs.html) `wayscript`.
+
+{% hint style="warning" %}
+In order for this to work properly, you may also need to add all Python requirements from the project you are referencing to your `requirements.txt` file as well.
 {% endhint %}
 
 ## ↘ Importing Code from Other Files
