@@ -36,3 +36,7 @@ Toggle the chart's legend on or off.
 
 **Chart -** The chart built from your data.
 
+## 🎓 Tutorial
+
+{% embed url="https://www.youtube.com/watch?v=zDJGyVBFEi0&t=1s" %}
+

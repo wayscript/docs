@@ -10,6 +10,8 @@
 
 🎁 WayScript programs you create can be seamlessly shared with your team, company, friends, and the WayScript community.
 
+{% embed url="https://www.youtube.com/watch?v=x0r1-Npc518" %}
+
 ## 🎓 Getting Started
 
 If you're new to WayScript, click the link below to learn how to create your first WayScript "Hello World" program.
