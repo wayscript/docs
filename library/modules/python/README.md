@@ -66,7 +66,7 @@ To consume a Python GitHub repo as a package in your code, use the following for
 git+https://github.com/wayscript/wayscript-python.git#egg=wayscript
 ```
 
-This example will install the `wayscript-python` package from GitHub, with the [egg](https://python101.pythonlibrary.org/chapter38_eggs.html) `wayscript`.
+This example will install the `wayscript-python` package from GitHub, with the [egg](https://wiki.python.org/moin/egg) `wayscript`.
 
 {% hint style="warning" %}
 In order for this to work properly, you may also need to add all Python requirements from the project you are referencing to your `requirements.txt` file as well.
