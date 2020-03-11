@@ -4,7 +4,7 @@ description: Updates and improvements to the WayScript platform.
 
 # What's new?
 
-{% embed url="https://www.youtube.com/watch?v=3jL3j6erq4c&feature=youtu.be" %}
+{% embed url="https://www.youtube.com/watch?v=3jL3j6erq4c&feature=youtu.be" caption="What\'s New in WayScript - Feb. 27th - Mar. 6th " %}
 
 ## March 6th, 2020
 
