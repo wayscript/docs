@@ -4,6 +4,8 @@ description: Updates and improvements to the WayScript platform.
 
 # What's new?
 
+{% embed url="https://www.youtube.com/watch?v=3jL3j6erq4c&feature=youtu.be" %}
+
 ## March 6th, 2020
 
 * We have added a new [Chart Module](library/modules/chart.md),  which allows you to create [line](library/modules/chart.md#line-chart) and [pie](library/modules/chart.md#pie-chart) charts.
