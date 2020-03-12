@@ -60,6 +60,7 @@ YouTube_Video = {
     favorite_count : Int,
     like_count : Int,
     view_count : Int,
+    duration : String,
 }
 ```
 
