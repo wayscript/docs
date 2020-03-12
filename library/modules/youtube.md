@@ -19,6 +19,7 @@ You can add additional accounts from the YouTube module settings.
 * Advanced:
   * Sort Order
   * Filter Results by U.S. Zip Code
+  * Channel ID \(Constrain your search to a specific YouTube channel.\)
 
 ### 📤 Output
 
@@ -104,8 +105,7 @@ YouTube_Channel = {
     subscriber_count : Int, 
     video_count : Int,
     url : Url,
+    id : String,
 }
 ```
-
-
 
