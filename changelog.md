@@ -4,7 +4,19 @@ description: Updates and improvements to the WayScript platform.
 
 # What's new?
 
-{% embed url="https://www.youtube.com/watch?v=3jL3j6erq4c&feature=youtu.be" caption="What\'s New in WayScript - Feb. 27th - Mar. 6th " %}
+## March 13th, 2020
+
+* We have updated the variable selectors and inputs in the script editor to make working with variables easier than ever! 
+* The [YouTube module](library/modules/youtube.md) now lets you search for videos on a specific channel, using the [Channel ID](library/modules/youtube.md#inputs) advanced setting. 
+* The endpoints for [Form](library/triggers/form-trigger.md) and [HTTP](library/triggers/http-trigger.md) triggers have **moved to** [**wayscript.io**](http://wayscript.io/).
+  * To access your Form and HTTP endpoints, you should now use the script ID as a subdomain of **wayscript.io**.  \(e.g. [1234.wayscript.io](https://1234.wayscript.io)\)
+  * Existing wayscript_.com_ endpoints will redirect to wayscript_.io_ for the time being, so your current scripts will continue to work.
+
+{% hint style="warning" %}
+ Please update your code to consume the latest WayScript [Python](https://pypi.org/project/wayscript/) and [JS](https://www.npmjs.com/package/wayscript) packages and change any POST requests to call **wayscript.io**.
+
+Legacy wayscript._com_ Form and HTTP endpoints will be disabled in the future and you will eventually be required to use the new wayscript._io_ endpoints.
+{% endhint %}
 
 ## March 6th, 2020
 
@@ -16,6 +28,8 @@ description: Updates and improvements to the WayScript platform.
 
 * We have updated the [Form Trigger](library/triggers/form-trigger.md) to have [customizable endpoints](library/triggers/form-trigger.md#endpoints) and [password protection](library/triggers/form-trigger.md#password-protect-your-form), similar to the [HTTP Trigger](library/triggers/http-trigger.md). 
 * The [Google Sheets](library/modules/google-sheets.md) module has a new [Preserve Header Row](library/modules/google-sheets.md#preserve-header-row) setting for use when you are writing to a spreadsheet with both the "[Replace File](library/modules/google-sheets.md#write-mode)" and "[Include Headers](library/modules/google-sheets.md#include-headers)" options enabled and would like to replace everything EXCEPT the header row on each run of your script.
+
+{% embed url="https://www.youtube.com/watch?v=3jL3j6erq4c&feature=youtu.be" caption="What\'s New in WayScript - Feb. 27th - Mar. 6th " %}
 
 ## February 27th, 2020
 

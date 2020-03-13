@@ -66,9 +66,9 @@ In order to view your live form, make sure your trigger is active and then press
 
 When setting up the Form Trigger, you can create as many named endpoints as you like. If you don't provide a name for your endpoint, the trigger will match the root URL. All endpoint names must be unique throughout your script to prevent ambiguity.
 
-![](../../.gitbook/assets/screen-shot-2019-11-12-at-7.36.46-pm.png)
+![](../../.gitbook/assets/screen-shot-2020-03-13-at-1.15.21-pm.png)
 
-To access your endpoints, use the program ID as a subdomain of wayscript.com. For example, in the image above, you can trigger your script by hitting either [https://10834.wayscript.com/](https://10834.wayscript.com/) or [https://10834.wayscript.com/custom\_endpoint](https://10834.wayscript.com/custom_endpoint).
+To access your endpoints, use the program ID as a subdomain of **wayscript.io**. For example, in the image above, you can trigger your script by hitting either [https://16233.wayscript.io/](https://16233.wayscript.io/) or [https://16233.wayscript.io/custom\_endpoint](https://16233.wayscript.io/custom_endpoint).
 
 Remember to activate your trigger before using the endpoint!
 
