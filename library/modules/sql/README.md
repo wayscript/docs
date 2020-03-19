@@ -56,7 +56,9 @@ For information on connecting to SQL Azure, refer to the article below:
 
 {% page-ref page="connecting-to-sql-azure.md" %}
 
-## \*\*\*\*🎓 **Tutorial**
+## \*\*\*\*🎓 **Tutorials**
 
-{% embed url="https://www.youtube.com/watch?time\_continue=8&v=1FUUTjJl1N8" %}
+{% embed url="https://www.youtube.com/watch?time\_continue=8&v=1FUUTjJl1N8" caption="Cron+SQL+Twilio in 3 Minutes" %}
+
+{% embed url="https://www.youtube.com/watch?v=hR\_grpalY-8" caption="Connecting a Heroku PostgreSQL Database to WayScript" %}
 
