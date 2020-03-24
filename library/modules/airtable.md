@@ -69,6 +69,10 @@ In this example, we are using the "Event Marketing" base. Click on the base.
 
 ![](../../.gitbook/assets/submitted.png)
 
+### 📽 Video Tutorial
+
+{% embed url="https://www.youtube.com/watch?v=sSDw5VHfZxA" caption="Watch: Setting up and Working with Airtable on WayScript" %}
+
 ## 💼 Working with a Table
 
 Choose the table you want to work with in the "Table Name" input. \(In this case, the "Events" table.\)

@@ -10,7 +10,7 @@
 
 🎁 WayScript programs you create can be seamlessly shared with your team, company, friends, and the WayScript community.
 
-{% embed url="https://www.youtube.com/watch?v=x0r1-Npc518" caption="What is WayScript? \| A Community-Driven, Drag & Drop Development Platform With No Limitations." %}
+{% embed url="https://www.youtube.com/watch?v=x0r1-Npc518" caption="Video: What is WayScript? \| A Community-Driven, Drag & Drop Development Platform With No Limitations." %}
 
 ## 🎓 Getting Started
 
