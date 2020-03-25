@@ -1,7 +1,7 @@
 # Table of contents
 
 * [About](README.md)
-* [What's new?](changelog.md)
+* [What's New?](changelog.md)
 
 ## Getting Started <a id="getting_started"></a>
 

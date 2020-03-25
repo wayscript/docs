@@ -2,11 +2,13 @@
 description: Updates and improvements to the WayScript platform.
 ---
 
-# What's new?
+# What's New?
 
 ## March 25th, 2020
 
 * We have added a new [user home page](https://wayscript.com/home), to make it easy to find recently edited scripts, explore the marketplace, and watch videos from the [WayScript YouTube channel](https://www.youtube.com/channel/UCv1JpM-XII0PMnqoCJfZA2g), all in one place. Click on the WayScript logo in the navigation bar to check it out!
+
+![](.gitbook/assets/screen-shot-2020-03-25-at-11.07.48-am.png)
 
 ## March 13th, 2020
 
