@@ -14,6 +14,7 @@ In order to trigger scripts at a particular time, add the Time Trigger module to
 * Hourly
 * Every ten minutes \(Premium feature\)
 * Every minute \(Premium feature\)
+* [Custom \(Crontab syntax\)](time-trigger.md#crontab-syntax)
 
 If you select the **daily frequency**, you will have an option to choose what time your script should run each day.
 
@@ -24,4 +25,15 @@ If you select the **monthly frequency**, you will have an option to choose a day
 {% hint style="info" %}
 If you select the 29th, 30th, or 31st, your script will not run on months with fewer than that number of days. **Use the "Last Day" option if you would like your script to run at the end of each month.**
 {% endhint %}
+
+### **Crontab Syntax**
+
+If you select the "Custom" option for Run Frequency, you will be able to use [Crontab Syntax](https://en.wikipedia.org/wiki/Cron#CRON_expression) to specify the frequency at which you would like your script to run.
+
+#### Examples
+
+1. Schedule your script to run at 5 am and 5 pm: `0 5,17 * * *`
+2. Schedule your script to run every Monday at 5am: `0 5 * * mon`
+3. Schedule your script to run every 15 minutes: `*/15 * * * *`
+4. Schedule your script to run every 4 hours: `0 */4 * * *`
 
