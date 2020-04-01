@@ -7,7 +7,7 @@ description: Updates and improvements to the WayScript platform.
 ## April 1st, 2020
 
 * We have moved the navigation bar to the top of the page, and added an Activity Feed, where you will receive notifications for activity relevant to you, such as when another user clones your script or new content is available. 
-*  We have updated the script editing experience with a refreshed look and feel and the ability to only import the libraries you need into your script, reducing clutter and streamlining the script building experience. 
+* We have updated the script editing experience with a refreshed look and feel and the ability to only import the libraries you need into your script, reducing clutter and streamlining the script building experience. 
 * We have added [crontab syntax](library/triggers/time-trigger.md#crontab-syntax) to the [Time Trigger](library/triggers/time-trigger.md), allowing you to specify exactly how frequently you would like your script to run.
 
 ## March 25th, 2020
