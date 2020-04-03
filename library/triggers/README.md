@@ -16,6 +16,7 @@ These Triggers can be added to any function, as many times as desired.
 
 * [Time Trigger](time-trigger.md)
 * [HTTP Trigger](http-trigger.md)
+* [Form Trigger](form-trigger.md)
 
 #### One per function
 

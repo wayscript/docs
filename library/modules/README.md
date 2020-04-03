@@ -1,7 +1,7 @@
 ---
 description: >-
   Modules are flexible building blocks that allow you to seamlessly integrate,
-  automate, and host tools in the cloud, using an evergrowing list of
+  automate, and host tools in the cloud, using an ever-growing list of
   third-party APIs.
 ---
 
@@ -16,80 +16,4 @@ WayScript is adding new modules and third-party integrations all the time!
 
 If there's functionality you would like to see added, [submit a feature request on GitHub](https://github.com/wayscript/feedback), or email us at founders@wayscript.com.
 {% endhint %}
-
-## ![](../../.gitbook/assets/wayscript_32x32.png) Available Modules
-
-All available modules are documented in the sub-articles in this section:
-
-* [Airtable](airtable.md)
-* [Alexa](alexa.md)
-* [Alpha Vantage](alpha-vantage.md)
-* [Article Extractor](article-extractor.md)
-* [Bing](bing.md)
-* [Bittrex](bittrex.md)
-* [Calculator](calculator.md)
-* [Cities](cities.md)
-* [Clearbit](clearbit.md)
-* [Crunchbase](crunchbase.md)
-* [CSS](css.md)
-* [CSV](csv.md)
-* [Date Time](date-time.md)
-* [Diffbot](diffbot.md)
-* [Discord](discord.md)
-* [Dropbox](dropbox.md)
-* [Excel](excel.md)
-* [Financial Math](financial-math.md)
-* [Full Contact](full-contact.md)
-* [FuzzyWuzzy](fuzzywuzzy.md)
-* [Giphy](giphy.md)
-* [GitHub](github.md)
-* [Gmail](gmail.md)
-* [Google Assistant](google-assistant.md)
-* [Google Calendar](google-calendar.md)
-* [Google Sheets](google-sheets.md)
-* [Hacker News](hackernews.md)
-* [HTML](html.md)
-* [HTTP Response](http-response.md)
-* [Hunter.io](hunter.io.md)
-* [Images](images.md)
-* [JavaScript](javascript.md)
-* [Mailchimp](mailchimp.md)
-* [MapQuest](mapquest.md)
-* [Medium](medium.md)
-* [Name Parser](name-parser.md)
-* [News API](news-api.md)
-* [NLP](nlp.md)
-* [NY Times](ny-times.md)
-* [Outlook](outlook.md)
-* [Pie Chart](pie-chart.md)
-* [Phillips Hue](phillips-hue.md)
-* [Python](python/)
-* [Reddit](reddit.md)
-* [RegEx](regex.md)
-* [Requests](requests.md)
-* [RocketReach](rocketreach.md)
-* [Salesforce](salesforce.md)
-* [Scryfall](scryfall.md)
-* [Send Email](send-email.md)
-* [Slack](slack.md)
-* [SMTP Email](smtp-email.md)
-* [Spotify](spotify.md)
-* [SQL](sql/)
-* [Text Message](text-message.md)
-* [Trello](trello.md)
-* [Twilio](twilio.md)
-* [Twitch](twitch.md)
-* [Twitter](twitter.md)
-* [URL Encoder](url-encoder.md)
-* [Verify Emails](verify-emails.md)
-* [Watson](watson.md)
-* [Weather API](weather-api.md)
-* [Website Searcher](website-searcher.md)
-* [Wikipedia](wikipedia.md)
-* [Word](word.md)
-* [Yahoo Finance](yahoo-finance.md)
-* [Yellow Pages](yellow-pages.md)
-* [Yelp](yelp.md)
-* [YouTube](youtube.md)
-* [Zillow](zillow.md)
 
