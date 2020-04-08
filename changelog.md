@@ -7,8 +7,7 @@ description: Updates and improvements to the WayScript platform.
 ## April 8th, 2020
 
 * We have added a new [Figma](library/modules/figma.md) module to allow you to work with your Figma files, projects, comments, users, and more, with WayScript. 
-* We have improved the script editing experience to separate variable loading from settings panel loading, allowing you to continue to change settings for a module while the script's variables are still loading. 
-* We have updated the styling for required inputs, making it clearer which settings still require input in order for your module to run. ![](.gitbook/assets/screen-shot-2020-04-08-at-10.43.14-am.png) 
+* We have improved the script editing experience to separate variable loading from settings panel loading, allowing you to continue to change settings for a module while the script's variables are still loading.
 
 ## April 1st, 2020
 
