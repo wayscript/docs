@@ -72,6 +72,7 @@
   * [Discord](library/modules/discord.md)
   * [Dropbox](library/modules/dropbox.md)
   * [Excel](library/modules/excel.md)
+  * [Figma](library/modules/figma.md)
   * [Financial Math](library/modules/financial-math.md)
   * [Full Contact](library/modules/full-contact.md)
   * [FuzzyWuzzy](library/modules/fuzzywuzzy.md)

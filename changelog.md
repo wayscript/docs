@@ -4,6 +4,10 @@ description: Updates and improvements to the WayScript platform.
 
 # What's New?
 
+## April 8th, 2020
+
+* We have added a new [Figma](library/modules/figma.md) module to allow you to work with your Figma files, projects, comments, users, and more, with WayScript.
+
 ## April 1st, 2020
 
 * We have moved the navigation bar to the top of the page, and added an Activity Feed, where you will receive notifications for activity relevant to you, such as when another user clones your script or new content is available. 
