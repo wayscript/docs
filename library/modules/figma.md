@@ -14,27 +14,27 @@ Each section links to the corresponding information in the [Figma API documentat
 
 * [**File Key**](figma.md#file-key)
 
-#### Advanced Inputs
+#### Optional Inputs
 
-* **Version** - A specific version ID to get. Omitting this will get the current version of the file.
+* **Version** \(Advanced\) ****- A specific version ID to get. Omitting this will get the current version of the file.
 * **IDs** - A comma separated list of nodes that you care about in the document. If specified, only a subset of the document will be returned corresponding to the nodes listed, their children, and everything between the root node and the listed nodes.
-* **Depth** - Positive integer representing how deep into the document tree to traverse. For example, setting this to 1 returns only Pages, setting it to 2 returns Pages and all top level objects on each page. Not setting this parameter returns all nodes.
-* **Geometry** - Set to 'paths' to export vector data.
-* **Plugin Data** - A comma separated list of plugin IDs and/or the string 'shared'. Any data present in the document written by those plugins will be included in the result in the `pluginData` and `sharedPluginData` properties.
+* **Depth** \(Advanced\) ****- Positive integer representing how deep into the document tree to traverse. For example, setting this to 1 returns only Pages, setting it to 2 returns Pages and all top level objects on each page. Not setting this parameter returns all nodes.
+* **Geometry** \(Advanced\) - Set to 'paths' to export vector data.
+* **Plugin Data** \(Advanced\) ****- A comma separated list of plugin IDs and/or the string 'shared'. Any data present in the document written by those plugins will be included in the result in the `pluginData` and `sharedPluginData` properties.
 
 ### [GET File Nodes](https://www.figma.com/developers/api#get-file-nodes-endpoint)
 
 #### **Required Inputs**
 
 * \*\*\*\*[**File Key**](figma.md#file-key)
-* **IDs \(Advanced\)**
+* **IDs**
 
 ### [GET Image](https://www.figma.com/developers/api#get-images-endpoint)
 
 #### **Required Inputs**
 
 * \*\*\*\*[**File Key**](figma.md#file-key)
-* **IDs \(Advanced\)**
+* **IDs**
 
 #### Advanced Inputs
 
