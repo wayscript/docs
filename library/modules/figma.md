@@ -1,3 +1,9 @@
+---
+description: >-
+  Build better products as a team. Design, prototype, and gather feedback all in
+  one place with Figma.
+---
+
 # Figma
 
 ![A collaborative interface design tool.](../../.gitbook/assets/figma.png)
