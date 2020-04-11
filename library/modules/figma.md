@@ -22,24 +22,24 @@ Each section links to the corresponding information in the [Figma API documentat
 
 #### Optional Inputs
 
-* **Version** \(Advanced\) _\*\*_- A specific version ID to get. Omitting this will get the current version of the file.
+* **Version** \(Advanced\) - A specific version ID to get. Omitting this will get the current version of the file.
 * **IDs** - A comma separated list of nodes that you care about in the document. If specified, only a subset of the document will be returned corresponding to the nodes listed, their children, and everything between the root node and the listed nodes.
-* **Depth** \(Advanced\) _\*\*_- Positive integer representing how deep into the document tree to traverse. For example, setting this to 1 returns only Pages, setting it to 2 returns Pages and all top level objects on each page. Not setting this parameter returns all nodes.
+* **Depth** \(Advanced\) - Positive integer representing how deep into the document tree to traverse. For example, setting this to 1 returns only Pages, setting it to 2 returns Pages and all top level objects on each page. Not setting this parameter returns all nodes.
 * **Geometry** \(Advanced\) - Set to 'paths' to export vector data.
-* **Plugin Data** \(Advanced\) _\*\*_- A comma separated list of plugin IDs and/or the string 'shared'. Any data present in the document written by those plugins will be included in the result in the `pluginData` and `sharedPluginData` properties.
+* **Plugin Data** \(Advanced\) - A comma separated list of plugin IDs and/or the string 'shared'. Any data present in the document written by those plugins will be included in the result in the `pluginData` and `sharedPluginData` properties.
 
 ### [GET File Nodes](https://www.figma.com/developers/api#get-file-nodes-endpoint)
 
 #### **Required Inputs**
 
-* \*\*\*\*[**File Key**](figma.md#file-key)
+* [**File Key**](figma.md#file-key)
 * **IDs**
 
 ### [GET Image](https://www.figma.com/developers/api#get-images-endpoint)
 
 #### **Required Inputs**
 
-* \*\*\*\*[**File Key**](figma.md#file-key)
+* [**File Key**](figma.md#file-key)
 * **IDs**
 
 #### Advanced Inputs
@@ -55,7 +55,7 @@ Each section links to the corresponding information in the [Figma API documentat
 
 #### **Required Inputs**
 
-* \*\*\*\*[**File Key**](figma.md#file-key)
+* [**File Key**](figma.md#file-key)
 
 ## [Comments](https://www.figma.com/developers/api#comments)
 
@@ -63,13 +63,13 @@ Each section links to the corresponding information in the [Figma API documentat
 
 #### **Required Inputs**
 
-* \*\*\*\*[**File Key**](figma.md#file-key)
+* [**File Key**](figma.md#file-key)
 
 ### [POST Comments](https://www.figma.com/developers/api#post-comments-endpoint)
 
 #### **Required Inputs**
 
-* \*\*\*\*[**File Key**](figma.md#file-key)
+* [**File Key**](figma.md#file-key)
 * **Message -** The text contents of the comment to post
 
 **Optional Inputs**
@@ -84,7 +84,7 @@ Each section links to the corresponding information in the [Figma API documentat
 
 #### **Required Inputs**
 
-* \*\*\*\*[**File Key**](figma.md#file-key)
+* [**File Key**](figma.md#file-key)
 * **Comment Key** - Comment id of comment to delete.
 
 ## [Users](https://www.figma.com/developers/api#users)
@@ -99,7 +99,7 @@ Returns the information corresponding to the authenticated user.
 
 #### **Required Inputs**
 
-* \*\*\*\*[**File Key**](figma.md#file-key)
+* [**File Key**](figma.md#file-key)
 
 ## [Projects](https://www.figma.com/developers/api#projects)
 
@@ -107,13 +107,13 @@ Returns the information corresponding to the authenticated user.
 
 #### **Required Inputs**
 
-* \*\*\*\*[**Team ID**](figma.md#team-id)\*\*\*\*
+* [**Team ID**](figma.md#team-id)
 
 ### [GET Project Files](https://www.figma.com/developers/api#get-project-files-endpoint)
 
 #### **Required Inputs**
 
-* \*\*\*\*[**Project ID**](figma.md#project-id)\*\*\*\*
+* [**Project ID**](figma.md#project-id)
 
 ## [Components and Styles](https://www.figma.com/developers/api#library-items)
 
@@ -121,7 +121,7 @@ Returns the information corresponding to the authenticated user.
 
 #### **Required Inputs**
 
-* \*\*\*\*[**Team ID**](figma.md#team-id)\*\*\*\*
+* [**Team ID**](figma.md#team-id)
 
 #### Advanced Inputs
 
@@ -131,7 +131,7 @@ Returns the information corresponding to the authenticated user.
 
 #### **Required Inputs**
 
-* \*\*\*\*[**File Key**](figma.md#file-key)
+* [**File Key**](figma.md#file-key)
 
 ### [GET Component](https://www.figma.com/developers/api#get-component-endpoint)
 
@@ -143,7 +143,7 @@ Returns the information corresponding to the authenticated user.
 
 #### **Required Inputs**
 
-* \*\*\*\*[**Team ID**](figma.md#team-id)\*\*\*\*
+* [**Team ID**](figma.md#team-id)
 
 #### Advanced Inputs
 
@@ -153,7 +153,7 @@ Returns the information corresponding to the authenticated user.
 
 #### **Required Inputs**
 
-* \*\*\*\*[**File Key**](figma.md#file-key)
+* [**File Key**](figma.md#file-key)
 
 ### [GET Style](https://www.figma.com/developers/api#get-style-endpoint)
 

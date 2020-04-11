@@ -1,7 +1,7 @@
 ---
 description: >-
-  Seamlessly integrate JavaScript with your favorite APIs, and databases, using
-  WayScript.
+  Seamlessly integrate your JavaScript code with your favorite APIs, and
+  databases, using WayScript.
 ---
 
 # JavaScript
