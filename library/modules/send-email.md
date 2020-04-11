@@ -1,3 +1,7 @@
+---
+description: 'Easily send yourself emails, using WayScript.'
+---
+
 # Send Email
 
 ![Send yourself an email.](../../.gitbook/assets/email%20%283%29.png)

@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamlessly integrate JavaScript with your favorite APIs, and databases, using
+  WayScript.
+---
+
 # JavaScript
 
 

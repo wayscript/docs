@@ -1,3 +1,9 @@
+---
+description: >-
+  Easily pull web articles and integrate them with your favorite APIs,
+  databases, and programming languages, using WayScript.
+---
+
 # Article Extractor
 
 ![Pull text from a website.](../../.gitbook/assets/article_pull.png)

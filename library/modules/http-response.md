@@ -1,3 +1,9 @@
+---
+description: >-
+  Easily build an HTTP endpoint that sends content created from your favorite
+  APIs, databases, and programming languages, using WayScript.
+---
+
 # HTTP Response
 
 ![Stop the program and return the content as an HTTP response](../../.gitbook/assets/http.png)

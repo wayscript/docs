@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamlessly integrate Medium with your favorite APIs, databases, and
+  programming languages, using WayScript.
+---
+
 # Medium
 
 ![A place to read and write big ideas and important stories.](../../.gitbook/assets/medium.png)

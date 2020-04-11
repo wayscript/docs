@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamlessly integrate Open Weather Map's current weather and forecasts with
+  your favorite APIs, databases, and programming languages, using WayScript.
+---
+
 # Weather API
 
 ![Current weather and forecasts in your city.](../../.gitbook/assets/open_weather_map.png)

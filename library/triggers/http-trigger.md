@@ -1,3 +1,9 @@
+---
+description: >-
+  Instantly build an HTTP endpoint that connects your favorite APIs, databases,
+  and programming languages, using WayScript.
+---
+
 # HTTP Trigger
 
 ![Trigger a function when a user goes to a URL.](../../.gitbook/assets/http%20%281%29.png)

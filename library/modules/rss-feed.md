@@ -1,3 +1,9 @@
+---
+description: >-
+  Easily pull RSS feeds and integrate them with your favorite APIs, databases,
+  and programming languages, using WayScript.
+---
+
 # RSS Feed
 
 ![Pull data from an RSS feed.](../../.gitbook/assets/rss_feed.png)

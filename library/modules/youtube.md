@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamlessly integrate YouTube with your favorite APIs, databases, and
+  programming languages, using WayScript.
+---
+
 # YouTube
 
 ![Work with YouTube data.](../../.gitbook/assets/youtube%20%281%29.png)

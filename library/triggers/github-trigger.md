@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamlessly integrate GitHub with your favorite APIs, databases, and
+  programming languages, using WayScript.
+---
+
 # GitHub Trigger
 
 ![Run your script when GitHub events occur.](../../.gitbook/assets/github%20%282%29.png)

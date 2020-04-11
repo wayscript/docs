@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamlessly integrate Salesforce with your favorite APIs, databases, and
+  programming languages, using WayScript.
+---
+
 # Salesforce Trigger
 
 ![Run your script when a Salesforce object is created or updated.](../../.gitbook/assets/salesforce.png)

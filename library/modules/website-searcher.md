@@ -1,3 +1,9 @@
+---
+description: >-
+  Easily pull website data and integrate them with your favorite APIs,
+  databases, and programming languages, using WayScript.
+---
+
 # Website Searcher
 
 ![Search a Website for Data. Powered by Beautiful Soup.](../../.gitbook/assets/site_siftter%20%281%29.png)

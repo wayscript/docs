@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamlessly integrate Discord with your favorite APIs, databases, and
+  programming languages, using WayScript.
+---
+
 # Discord
 
 ![Interact with Discord channels using the WayScript bot.](../../.gitbook/assets/discord.png)

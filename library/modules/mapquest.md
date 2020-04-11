@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamlessly integrate MapQuest with your favorite APIs, databases, and
+  programming languages, using WayScript.
+---
+
 # MapQuest
 
 ![MapQuest is an American free online web mapping service owned by Verizon Media.](../../.gitbook/assets/mapquest.png)

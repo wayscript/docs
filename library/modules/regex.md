@@ -1,3 +1,9 @@
+---
+description: >-
+  Easily use RegEx to process data from your favorite APIs, databases, and
+  programming languages, using WayScript.
+---
+
 # RegEx
 
 ![Find matching patterns within text.](../../.gitbook/assets/regex.png)

@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamlessly integrate SMTP email services with your favorite APIs, databases,
+  and programming languages, using WayScript.
+---
+
 # SMTP Email
 
 ![Send emails through SMTP](../../.gitbook/assets/smtp_ssl_email%20%281%29.png)

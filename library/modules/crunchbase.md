@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamlessly integrate Crunchbase with your favorite APIs, databases, and
+  programming languages, using WayScript.
+---
+
 # Crunchbase
 
 ![Find business information about private and public companies.](../../.gitbook/assets/crunchbase.png)

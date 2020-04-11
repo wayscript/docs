@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamlessly integrate Reddit with your favorite APIs, databases, and
+  programming languages, using WayScript.
+---
+
 # Reddit
 
 ![The front page of the internet.](../../.gitbook/assets/reddit%20%281%29.png)

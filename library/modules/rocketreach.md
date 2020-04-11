@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamlessly integrate RocketReach with your favorite APIs, databases, and
+  programming languages, using WayScript.
+---
+
 # RocketReach
 
 ![Find profiles for professionals using RocketReach.](../../.gitbook/assets/rocket_reach.png)

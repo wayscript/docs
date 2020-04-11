@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamlessly integrate Twitter with your favorite APIs, databases, and
+  programming languages, using WayScript.
+---
+
 # Twitter
 
 ![A social media platform.](../../.gitbook/assets/twitter.png)

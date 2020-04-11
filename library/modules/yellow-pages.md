@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamlessly integrate Yellow Pages with your favorite APIs, databases, and
+  programming languages, using WayScript.
+---
+
 # Yellow Pages
 
 ![Look up business information from Yellow Pages.](../../.gitbook/assets/yellow_pages%20%281%29.png)

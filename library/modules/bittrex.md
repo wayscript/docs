@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamlessly integrate Bittrex with your favorite APIs, databases, and
+  programming languages, using WayScript.
+---
+
 # Bittrex
 
 ![Realtime and historical data on digital currencies, such as Bitcoin.](../../.gitbook/assets/bittrex.png)

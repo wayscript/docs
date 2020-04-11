@@ -1,3 +1,9 @@
+---
+description: >-
+  Easily build forms that integrate with your favorite APIs, databases, and
+  programming languages, using WayScript.
+---
+
 # Form Trigger
 
 ![Build a GUI form and run your script when the form data is submitted.](../../.gitbook/assets/form.png)

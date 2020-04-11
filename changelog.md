@@ -230,7 +230,7 @@ variables[ 'First_Output' ] = 'Testing'
 * Added the [JavaScript module](library/modules/javascript.md), where you can compose and run your own custom JavaScript code as part of your scripts. This module also allows you to [define custom npm dependencies](library/modules/javascript.md#adding-dependencies).
 * Added [Else-If](library/logic/conditionals.md#if-else-if-else) functionality to the [Conditional](getting_started/conditionals.md#add-branches) logic module.
 * Added a [While Loop](library/logic/loop/while-loop.md) module.
-* Added the [Pie Chart data visualization module](library/modules/pie-chart.md), allowing you to visualize category proportions in data.
+* Added the [Pie Chart data visualization module](), allowing you to visualize category proportions in data.
 
 ## August 15th, 2019
 

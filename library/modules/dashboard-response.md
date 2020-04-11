@@ -1,3 +1,9 @@
+---
+description: >-
+  Instantly build a dashboard with data from your favorite APIs, databases, and
+  programming languages, using WayScript.
+---
+
 # Dashboard Response
 
 ![Render script variables to a beautiful dashboard interface.](../../.gitbook/assets/screen-shot-2020-02-19-at-10.02.49-am.png)

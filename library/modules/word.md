@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamlessly integrate Microsoft Word with your favorite APIs, databases, and
+  programming languages, using WayScript.
+---
+
 # Word
 
 ![Work with Microsoft Word. Read file data, and build Word documents.](../../.gitbook/assets/word_128x128.png)

@@ -1,3 +1,9 @@
+---
+description: >-
+  Easily perform math calculations on data from your favorite APIs, databases,
+  and programming languages, using WayScript.
+---
+
 # Calculator
 
 ![Do Math.](../../.gitbook/assets/calculator.png)

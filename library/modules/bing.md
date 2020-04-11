@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamlessly integrate Bing with your favorite APIs, databases, and programming
+  languages, using WayScript.
+---
+
 # Bing
 
 ![Search the web with Bing.](../../.gitbook/assets/bing%20%281%29.png)

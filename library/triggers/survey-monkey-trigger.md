@@ -1,5 +1,7 @@
 ---
-description: Coming soon!
+description: >-
+  Seamlessly integrate Survey Monkey with your favorite APIs, databases, and
+  programming languages, using WayScript. (Coming Soon)
 ---
 
 # Survey Monkey Trigger

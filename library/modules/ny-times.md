@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamlessly integrate the New York Times with your favorite APIs, databases,
+  and programming languages, using WayScript.
+---
+
 # NY Times
 
 ![Pull articles from the NY Times.](../../.gitbook/assets/ny_times.png)

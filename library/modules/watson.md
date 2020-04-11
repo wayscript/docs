@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamlessly integrate IBM Watson machine learning with your favorite APIs,
+  databases, and programming languages, using WayScript.
+---
+
 # Watson
 
 ![Use the IBM Watson machine learning library](../../.gitbook/assets/watson%20%281%29.png)

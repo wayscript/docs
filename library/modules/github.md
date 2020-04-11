@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamlessly integrate GitHub with your favorite APIs, databases, and
+  programming languages, using WayScript.
+---
+
 # GitHub
 
 ![A web-based hosting service for version control using Git.](../../.gitbook/assets/github.png)

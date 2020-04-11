@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamlessly integrate Hacker News with your favorite APIs, databases, and
+  programming languages, using WayScript.
+---
+
 # Hacker News
 
 ![A social news website focusing on computer science and entrepreneurship.](../../.gitbook/assets/hacker_news.png)

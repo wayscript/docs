@@ -1,3 +1,9 @@
+---
+description: >-
+  Use CSS to style your site built with your favorite APIs, databases, and
+  programming languages, using WayScript.
+---
+
 # CSS
 
 ![Write CSS that can be re-used and inserted into HTML.](../../.gitbook/assets/css_code.png)

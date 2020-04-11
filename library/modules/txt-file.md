@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamlessly integrate TXT files with your favorite APIs, databases, and
+  programming languages, using WayScript.
+---
+
 # TXT File
 
 ![Read and Write .TXT Files](../../.gitbook/assets/txt.png)

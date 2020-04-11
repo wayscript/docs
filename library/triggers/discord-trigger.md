@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamlessly integrate Discord with your favorite APIs, databases, and
+  programming languages, using WayScript.
+---
+
 # Discord Trigger
 
 ![Run your script when Discord events occur.](../../.gitbook/assets/discord.png)

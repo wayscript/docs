@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamlessly integrate your Python code with your favorite APIs and databases,
+  using WayScript.
+---
+
 # Python
 
 ![Write Python code.](../../../.gitbook/assets/python_128x128.png)

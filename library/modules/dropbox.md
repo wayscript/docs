@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamlessly integrate Dropbox with your favorite APIs, databases, and
+  programming languages, using WayScript.
+---
+
 # Dropbox
 
 ![Work with Dropbox.](../../.gitbook/assets/dropbox.png)

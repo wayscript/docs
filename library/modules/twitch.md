@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamlessly integrate Twitch with your favorite APIs, databases, and
+  programming languages, using WayScript.
+---
+
 # Twitch
 
 ![Work with Twitch data.](../../.gitbook/assets/twitch.png)

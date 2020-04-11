@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamlessly integrate Google Calendar with your favorite APIs, databases, and
+  programming languages, using WayScript.
+---
+
 # Google Calendar
 
 ![Create new events and import events from your Google Calendar.](../../.gitbook/assets/google_calendar.png)

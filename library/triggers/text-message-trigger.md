@@ -1,3 +1,9 @@
+---
+description: >-
+  With a text message, instantly trigger your favorite APIs, databases, and
+  programming languages, using WayScript.
+---
+
 # Text Message Trigger
 
 ![Run your script with a text message.](../../.gitbook/assets/text_message_128x128.png)

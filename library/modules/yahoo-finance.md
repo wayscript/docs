@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamlessly integrate Yahoo Finance with your favorite APIs, databases, and
+  programming languages, using WayScript.
+---
+
 # Yahoo Finance
 
 ![Retrieve stock information from Yahoo Finance.](../../.gitbook/assets/yahoo_finance.png)

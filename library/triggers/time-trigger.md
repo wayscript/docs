@@ -1,3 +1,9 @@
+---
+description: >-
+  Run your favorite APIs, databases, and programming languages on a schedule,
+  using WayScript.
+---
+
 # Time Trigger
 
 ![Run your script periodically.](../../.gitbook/assets/cron.png)

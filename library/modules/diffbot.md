@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamlessly integrate Diffbot with your favorite APIs, databases, and
+  programming languages, using WayScript.
+---
+
 # Diffbot
 
 ![Turn websites into data in seconds.](../../.gitbook/assets/diffbot.png)

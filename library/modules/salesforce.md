@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamlessly integrate Salesforce with your favorite APIs, databases, and
+  programming languages, using WayScript.
+---
+
 # Salesforce
 
 ![Create, edit, and query Salesforce objects.](../../.gitbook/assets/salesforce.png)

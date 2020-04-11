@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamlessly integrate Amazon Alexa with your favorite APIs, databases, and
+  programming languages, using WayScript.
+---
+
 # Alexa Trigger
 
 ![Run your script using an Alexa voice command.](../../.gitbook/assets/alexa_128x128.png)

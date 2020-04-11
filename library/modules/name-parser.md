@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamlessly integrate a name parser with your favorite APIs, databases, and
+  programming languages, using WayScript.
+---
+
 # Name Parser
 
 ![Extracts the individual components of a name.](../../.gitbook/assets/nameparser.png)

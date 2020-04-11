@@ -1,3 +1,7 @@
+---
+description: 'Easily send yourself text messages, using WayScript.'
+---
+
 # Text Message
 
 ![Send text messages to yourself.](../../.gitbook/assets/text_message_128x128%20%281%29.png)

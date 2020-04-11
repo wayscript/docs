@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamlessly integrate JSON files with your favorite APIs, databases, and
+  programming languages, using WayScript.
+---
+
 # JSON
 
 ![Read and Write .JSON Files](../../.gitbook/assets/json_module.png)

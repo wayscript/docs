@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamlessly integrate FuzzyWuzzy with your favorite APIs, databases, and
+  programming languages, using WayScript.
+---
+
 # FuzzyWuzzy
 
 ![Fuzzy string matching like a boss. ](../../.gitbook/assets/fuzzy_wuzzy.png)

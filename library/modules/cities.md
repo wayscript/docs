@@ -1,3 +1,9 @@
+---
+description: >-
+  Get a list of cities to use with your favorite APIs, databases, and
+  programming languages, using WayScript.
+---
+
 # Cities
 
 ![Generate a list of U.S. cities.](../../.gitbook/assets/city_data.png)

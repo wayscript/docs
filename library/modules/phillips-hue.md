@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamlessly integrate Phillips Hue with your favorite APIs, databases, and
+  programming languages, using WayScript.
+---
+
 # Phillips Hue
 
 ![Remotely control lights using Philips Hue.](../../.gitbook/assets/hue.png)

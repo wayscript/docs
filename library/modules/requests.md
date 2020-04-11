@@ -1,3 +1,7 @@
+---
+description: 'Easily make requests to your favorite APIs and web endpoints, using WayScript.'
+---
+
 # Requests
 
 ![Make requests to APIs and other endpoints on the internet.](../../.gitbook/assets/http_requests.png)

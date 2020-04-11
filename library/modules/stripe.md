@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamlessly integrate Stripe with your favorite APIs, databases, and
+  programming languages, using WayScript.
+---
+
 # Stripe
 
 ![Online payments service.](../../.gitbook/assets/stripe.png)

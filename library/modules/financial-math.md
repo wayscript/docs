@@ -1,3 +1,9 @@
+---
+description: >-
+  Easily perform financial math operations on data from your favorite APIs,
+  databases, and programming languages, using WayScript.
+---
+
 # Financial Math
 
 ![Perform financial math operations.](../../.gitbook/assets/financial_math.png)

@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamlessly integrate Spotify with your favorite APIs, databases, and
+  programming languages, using WayScript.
+---
+
 # Spotify
 
 ![A Swedish audio streaming platform.](../../.gitbook/assets/spotify%20%282%29.png)

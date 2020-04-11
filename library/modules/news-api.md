@@ -1,3 +1,9 @@
+---
+description: >-
+  Easily pull news articles and integrate them with your favorite APIs,
+  databases, and programming languages, using WayScript.
+---
+
 # News API
 
 ![Get breaking news headlines, and search for articles from over 5,000 news sources and blogs.](../../.gitbook/assets/news_api.png)

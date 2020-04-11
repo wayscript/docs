@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamlessly integrate Hunter.io with your favorite APIs, databases, and
+  programming languages, using WayScript.
+---
+
 # Hunter.io
 
 ![Find the email address of any professional with the most advanced email-finding tool.](../../.gitbook/assets/hunter_io.png)

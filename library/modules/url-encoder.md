@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamlessly build URLs for use with your favorite APIs, databases, and
+  programming languages, using WayScript.
+---
+
 # URL Encoder
 
 ![Encode urls with variables](../../.gitbook/assets/url_encoder.png)

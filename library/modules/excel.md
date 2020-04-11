@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamlessly integrate Microsoft Excel files with your favorite APIs, databases,
+  and programming languages, using WayScript.
+---
+
 # Excel
 
 ![Read and write to Excel files.](../../.gitbook/assets/excel_128x128.png)

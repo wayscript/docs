@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamlessly integrate image files with your favorite APIs, databases, and
+  programming languages, using WayScript.
+---
+
 # Images
 
 ![Add images to your script.](../../.gitbook/assets/images.png)

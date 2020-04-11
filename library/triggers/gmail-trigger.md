@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamlessly integrate Gmail with your favorite APIs, databases, and programming
+  languages, using WayScript. (Coming Soon)
+---
+
 # Gmail Trigger
 
 ![Run your script when Gmail messages change.](../../.gitbook/assets/gmail.png)

@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamlessly integrate Natural Language Processing (NLP) with your favorite
+  APIs, databases, and programming languages, using WayScript.
+---
+
 # NLP
 
 ![Natural Language Processing such as Sentiment Analysis, Keyword Extraction, and more.](../../.gitbook/assets/nlp_toolkit.png)

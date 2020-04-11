@@ -1,6 +1,7 @@
 ---
 description: >-
-  Build better products as a team. Design, prototype, and gather feedback all in one place with Figma.
+  Seamlessly integrate Figma with your favorite APIs, databases, and programming
+  languages, using WayScript.
 ---
 
 # Figma
@@ -21,11 +22,11 @@ Each section links to the corresponding information in the [Figma API documentat
 
 #### Optional Inputs
 
-* **Version** \(Advanced\) ****- A specific version ID to get. Omitting this will get the current version of the file.
+* **Version** \(Advanced\) _\*\*_- A specific version ID to get. Omitting this will get the current version of the file.
 * **IDs** - A comma separated list of nodes that you care about in the document. If specified, only a subset of the document will be returned corresponding to the nodes listed, their children, and everything between the root node and the listed nodes.
-* **Depth** \(Advanced\) ****- Positive integer representing how deep into the document tree to traverse. For example, setting this to 1 returns only Pages, setting it to 2 returns Pages and all top level objects on each page. Not setting this parameter returns all nodes.
+* **Depth** \(Advanced\) _\*\*_- Positive integer representing how deep into the document tree to traverse. For example, setting this to 1 returns only Pages, setting it to 2 returns Pages and all top level objects on each page. Not setting this parameter returns all nodes.
 * **Geometry** \(Advanced\) - Set to 'paths' to export vector data.
-* **Plugin Data** \(Advanced\) ****- A comma separated list of plugin IDs and/or the string 'shared'. Any data present in the document written by those plugins will be included in the result in the `pluginData` and `sharedPluginData` properties.
+* **Plugin Data** \(Advanced\) _\*\*_- A comma separated list of plugin IDs and/or the string 'shared'. Any data present in the document written by those plugins will be included in the result in the `pluginData` and `sharedPluginData` properties.
 
 ### [GET File Nodes](https://www.figma.com/developers/api#get-file-nodes-endpoint)
 
@@ -164,25 +165,25 @@ Returns the information corresponding to the authenticated user.
 
 ### File Key
 
-To find the key for the file you want to work with, open the file in Figma and obtain the key from the URL in your browser. For example, suppose you are looking for the key for your "UI Pieces" file. You should see a url like this in your browser:   
-  
+To find the key for the file you want to work with, open the file in Figma and obtain the key from the URL in your browser. For example, suppose you are looking for the key for your "UI Pieces" file. You should see a url like this in your browser:
+
 `https://www.figma.com/file/JY61PlSmmoRiEHvyrWa4bn/UI-Pieces`
 
 The file key is the portion of the portion of the URL after `file/`: **JY61PlSmmoRiEHvyrWa4bn**
 
 ### **Team ID**
 
-Obtain a team ID by navigating to the team in Figma and extracting the ID from the URL. For example,  if you are a member of the "WayScript" team, you can navigate to that team in your browser and you should see a URL like this:  
-  
-`https://www.figma.com/files/team/757969426722171844/Wayscript`  
-  
-The team ID is the portion of the URL after `team/`:  **757969426722171844**
+Obtain a team ID by navigating to the team in Figma and extracting the ID from the URL. For example, if you are a member of the "WayScript" team, you can navigate to that team in your browser and you should see a URL like this:
+
+`https://www.figma.com/files/team/757969426722171844/Wayscript`
+
+The team ID is the portion of the URL after `team/`: **757969426722171844**
 
 ### **Project ID**
 
-Obtain a project ID by navigating to the project in Figma and extracting the ID from the URL. For example,  if you are viewing the "Script Editor" project, you should see a URL like this:  
-  
-`https://www.figma.com/files/project/4073612/Script-Editor`  
-  
-The project ID is the portion of the URL after `project/`:  **4073612**
+Obtain a project ID by navigating to the project in Figma and extracting the ID from the URL. For example, if you are viewing the "Script Editor" project, you should see a URL like this:
+
+`https://www.figma.com/files/project/4073612/Script-Editor`
+
+The project ID is the portion of the URL after `project/`: **4073612**
 

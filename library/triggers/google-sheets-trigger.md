@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamlessly integrate Google Sheets with your favorite APIs, databases, and
+  programming languages, using WayScript.
+---
+
 # Google Sheets Trigger
 
 ![Run your program when a Google Sheet changes.](../../.gitbook/assets/google_sheets.png)

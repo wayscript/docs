@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamlessly integrate Slack with your favorite APIs, databases, and programming
+  languages, using WayScript.
+---
+
 # Slack
 
 ![Slack is where work flows.](../../.gitbook/assets/slack%20%281%29.png)

@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamlessly integrate Slack with your favorite APIs, databases, and programming
+  languages, using WayScript.
+---
+
 # Slack Trigger
 
 ![Run your script when Slack events occur.](../../.gitbook/assets/slack.png)

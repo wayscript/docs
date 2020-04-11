@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamlessly integrate Giphy with your favorite APIs, databases, and programming
+  languages, using WayScript.
+---
+
 # Giphy
 
 ![GIPHY is your top source for the best &amp; newest GIFs &amp; Animated Stickers online.](../../.gitbook/assets/giphy.png)

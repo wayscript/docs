@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamlessly integrate CSV files with your favorite APIs, databases, and
+  programming languages, using WayScript.
+---
+
 # CSV
 
 ![Read and Write to CSV files.](../../.gitbook/assets/csv_reader.png)

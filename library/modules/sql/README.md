@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamlessly integrate your SQL queries and data with your favorite APIs and
+  programming languages, using WayScript.
+---
+
 # SQL
 
 ![Run queries against a SQL database.](../../../.gitbook/assets/sql.png)

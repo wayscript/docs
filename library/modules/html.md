@@ -1,3 +1,9 @@
+---
+description: >-
+  Easily create HTML files to display information from your favorite APIs,
+  databases, and programming languages, using WayScript.
+---
+
 # HTML
 
 ![Write HTML](../../.gitbook/assets/html_code.png)

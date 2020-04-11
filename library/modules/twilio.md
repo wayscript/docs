@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamlessly integrate Twilio text messaging with your favorite APIs, databases,
+  and programming languages, using WayScript.
+---
+
 # Twilio
 
 ![Send text messages.](../../.gitbook/assets/twilio.png)

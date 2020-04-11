@@ -38,7 +38,7 @@ These Triggers can be added only once anywhere within a script.
 
 * [Alexa Trigger](alexa-trigger.md)
 * [Google Assistant Trigger](google-assistant-trigger.md)
-* [Email Trigger](email-trigger.md)
+* [Email Trigger]()
 * [Text Message Trigger](text-message-trigger.md)
 
 ## ⚡ Activating Triggers

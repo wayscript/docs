@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamlessly integrate Mailchimp with your favorite APIs, databases, and
+  programming languages, using WayScript.
+---
+
 # Mailchimp
 
 ![Marketing automation platform and email marketing service.](../../.gitbook/assets/mailchimp.png)

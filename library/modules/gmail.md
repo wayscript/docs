@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamlessly integrate Gmail with your favorite APIs, databases, and programming
+  languages, using WayScript. (Coming Soon)
+---
+
 # Gmail
 
 ![Automate actions with Gmail.](../../.gitbook/assets/gmail.png)

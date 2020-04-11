@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamlessly integrate Open Weather Map with your favorite APIs, databases, and
+  programming languages, using WayScript.
+---
+
 # Weather API Trigger
 
 ![Run your script at sunrise and/or sunset in a given location.](../../.gitbook/assets/open_weather_map.png)

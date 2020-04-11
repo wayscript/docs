@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamlessly integrate Google Assistant with your favorite APIs, databases, and
+  programming languages, using WayScript.
+---
+
 # Google Assistant
 
 ![Have Google Assistant speak a phrase.](../../.gitbook/assets/google_assistant.png)

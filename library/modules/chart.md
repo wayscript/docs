@@ -1,3 +1,9 @@
+---
+description: >-
+  Easily create charts with data from your favorite APIs, databases, and
+  programming languages, using WayScript.
+---
+
 # Chart
 
 ![Make a Chart.](../../.gitbook/assets/chart.png)

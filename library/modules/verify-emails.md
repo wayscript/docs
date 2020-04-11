@@ -1,3 +1,7 @@
+---
+description: 'Easily verify that email addresses are valid, using WayScript.'
+---
+
 # Verify Emails
 
 ![Verify that an email address is valid.](../../.gitbook/assets/email_verifier.png)

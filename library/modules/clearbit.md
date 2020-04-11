@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamlessly integrate Clearbit with your favorite APIs, databases, and
+  programming languages, using WayScript.
+---
+
 # Clearbit
 
 ![Enrich your data with Clearbit.](../../.gitbook/assets/clearbit.png)

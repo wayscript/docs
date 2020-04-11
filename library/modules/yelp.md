@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamlessly integrate Yelp with your favorite APIs, databases, and programming
+  languages, using WayScript.
+---
+
 # Yelp
 
 ![Look up business information from Yelp.](../../.gitbook/assets/yelp%20%281%29.png)

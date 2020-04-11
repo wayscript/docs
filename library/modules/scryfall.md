@@ -1,3 +1,9 @@
+---
+description: >-
+  Seamlessly integrate Scryfall with your favorite APIs, databases, and
+  programming languages, using WayScript.
+---
+
 # Scryfall
 
 ![Search for Magic: The Gathering Cards](../../.gitbook/assets/scryfall.png)
