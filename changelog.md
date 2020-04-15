@@ -4,6 +4,11 @@ description: Updates and improvements to the WayScript platform.
 
 # What's New?
 
+## April 15th, 2020
+
+* Try our [New User Walkthrough](https://wayscript.com/ftu)! 
+* The [Github module](library/modules/github.md) now supports public and private organization repositories.
+
 ## April 8th, 2020
 
 * We have added a new [Figma](library/modules/figma.md) module to allow you to work with your Figma files, projects, comments, users, and more, with WayScript. 
