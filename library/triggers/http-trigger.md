@@ -127,6 +127,10 @@ curl -d '{"name":"Peter Parker"}' \
     https://10834.wayscript.com
 ```
 
+### 🔣 Raw Request Data
+
+The raw data sent to the HTTP Trigger endpoint.
+
 ## 🎓 Tutorial
 
 {% embed url="https://www.youtube.com/watch?reload=9&v=OrZMjdVhFfA&feature=youtu.be" caption="Standup a Web App on the Cloud in 1 Minute" %}

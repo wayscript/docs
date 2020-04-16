@@ -128,6 +128,10 @@ Form = {
 }
 ```
 
+### 🔣 Raw Request Data
+
+The raw form data submitted to the Form Trigger endpoint.
+
 ## 🎓 Tutorial
 
 {% embed url="https://www.youtube.com/watch?v=rO4gY4CzW2o" %}
