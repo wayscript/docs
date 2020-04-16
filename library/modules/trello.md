@@ -52,4 +52,6 @@ This will return up to 1000 of the most-recent cards on your Trello board.
 * Card Name
 * Card Description
 * Due Date for the Card
+* Attachment URL
+* Attachment Name
 
