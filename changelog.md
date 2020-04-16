@@ -7,7 +7,8 @@ description: Updates and improvements to the WayScript platform.
 ## April 15th, 2020
 
 * Try our [New User Walkthrough](https://wayscript.com/ftu)! 
-* The [Github module](library/modules/github.md) now supports public and private organization repositories.
+* The [Github module](library/modules/github.md) now supports public and private organization repositories. 
+* The [Form](library/triggers/form-trigger.md#raw-request-data) and [HTTP](library/triggers/http-trigger.md#raw-request-data) Triggers can now optionally output the raw data submitted to the trigger's endpoint.
 
 ## April 8th, 2020
 
