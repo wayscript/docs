@@ -1,26 +1,28 @@
 ---
-description: Email API
+description: >-
+  Seamlessly integrate SendGrid with your favorite APIs, databases, and
+  programming languages, using WayScript.
 ---
 
 # SendGrid
 
 
 
-![](../../.gitbook/assets/sendgrid.png)
+![SendGrid Email API](../../.gitbook/assets/sendgrid.png)
 
-## Authentication
+## 🔐 Authentication
 
 Click 'Add an Account' and enter a name for your Key and your SendGrid API Key.
 
-## Simple Email
+## 📧 Simple Email
 
 The simple email function allows you to send 'simple emails'. The **Email Body** TextArea accepts HTML. 
 
-#### Advanced
+### Advanced
 
 You can change the content type from HTML \(text/html\) to plaintext \(text/plain\)
 
-## Custom Input \(Advanced\)
+## 📩 Custom Input \(Advanced\)
 
 SendGrid can accept highly custom email inputs. You are able to pass a Struct Variable to SendGrid with any data you want. 
 
