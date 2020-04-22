@@ -28,3 +28,13 @@ Select an existing JSON file or create a new file.
 
 Select the variable you would like written to the file, using JSON format.
 
+## 🧶 Parse String
+
+### 📥 Inputs
+
+Input the string you would like to parse.
+
+### 📤 Outputs
+
+* **Struct** - The JSON string parsed into a WayScript struct variable.
+
