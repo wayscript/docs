@@ -32,7 +32,7 @@ Select the variable you would like written to the file, using JSON format.
 
 ### 📥 Inputs
 
-Input the string you would like to parse.
+Input the JSON string you would like to parse.
 
 ### 📤 Outputs
 
