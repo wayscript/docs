@@ -1,7 +1,7 @@
 ---
 description: >-
-  Seamlessly integrate JSON files with your favorite APIs, databases, and
-  programming languages, using WayScript.
+  Seamlessly integrate JSON with your favorite APIs, databases, and programming
+  languages, using WayScript.
 ---
 
 # JSON
