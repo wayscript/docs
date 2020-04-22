@@ -6,7 +6,7 @@ description: >-
 
 # JSON
 
-![Read and Write .JSON Files](../../.gitbook/assets/json_module.png)
+![Work with JSON](../../.gitbook/assets/json_module.png)
 
 ## 👓 Read File
 
