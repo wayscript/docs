@@ -4,6 +4,11 @@ description: Updates and improvements to the WayScript platform.
 
 # What's New?
 
+## 🌎 April 22nd, 2020
+
+* The [Trello module](library/modules/trello.md) now allows you to [add an attachment](library/modules/trello.md#update-a-card) when creating a Trello card, [search](library/modules/trello.md#search-for-a-card) your Trello cards, and [update](library/modules/trello.md#update-a-card) a Trello card. 
+* The [JSON module](library/modules/json.md) has a new [Parse String](library/modules/json.md#parse-string) mode, which allows you to convert a JSON string into a [WayScript struct variable](getting_started/variables.md#struct).
+
 ## April 15th, 2020
 
 * Try our [New User Walkthrough](https://wayscript.com/ftu)! 

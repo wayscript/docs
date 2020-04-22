@@ -36,5 +36,5 @@ Input the string you would like to parse.
 
 ### 📤 Outputs
 
-* **Struct** - The JSON string parsed into a WayScript struct variable.
+* **Struct** - The JSON string parsed into a [WayScript struct variable](../../getting_started/variables.md#structs).
 
