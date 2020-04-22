@@ -55,3 +55,30 @@ This will return up to 1000 of the most-recent cards on your Trello board.
 * Attachment URL
 * Attachment Name
 
+## 🖋 Update a Card
+
+Input the ID of the card you would like to update. \(The ID can be obtained by [searching for a card](trello.md#search-for-a-card), or [getting cards from a board](trello.md#get-cards-from-a-board) in a previous Trello step.\)
+
+### 📥 Inputs
+
+* Card Name
+* Card Description
+* Attachment URL
+* Attachment Name
+
+## 🔎 Search for a Card
+
+1. Select the board you want to search.
+2. Input a search term. The card name must start with this term in order to match the query.
+
+### 📤 Outputs
+
+* Card Names
+* Card IDs
+* Card Descriptions
+* Card Lists
+
+{% hint style="info" %}
+This will return up to 1000 matching cards.
+{% endhint %}
+
