@@ -24,14 +24,9 @@ description: >-
 1. **Use JSON -** Defaults to True.
 2. **Fetch Schema from Transport -** Defaults to True.
 3. **Number of Retries** - Defaults to 3
-
    1. **Options:** 0, 1, 2 ,3
-
-   \*\*\*\*
 
 ## **Output**
 
 1. **Response -** A struct will return with the JSON response from your API query. 
-
-##  ****
 
