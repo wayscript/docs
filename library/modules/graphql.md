@@ -1,10 +1,12 @@
 ---
-description: Execute queries against a graphQL API.
+description: >-
+  Seamlessly integrate GraphQL with your favorite APIs, databases, and
+  programming languages, using WayScript.
 ---
 
 # GraphQL
 
-![](../../.gitbook/assets/graphql.png)
+![Execute queries against a GraphQL API.](../../.gitbook/assets/graphql.png)
 
 ## Inputs
 
