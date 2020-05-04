@@ -82,6 +82,7 @@
   * [Google Assistant](library/modules/google-assistant.md)
   * [Google Calendar](library/modules/google-calendar.md)
   * [Google Sheets](library/modules/google-sheets.md)
+  * [GraphQL](library/modules/graphql.md)
   * [Hacker News](library/modules/hackernews.md)
   * [HTML](library/modules/html.md)
   * [HTTP Response](library/modules/http-response.md)
