@@ -4,6 +4,10 @@ description: Updates and improvements to the WayScript platform.
 
 # What's New?
 
+## May 7th, 2020
+
+* [GraphQL](library/modules/graphql.md) for API queries is now available as a coding language.
+
 ## April 29th, 2020
 
 * You can now use the [SendGrid](library/modules/sendgrid.md) module to send marketing emails! 
