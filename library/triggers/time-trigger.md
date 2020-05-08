@@ -29,6 +29,10 @@ If you select the **weekly frequency**, you will have an option to choose a day 
 If you select the **monthly frequency**, you will have an option to choose a day of the month and a time of day for your script to run.
 
 {% hint style="info" %}
+The Time Trigger is automatically set to your local timezone. 
+{% endhint %}
+
+{% hint style="info" %}
 If you select the 29th, 30th, or 31st, your script will not run on months with fewer than that number of days. **Use the "Last Day" option if you would like your script to run at the end of each month.**
 {% endhint %}
 
