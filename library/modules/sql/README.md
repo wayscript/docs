@@ -29,7 +29,7 @@ You must supply the following information in order to connect to your database:
 * **Database Type**: MySQL, SQL Server, or PostgreSQL.
 * **Endpoint**: The publicly accessible URL for your database.
 * **Port**: The port where your database instance accepts connections.
-  * Defaults are **`3306`** for MySQL, **`1430`** for SQL Server, and **`5432`** for PostgreSQL.
+  * Defaults are **`3306`** for MySQL, **`1433`** for SQL Server, and **`5432`** for PostgreSQL.
 * **Database Name**: The name of the database you want to run the query against.
 * **User**: The username to use to connect to the database.
 * **Password**: The corresponding password for the specified user.
