@@ -48,6 +48,10 @@ from datetime import datetime
 variables[ "Date" ] = str( datetime.today() )
 ```
 
+{% hint style="warning" %}
+WayScript outputs can only be data structures such as string, lists, dictionaries, etc. but can not be class objects.
+{% endhint %}
+
 ## ▶ Running Python
 
 While working on your script, you can press the "Run Code" button inside the Python module to run the Python code and see updated results.
