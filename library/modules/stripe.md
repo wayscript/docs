@@ -104,6 +104,31 @@ Account_Charges = {
 }
 ```
 
+### 📌 View Events
+
+Outputs a list of events.
+
+```graphql
+Account_Events = {
+    data : [
+        {
+            id : String,
+            object : String,
+            api_version : Float,
+            created : String,
+            object_id : String,
+            object_object : String,
+            object_amount : Float,
+            object_client_secret : String,
+            object_created : String,
+            object_currency : String,
+            object_flow : String,
+            object_livemode : Bool
+        }
+    ]
+}
+```
+
 ## 🎓 Tutorial
 
 {% embed url="https://www.youtube.com/watch?v=Upi-Z7E5H20" %}
