@@ -17,6 +17,7 @@
 * [Sharing](getting_started/sharing.md)
 * [Helpful Settings](getting_started/helpful-settings.md)
 * [Feedback and Bug Reporting](getting_started/feedback-bug-reporting.md)
+* [Power Users](getting_started/power-users.md)
 
 ## Library
 
