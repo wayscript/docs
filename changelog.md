@@ -4,6 +4,10 @@ description: Updates and improvements to the WayScript platform.
 
 # What's New?
 
+## June 10th, 2020
+
+* You can [output events](library/modules/stripe.md#view-events) from the [Stripe](library/modules/stripe.md) module.
+
 ## May 7th, 2020
 
 * [GraphQL](library/modules/graphql.md) for API queries is now available as a coding language.
