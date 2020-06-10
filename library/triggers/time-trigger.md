@@ -47,3 +47,11 @@ If you select the "Custom" option for Run Frequency, you will be able to use [Cr
 3. Schedule your script to run every 15 minutes: `*/15 * * * *`
 4. Schedule your script to run every 4 hours: `0 */4 * * *`
 
+{% hint style="info" %}
+Crontab triggers will run using the UTC timezone.
+{% endhint %}
+
+{% hint style="info" %}
+Free accounts are limited to one run per hour. Setting your crontab to a frequency shorter than that will not work. [Contact us](https://wayscript.com/contact) if you'd like to upgrade your account to increase this frequency.
+{% endhint %}
+
