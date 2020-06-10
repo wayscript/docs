@@ -52,6 +52,6 @@ Crontab triggers will run using the UTC timezone.
 {% endhint %}
 
 {% hint style="info" %}
-Free accounts are limited to one run per hour. Setting your crontab to a frequency shorter than that will not work. [Contact us](https://wayscript.com/contact) if you'd like to upgrade your account to increase this frequency.
+Scripts in free accounts are limited to one run per hour. Setting your crontab to a frequency shorter than that will not work. [Contact us](https://wayscript.com/contact) if you'd like to upgrade your account to increase this frequency.
 {% endhint %}
 
