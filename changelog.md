@@ -6,7 +6,7 @@ description: Updates and improvements to the WayScript platform.
 
 ## June 10th, 2020
 
-* You can [output events](library/modules/stripe.md#view-events) from the [Stripe](library/modules/stripe.md) module.
+* You can now [output events](library/modules/stripe.md#view-events) from the [Stripe](library/modules/stripe.md) module.
 
 ## May 7th, 2020
 
