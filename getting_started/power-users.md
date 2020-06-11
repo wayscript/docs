@@ -26,6 +26,10 @@ description: 'Tips, tricks, and features for building scripts even faster'
 {% endtab %}
 {% endtabs %}
 
+## Variable Wildcards
+
+The asterisk \(wildcard\) character can be using within variable pills to reformat data. For example, imagine you have a list of tweets called `Tweets`, but instead want a list of the username associated with each  tweet. You could create a pill `Tweets.*.username`, which would build a list by pulling the `username` key from each tweet item. The wildcard here would be replaced with each possible value within the Tweets list to build the resulting list, ie `Tweets.0.username`, `Tweets.1.username`, etc.
+
 ## Editor Power Features
 
 ### Create Variable Shortcut
