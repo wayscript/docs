@@ -1,5 +1,7 @@
 ---
-description: Business Productivity Software designed to speed up your work tasks.
+description: >-
+  Seamlessly integrate Jira with your favorite APIs, databases, and programming
+  languages, using WayScript.
 ---
 
 # Jira
@@ -173,8 +175,6 @@ thumbnail     :   Url,
     ]
 ```
 
-
-
 ### 📤 Output - Issue Subtasks
 
 ```graphql
@@ -194,8 +194,6 @@ outward_issue_status  :   String,
     ]
 ```
 
-
-
 ### 📤 Output - Issue Descriptions
 
 ```graphql
@@ -207,8 +205,6 @@ text  :   String,
 }
     ]
 ```
-
-
 
 ### 📤 Output - Issue Projects
 
@@ -234,8 +230,6 @@ last_issue_update_time    :   String,
 }
 ```
 
-
-
 ### 📤 Output - Issue Comments
 
 ```graphql
@@ -251,8 +245,6 @@ author_text           :   String,
 }
                         ]
 ```
-
-
 
 ### 📤 Output - Issue Links
 

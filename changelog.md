@@ -4,6 +4,10 @@ description: Updates and improvements to the WayScript platform.
 
 # What's New?
 
+## June 17th, 2020
+
+* We have added a [Jira](library/modules/jira.md) module for automating work tasks and issues.
+
 ## June 10th, 2020
 
 * You can now [output events](library/modules/stripe.md#view-events) from the [Stripe](library/modules/stripe.md) module.
