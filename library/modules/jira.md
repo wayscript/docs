@@ -134,7 +134,7 @@ favourited_count   :   Float,
 ### 📤 Output - Issue Watchers
 
 ```graphql
-Application_Roles = [
+Issue_Watchers = [
                        {
                        
 self          :   Url,
@@ -145,7 +145,133 @@ active        :   String,
         ]
 ```
 
+### 📤 Output - Issue Attachments
+
+```graphql
+Issue_Attachments = [
+                       {
+                       
+id            :   String,
+self          :   Url,
+file_name     :   String,
+author        :   Url,
+author_key           :   String,
+author_account_id    :   String,
+author_name          :   String,
+avatar_url_48 :   Url,
+avatar_url_24 :   Url,
+avatar_url_16 :   Url,
+avatar_url_32 :   Url,
+display_name  :   String,
+active        :   String,
+created       :   String,
+size          :   Float,
+mime_type     :   String,
+content       :   Url,
+thumbnail     :   Url,
+                       }
+    ]
+```
 
 
 
+### 📤 Output - Issue Subtasks
+
+```graphql
+Issue_Subtasks = [
+                       {
+                       
+id            :   Float,
+type_id       :   Float,
+type_name     :   String,
+type_inward   :   String,
+type_outward  :   String,
+outward_issue_id      :   Float,
+outward_issue_key     :   String,
+outward_issue_self    :   Url,
+outward_issue_status  :   String,
+}
+    ]
+```
+
+
+
+### 📤 Output - Issue Descriptions
+
+```graphql
+Issue_Descriptions = [
+                       {
+                       
+type  :   String,
+text  :   String,
+}
+    ]
+```
+
+
+
+### 📤 Output - Issue Projects
+
+```graphql
+Issue_Project = {
+                       
+self                      :   Url,
+id                        :   Float,
+key                       :   String,
+name                      :   String,
+project_avatar_url_48     :   Url,
+project_avatar_url_24     :   Url,
+project_avatar_url_16     :   Url,
+project_avatar_url_32     :   Url,
+project_category          :   Url,
+project_id                :   Float,
+project_name              :   String,
+project_description       :   String,
+simplified                :   String,
+style                     :   String,
+total_issue_count         :   Float,
+last_issue_update_time    :   String,
+}
+```
+
+
+
+### 📤 Output - Issue Comments
+
+```graphql
+Issue_Comments = [
+ {
+self                  :   String,
+id                    :   Float,
+author                :   Url,
+author_acc_id         :   String,
+author_display_name   :   String,
+author_active         :   String,
+author_text           :   String,
+}
+                        ]
+```
+
+
+
+### 📤 Output - Issue Links
+
+```graphql
+Issue_Links = [
+ {
+id                        :   String,
+type_id                   :   Float,
+type_name                 :   String,
+type_inward               :   String,
+type_outward              :   String,
+outward_issue_id          :   String,
+outward_issue_key         :   String,
+outward_issue             :   Url,
+outward_issue_status      :   String,
+inward_issue_id           :   Float,
+inward_issue_key          :   String,
+inward_issue              :   Url,
+inward_issue_status       :   String,
+}))))
+```
 
