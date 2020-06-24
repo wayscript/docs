@@ -30,3 +30,38 @@ description: >-
 
 1. **Response -** A struct will return with the JSON response from your API query. 
 
+## Example
+
+* Some example GraphQL APIs can be found in this [Github repository](https://github.com/APIs-guru/graphql-apis).
+
+Using the API URL found [here](https://countries-274616.ew.r.appspot.com), we can access country calling codes with a GraphQl like:
+
+```text
+query {
+      CallingCode {
+        name
+        countries {
+          name
+        }
+      }
+    }
+```
+
+Which would return a response like this:
+
+```text
+{ "CallingCode": [
+    { "name" : Int Type,
+    "Countries" : [
+     {
+    "name" : String Type
+    }
+   ]
+  }
+ ]
+}
+    
+```
+
+A public script using this can be found [here](https://wayscript.com/user/derricks/S_qrNUw8).
+
