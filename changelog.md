@@ -4,6 +4,13 @@ description: Updates and improvements to the WayScript platform.
 
 # What's New?
 
+## June 25th, 2020
+
+* We have added a new [Debug Mode](getting_started/debugging.md) that allows you to step through your script!
+* Trello "[Create a New Card](library/modules/trello.md#create-a-new-card)" mode has a new [Card ID](library/modules/trello.md#outputs-2) output, so you can work with the new card later in your script.
+
+![Stepping through a script in Debug Mode](.gitbook/assets/stepping-1-.gif)
+
 ## June 17th, 2020
 
 * We have added a [Jira](library/modules/jira.md) module for automating work tasks and issues.

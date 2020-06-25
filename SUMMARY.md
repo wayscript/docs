@@ -2,6 +2,7 @@
 
 * [About](README.md)
 * [What's New?](changelog.md)
+* [FAQ](https://wayscript.com/faq)
 
 ## Getting Started <a id="getting_started"></a>
 
@@ -15,6 +16,7 @@
 * [Functions](getting_started/functions.md)
 * [Code Editors](getting_started/code-editors.md)
 * [Sharing](getting_started/sharing.md)
+* [Debugging](getting_started/debugging.md)
 * [Helpful Settings](getting_started/helpful-settings.md)
 * [Feedback and Bug Reporting](getting_started/feedback-bug-reporting.md)
 * [Power Users](getting_started/power-users.md)
