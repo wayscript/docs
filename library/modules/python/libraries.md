@@ -1,5 +1,5 @@
 ---
-description: WayScript is running Python 3.7
+description: WayScript is running Python 3.8
 ---
 
 # Python Libraries
@@ -276,6 +276,7 @@ option.add_argument('--no-sandbox')`
 * [requests-file](https://github.com/dashea/requests-file)
 * [requests-oauthlib](https://requests-oauthlib.readthedocs.io/en/latest/)
 * [requests-toolbelt](https://toolbelt.readthedocs.io/en/latest/)
+* [rfc3986](https://rfc3986.readthedocs.io/en/latest/)
 * [rollbar](https://docs.rollbar.com/docs/python)
 * [rsa](https://stuvel.eu/rsa)
 * [ruamel.yaml](https://yaml.readthedocs.io/en/latest/)
@@ -310,6 +311,7 @@ option.add_argument('--no-sandbox')`
 * [testtable](https://pypi.org/project/testtable/)
 * [textblob](https://textblob.readthedocs.io/en/dev/)
 * [texttable](https://github.com/foutaise/texttable/)
+* [threadpoolctl](https://github.com/joblib/threadpoolctl)
 * [tinysegmenter](http://tinysegmenter.tuxfamily.org/)
 * [tldextract](https://github.com/john-kurkowski/tldextract)
 * [toml](https://github.com/uiri/toml)
@@ -356,5 +358,6 @@ option.add_argument('--no-sandbox')`
 * [yarl](https://yarl.readthedocs.io/en/latest/)
 * [yfinance](https://github.com/ranaroussi/yfinance)
 * [zipp](https://github.com/jaraco/zipp)
+* [zope.event](https://github.com/zopefoundation/zope.event)
 * [zope.interface](https://github.com/zopefoundation/zope.interface)
 
