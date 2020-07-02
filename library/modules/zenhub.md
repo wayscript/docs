@@ -1,7 +1,7 @@
 ---
 description: >-
-  Integrate the GitHub issue handling software ZenHub with dozens of your
-  favorite services.
+  Seamlessly integrate the GitHub issue handling software, ZenHub, with your
+  favorite APIs, databases, and programming languages, using WayScript.
 ---
 
 # ZenHub
@@ -23,21 +23,22 @@ You will need:
 
 * Issue \#
 
-**📤 Outputs**
+\*\*\*\*📤 **Outputs**
 
 ```graphql
 issue_data = {
-plus_ones :   [ string, ],
-is_epic   :   Bool,
-pipelines :   [ {
-name          :   String,
-pipeline_id   :   String,
-workspace_id  :   String,
-} ],
-pipeline      :   {
-name          :   String,
-pipeline_id   :   String,
-workspace_id  :   String,
+    plus_ones :   [ string, ],
+    is_epic   :   Bool,
+    pipelines :   [ {
+        name          :   String,
+        pipeline_id   :   String,
+        workspace_id  :   String,
+    } ],
+    pipeline      :   {
+        name          :   String,
+        pipeline_id   :   String,
+        workspace_id  :   String,
+    }
 }
 ```
 
@@ -47,29 +48,28 @@ workspace_id  :   String,
 
 * Issue \#
 
-**📤 Outputs**
+\*\*\*\*📤 **Outputs**
 
 ```graphql
 issue_events = [ {
-user_id           :   Int,
-type              :   String,
-created_at        :   String,
-workspace_id      :   String,
-from_estimate     :   {
-value             :   Float,
-},
-to_estimate       :   {
-value             :   Float( ),
-},
-from_pipeline     :   {
-name              :   String,
-},
-to_pipeline       :   {
-name              :   String,
+    user_id           :   Int,
+    type              :   String,
+    created_at        :   String,
+    workspace_id      :   String,
+    from_estimate     :   {
+        value             :   Float,
+    },
+    to_estimate       :   {
+        value             :   Float( ),
+    },
+    from_pipeline     :   {
+        name              :   String,
+    },
+    to_pipeline       :   {
+        name              :   String,
+    }
 } ]
 ```
-
-
 
 ### 🔢 Set Issue Estimate
 
@@ -78,15 +78,13 @@ name              :   String,
 * Issue \#
 * estimate 
 
-**📤 Outputs**
+\*\*\*\*📤 **Outputs**
 
 A 444 response code is used for testing and demo modes.  A 200 response code would indicate a successful set estimate. 
 
 ```graphql
 response_code = int
 ```
-
-
 
 ### 🔢 Get Epic Data
 
@@ -97,41 +95,31 @@ response_code = int
 **📤 Outputs**
 
 ```graphql
-epic_data = 
-total_epic_estimates  : {
-value                 : Int,
-},
-estimate              : {
-value                 : Int
-},
-pipeline              : {
-workspace_id          : String,
-name                  : String,
-pipeline_id           : String
-},
-pipelines             : [ {
-workspace_id          : String,
-name                  : String,
-pipeline_id           : String
-} ],
-issues                : [ {
-issue_number          : Int,
-is_epic               : String,
-repo_id               : Int,
-estimate: {
-value     : Int
-},
-pipelines             : [ {
-workspace_id          : String
-name                  : String
-pipeline_id           : String
-} ],
-pipeline              : {
-workspace_id          : StringT,
-name                  : String,
-pipeline_id           : String
-                              }
-                            } ]
-                        }
+epic_data = {
+    total_epic_estimates  : {
+        value                 : Int,
+    },
+    estimate              : {
+        value                 : Int
+    },
+    pipeline              : {
+        workspace_id          : String,
+        name                  : String,
+        pipeline_id           : String
+    },
+    pipelines             : [ {
+        workspace_id          : String,
+        name                  : String,
+        pipeline_id           : String
+    } ],
+    issues                : [ {
+        issue_number          : Int,
+        is_epic               : String,
+        repo_id               : Int,
+        estimate: {
+        value     : Int
+        },
+    } ]
+}
 ```
 
