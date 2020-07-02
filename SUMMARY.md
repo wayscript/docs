@@ -137,6 +137,7 @@
   * [Yellow Pages](library/modules/yellow-pages.md)
   * [Yelp](library/modules/yelp.md)
   * [YouTube](library/modules/youtube.md)
+  * [ZenHub](library/modules/zenhub.md)
   * [Zillow](library/modules/zillow.md)
 
 ## APIs
