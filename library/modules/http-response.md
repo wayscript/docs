@@ -18,9 +18,17 @@ HTTP Response only works if the function was started by a [HTTP Trigger](../trig
 
 ![](../../.gitbook/assets/screen-shot-2019-11-12-at-8.16.02-pm.png)
 
-You can set the response code. The default is 200, which indicates that the request was successful. You can also return a redirect code \(301\), which will allow you to redirect to a different endpoint.
+### Response Types
 
-Next, set the response type. The default is [HTML](html.md), but you can also return JSON data to implement a REST API.
+#### Success \(200\)
 
-Finally, set the content that you want to return in the "Response Content" field.
+The default is 200, which indicates that the request was successful. Under 'Response Type', you can choose between HTML or JSON. For HTML, you can return [HTML](html.md#outputs), [variables](../../getting_started/variables.md) or raw text in the 'Response Content' field. For JSON, you must select a [Struct variable](../../getting_started/variables.md#structs). 
+
+#### Redirect \(301\)
+
+You can pass a URL, which will allow you to redirect to a different endpoint.
+
+#### File Download
+
+In this mode, you can select a file from your account. This response will download the selected file to the users machine. 
 
