@@ -30,5 +30,5 @@ You can pass a URL, which will allow you to redirect to a different endpoint.
 
 #### File Download
 
-In this mode, you can select a file from your account. This response will download the selected file to the users machine. 
+In this mode, you can select a file from your account. This response will download the selected file to the user's machine. 
 
