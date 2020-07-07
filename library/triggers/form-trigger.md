@@ -16,6 +16,10 @@ You can add a title and description to your form to create context for your user
 
 Once your trigger is activated, you can press the '**View Form**' button to be taken to the live, public endpoint for your form. This form can be shared with others you want to use your form. 
 
+{% hint style="info" %}
+Form Descriptions support markdown!
+{% endhint %}
+
 ### Adding Form Inputs
 
 {% hint style="info" %}
