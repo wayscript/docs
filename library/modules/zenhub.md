@@ -1,6 +1,6 @@
 ---
 description: >-
-  Seamlessly integrate the GitHub issue handling software, ZenHub, with your
+  Seamlessly integrate the GitHub issue management software, ZenHub, with your
   favorite APIs, databases, and programming languages, using WayScript.
 ---
 

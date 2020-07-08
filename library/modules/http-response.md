@@ -22,13 +22,13 @@ HTTP Response only works if the function was started by a [HTTP Trigger](../trig
 
 #### Success \(200\)
 
-The default is 200, which indicates that the request was successful. Under 'Response Type', you can choose between HTML or JSON. For HTML, you can return [HTML](html.md#outputs), [variables](../../getting_started/variables.md) or raw text in the 'Response Content' field. For JSON, you must select a [Struct variable](../../getting_started/variables.md#structs). 
+The default is 200, which indicates that the request was successful. Under 'Response Type', you can choose between HTML, JSON, or File Download.
+
+* For **HTML**, you can return [HTML](html.md#outputs), [variables](../../getting_started/variables.md) or raw text in the 'Response Content' field.
+* For **JSON**, you must select a [Struct variable](../../getting_started/variables.md#structs).
+* For **File Download**, you can select a file from your account. This response will download the selected file to the user's machine.
 
 #### Redirect \(301\)
 
 You can pass a URL, which will allow you to redirect to a different endpoint.
-
-#### File Download
-
-In this mode, you can select a file from your account. This response will download the selected file to the user's machine. 
 

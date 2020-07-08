@@ -4,6 +4,11 @@ description: Updates and improvements to the WayScript platform.
 
 # What's New?
 
+## July 7th, 2020
+
+* We have added a [File Download](library/modules/http-response.md#success-200) response to the [HTTP Response](library/modules/http-response.md) module, so you can return files from your custom endpoints, which will be downloaded to the calling user's machine. 
+* There is a new [ZenHub](library/modules/zenhub.md) module, for integrating with the GitHub issue management software.
+
 ## June 25th, 2020
 
 * We have added a new [Debug Mode](getting_started/debugging.md) that allows you to step through your script! 
