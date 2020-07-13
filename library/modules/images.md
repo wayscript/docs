@@ -6,7 +6,7 @@ description: >-
 
 # Images
 
-![Add images to your script.](../../.gitbook/assets/images.png)
+![Add images to your script.](../../.gitbook/assets/images%20%281%29.png)
 
 ## 🖼 Upload an Image
 
