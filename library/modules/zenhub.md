@@ -123,3 +123,27 @@ epic_data = {
 }
 ```
 
+
+
+### 🔢 Get Release Reports
+
+#### 📥 Inputs <a id="inputs"></a>
+
+* Release I.D. String
+
+**📤 Outputs**
+
+```graphql
+release_report = {
+release_id          : String,
+title               : String,
+description         : String,
+start_date          : String,
+desired_end_date    : String,
+created_at          : String,
+closed_at           : String,
+state               : String,
+repositories        : [ String ]
+     }
+```
+
