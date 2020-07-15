@@ -135,15 +135,15 @@ epic_data = {
 
 ```graphql
 release_report = {
-release_id          : String,
-title               : String,
-description         : String,
-start_date          : String,
-desired_end_date    : String,
-created_at          : String,
-closed_at           : String,
-state               : String,
-repositories        : [ String ]
-     }
+    release_id          : String,
+    title               : String,
+    description         : String,
+    start_date          : String,
+    desired_end_date    : String,
+    created_at          : String,
+    closed_at           : String,
+    state               : String,
+    repositories        : [ String ]
+}
 ```
 

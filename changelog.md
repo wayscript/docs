@@ -4,6 +4,11 @@ description: Updates and improvements to the WayScript platform.
 
 # What's New?
 
+## July 15th, 2020
+
+* [Form descriptions](library/triggers/form-trigger.md#title-and-description) now support markdown! 
+* The [ZenHub](library/modules/zenhub.md) module has a new "[Release Report](library/modules/zenhub.md#get-release-reports)" mode.
+
 ## July 7th, 2020
 
 * We have added a [File Download](library/modules/http-response.md#success-200) response to the [HTTP Response](library/modules/http-response.md) module, so you can return files from your custom endpoints, which will be downloaded to the calling user's machine. 
