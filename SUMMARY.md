@@ -91,6 +91,7 @@
   * [HTTP Response](library/modules/http-response.md)
   * [Hunter.io](library/modules/hunter.io.md)
   * [Images](library/modules/images.md)
+  * [Java](library/modules/java.md)
   * [JavaScript](library/modules/javascript.md)
   * [Jira](library/modules/jira.md)
   * [JSON](library/modules/json.md)
