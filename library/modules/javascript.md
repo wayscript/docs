@@ -14,6 +14,12 @@ description: >-
 See [Code Editors](../../getting_started/code-editors.md) for more information on composing code in WayScript.
 {% endhint %}
 
+{% hint style="info" %}
+If you want to export your JS code \(for example to embed in HTML\) but do not want the code to execute, you should uncheck the 'Run Code' checkbox. 
+{% endhint %}
+
+
+
 ## ![](../../.gitbook/assets/create_var.png)Working with Variables
 
 ###  📥 Inputs
