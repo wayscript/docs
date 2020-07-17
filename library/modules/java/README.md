@@ -66,14 +66,14 @@ To run a Java class, the file name _must_ match the class name, and the class _m
 
 ## 📦 Adding Additional Maven Dependencies
 
-The Java module comes with [many pre-installed Java Packages](java-packages.md#available-java-packages). However, if you would like to use a package that isn't already installed, you can declare those in the "Dependencies" tab.
+The Java module comes with [many pre-installed Java Packages](packages.md#available-java-packages). However, if you would like to use a package that isn't already installed, you can declare those in the "Dependencies" tab.
 
 WayScript uses [Maven](https://mvnrepository.com/) to install dependencies. Declare these dependencies as you would any [mvn dependency](https://maven.apache.org/ref/3.6.3/maven-model/maven.html#class_dependency), in the format of `groupId:artifactId:version`, e.g. `org.apache.maven:maven-artifact:3.2.1`, placing one dependency on each line.
 
 ![](../../../.gitbook/assets/screen-shot-2020-07-16-at-4.54.47-pm.png)
 
 {% hint style="info" %}
-For faster code execution, only add dependencies that aren't already [pre-installed](java-packages.md#available-java-packages) in the Java module.
+For faster code execution, only add dependencies that aren't already [pre-installed](packages.md#available-java-packages) in the Java module.
 {% endhint %}
 
 ## ↘ Using Code from Other Classes
