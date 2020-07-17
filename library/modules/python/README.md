@@ -34,6 +34,10 @@ More abstractly, you reference any variable with the format:
 var = variables[ "<var_name>" ] 
 ```
 
+{% hint style="info" %}
+Of course, you can always drag your WayScript variables into your Python code to reference them that way, as well.
+{% endhint %}
+
 ### 📤 Outputs
 
 You can also output data from your python scripts and turn these into variables that can be used by other [Modules](../../../getting_started/modules.md) in your program. 
@@ -49,7 +53,7 @@ variables[ "Date" ] = str( datetime.today() )
 ```
 
 {% hint style="warning" %}
-WayScript outputs can only be data structures such as string, lists, dictionaries, etc. but can not be class objects.
+WayScript outputs can only be data structures such as strings, lists, dictionaries, etc., but cannot be class objects.
 {% endhint %}
 
 ## ▶ Running Python
