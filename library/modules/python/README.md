@@ -35,7 +35,7 @@ var = variables[ "<var_name>" ]
 ```
 
 {% hint style="info" %}
-Of course, you can always drag your WayScript variables into your Python code to reference them that way, as well.
+You can drag your WayScript variables into your Python code to reference them that way, as well.
 {% endhint %}
 
 ### 📤 Outputs

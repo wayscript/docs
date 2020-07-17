@@ -38,10 +38,6 @@ More abstractly, you reference any variable with the format:
 Object var = WayScript.variables.get( "<var_name>" );
 ```
 
-{% hint style="info" %}
-Of course, you can always drag your WayScript variables into your Java code to reference them that way, as well.
-{% endhint %}
-
 ### 📤 Outputs
 
 You can also output data from your Java code and turn these into variables that can be used by other [Modules](../../../getting_started/modules.md) in your program.
