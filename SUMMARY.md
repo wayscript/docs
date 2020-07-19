@@ -117,6 +117,7 @@
   * [Scryfall](library/modules/scryfall.md)
   * [Send Email](library/modules/send-email.md)
   * [SendGrid](library/modules/sendgrid.md)
+  * [Shell Script](library/modules/shell-script.md)
   * [Slack](library/modules/slack.md)
   * [SMTP Email](library/modules/smtp-email.md)
   * [Spotify](library/modules/spotify.md)

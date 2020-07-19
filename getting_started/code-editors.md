@@ -4,7 +4,7 @@ description: WayScript allows you to write code to augment any script.
 
 # Code Editors
 
-The ability to include code steps in your script allows power-users ultimate flexibility. With WayScript, you can query your [SQL](../library/modules/sql/) database, manipulate data with [Python](../library/modules/python/) or [Java](../library/modules/java/), and even build a website with [JavaScript,](../library/modules/javascript.md) [HTML](../library/modules/html.md), and [CSS](../library/modules/css.md).
+The ability to include code steps in your script allows power-users ultimate flexibility. With WayScript, you can query your [SQL](../library/modules/sql/) database, manipulate data with [Python](../library/modules/python/) or [Java](../library/modules/java/), run a [shell script](../library/modules/shell-script.md), and even build a website with [JavaScript,](../library/modules/javascript.md) [HTML](../library/modules/html.md), and [CSS](../library/modules/css.md).
 
 {% hint style="info" %}
 Learn how to [build a website with WayScript.](https://www.youtube.com/watch?v=OrZMjdVhFfA&feature=youtu.be)
@@ -50,5 +50,6 @@ In the [Python](../library/modules/python/#importing-code-from-other-files) and 
 * [Java](../library/modules/java/)
 * [JavaScript](../library/modules/javascript.md)
 * [Python](../library/modules/python/)
+* [Shell Script](../library/modules/shell-script.md)
 * [SQL](../library/modules/sql/)
 
