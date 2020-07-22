@@ -4,6 +4,15 @@ description: Updates and improvements to the WayScript platform.
 
 # What's New?
 
+## July 22nd, 2020
+
+* New code modules are available!
+
+  * ![](.gitbook/assets/java_code.png) We have added support for [Java](library/modules/java/) to our [Programming Language](getting_started/code-editors.md) offerings!
+  * ![](.gitbook/assets/shell_script%20%281%29.png) We have also added a [Shell Script](library/modules/shell-script.md) module, allowing you to run Bash shell scripts as part of your WayScript workflow.
+
+* Timezone is now configurable in the [Cron Trigger](library/triggers/time-trigger.md) settings, making it easier to schedule your scripts to run whenever you like.
+
 ## July 15th, 2020
 
 * [Form descriptions](library/triggers/form-trigger.md#title-and-description) now support markdown! 
