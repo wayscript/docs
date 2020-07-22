@@ -11,7 +11,7 @@ description: Updates and improvements to the WayScript platform.
   * ![](.gitbook/assets/java_code.png) We have added support for [Java](library/modules/java/) to our [Programming Language](getting_started/code-editors.md) offerings!
   * ![](.gitbook/assets/shell_script%20%281%29.png) We have also added a [Shell Script](library/modules/shell-script.md) module, allowing you to run Bash shell scripts as part of your WayScript workflow.
 
-* Timezone is now configurable in the [Cron Trigger](library/triggers/time-trigger.md) settings, making it easier to schedule your scripts to run whenever you like.
+* [Time Zone](library/triggers/time-trigger.md#select-a-time-zone) is now configurable in the [Time Trigger](library/triggers/time-trigger.md) settings, making it easier to schedule your scripts to run whenever you like.
 
 ## July 15th, 2020
 
