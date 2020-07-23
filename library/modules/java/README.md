@@ -26,13 +26,18 @@ As an example, let's create a variable called "Location" and set a value of "Bro
 
 ![](../../../.gitbook/assets/screen-shot-2020-07-16-at-3.50.52-pm.png)
 
-You can reference the Location variable in Java with this code:
+You can reference the String-type `Location` variable in Java with this code:
 
 ```java
-String location = WayScript.variables.get( "Location" );
+// Since all WayScript variables are Java Objects,
+// call "toString" to convert to a String representation
+String location = WayScript.variables.get( "Location" ).toString();
+
+// Or cast to a String, if you know it's a string variable
+String location = (String)WayScript.variables.get( "Location" );
 ```
 
-More abstractly, you reference any variable with the format:
+More abstractly, you reference a variable of any type by declaring it as an Object:
 
 ```java
 Object var = WayScript.variables.get( "<var_name>" );
