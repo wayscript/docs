@@ -43,6 +43,12 @@ More abstractly, you reference a variable of any type by declaring it as an Obje
 Object var = WayScript.variables.get( "<var_name>" );
 ```
 
+{% hint style="info" %}
+You can cast your variables to other types as well, depending on the type of the variable, as declared in WayScript. For example, suppose you have a variable, "Length," that is a WayScript Float. You can consume that variable as a `Double` in your Java code by casting it as such:  
+  
+`Double var = (Double)WayScript.variables.get( "Length" );`
+{% endhint %}
+
 ### 📤 Outputs
 
 You can also output data from your Java code and turn these into variables that can be used by other [Modules](../../../getting_started/modules.md) in your program.
