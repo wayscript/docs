@@ -93,3 +93,7 @@ The `Foo` class and `bar` method will be available for use in `Main.java`:
 
 ![](../../../.gitbook/assets/screen-shot-2020-07-16-at-5.00.44-pm.png)
 
+## 🎓 Tutorial
+
+{% embed url="https://www.youtube.com/watch?v=AJ\_u7g9eH-Y" caption="Intro to Java Programming on WayScript" %}
+

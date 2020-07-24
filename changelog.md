@@ -13,6 +13,8 @@ description: Updates and improvements to the WayScript platform.
 
 * [Time Zone](library/triggers/time-trigger.md#select-a-time-zone) is now configurable in the [Time Trigger](library/triggers/time-trigger.md) settings, making it easier to schedule your scripts to run whenever you like.
 
+{% embed url="https://www.youtube.com/watch?v=AJ\_u7g9eH-Y" caption="Intro to Java Programming on WayScript" %}
+
 ## July 15th, 2020
 
 * [Form descriptions](library/triggers/form-trigger.md#title-and-description) now support markdown! 
