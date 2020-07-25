@@ -14,3 +14,13 @@ Once you select a function to call, the inputs and outputs for that function wil
 
 ![Function Inputs and Outputs](../../../.gitbook/assets/screen-shot-2019-07-16-at-12.55.52-pm.png)
 
+## 🔀 Running a Function Asynchronously
+
+The **Run Async** setting in the Function Call module allows you to asynchronously call a function that runs an "expensive" or long-running task.  
+  
+One common use-case for this setting is to immediately return a `200 Success` response from the [HTTP Response](../../modules/http-response.md) module, while performing a long-running task in the background, on another thread.
+
+{% hint style="warning" %}
+It is currently not possible to return outputs from an asynchronous function call.
+{% endhint %}
+
