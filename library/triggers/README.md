@@ -24,7 +24,7 @@ These Triggers can be added only once to each function.
 
 * [Discord Trigger](discord-trigger.md)
 * [GitHub Trigger](github-trigger.md)
-* [Gmail Trigger](gmail-trigger.md)
+* [Gmail Trigger]()
 * [Google Sheets Trigger](google-sheets-trigger.md)
 * [Salesforce Trigger](salesforce-trigger.md)
 * [Slack Trigger](slack-trigger.md)

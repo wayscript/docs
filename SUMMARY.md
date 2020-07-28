@@ -28,7 +28,6 @@
   * [Discord Trigger](library/triggers/discord-trigger.md)
   * [Form Trigger](library/triggers/form-trigger.md)
   * [GitHub Trigger](library/triggers/github-trigger.md)
-  * [Gmail Trigger](library/triggers/gmail-trigger.md)
   * [Google Assistant Trigger](library/triggers/google-assistant-trigger.md)
   * [Google Sheets Trigger](library/triggers/google-sheets-trigger.md)
   * [HTTP Trigger](library/triggers/http-trigger.md)

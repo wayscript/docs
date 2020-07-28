@@ -240,7 +240,7 @@ variables[ 'First_Output' ] = 'Testing'
 
 ## October 16th, 2019
 
-* Reply-to addresses are now available as an [output of the Gmail trigger](library/triggers/gmail-trigger.md#outputs).
+* Reply-to addresses are now available as an [output of the Gmail trigger]().
 
 ## October 8th, 2019
 
