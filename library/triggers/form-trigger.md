@@ -60,6 +60,23 @@ The Radio element behaves exactly like the [Selector](form-trigger.md#3-selector
 
 ![Radio button example](../../.gitbook/assets/screenshot-2020-02-18-11.49.15.png)
 
+#### 5\) File Upload
+
+The File Upload element allows users to attach and upload a file when submitting your form. You can choose between a pdf filter, or specify a custom list of file extensions you wish to allow users to upload.
+
+![File Upload Example](../../.gitbook/assets/screen-shot-2020-07-29-at-1.40.38-pm.png)
+
+The File Upload element will output a [Struct](../../getting_started/variables.md#structs) of the following form:
+
+```graphql
+File = {
+    filename  : String, 
+    bytes     : Bytes,
+    extension : String,
+    mimetype  : String,
+}
+```
+
 ### Advanced Inputs
 
 **CSS** - You can customize the CSS of your form for your own look and feel. 

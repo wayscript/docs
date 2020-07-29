@@ -4,6 +4,11 @@ description: Updates and improvements to the WayScript platform.
 
 # What's New?
 
+## July 29th, 2020
+
+* You can now choose to run your [Function Calls](library/logic/functions/function-call.md) asynchronously, using the [Run Async](library/logic/functions/function-call.md#running-a-function-asynchronously) setting. One common use-case for this setting is to immediately return a `200 Success` response from the [HTTP Response](library/modules/http-response.md) module, while performing a long-running task on a background thread. 
+* The [Form Trigger](library/triggers/form-trigger.md) now allows users to [upload and submit files](library/triggers/form-trigger.md#5-file-upload), which you can then use later in your script.
+
 ## July 22nd, 2020
 
 * New code modules are available!
