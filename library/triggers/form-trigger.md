@@ -62,7 +62,7 @@ The Radio element behaves exactly like the [Selector](form-trigger.md#3-selector
 
 #### 5\) File Upload
 
-The File Upload element allows users to attach and upload a file when submitting your form. You can choose between a pdf filter, or specify a custom list of file extensions you wish to allow users to upload.
+The File Upload element allows users to attach and upload a file when submitting your form. You can currently upload PDFs but more general file type support is coming soon.
 
 ![File Upload Example](../../.gitbook/assets/screen-shot-2020-07-29-at-1.40.38-pm.png)
 
