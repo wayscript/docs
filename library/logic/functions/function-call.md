@@ -24,3 +24,5 @@ One common use-case for this setting is to immediately return a `200 Success` re
 It is currently not possible to return outputs from an asynchronous function call.
 {% endhint %}
 
+{% embed url="https://www.youtube.com/watch?v=1\_GdSYwQZvs" caption="Learn how to Run Asynchronous Tasks in your WayScript Workflows" %}
+
