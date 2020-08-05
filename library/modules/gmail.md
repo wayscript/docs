@@ -1,7 +1,7 @@
 ---
 description: >-
   Seamlessly integrate Gmail with your favorite APIs, databases, and programming
-  languages, using WayScript. (Coming Soon)
+  languages, using WayScript.
 ---
 
 # Gmail

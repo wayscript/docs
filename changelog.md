@@ -4,6 +4,12 @@ description: Updates and improvements to the WayScript platform.
 
 # What's New?
 
+## August 5th, 2020
+
+* ![](.gitbook/assets/gmail.png) You can now use the [Gmail](library/modules/gmail.md) module to [send emails](library/modules/gmail.md#send-email) from your Gmail account. 
+* ![](.gitbook/assets/google.png) We have added the option to [Log in with Google](https://support.google.com/accounts/answer/112802), which will work with your existing WayScript email address, so long as it's associated with an existing Google account. 
+* JSON outputs are now structs. **This is possibly a breaking change, if you have referenced these outputs in a code module.**
+
 ## July 29th, 2020
 
 * You can now choose to run your [Function Calls](library/logic/functions/function-call.md) asynchronously, using the [Run Async](library/logic/functions/function-call.md#running-a-function-asynchronously) setting. One common use-case for this setting is to immediately return a `200 Success` response from the [HTTP Response](library/modules/http-response.md) module, while performing a long-running task on a background thread. 
