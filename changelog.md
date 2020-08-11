@@ -4,6 +4,10 @@ description: Updates and improvements to the WayScript platform.
 
 # What's New?
 
+## August 10th, 2020
+
+* We have added a Calendly module!
+
 ## August 5th, 2020
 
 * ![](.gitbook/assets/gmail.png) You can now use the [Gmail](library/modules/gmail.md) module to [send emails](library/modules/gmail.md#send-email) from your Gmail account. 
