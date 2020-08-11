@@ -4,9 +4,10 @@ description: Updates and improvements to the WayScript platform.
 
 # What's New?
 
-## August 10th, 2020
+## August 11th, 2020
 
-* We have added a Calendly module!
+* 🎉 WayScript raises $5M seed round! [Read the note](https://wayscript.com/learn/wayscript-raises-$5m-seed-round) from WayScript's founders, [Jesse](https://wayscript.com/user/jesse) and [Lane](https://wayscript.com/user/lane), about the process and the future of WayScript. 
+*  ![](.gitbook/assets/calendly.svg) We have added a [Calendly](library/modules/calendly.md) module!
 
 ## August 5th, 2020
 

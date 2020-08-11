@@ -1,14 +1,16 @@
 ---
-description: 'Pass Calendly events to other modules and functions, all inside of WayScript.'
+description: >-
+  Seamlessly integrate Calendly with your favorite APIs, databases, and
+  programming languages, using WayScript.
 ---
 
 # Calendly
 
-![Business Scheduling Software](../../.gitbook/assets/calendly.png)
+![Business Scheduling Software](../../.gitbook/assets/calendly%20%281%29.png)
 
 ## 🔑 Connecting your Calendly Account
 
-You will need your calendly API key to connect your account. You can find this key under your [integrations](https://calendly.com/integrations).
+You will need your Calendly API key to connect your account. You can find this key under your [integrations](https://calendly.com/integrations).
 
 ## ⚙ Modes
 
@@ -18,10 +20,10 @@ You will need your calendly API key to connect your account. You can find this k
 
 ```graphql
 user_events = [ {
-    type  :   String,
-    id    :   String,
-    attributes    :   {
-            name          :   String,
+    type: String,
+    id: String,
+    attributes: {
+            name          : String,
             description   : String,
             duration      : Int,
             slug          : String,
@@ -30,9 +32,8 @@ user_events = [ {
             created_at    : String,
             updated_at    : String,
             url           : Url,
-                    }
-            }
-    ]        
+    }
+} ]        
 ```
 
 
