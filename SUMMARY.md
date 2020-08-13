@@ -39,6 +39,7 @@
   * [Trello Trigger](library/triggers/trello-trigger.md)
   * [Weather API Trigger](library/triggers/weather-api-trigger.md)
 * [Logic](library/logic/README.md)
+  * [Sleep](library/logic/sleep.md)
   * [Assert](library/logic/assert.md)
   * [Conditionals](library/logic/conditionals.md)
   * [Create Variable](library/logic/create-variable.md)
