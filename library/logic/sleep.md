@@ -1,17 +1,17 @@
 # Sleep
 
-![Suspend the script for a given time](../../.gitbook/assets/sleep.png)
+![Suspend the script for a given amount of time.](../../.gitbook/assets/sleep.png)
 
 ### ⚙Settings
 
-* **Time Unit** - Select the Time Unit you want. 
+* **Time Unit** - Select the time unit your duration is measured in \(hours, minutes, seconds\)
 
 ### 📥 Inputs
 
-* **Duration** - Sleep Length, float type
+* **Duration** - Sleep length \(float type\)
 
 {% hint style="info" %}
-Sleep duration must be more than zero second and less than a thousand hours
+Sleep duration must be greater than zero.
 {% endhint %}
 
 

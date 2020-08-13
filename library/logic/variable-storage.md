@@ -1,10 +1,6 @@
----
-description: Store variable values to persist in between runs.
----
-
 # Variable Storage
 
-![](../../.gitbook/assets/variable_store.png)
+![Store variable values to persist in-between runs.](../../.gitbook/assets/variable_store.png)
 
 The variable storage module allows you to store the values of variables in your WayScript program. This allows for persistance in between program runs without having to set up a database.   
   
