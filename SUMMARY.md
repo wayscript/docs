@@ -71,6 +71,7 @@
   * [CSS](library/modules/css.md)
   * [CSV](library/modules/csv.md)
   * [Dashboard Response](library/modules/dashboard-response.md)
+  * [Datadog](library/modules/datadog.md)
   * [Date Time](library/modules/date-time.md)
   * [Diffbot](library/modules/diffbot.md)
   * [Discord](library/modules/discord.md)
