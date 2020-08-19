@@ -4,6 +4,12 @@ description: Updates and improvements to the WayScript platform.
 
 # What's New?
 
+## August 19th, 2020
+
+* ![](.gitbook/assets/datadog.png) Use the new [Datadog](library/modules/datadog.md) module to retrieve monitor data! 
+* ![](.gitbook/assets/sleep.png) You can now suspend your script for a given amount of time using the [Sleep](library/logic/sleep.md) module. 
+* ![](.gitbook/assets/calendly.svg) We have added a new "[Get Self Data](library/modules/calendly.md#get-self-data)" mode to the [Calendly](library/modules/calendly.md) module.
+
 ## August 11th, 2020
 
 * 🎉 WayScript raises $5M seed round! [Read the note](https://wayscript.com/learn/wayscript-raises-$5m-seed-round) from WayScript's founders, [Jesse](https://wayscript.com/user/jesse) and [Lane](https://wayscript.com/user/lane), about the process and the future of WayScript. 

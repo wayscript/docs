@@ -1,6 +1,6 @@
 # Sleep
 
-![Suspend the script for a given amount of time.](../../.gitbook/assets/sleep.png)
+![Suspend your script for a given amount of time.](../../.gitbook/assets/sleep.png)
 
 ### ⚙Settings
 

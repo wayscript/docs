@@ -1,5 +1,7 @@
 ---
-description: Get Monitor data from your Datadog backed applications.
+description: >-
+  Seamlessly integrate Datadog with your favorite APIs, databases, and
+  programming languages, using WayScript.
 ---
 
 # Datadog
@@ -8,14 +10,14 @@ description: Get Monitor data from your Datadog backed applications.
 
 ## ⚙ **Setup**
 
-**You will need to have access to two keys in order to return data from the Datadog API**
+**You will need to have access to two keys in order to return data from the Datadog API:**
 
-* App Key - Gives access to interacting with the Datadog Agent.
-* API Key - Unique to your organization
+* **App Key** - Gives access to interacting with the Datadog Agent.
+* **API Key** - Unique to your organization
 
 Both of these keys can be found [here](https://app.datadoghq.com/account/settings#api).
 
-## 🤖 **Modes**
+## \*\*\*\*🤖 **Modes**
 
 ### **Get a Monitor's Details** 
 
@@ -81,14 +83,14 @@ Get_Monitor = {
 
 #### 📥 Inputs
 
-* Group States - accepts "all"m "alert", "warn" and "no data"
-* Name - String to filter monitors
-* Tags - Comma separated list indicating what tags should be filtered
-* Monitor Tags - comma separated list indicating what service or tags
-* With Downtimes - if set to True,  then the returned data includes all current downtime
-* ID Offset - Monitor ID offset
-* Page -The page to start paginating from
-* Page Size - Size of page
+* **Group States** - Accepts "all", "alert", "warn" and "no data"
+* **Name** - String to filter monitors
+* **Tags** - Comma-separated list indicating what tags should be filtered
+* **Monitor Tags** - Comma-separated list indicating what service or tags
+* **With Downtimes** - If set to True,  then the returned data includes all current downtime
+* **ID Offset** - Monitor ID offset
+* **Page** - The page to start paginating from
+* **Page Size** - Number of pagination results
 
 #### 📤 Output
 
