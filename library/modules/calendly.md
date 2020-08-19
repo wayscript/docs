@@ -36,5 +36,25 @@ user_events = [ {
 } ]        
 ```
 
+### 🌟 Get Self Data
 
+#### 📤 Output
+
+```graphql
+about_me = {
+"type"  :   String,
+"id"    :   String,
+"attributes"    :   {
+    "name"          :   String,
+    "slug"          :   String,
+    "email"         :   String,
+    "url"           :   Url,
+    "timezone"      :   String,
+    "avatar"        :   {
+            "url"       :   Url
+    },
+    "created_at"    :   String,
+    "updated_at"    :   String
+} 
+```
 
