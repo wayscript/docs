@@ -80,9 +80,23 @@ Input the ID of the card you would like to update. \(The ID can be obtained by [
 * Card Names
 * Card IDs
 * Card Descriptions
-* Card Lists
 
 {% hint style="info" %}
 This will return up to 1000 matching cards.
 {% endhint %}
+
+## ➡ Move a Card to Another List
+
+1. Select a Target Board
+2. Select a Target List
+3. Input the card ID to move
+
+## ⬆Change a Card's Position in the List
+
+1. Select a Position
+2. Input the card ID to move
+
+## ❌Delete a Card
+
+Input the card ID to delete
 
