@@ -56,6 +56,12 @@ If your SQL server has a firewall enabled, please add the IP addresses listed in
 
 {% page-ref page="../../../other-information/ip-addresses.md" %}
 
+## Connecting to AWS RDS
+
+For information on connecting to AWS RDS, refer to the article below:
+
+{% page-ref page="connecting-to-aws-rds.md" %}
+
 ## Connecting to SQL Azure
 
 For information on connecting to SQL Azure, refer to the article below:
