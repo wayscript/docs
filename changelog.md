@@ -4,6 +4,10 @@ description: Updates and improvements to the WayScript platform.
 
 # What's New?
 
+## August 27th, 2020
+
+* ![](.gitbook/assets/http%20%281%29.png) The [HTTP Response](library/modules/http-response.md) module now allows returning XML content, with a text/xml MIME type.
+
 ## August 19th, 2020
 
 * ![](.gitbook/assets/datadog.png) Use the new [Datadog](library/modules/datadog.md) module to retrieve monitor data! 
