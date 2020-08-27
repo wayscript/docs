@@ -26,6 +26,7 @@ The default is 200, which indicates that the request was successful. Under 'Resp
 
 * For **HTML**, you can return [HTML](html.md#outputs), [variables](../../getting_started/variables.md) or raw text in the 'Response Content' field.
 * For **JSON**, you must select a [Struct variable](../../getting_started/variables.md#structs).
+* For **XML**, compose the XML to return in the 'Response Content' field.
 * For **File Download**, you can select a file from your account. This response will download the selected file to the user's machine.
 
 #### Redirect \(301\)
