@@ -4,7 +4,7 @@ description: Change variable type from one to another.
 
 # Cast
 
-![Cast Variable Type](../../.gitbook/assets/cast.png)
+![Cast Variable Type](../../../.gitbook/assets/cast.png)
 
 
 

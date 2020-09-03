@@ -73,7 +73,7 @@ description: Updates and improvements to the WayScript platform.
 ## April 29th, 2020
 
 * You can now use the [SendGrid](library/modules/sendgrid.md) module to send marketing emails! 
-* We have added an [Assert](library/logic/assert.md) module, which allows you to ensure that a condition is met before your script continues executing. If the assertion fails, you also have the option to send yourself an email.
+* We have added an [Assert](library/logic/assert/) module, which allows you to ensure that a condition is met before your script continues executing. If the assertion fails, you also have the option to send yourself an email.
 
 ## 🌎 April 22nd, 2020
 

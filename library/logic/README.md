@@ -24,7 +24,7 @@ The following logic modules are available:
 * [Variables]()
   * [Create Variable](create-variable.md)
   * [Edit Variable Value]()
-  * [Casting Variables](cast.md)
+  * [Casting Variables](assert/cast.md)
 
 ## 🎓 Introductory Articles
 

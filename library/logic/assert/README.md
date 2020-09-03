@@ -1,6 +1,6 @@
 # Assert
 
-![Assert that a variable matches a format definition.](../../.gitbook/assets/assert.png)
+![Assert that a variable matches a format definition.](../../../.gitbook/assets/assert.png)
 
 ## ⚙ Settings
 
