@@ -42,6 +42,7 @@
   * [Assert](library/logic/assert.md)
   * [Conditionals](library/logic/conditionals.md)
   * [Create Variable](library/logic/create-variable.md)
+  * [Cast](library/logic/cast.md)
   * [Functions](library/logic/functions/README.md)
     * [Function Call](library/logic/functions/function-call.md)
     * [Function Definition](library/logic/functions/function-definition.md)
