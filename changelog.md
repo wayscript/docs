@@ -4,6 +4,11 @@ description: Updates and improvements to the WayScript platform.
 
 # What's New?
 
+### September 2nd, 2020
+
+* ![](.gitbook/assets/trello%20%281%29.png) We have added support to the [Trello](library/modules/trello.md) module for [moving](library/modules/trello.md#move-a-card-to-another-list) a card between lists, [changing](library/modules/trello.md#change-a-cards-position-in-the-list) the position of a card within a list, and [deleting](library/modules/trello.md#delete-a-card) a card. 
+* ![](.gitbook/assets/text_message_128x128%20%281%29.png) The [Text Message trigger](library/triggers/text-message-trigger.md) now allows you to specify custom [delimiters](library/triggers/text-message-trigger.md#delimiter) and pass [key-value variable pairs](library/triggers/text-message-trigger.md#output-variables) for use later in your script.
+
 ## August 27th, 2020
 
 * ![](.gitbook/assets/http%20%281%29.png) The [HTTP Response](library/modules/http-response.md) module now allows returning XML content, with a text/xml MIME type.

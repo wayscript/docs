@@ -36,21 +36,21 @@ If you haven't yet verified your phone number with your WayScript account, you w
 
 ### ✏ Output Variables
 
-1. Specify variable's default value in the "Variables to Create" section. 
+1. Specify variables' default values in the "Variables to Create" section. 
 2. Dynamically update variable values into your program via text message. 
 
 If you don't input a variable's value in the text message, the default value of that variable will be used. Otherwise, the variable's value in the text message will override the default value.
 
-![ A Stock Program&apos;s Text Message Trigger Set up  Example](../../.gitbook/assets/screen-shot-2020-08-28-at-10.09.44-pm.png)
+![ An Example Stock Program&apos;s Text Message Trigger Setup](../../.gitbook/assets/screen-shot-2020-08-28-at-10.09.44-pm.png)
 
 ## 💬 Sending a Text
 
 Send your text message to **\(415\) WYS-CRPT** \(+1 415 997 2778\).
 
-The text message body should be in the format of :  **Program name**, followed by any variable **key-value pair**, with **delimiters of your choice**
+The text message body should be in the format of:  **Program name**, followed by any variable **key-value pairs**, using the specified **delimiters of your choice**.
 
 {% hint style="info" %}
-The "Body" field in the Trigger Settings will also show you how to compose your message with your outputs variables and delimiter choices
+The "Body" field in the Trigger Settings will also show you how to compose your message with your outputs variables and delimiter choices.
 {% endhint %}
 
 In the above example, the text message should be sent in the format of:
