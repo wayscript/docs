@@ -23,33 +23,39 @@ To send text messages to yourself, use the [Text Message module](../modules/text
 If you haven't yet verified your phone number with your WayScript account, you will need to do so before using this module. See [Phone Number Verification](../../account-management/phone-number-verification.md) for details.
 {% endhint %}
 
-## 📥New Variable Inputs
+## ⚙Settings
 
-You can dynamically input new variable data into your program via text message. Specify these variables in the "Variables to Create" section.
+### 📤Output Type
 
-![](../../.gitbook/assets/screen-shot-2019-07-15-at-4.27.38-pm.png)
+* Raw String
+* Variables List
 
-![](../../.gitbook/assets/screen-shot-2019-07-15-at-4.28.50-pm.png)
+### ✂ Delimiter
+
+* Symbols for separating arguments in the text message
+
+### ✏ Output Variables
+
+1. Specify variable's default value in the "Variables to Create" section. 
+2. Dynamically update variable values into your program via text message. 
+
+If you don't input a variable's value in the text message, the default value of that variable will be used. Otherwise, the variable's value in the text message will override the default value.
+
+![ A Stock Program&apos;s Text Message Trigger Set up  Example](../../.gitbook/assets/screen-shot-2020-08-28-at-10.09.44-pm.png)
 
 ## 💬 Sending a Text
 
 Send your text message to **\(415\) WYS-CRPT** \(+1 415 997 2778\).
 
-The text message body will be the program name, followed by a colon, then any variable values, all separated by commas.
-
-For example, if you wanted to run your "Stocks" program with the arguments "AAPL" and "MSFT", your message body would be "Stocks:AAPL,MSFT"
-
-![](../../.gitbook/assets/new_conversation.jpg)
+The text message body should be in the format of :  **Program name**, followed by any variable **key-value pair**, with **delimiters of your choice**
 
 {% hint style="info" %}
-The "Body" field in the Trigger Settings will also show you how to compose your message
+The "Body" field in the Trigger Settings will also show you how to compose your message with your outputs variables and delimiter choices
 {% endhint %}
 
-![](../../.gitbook/assets/body.png)
+In the above example, the text message should be sent in the format of:
 
-{% hint style="warning" %}
-Variables must be submitted in the same order as the Outputs defined on the Text Message Trigger.
-{% endhint %}
+![](../../.gitbook/assets/screen-shot-2020-08-28-at-10.25.02-pm.png)
 
 {% hint style="warning" %}
 The text must originate from your verified phone number.
