@@ -1,5 +1,5 @@
 ---
-description: Example code snippets for use in the Python module.
+description: Example code snippets for use in the WayScript Python module.
 ---
 
 # Python Code Snippets
@@ -44,6 +44,6 @@ port = '1430'
 database = 'WayScriptTest'
 username = 'Admin'
 password = 'Pa$$word'
-conx = pyodbc.connect('Driver={ODBC Driver 17 for SQL Server};SERVER='+server+','+port+';DATABASE='+database+'; Uid='+username+';Pwd='+password)
+conx = pyodbc.connect('Driver={ODBC Driver 17 for SQL Server};SERVER='+server+','+port+';DATABASE='+database+';Uid='+username+';Pwd='+password)
 ```
 
