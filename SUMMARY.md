@@ -111,6 +111,7 @@
   * [Phillips Hue](library/modules/phillips-hue.md)
   * [Python](library/modules/python/README.md)
     * [Python Libraries](library/modules/python/libraries.md)
+    * [Python Code Snippets](library/modules/python/python-code-snippets.md)
   * [Reddit](library/modules/reddit.md)
   * [RegEx](library/modules/regex.md)
   * [Requests](library/modules/requests.md)

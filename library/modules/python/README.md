@@ -100,9 +100,11 @@ from .foo import bar
 
 ![Example of importing and using the method &quot;bar&quot; from &quot;foo.py&quot;](../../../.gitbook/assets/screen-shot-2020-02-18-at-2.06.44-pm.png)
 
-## ![](../../../.gitbook/assets/selenium_logo_square_green.png) Using Selenium
+## ✂ Code Snippets
 
-[Click here](libraries.md#using-selenium) for information on using the Chrome headless browser with Selenium in the Python module.
+See the page below for snippets of example code for achieving different tasks using the Python module:
+
+{% page-ref page="python-code-snippets.md" %}
 
 ## 🎓 Tutorial
 

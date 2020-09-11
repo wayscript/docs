@@ -10,34 +10,6 @@ description: WayScript is running Python 3.8
 If you need a Python library that isn't currently available, you can declare additional requirements in the "Requirements.txt" file of the Python module. \(See [Adding Additional Requirements](./#adding-additional-requirements).\)
 {% endhint %}
 
-## ![](../../../.gitbook/assets/selenium_logo_square_green.png) Using [Selenium](https://selenium-python.readthedocs.io)
-
-The [Python module](./) includes the [Chrome headless browser](https://developers.google.com/web/updates/2017/04/headless-chrome), which you can interact with using Selenium. Here is some sample code to do this:
-
-```python
-from selenium import webdriver
-
-options = webdriver.ChromeOptions()
-options.add_argument('--headless')
-options.add_argument('--no-sandbox')
-options.add_argument('user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:39.0) Gecko/20100101 Firefox/39.0')
-
-browser = webdriver.Chrome(options = options)
-browser.set_page_load_timeout(10)
-
-browser.get('https://wayscript.com/')
-
-ps = browser.page_source
-print(ps)
-
-browser.close()
-```
-
-{% hint style="warning" %}
-Be sure to add the `--headless` and `--no-sandbox` options!`option.add_argument('--headless')  
-option.add_argument('--no-sandbox')`
-{% endhint %}
-
 ## ![](../../../.gitbook/assets/python_128x128.png) Available Python Libraries
 
 * [absl-py](https://pypi.org/project/absl-py/)
@@ -271,6 +243,7 @@ option.add_argument('--no-sandbox')`
 * [pylint](https://www.pylint.org/)
 * [Pympler](https://pythonhosted.org/Pympler/)
 * [PyMySQL](https://pymysql.readthedocs.io/en/latest/)
+* [pyodbc](https://github.com/mkleehammer/pyodbc)
 * [pyOpenSSL](https://www.pyopenssl.org/en/stable/)
 * [pyparsing](https://pyparsing-docs.readthedocs.io/en/latest/)
 * [pyproj](https://github.com/pyproj4/pyproj)
