@@ -1,3 +1,7 @@
+---
+description: WayScript's Public IP Addresses
+---
+
 # IP Addresses
 
 If your use-case requires you to whitelist WayScript's IP addresses, please add the following IPv4 addresses to your firewall exceptions:
