@@ -163,6 +163,7 @@
 * [Managing Your Linked Accounts](account-management/managing-linked-accounts.md)
 * [Phone Number Verification](account-management/phone-number-verification.md)
 * [Two-Factor Authentication](account-management/two-factor-authentication.md)
+* [Team Management](account-management/team-management.md)
 
 ## Other Information
 

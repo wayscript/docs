@@ -4,6 +4,11 @@ description: Updates and improvements to the WayScript platform.
 
 # What's New?
 
+## September 23rd, 2020
+
+* 👥 We are excited to announce the initial launch of WayScript [Teams](account-management/team-management.md)! You can now [create a team](account-management/team-management.md#creating-a-team), [add team members](account-management/team-management.md#inviting-team-members), and share scripts, files, and accounts with your teammates! 
+* Variables in the variables panel are now ordered with the most recently updated variables first, helping you find relevant variables faster when building your scripts.
+
 ## September 2nd, 2020
 
 * ![](.gitbook/assets/trello%20%281%29.png) We have added support to the [Trello](library/modules/trello.md) module for [moving](library/modules/trello.md#move-a-card-to-another-list) a card between lists, [changing](library/modules/trello.md#change-a-cards-position-in-the-list) the position of a card within a list, and [deleting](library/modules/trello.md#delete-a-card) a card. 
