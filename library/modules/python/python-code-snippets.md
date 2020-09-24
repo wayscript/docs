@@ -14,10 +14,11 @@ from selenium import webdriver
 options = webdriver.ChromeOptions()
 options.add_argument('--headless')
 options.add_argument('--no-sandbox')
+options.add_argument( '--disable-dev-shm-usage' )
 options.add_argument('user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:39.0) Gecko/20100101 Firefox/39.0')
 
 browser = webdriver.Chrome(options = options)
-browser.set_page_load_timeout(10)
+browser.set_page_load_timeout(30)
 
 browser.get('https://wayscript.com/')
 
@@ -28,8 +29,11 @@ browser.close()
 ```
 
 {% hint style="warning" %}
-Be sure to add the `--headless` and `--no-sandbox` options!`option.add_argument('--headless')  
-option.add_argument('--no-sandbox')`
+Be sure to add the following options:
+
+`option.add_argument('--headless')  
+option.add_argument('--no-sandbox')  
+option.add_argument('--disable-dev-shm-usage')`
 {% endhint %}
 
 ## ![](../../../.gitbook/assets/sql%20%281%29.png) Connecting to a Microsoft SQL Server Database
