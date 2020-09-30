@@ -32,3 +32,7 @@ Once on the team settings page, team admins can add or remove team members, as w
 
 All users in the team will be able to view, edit, and run the team's scripts. More granular permissioning is coming soon!
 
+## 🎓 Tutorial
+
+{% embed url="https://www.youtube.com/watch?v=3sE175U2N5Y" %}
+
