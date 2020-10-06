@@ -4,6 +4,10 @@ description: Updates and improvements to the WayScript platform.
 
 # What's New?
 
+## October 6th, 2020
+
+* We have launched a new [Site Status](https://status.wayscript.com) page for tracking platform health.
+
 ## September 23rd, 2020
 
 * 👥 We are excited to announce the initial launch of WayScript [Teams](account-management/team-management.md)! You can now [create a team](account-management/team-management.md#creating-a-team), [add team members](account-management/team-management.md#inviting-team-members), and share scripts, files, and accounts with your teammates! Read more about the feature in our [blog post](https://wayscript.com/learn/using-wayscript-as-team). 

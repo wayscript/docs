@@ -3,6 +3,7 @@
 * [About](README.md)
 * [What's New?](changelog.md)
 * [FAQ](https://wayscript.com/faq)
+* [Site Status](https://status.wayscript.com)
 
 ## Getting Started <a id="getting_started"></a>
 
