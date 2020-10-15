@@ -33,6 +33,8 @@ If your use-case requires you to whitelist WayScript's IP addresses, please add 
 * 35.169.89.164
 * 35.169.252.215
 * 35.172.89.51
+* 50.18.171.90
+* 50.18.34.87
 * 52.0.26.100
 * 52.200.227.77
 * 52.201.56.228
@@ -40,6 +42,7 @@ If your use-case requires you to whitelist WayScript's IP addresses, please add 
 * 52.21.128.148
 * 52.21.2.165
 * 52.21.216.62
+* 54.215.94.135
 * 52.23.15.105
 * 52.9.218.74
 
