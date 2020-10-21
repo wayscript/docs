@@ -132,15 +132,17 @@ If you choose this option, you can either:
 
 #### Build Data
 
-If you opt to build Data yourself, you will need to define each of the fields you wish to input into the table.
+If you opt to build Data yourself, you will need to define each of the field values of the new row you wish to input into the table.
 
-![](../../.gitbook/assets/screen-shot-2019-07-15-at-8.08.59-pm.png)
+![](../../.gitbook/assets/screen-shot-2020-10-21-at-11.02.37-am.png)
 
-#### Raw JSON
+![The new row created](../../.gitbook/assets/screen-shot-2020-10-21-at-11.05.01-am.png)
 
-If you opt to input raw JSON, you will need to select the WayScript variable that contains that JSON.
+Raw JSON
 
-![](../../.gitbook/assets/screen-shot-2019-07-15-at-8.13.08-pm.png)
+If you opt to input raw JSON, you will need to select the WayScript variable that contains that JSON or Hardcoded JSON. Both of them need to be in the following forma \(The same format as a Fields JSON output item in Get Records\)  :
+
+![](../../.gitbook/assets/screen-shot-2020-10-21-at-11.06.29-am.png)
 
 ### ✏ Update a Row
 
