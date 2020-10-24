@@ -131,6 +131,46 @@ curl -d '{"name":"Peter Parker"}' \
 
 The raw data sent to the HTTP Trigger endpoint.
 
+### 🗒 Http Metadata 
+
+{% tab title="Python" %}
+StructType({
+          'accept_encodings'                  : BoolType(),
+          'accept_languages'                  : BoolType(),
+          'accept_mimetypes'                  : BoolType(),
+          'base_url'                          : UrlType(),
+          'content_length'                    : IntType(),
+          'content_type'                      : StringType(),
+          'content_md5'                       : StringType(),
+          'data'                              : StringType(),
+          'date'                              : DateType(),
+          'form'                              : JSONType(),
+          'full_path'                         : StringType(),
+          'host'                              : StringType(),
+          'host_url'                          : UrlType(),
+          'if_modified_since'                 : DateType(),
+          'if_unmodified_since'               : DateType(),
+          'is_json'                           : BoolType(),
+          'is_secure'                         : BoolType(),
+          'json'                              : JSONType(),
+          'mimetype'                          : StringType(),
+          'mimetype_params'                   : JSONType(),
+          'method'                            : StringType(),
+          'path'                              : StringType(),
+          'query_string'                      : StringType(),
+          'remote_addr'                       : StringType(),
+          'remote_user'                       : StringType(),
+          'referrer'                          : StringType(),
+          'scheme'                            : StringType(),
+          'url'                               : UrlType(),
+          'url_root'                          : UrlType(),
+          'user_agent'                        : StringType()
+  })
+
+{% endtab %}
+
+
+
 ## 🎓 Tutorial
 
 {% embed url="https://www.youtube.com/watch?reload=9&v=OrZMjdVhFfA&feature=youtu.be" caption="Standup a Web App on the Cloud in 1 Minute" %}
