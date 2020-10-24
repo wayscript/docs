@@ -135,38 +135,39 @@ The raw data sent to the HTTP Trigger endpoint.
 
 {% tab title="Python" %}
 ```python
-StructType({
-          'accept_encodings'                  : BoolType(),
-          'accept_languages'                  : BoolType(),
-          'accept_mimetypes'                  : BoolType(),
-          'base_url'                          : UrlType(),
-          'content_length'                    : IntType(),
-          'content_type'                      : StringType(),
-          'content_md5'                       : StringType(),
-          'data'                              : StringType(),
-          'date'                              : DateType(),
-          'form'                              : JSONType(),
-          'full_path'                         : StringType(),
-          'host'                              : StringType(),
-          'host_url'                          : UrlType(),
-          'if_modified_since'                 : DateType(),
-          'if_unmodified_since'               : DateType(),
-          'is_json'                           : BoolType(),
-          'is_secure'                         : BoolType(),
-          'json'                              : JSONType(),
-          'mimetype'                          : StringType(),
-          'mimetype_params'                   : JSONType(),
-          'method'                            : StringType(),
-          'path'                              : StringType(),
-          'query_string'                      : StringType(),
-          'remote_addr'                       : StringType(),
-          'remote_user'                       : StringType(),
-          'referrer'                          : StringType(),
-          'scheme'                            : StringType(),
-          'url'                               : UrlType(),
-          'url_root'                          : UrlType(),
-          'user_agent'                        : StringType()
-  })
+Request_Metadata = 
+          {
+                'accept_encodings'                  : Bool,
+                'accept_languages'                  : Bool,
+                'accept_mimetypes'                  : Bool,
+                'base_url'                          : Url,
+                'content_length'                    : Int,
+                'content_type'                      : String,
+                'content_md5'                       : String,
+                'data'                              : String,
+                'date'                              : Date,
+                'form'                              : JSON,
+                'full_path'                         : String,
+                'host'                              : String,
+                'host_url'                          : Url,
+                'if_modified_since'                 : Date,
+                'if_unmodified_since'               : Date,
+                'is_json'                           : Bool,
+                'is_secure'                         : Bool,
+                'json'                              : JSON,
+                'mimetype'                          : String,
+                'mimetype_params'                   : JSON,
+                'method'                            : String,
+                'path'                              : String,
+                'query_string'                      : String,
+                'remote_addr'                       : String,
+                'remote_user'                       : String,
+                'referrer'                          : String,
+                'scheme'                            : String,
+                'url'                               : Url,
+                'url_root'                          : Url,
+                'user_agent'                        : String
+          }
 ```
 {% endtab %}
 
