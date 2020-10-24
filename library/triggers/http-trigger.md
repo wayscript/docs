@@ -134,6 +134,7 @@ The raw data sent to the HTTP Trigger endpoint.
 ### 🗒 Http Metadata 
 
 {% tab title="Python" %}
+```python
 StructType({
           'accept_encodings'                  : BoolType(),
           'accept_languages'                  : BoolType(),
@@ -166,7 +167,7 @@ StructType({
           'url_root'                          : UrlType(),
           'user_agent'                        : StringType()
   })
-
+```
 {% endtab %}
 
 
