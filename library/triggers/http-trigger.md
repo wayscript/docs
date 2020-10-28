@@ -12,13 +12,13 @@ description: >-
 To display a webpage back to the user, use the [HTTP Response](../modules/http-response.md) module.
 {% endhint %}
 
-## ⚙ Setup
+## ⚙Setup
 
 The HTTP Trigger is used to setup a web request. You can use it to implement a web page endpoint, a JSON post request, or other types of web requests.
 
 ![](../../.gitbook/assets/screen-shot-2019-11-12-at-7.17.39-pm.png)
 
-### ✒ Sample Code
+### ✒Sample Code
 
 To get you started quickly, the HTTP Trigger provides cURL, Python, and JavaScript sample code, which can simply be pasted into your terminal and run.
 
@@ -59,7 +59,7 @@ fetch("https://1234.wayscript.com/?hero=Spiderman", {
 Use the WayScript [Python](https://github.com/wayscript/wayscript-python) and [JavaScript](https://github.com/wayscript/wayscript-js) libraries to make calling your HTTP endpoints even easier!
 {% endhint %}
 
-### 🔗 Endpoints
+### 🔗Endpoints
 
 When setting up the HTTP Trigger, you can create as many named endpoints as you like. If you don't provide a name for your endpoint, the trigger will match the root URL. All endpoint names must be unique throughout your script to prevent ambiguity.
 
@@ -69,7 +69,7 @@ To access your endpoints, use the program ID as a subdomain of **wayscript.io**.
 
 Remember to activate your trigger before using the endpoint!
 
-### 🔐 Password-Protect your Endpoints
+### 🔐Password-Protect your Endpoints
 
 If you would like the endpoints in your HTTP trigger to require a login to view, enable the "Password Protection" toggle.
 
@@ -107,17 +107,17 @@ If your endpoint is not public, you can also use your [WayScript API Key](../../
 
 For example, if your WayScript API Key is **`fhAEdGT9EbFDh_migcrukZ1Vb28rLFKqt9AxOiq9bdQ`**, you would include the `Authorization: Bearer fhAEdGT9EbFDh_migcrukZ1Vb28rLFKqt9AxOiq9bdQ` header in your request.
 
-## 📤 Outputs
+## 📤Outputs
 
 The Outputs section allows you to define variables that you would like the HTTP Trigger to create and make available for use later in your script. You can pass values for these variables within the request to your endpoint.
 
 You can add as many variable outputs as you like, as well as pass any combination of query parameters and JSON body data.
 
-### ❔ Request Query Parameters
+### ❔Request Query Parameters
 
 This section allows you to define variable outputs whose values you will pass as query parameters to your script. For example, if you define a query parameter output called "_hero_," you would pass its value to your script by appending the query parameter to your endpoint url: [https://10834.wayscript.com?hero=Spiderman](https://10834.wayscript.com?hero=superman)
 
-### 🗒 Request JSON Body Parameters
+### 🗒Request JSON Body Parameters
 
 If you define an output to be passed as a JSON body parameter, you will include the data as a key-value pair within the body of your request. For example, if you define a JSON body parameter called "_name_," you will pass its value to your script by including the relevant data within your request:
 
@@ -127,11 +127,11 @@ curl -d '{"name":"Peter Parker"}' \
     https://10834.wayscript.com
 ```
 
-### 🔣 Raw Request Data
+### 🔣Raw Request Data
 
 The raw data sent to the HTTP Trigger endpoint.
 
-### 🗒 Http Metadata
+### ➕ Http Metadata
 
 ```python
 Request_Metadata = 
@@ -169,7 +169,7 @@ Request_Metadata =
           }
 ```
 
-## 🎓 Tutorial
+## 🎓Tutorial
 
 {% embed url="https://www.youtube.com/watch?reload=9&v=OrZMjdVhFfA&feature=youtu.be" caption="Standup a Web App on the Cloud in 1 Minute" %}
 
