@@ -115,7 +115,7 @@ You can add as many variable outputs as you like, as well as pass any combinatio
 
 ### ❔ Request Query Parameters
 
-This section allows you to define variable outputs whose values you will pass as query parameters to your script. For example, if you define a query parameter output called "_hero_," you would pass its value to your script by appending the query parameter to your endpoint url:  [https://10834.wayscript.com?hero=Spiderman](https://10834.wayscript.com?hero=superman)
+This section allows you to define variable outputs whose values you will pass as query parameters to your script. For example, if you define a query parameter output called "_hero_," you would pass its value to your script by appending the query parameter to your endpoint url: [https://10834.wayscript.com?hero=Spiderman](https://10834.wayscript.com?hero=superman)
 
 ### 🗒 Request JSON Body Parameters
 
@@ -131,16 +131,15 @@ curl -d '{"name":"Peter Parker"}' \
 
 The raw data sent to the HTTP Trigger endpoint.
 
-### 🗒 Http Metadata 
+### 🗒 Http Metadata
 
-{% tab title="Python" %}
 ```python
 Request_Metadata = 
           {
-                'accept_encodings'                  : Bool,
-                'accept_languages'                  : Bool,
-                'accept_mimetypes'                  : Bool,
-                'base_url'                          : Url,
+                'accept_encodings'                  : String,
+                'accept_languages'                  : String,
+                'accept_mimetypes'                  : String,
+                'base_url'                          : String,
                 'content_length'                    : Int,
                 'content_type'                      : String,
                 'content_md5'                       : String,
@@ -169,9 +168,6 @@ Request_Metadata =
                 'user_agent'                        : String
           }
 ```
-{% endtab %}
-
-
 
 ## 🎓 Tutorial
 
