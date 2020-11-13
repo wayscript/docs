@@ -4,6 +4,10 @@ description: Updates and improvements to the WayScript platform.
 
 # What's New?
 
+## November 11th, 2020
+
+* In addition to variables in the variables panel \(see [September 23rd, 2020](changelog.md#september-23rd-2020)\), variables in selector dropdowns are now ordered with the most recently updated variables first.
+
 ## 🎃 October 28th, 2020
 
 * We have added [additional metadata](library/triggers/http-trigger.md#http-metadata) to the HTTP Trigger.
