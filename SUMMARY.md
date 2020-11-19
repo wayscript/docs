@@ -136,6 +136,7 @@
   * [Twitch](library/modules/twitch.md)
   * [Twitter](library/modules/twitter.md)
   * [TXT File](library/modules/txt-file.md)
+  * [Udemy Instructors](library/modules/udemy-instructors.md)
   * [URL Encoder](library/modules/url-encoder.md)
   * [Verify Emails](library/modules/verify-emails.md)
   * [Watson](library/modules/watson.md)
