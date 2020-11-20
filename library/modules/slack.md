@@ -223,4 +223,15 @@ User = {
 ```graphql
 Action_status : String
 ```
+### 💬 Send a Direct Message to a Group of Users
 
+#### 📥 Inputs
+
+* Message
+* Selector Users
+
+#### 📤 Output
+
+```graphql
+Action_status : String
+```
