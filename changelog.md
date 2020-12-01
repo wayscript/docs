@@ -4,6 +4,10 @@ description: Updates and improvements to the WayScript platform.
 
 # What's New?
 
+## November 20th, 2020
+
+* We are excited to release a new version of the WayScript interface, completely built in the React framework. This was a large overhaul, so we greatly appreciate any bug reporting and feedback.
+
 ## October 28th, 2020
 
 * We have added [additional metadata](library/triggers/http-trigger.md#http-metadata) to the HTTP Trigger.
