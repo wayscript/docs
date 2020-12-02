@@ -7,7 +7,7 @@ description: Updates and improvements to the WayScript platform.
 ## December 2nd, 2020
 
 * ![](.gitbook/assets/slack%20%281%29.png) We have added the ability to [Direct Message a Group of Users](library/modules/slack.md#direct-message-a-group-of-users) to the [Slack module](library/modules/slack.md). 
-* In addition to variables in the variables panel \(see [September 23rd, 2020](changelog.md#september-23rd-2020)\), variables in selector drop-downs are now ordered with the most recently updated variables first.
+* Variables in selector drop-downs are now ordered with the most recently updated variables first. \(This complements the variables panel change from [September 23rd, 2020](changelog.md#september-23rd-2020).\)
 
 ## November 20th, 2020
 
