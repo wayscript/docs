@@ -161,7 +161,7 @@ Action_status : String
 * Lookup a User by their Email
 * Send a Direct Message
 
-### 👤 Get a User's Member ID
+### 🆔 Get a User's Member ID
 
 Choose a User
 
@@ -212,7 +212,7 @@ User = {
 }
 ```
 
-### 💬 Send a Direct Message
+### ➡ Send a Direct Message
 
 #### 📥 Inputs
 
@@ -224,7 +224,7 @@ User = {
 Action_status : String
 ```
 
-### 💬 Send a Direct Message to a Group of Users
+### 📣 Direct Message to a Group of Users
 
 #### 📥 Inputs
 
@@ -239,6 +239,6 @@ Action_status : String
 ```
 
 {% hint style="info" %}
-You cannot message "Slackbot", and you must include a minimum of two users besides yourself to include in the chat.
+You cannot message "Slackbot," and you must include a minimum of two users besides yourself to include in the chat.
 {% endhint %}
 
