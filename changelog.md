@@ -4,17 +4,22 @@ description: Updates and improvements to the WayScript platform.
 
 # What's New?
 
+## December 2nd, 2020
+
+* ![](.gitbook/assets/slack%20%281%29.png) We have added the ability to [Direct Message a Group of Users](library/modules/slack.md#direct-message-a-group-of-users) to the [Slack module](library/modules/slack.md). 
+* In addition to variables in the variables panel \(see [September 23rd, 2020](changelog.md#september-23rd-2020)\), variables in selector drop-downs are now ordered with the most recently updated variables first.
+
 ## November 20th, 2020
 
-* We are excited to release a new version of the WayScript interface, completely built in the React framework. This was a large overhaul, so we greatly appreciate any bug reporting and feedback.
+* 🎉 We are excited to release a new version of the WayScript interface, completely built in the React framework. This was a large overhaul, so we greatly appreciate any bug reporting and feedback.
 
 ## October 28th, 2020
 
-* We have added [additional metadata](library/triggers/http-trigger.md#http-metadata) to the HTTP Trigger.
+* ![](.gitbook/assets/http%20%281%29.png) We have added [additional metadata](library/triggers/http-trigger.md#http-metadata) to the HTTP Trigger.
 
 ## October 6th, 2020
 
-* We have launched a new [Site Status](https://status.wayscript.com) page for tracking platform health.
+* 🚦 We have launched a new [Site Status](https://status.wayscript.com) page for tracking platform health.
 
 ## September 23rd, 2020
 

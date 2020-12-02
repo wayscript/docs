@@ -224,7 +224,7 @@ User = {
 Action_status : String
 ```
 
-### 📣 Direct Message to a Group of Users
+### 📣 Direct Message a Group of Users
 
 #### 📥 Inputs
 
