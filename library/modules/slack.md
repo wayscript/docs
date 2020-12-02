@@ -58,7 +58,7 @@ Choose any channel in your Workspace.
 #### 📥 Inputs
 
 * Message
-* As Bot
+* As Bot \(Choose whether to send the message as a bot or as yourself\)
 
 #### 📤 Output
 
@@ -229,11 +229,16 @@ Action_status : String
 #### 📥 Inputs
 
 * Message
-* Selector Users
+* Users to Message
+* As Bot \(Choose whether to send the message as a bot or as yourself\)
 
 #### 📤 Output
 
 ```graphql
 Action_status : String
 ```
+
+{% hint style="info" %}
+You cannot message "Slackbot", and you must include a minimum of two users besides yourself to include in the chat.
+{% endhint %}
 
