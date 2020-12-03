@@ -44,11 +44,11 @@ You can run your query by clicking the "Run Code" button, or by running your pro
 
 ## \*\*\*\*📤 **Outputs**
 
-Any data returned by your SQL query will be displayed as a table in the "Outputs" section.
+Any data returned by your SQL query will be displayed as a table in your code editor.
 
 To use output data elsewhere in your program, assign a name to each column of data you want to use. The column will then appear as a list variable in your "Variables" panel.
 
-![](../../../.gitbook/assets/screen-shot-2020-01-23-at-6.32.07-pm.png)
+![](../../../.gitbook/assets/screen-shot-2020-12-03-at-1.48.38-pm.png)
 
 ## IP Address Whitelisting
 
