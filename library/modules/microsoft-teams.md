@@ -1,12 +1,12 @@
 ---
 description: >-
-  Seamlessly integrate Microsoft Teams with your favorite APIs, databases, and programming
-  languages, using WayScript.
+  Seamlessly integrate Microsoft Teams with your favorite APIs, databases, and
+  programming languages, using WayScript.
 ---
 
 # Microsoft Teams
 
-![More ways to be a Team.](../../.gitbook/assets/msteams%20%281%29.png)
+![More ways to be a team.](../../.gitbook/assets/msteams.png)
 
 {% hint style="info" %}
 Check out Microsoft Graph Documentation on [GitHub](https://github.com/microsoftgraph/microsoft-graph-docs).
@@ -17,7 +17,7 @@ Check out Microsoft Graph Documentation on [GitHub](https://github.com/microsoft
 When using Microsoft Teams module for the first time, follow the prompt to authorize access.
 
 {% hint style="info" %}
-You can add additional accounts from 'Select an Account' dropdown in the Microsoft Teams module settings
+You can add additional accounts from the 'Select an Account' dropdown in the Microsoft Teams module settings
 {% endhint %}
 
 ## 💼 Select an Account
@@ -40,7 +40,7 @@ Select the team that you would like to work with.
 #### 📤 Output
 
 ```graphql
-New_Channels_Id : String
+New_Channel_Id : String
 ```
 
 ### ✏ Write to a Channel
@@ -54,7 +54,7 @@ Choose any channel in your Workspace.
 #### 📤 Output
 
 ```graphql
-Action_status : String
+Action_Status : String
 ```
 
 ## 👥 Work with Users
@@ -62,7 +62,6 @@ Action_status : String
 ### ⚙ Modes
 
 * Get a User's Member ID
-
 
 ### 🆔 Get a User's Member ID
 
@@ -73,3 +72,4 @@ Choose a User
 ```graphql
 Member_ID : String
 ```
+
