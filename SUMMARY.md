@@ -104,7 +104,6 @@
   * [MapQuest](library/modules/mapquest.md)
   * [Medium](library/modules/medium.md)
   * [Monday](library/modules/monday.md)
-  * [Microsoft Teams](library/modules/microsoft-teams.md)
   * [Name Parser](library/modules/name-parser.md)
   * [News API](library/modules/news-api.md)
   * [NLP](library/modules/nlp.md)
