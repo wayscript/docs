@@ -82,7 +82,7 @@ If you are using the "Replace File" option in conjunction with "[Include Headers
 
 ### 🧹 Ignore Duplicates
 
-The Google Sheets module allows you to ignore duplicates. If the same data already exists as a row in the spreadsheet, it will not be written to the file again.
+The Google Sheets module allows you to ignore duplicates. If the same data already exists anywhere in the selected column\(s\) of the spreadsheet, the new row will not be written to the file.
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-12.20.51-pm.png)
 
