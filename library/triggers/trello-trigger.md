@@ -14,7 +14,7 @@ To get data from Trello or automate creating new cards, use the [Trello module](
 
 ## 🔗 Link Your Trello Account
 
-When you add a Trello Trigger to your program, you will be prompted to link an account if you have not done so already. 
+When you add a Trello Trigger to your program, you will be prompted to link an account if you have not done so already.
 
 ## ⚡ Event Types
 
@@ -46,7 +46,7 @@ The following outputs are always available, regardless of event type:
 * **Board Name** - The name of the board you have selected
 * **Board ID** - The ID of the board you have selected
 
-### 📃List Outputs
+### 📜 List Outputs
 
 List change events produce the following additional outputs:
 

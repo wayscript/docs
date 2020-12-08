@@ -14,7 +14,7 @@ See [Code Editors](../../../getting_started/code-editors.md) for more informatio
 
 ## ![](../../../.gitbook/assets/create_var.png)Working with Variables
 
-###  📥 Inputs
+### 📥 Inputs
 
 WayScript's python editor lets you reference [Variables](../../../getting_started/variables.md) that exist in your program. To do this, you can reference them through the **variables dictionary**.
 
@@ -31,7 +31,7 @@ location = variables[ "Location" ]
 More abstractly, you reference any variable with the format:
 
 ```python
-var = variables[ "<var_name>" ] 
+var = variables[ "<var_name>" ]
 ```
 
 {% hint style="info" %}
@@ -40,7 +40,7 @@ You can drag your WayScript variables into your Python code to reference them th
 
 ### 📤 Outputs
 
-You can also output data from your python scripts and turn these into variables that can be used by other [Modules](../../../getting_started/modules.md) in your program. 
+You can also output data from your python scripts and turn these into variables that can be used by other [Modules](../../../getting_started/modules.md) in your program.
 
 You can do this with the **variables dictionary** in the following format:
 
@@ -108,5 +108,5 @@ See the page below for snippets of example code for achieving different tasks us
 
 ## 🎓 Tutorial
 
-{% embed url="https://www.youtube.com/watch?v=qKmv-6CcVvY" %}
+{% embed url="https://www.youtube.com/watch?v=qKmv-6CcVvY" caption="" %}
 

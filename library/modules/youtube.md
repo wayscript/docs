@@ -72,7 +72,7 @@ YouTube_Video = {
 
 ## 💬 Get Comments on a Video
 
-### 📥Inputs
+### 📥 Inputs
 
 * Video URL
 * Maximum Number of Comments
@@ -80,7 +80,7 @@ YouTube_Video = {
   * Time
   * Relevance
 
-### 📤Output
+### 📤 Output
 
 ```graphql
 Video_Comments = [
@@ -98,11 +98,11 @@ Video_Comments = [
 
 ## 👤 Get Data on a Channel \(User Account\)
 
-### 📥Inputs
+### 📥 Inputs
 
 * Account/Channel Username
 
-### 📤Output
+### 📤 Output
 
 ```graphql
 YouTube_Channel = {

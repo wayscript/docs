@@ -6,7 +6,7 @@ description: >-
 
 # HTTP Trigger
 
-![Trigger a function when a user goes to a URL.](../../.gitbook/assets/http%20%281%29.png)
+![Trigger a function when a user goes to a URL.](../../.gitbook/assets/http%20%282%29.png)
 
 {% hint style="info" %}
 To display a webpage back to the user, use the [HTTP Response](../modules/http-response.md) module.

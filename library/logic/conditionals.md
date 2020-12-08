@@ -83,7 +83,7 @@ For "Changed By," "Increased/Decreased By," and similar comparisons, you can opt
 To see the "Since" field, click the "Show Advanced Settings" checkbox.
 {% endhint %}
 
-## ➕ **Adding Multiple Conditions**
+## \*\*\*\*➕ **Adding Multiple Conditions**
 
 By pressing the **+ Add Condition** button, you can add additional conditions.
 
@@ -110,7 +110,7 @@ Click the **+ Add "Else If"** button to add more Else-If conditions.
 
 ![](../../.gitbook/assets/screen-shot-2019-08-22-at-10.16.57-am.png)
 
-## 🌤 **Example**
+## \*\*\*\*🌤 **Example**
 
 In the below example, if the value of the variable "Temperature" is between 65 and 90, then the program will print _"It's a nice day!"_.
 

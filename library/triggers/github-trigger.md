@@ -12,7 +12,7 @@ description: >-
 To automate actions with GitHub, use the [GitHub module](../modules/github.md).
 {% endhint %}
 
-## Link Your GitHub Account
+## 🔗 Link Your GitHub Account
 
 When you drag in a GitHub Trigger for the first time, follow the prompt to authorize access.
 

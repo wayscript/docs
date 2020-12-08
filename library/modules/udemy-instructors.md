@@ -12,7 +12,7 @@ To connect, you will need your Udemy Instructor API key. You can generate your a
 
 ## ⚙ Modes
 
-### ✏️ Get Course List
+### ✏ Get Course List
 
 #### 📤 Output
 
@@ -34,7 +34,7 @@ instructor_courses = [ {
 } ]        
 ```
 
-### 📝 Get Course Questions
+### ❔ Get Course Questions
 
 #### 📤 Output
 

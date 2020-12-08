@@ -14,8 +14,8 @@ Check out Watson on [GitHub](https://github.com/watson-developer-cloud/python-sd
 
 ## ![](../../.gitbook/assets/watson%20%281%29.png) Sentiment Analysis
 
-**Aggregate Sentiment Analysis** - Can accept [lists](../../getting_started/variables.md#lists) and gives back an average sentiment score.  
-  
+**Aggregate Sentiment Analysis** - Can accept [lists](../../getting_started/variables.md#lists) and gives back an average sentiment score.
+
 **Sentiment Analysis** - Gives a sentiment of a [single inpu](../../getting_started/variables.md)t.
 
 ### 📥 Inputs
@@ -30,7 +30,7 @@ Check out Watson on [GitHub](https://github.com/watson-developer-cloud/python-sd
 
 ![Sentiment Analysis Example](../../.gitbook/assets/watson_sentiment_example.png)
 
-## 🔑 Extract Keywords
+## 🗝 Extract Keywords
 
 ### ⚙ Settings
 

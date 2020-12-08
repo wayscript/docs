@@ -75,7 +75,7 @@ In this example, we are using the "Event Marketing" base. Click on the base.
 
 ![](../../.gitbook/assets/submitted.png)
 
-### 📽 Video Tutorial
+### 🎥 Video Tutorial
 
 {% embed url="https://www.youtube.com/watch?v=sSDw5VHfZxA" caption="Watch: Setting up and Working with Airtable on WayScript" %}
 
@@ -123,7 +123,7 @@ The "Delete Rows" option works much in the same way as the "Get Records" option,
 
 ### 🌟 Create a New Record
 
-You also have the option to Create a New Record. 
+You also have the option to Create a New Record.
 
 If you choose this option, you can either:
 
@@ -140,7 +140,7 @@ If you opt to build Data yourself, you will need to define each of the field val
 
 Raw JSON
 
-If you opt to input raw JSON, you will need to select the WayScript variable that contains that JSON or Hardcoded JSON. Both of them need to be in the following forma \(The same format as a Fields JSON output item in Get Records\)  :
+If you opt to input raw JSON, you will need to select the WayScript variable that contains that JSON or Hardcoded JSON. Both of them need to be in the following forma \(The same format as a Fields JSON output item in Get Records\) :
 
 ![](../../.gitbook/assets/screen-shot-2020-10-21-at-11.06.29-am.png)
 
@@ -156,11 +156,10 @@ If you opt to input raw JSON, you will need to select the WayScript variable tha
 Build Data \(Recommended\)
 
 * **Inputs:**
-
   * **Record ID** - The ID of the Record you want to update. This can be retrieved using the [Get Records](airtable.md#get-records) mode.
   * **Fields -** This is where you put the Key and Value that you want to update. The Key is the name of the column, the value is the new value you want for that cell. 
 
-Input Raw JSON \(Advanced\) 
+Input Raw JSON \(Advanced\)
 
 * This mode allows you to input your own JSON or Struct into Airtable. The json MUST fit this structure:
 

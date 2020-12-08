@@ -12,7 +12,7 @@ Submit bugs, feature requests, or feedback you would like to share with the WayS
 WayScript maintains a [GitHub Feedback repo](https://github.com/wayscript/feedback), where you can submit bugs, feature requests, or feedback you would like to share with the WayScript team.
 {% endhint %}
 
-### 📬 Report a Bug
+### 📫 Report a Bug
 
 To report a bug, click the "Report a Bug" button on the navigation bar:  
 ![](../.gitbook/assets/screen-shot-2020-06-25-at-1.52.08-pm.png)

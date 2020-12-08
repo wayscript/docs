@@ -8,7 +8,7 @@ description: >-
 
 ![Send an email from your Microsoft Outlook account.](../../.gitbook/assets/outlook_128x128.png)
 
-## 📩 Inputs
+## 📥 Inputs
 
 * To Address
   * Define the **To** address

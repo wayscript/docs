@@ -35,7 +35,7 @@ Choose which event\(s\) will trigger your program
    5. A channel was deleted
    6. A channel was renamed
 
-   ![](../../.gitbook/assets/screen-shot-2019-07-15-at-2.57.18-pm.png)   
+   ![](../../.gitbook/assets/screen-shot-2019-07-15-at-2.57.18-pm.png)
 
 2. **User Events:**
 
@@ -45,11 +45,11 @@ Choose which event\(s\) will trigger your program
    4. A subteam was created
    5. A subteam was updated
 
-   ![](../../.gitbook/assets/screen-shot-2019-07-15-at-2.57.55-pm.png) 
+   ![](../../.gitbook/assets/screen-shot-2019-07-15-at-2.57.55-pm.png)
 
 You can scope the trigger to a specific channel and/or user, or allow the notification to fire for any channel and/or user.
 
-Additionally, you can exclude messages from bots. 
+Additionally, you can exclude messages from bots.
 
 {% hint style="info" %}
 Exclude messages from bots if you have a WayScript program that is posting as a bot to a channel that triggers the same WayScript program, so your WayScript program doesn't trigger itself.

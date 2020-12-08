@@ -29,7 +29,7 @@ Run program when:
 * A message was posted to the channel
 * A user joined the server
 
-### \# Choose a Channel
+### \#⃣ Choose a Channel
 
 Choose a Discord channel to work with.
 

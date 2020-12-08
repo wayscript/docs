@@ -104,7 +104,7 @@ Account_Charges = {
 }
 ```
 
-### 📌 View Events
+### 👓 View Events
 
 Outputs a list of events.
 

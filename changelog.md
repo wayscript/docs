@@ -15,7 +15,7 @@ description: Updates and improvements to the WayScript platform.
 
 ## October 28th, 2020
 
-* ![](.gitbook/assets/http%20%281%29.png) We have added [additional metadata](library/triggers/http-trigger.md#http-metadata) to the HTTP Trigger.
+* ![](.gitbook/assets/http%20%281%29%20%281%29.png) We have added [additional metadata](library/triggers/http-trigger.md#http-metadata) to the HTTP Trigger.
 
 ## October 6th, 2020
 
@@ -46,7 +46,7 @@ description: Updates and improvements to the WayScript platform.
 ## August 11th, 2020
 
 * 🎉 WayScript raises $5M seed round! [Read the note](https://wayscript.com/learn/wayscript-raises-$5m-seed-round) from WayScript's founders, [Jesse](https://wayscript.com/user/jesse) and [Lane](https://wayscript.com/user/lane), about the process and the future of WayScript. 
-*  ![](.gitbook/assets/calendly.svg) We have added a [Calendly](library/modules/calendly.md) module!
+* ![](.gitbook/assets/calendly.svg) We have added a [Calendly](library/modules/calendly.md) module!
 
 ## August 5th, 2020
 
@@ -62,10 +62,8 @@ description: Updates and improvements to the WayScript platform.
 ## July 22nd, 2020
 
 * New code modules are available!
-
   * ![](.gitbook/assets/java_code.png) We have added support for [Java](library/modules/java/) to our [Programming Language](getting_started/code-editors.md) offerings!
   * ![](.gitbook/assets/shell_script%20%281%29.png) We have also added a [Shell Script](library/modules/shell-script.md) module, allowing you to run Bash shell scripts as part of your WayScript workflow.
-
 * [Time Zone](library/triggers/time-trigger.md#select-a-time-zone) is now configurable in the [Time Trigger](library/triggers/time-trigger.md) settings, making it easier to schedule your scripts to run whenever you like.
 
 {% embed url="https://www.youtube.com/watch?v=AJ\_u7g9eH-Y" caption="Intro to Java Programming on WayScript" %}
@@ -104,7 +102,7 @@ description: Updates and improvements to the WayScript platform.
 * You can now use the [SendGrid](library/modules/sendgrid.md) module to send marketing emails! 
 * We have added an [Assert](library/logic/assert.md) module, which allows you to ensure that a condition is met before your script continues executing. If the assertion fails, you also have the option to send yourself an email.
 
-## 🌎 April 22nd, 2020
+## 🌎April 22nd, 2020
 
 * The [Trello module](library/modules/trello.md) now allows you to [add an attachment](library/modules/trello.md#update-a-card) when creating a Trello card, [search](library/modules/trello.md#search-for-a-card) your Trello cards, and [update](library/modules/trello.md#update-a-card) a Trello card. 
 * The [JSON module](library/modules/json.md) has a new [Parse String](library/modules/json.md#parse-string) mode, which allows you to convert a JSON string into a [WayScript struct variable](getting_started/variables.md#struct).
@@ -141,7 +139,7 @@ description: Updates and improvements to the WayScript platform.
   * Existing wayscript_.com_ endpoints will redirect to wayscript_.io_ for the time being, so your current scripts will continue to work.
 
 {% hint style="warning" %}
- Please update your code to consume the latest WayScript [Python](https://pypi.org/project/wayscript/) and [JS](https://www.npmjs.com/package/wayscript) packages and change any POST requests to call **wayscript.io**.
+Please update your code to consume the latest WayScript [Python](https://pypi.org/project/wayscript/) and [JS](https://www.npmjs.com/package/wayscript) packages and change any POST requests to call **wayscript.io**.
 
 Legacy wayscript._com_ Form and HTTP endpoints will be disabled in the future and you will eventually be required to use the new wayscript._io_ endpoints.
 {% endhint %}
@@ -188,7 +186,7 @@ x = variables[ 'An_Existing_Variable' ]
 variables[ 'First_Output' ] = 'Testing'
 ```
 
-{% embed url="https://www.youtube.com/watch?v=9533vbhTEas" %}
+{% embed url="https://www.youtube.com/watch?v=9533vbhTEas" caption="" %}
 
 ## February 12th, 2020
 
@@ -197,7 +195,7 @@ variables[ 'First_Output' ] = 'Testing'
   * On Mac, Undo with `⌘ Command`+`Z` and Redo with `⇧ Shift`+`⌘ Command`+`Z`
   * On Windows, Undo with `Ctrl`+`Z` and Redo with `Ctrl`+`Y`
 
-{% embed url="https://www.youtube.com/watch?v=iu-Tp38P4cc" %}
+{% embed url="https://www.youtube.com/watch?v=iu-Tp38P4cc" caption="" %}
 
 ## February 5th, 2020
 
@@ -205,7 +203,7 @@ variables[ 'First_Output' ] = 'Testing'
 * The WayScript blog page is now [WayScript Learn](https://wayscript.com/learn)! We have refreshed the look of the page, added tags, and search functionality. Happy learning! 
 * We have added a [Stripe module](library/modules/stripe.md) for getting account info from Stripe. Check out the video below to see it in action!
 
-{% embed url="https://www.youtube.com/watch?v=Upi-Z7E5H20" %}
+{% embed url="https://www.youtube.com/watch?v=Upi-Z7E5H20" caption="" %}
 
 ## January 23rd, 2020
 
@@ -217,7 +215,7 @@ variables[ 'First_Output' ] = 'Testing'
 
 ![Sort users&apos; programs or search for the exact one you&apos;re looking for.](.gitbook/assets/screen-shot-2020-01-23-at-6.02.22-pm.png)
 
-{% embed url="https://www.youtube.com/watch?v=2ZtXXYCeOTI&feature=youtu.be" %}
+{% embed url="https://www.youtube.com/watch?v=2ZtXXYCeOTI&feature=youtu.be" caption="" %}
 
 ## January 15th, 2020
 
@@ -295,7 +293,7 @@ variables[ 'First_Output' ] = 'Testing'
 
 ## October 16th, 2019
 
-* Reply-to addresses are now available as an [output of the Gmail trigger]().
+* Reply-to addresses are now available as an [output of the Gmail trigger](changelog.md).
 
 ## October 8th, 2019
 

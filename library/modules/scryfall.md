@@ -26,9 +26,9 @@ description: >-
 
 ![](../../.gitbook/assets/scryfall_ex.png)
 
-## ![](../../.gitbook/assets/scryfall.png)Get Data About All MTG Sets
+## ![](../../.gitbook/assets/scryfall%20%282%29.png)Get Data About All MTG Sets
 
-### 📤Outputs
+### 📤 Outputs
 
 * **Set Names**
 * **Set Codes**

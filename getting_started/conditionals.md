@@ -38,7 +38,7 @@ For this example, we want to build logic that says "**If** our Number variable i
 
 ![If Number is Greater Than or Equal to 100](../.gitbook/assets/screen-shot-2019-08-22-at-12.52.15-pm.png)
 
-### 🌵Add Branches
+### 🌵 Add Branches
 
 We can also add additional branches to our conditional. The first branch which is **True** will execute. If no branch is **True** then the **Else** branch will execute.
 

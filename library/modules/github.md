@@ -153,7 +153,7 @@ Repo = {
 }
 ```
 
-## 🖊 Create an Issue
+## 🖋 Create an Issue
 
 ### 📥 Inputs
 
@@ -168,11 +168,11 @@ Create an issue for a repository by:
 
 ### 📤 Outputs
 
- Create variables for:
+Create variables for:
 
 * Raw JSON Data
 
-## 🖊 Edit an Issue
+## ✏ Edit an Issue
 
 ### 📥 Inputs
 
@@ -207,7 +207,7 @@ Create variables for:
 * Label List
 * Raw JSON data
 
-## 👓 View Issue Assignees
+## ↔ View Issue Assignees
 
 ### 📥 Inputs
 
@@ -222,7 +222,7 @@ Create variables for:
 * Assignee List
 * Raw JSON data
 
-## 📓 Fetch File Contents
+## 📁 Fetch File Contents
 
 ### 📥 Inputs
 
@@ -239,7 +239,7 @@ Create variables for:
 * File Contents
 * Raw JSON data
 
-## 📚 Merge Into Branch 
+## ➡Merge Into Branch
 
 ### 📥 Inputs
 
@@ -251,7 +251,7 @@ Merge files into a branch by:
 
 ### 📤 Outputs
 
-Create variables for: 
+Create variables for:
 
 * Success 
 * Error 

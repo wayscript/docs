@@ -22,7 +22,7 @@ Lists and combined inputs are not accepted.
 
 ![This entry will be cleared automatically](../../.gitbook/assets/screen-shot-2019-07-16-at-1.17.13-pm.png)
 
-## ![](../../.gitbook/assets/calculator.png) Operations
+## ![](../../.gitbook/assets/calculator.png)Operations
 
 Select from The following list of operations.
 
@@ -57,7 +57,7 @@ Select from The following list of operations.
 
 * Result
 
-## ✖ Multiplication
+## ✖Multiplication
 
 ### 📥 Inputs
 

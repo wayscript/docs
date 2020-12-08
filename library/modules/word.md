@@ -36,7 +36,7 @@ In the modal, create a name for your file.
 
 ![](../../.gitbook/assets/screenshot-2019-07-16-17.14.38.png)
 
-### ✍ Write Mode
+### 🖋 Write Mode
 
 * **Add to File** - This mode will add any new contents as a new paragraph below any data already in the word document. 
 * **Overwrite File** - This mode will overwrite your old document with the new information.

@@ -27,7 +27,7 @@ These Triggers can be added only once to each function.
 * [Google Sheets Trigger](google-sheets-trigger.md)
 * [Salesforce Trigger](salesforce-trigger.md)
 * [Slack Trigger](slack-trigger.md)
-* [Survey Monkey Trigger](survey-monkey-trigger.md)
+* [Survey Monkey Trigger]()
 * [Trello Trigger](trello-trigger.md)
 * [Weather API Trigger](weather-api-trigger.md)
 

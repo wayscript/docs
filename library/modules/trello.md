@@ -91,12 +91,12 @@ This will return up to 1000 matching cards.
 2. Select a Target List
 3. Input the card ID to move
 
-## ⬆Change a Card's Position in the List
+## ⬆ Change a Card's Position in the List
 
 1. Select a Position
 2. Input the card ID to move
 
-## ❌Delete a Card
+## ❌ Delete a Card
 
 Input the card ID to delete
 

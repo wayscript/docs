@@ -20,7 +20,7 @@ You can connect multiple Dropbox accounts to WayScript. Select the one you would
 
 ## 📖 Read File from Dropbox
 
-### 📜 Choose the File Type to Read
+### 📁 Choose the File Type to Read
 
 WayScript currently supports reading the following file types from Dropbox:
 
@@ -30,7 +30,7 @@ WayScript currently supports reading the following file types from Dropbox:
 
 ![Choose the File Type to Read](../../.gitbook/assets/choose_file_type.png)
 
-### 📂 Choose a File Path to Read
+### 👓 Choose a File Path to Read
 
 Once you have selected a file type, select the path of the file you want to read.
 
