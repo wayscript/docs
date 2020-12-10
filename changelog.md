@@ -4,6 +4,23 @@ description: Updates and improvements to the WayScript platform.
 
 # What's New?
 
+## December 8th, 2020
+
+* The following modules and triggers have had their outputs transformed into [Structs](getting_started/variables.md#structs), to better align with the rest of the system:
+  * ![](.gitbook/assets/dropbox.png) [Dropbox](library/modules/dropbox.md)
+  * ![](.gitbook/assets/mailchimp%20%281%29.png) [Mailchimp](library/modules/mailchimp.md)
+  * ![](.gitbook/assets/scryfall%20%282%29.png) [Scryfall](library/modules/scryfall.md)
+  * ![](.gitbook/assets/spotify%20%282%29%20%281%29.png) [Spotify](library/modules/spotify.md)
+  * ![](.gitbook/assets/trello.png) [Trello](library/modules/trello.md)
+  * ![](.gitbook/assets/twitch.png) [Twitch](library/modules/twitch.md)
+  * ![](.gitbook/assets/twitter.png) [Twitter](library/modules/twitter.md)
+  * ![](.gitbook/assets/site_siftter%20%281%29.png) [Website Searcher](library/modules/website-searcher.md)
+  * ![](.gitbook/assets/wikipedia%20%281%29.png) [Wikipedia](library/modules/wikipedia.md)
+  * ![](.gitbook/assets/word.png) [Word](library/modules/word.md)
+  * ![](.gitbook/assets/github.png) [Github Trigger](library/triggers/github-trigger.md)
+  * ![](.gitbook/assets/salesforce.png) [Salesforce Trigger](library/triggers/salesforce-trigger.md)
+  * ![](.gitbook/assets/trello.png) [Trello Trigger](library/triggers/trello-trigger.md)
+
 ## December 2nd, 2020
 
 * ![](.gitbook/assets/slack%20%281%29.png) We have added the ability to [Direct Message a Group of Users](library/modules/slack.md#direct-message-a-group-of-users) to the [Slack module](library/modules/slack.md). 
