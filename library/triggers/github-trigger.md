@@ -55,41 +55,62 @@ You can add additional accounts from the GitHub Trigger settings.
 ## 📤 Outputs
 
 * **Branch Events**
-  * Git Ref
-    * The full git ref of the branch. Example: refs/heads/new-branch
-  * Master Branch
-  * Description
-  * JSON Data
-    * Raw JSON data received from the API.
+
+  ```graphql
+  Branch = {
+             ref         : String,
+             master      : String,
+             description : String
+  }
+  ```
+
+  JSON Data - Raw JSON data received from the API.
+
+
+
 * **Issue Events**
-  * Title
-  * URL
-  * Username
-  * Number
-  * JSON Data
-    * Raw JSON data received from the API.
-* **Pull Request Events**
-  * Title
-  * URL
-  * Username
-  * Number
-  * JSON Data
-    * Raw JSON data received from the API.
+
+  ```graphql
+  PR = {
+          title    : String,
+          url      : String,
+          username : String,
+          number   : Int  
+  }
+  ```
+
+  JSON Data - Raw JSON data received from the API.
+
+
+
+* **PR Events**
+
+  ```graphql
+  PR = {
+          title    : String,
+          url      : String,
+          username : String,
+          number   : Int  
+  }
+  ```
+
+  JSON Data - Raw JSON data received from the API.
+
+
+
 * **Push Events**
-  * Git Ref
-    * The full git ref that was pushed. Example: refs/heads/master
-  * Head
-    * The SHA of the most recent commit on ref after the push.
-  * Before
-    * The SHA of the most recent commit on ref before the push.
-  * Size
-    * The number of commits in the push.
-  * SHAs of Commits
-    * List of the SHAs of each commit.
-  * Messages of Commits
-    * List of the messages of each commit.
-  * Authors of Commits
-    * List of the authors of each commit.
-  * JSON Data
-    * Raw JSON data received from the API.
+
+  ```graphql
+  Push = {
+           ref             : String,
+           head            : String,
+           before          : String,
+           size            : Int,
+           commit_shas     : [ String ],
+           commit_messages : [ String ],
+           commit_authors  : [ String ]
+  }
+  ```
+
+  JSON Data - Raw JSON data received from the API.
 

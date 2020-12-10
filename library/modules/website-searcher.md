@@ -19,11 +19,13 @@ description: >-
 
 ### 📤 Outputs
 
-* Email Addresses
-* Twitter Handles
-* Third Party URLs
-
-![](../../.gitbook/assets/screen-shot-2019-07-17-at-5.06.25-pm.png)
+```graphql
+Crawl_Data = {  
+               emails          : [ String ],
+               twitter_handles : [ String ],
+               third_party_urls: [ String ]
+}
+```
 
 ## 🔎 Search Website for Text and URLs
 

@@ -20,8 +20,15 @@ description: >-
 
 ### 📤 Outputs
 
-* List of Top Games by name
-* List of Top Games by ID
+```graphql
+Top_Games = [ 
+     {
+       name : String,
+       id   : String
+     }, 
+]
+```
+
 * JSON Data
 
 {% hint style="info" %}
@@ -49,8 +56,15 @@ A Games ID can be found in the Games by ID list at the same index that it's in t
 
 ### 📤 Outputs
 
-* List of Top Streamers
-* List of Top Streamers Viewer Counts
+```graphql
+Top_Streams = [ 
+     {
+       name      : String,
+       viewcount : String
+     }, 
+]
+```
+
 * JSON Data
 
 {% hint style="info" %}

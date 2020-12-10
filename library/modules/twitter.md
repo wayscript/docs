@@ -68,16 +68,32 @@ Tweets = [
 * **Username** - Enter the name of the User whose tweet history you want. 
   * Note: @ not required in username
 
-### 📤 Outputs
+### 📤 Output
 
-* **Tweets**
-* **Persons Names**
-* **Number of Post Retweets**
-* **Number of Times Favorites**
-* **Date/Time of Posts**
-* **Other Usernames Mentioned in Post -** a [List](../../getting_started/variables.md#lists) of lists all usernames in the tweet. 
-* **URLs Mentioned in Tweet** - a [List](../../getting_started/variables.md#lists) of lists all urls in the tweet. 
-* **Hashtags** - a [List](../../getting_started/variables.md#lists) of lists all hashtags in the tweet. 
+```graphql
+Tweets = [
+    {
+        content : String, 
+        username : String, 
+        name : String, 
+        id : Int,
+        retweet_count : Int,
+        follower_count : Int, 
+        favorite_count : Int,
+        date : Date,
+        url : String, 
+        hashtags : [
+            String,
+        ],
+        user_mentions : [
+            String,
+        ],
+        url_mentions : [
+            String,
+        ],
+    },
+]
+```
 
 ## 👥 Get Data on a User by Username
 
@@ -88,17 +104,21 @@ Tweets = [
 
 ### 📤 Outputs
 
-* **Profile Description**
-* **User Website**
-* **Number of Followers**
-* **Number Following**
-* **Number of Tweets**
-* **Number of Likes**
-* **User Location**
-* **Name**
-* **Profile Image URL**
-* **Is Verified**
-* **Account Created Date**
+```graphql
+User = {
+         description : String, 
+         website : String, 
+         num_followers : Int, 
+         num_following : Int,
+         num_tweets: Int,
+         likes : Int, 
+         location : String,
+         name : Date,
+         profile_image_url : String, 
+         verified : String
+         created_at : Date
+}
+```
 
 ## 📖 Get User Followers and Following
 
@@ -113,10 +133,14 @@ This mode lets you pull in lists of the usernames of a users followers and frien
 * **Username -** Enter the name of the User \(e.g. [WayScriptHQ](https://twitter.com/WayScriptHQ)\)
   * Note: @ not required in username
 
-### Outputs
+### 📤 Outputs
 
-* **Following** - A list of usernames of everyone the user is following.
-* **Followers** - A list of usernames of everyone following the user.
+```graphql
+Follower Data = {
+                  following_usernames : [ String ],
+                  follower_usernames  : [ String ]
+}
+```
 
 ## 💬 Post a Twitter Status
 

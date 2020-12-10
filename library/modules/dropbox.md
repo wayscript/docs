@@ -40,11 +40,15 @@ Once you have selected a file type, select the path of the file you want to read
 
 #### ![](../../.gitbook/assets/word.png) Word
 
-When you select a Word document, the following outputs are available:
+When you select a Word document, the following output is available:
 
-* **Paragraphs** - A List variable containing each paragraph in the file
-* **Full Text** - A Text variable containing the contents of the file
-* **Words in Document** - A List variable containing each word in the file
+```graphql
+Doc = {
+         paragraphs : [ String ],  
+         full_text  : String, 
+         words      : [ String ]
+}
+```
 
 #### ![](../../.gitbook/assets/excel_128x128.png) Excel or CSV
 

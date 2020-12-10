@@ -38,31 +38,45 @@ Select which Trello event data to retrieve as program variables.
 
 The following outputs are always available, regardless of event type:
 
-* **Action Type** - The type of action that triggered the event
-* **Action Date and Time** - The date and time that the event occurred
-* **Changer Name** - The full name of the person who made the change
-* **Changer Username** - The username of the person who made the change
-* **Action Details** - JSON containing the details of the action that triggered the event
-* **Board Name** - The name of the board you have selected
-* **Board ID** - The ID of the board you have selected
+```graphql
+Changed_Action = {
+                   type     : String,
+                   date     : String,
+                   name     : String,
+                   username : String
+}
+
+Changed_Board = {
+                   name : String,
+                   id   : String
+}
+```
 
 ### 📜 List Outputs
 
 List change events produce the following additional outputs:
 
-* **List Name** - The name of the list you have selected
-* **List ID** - The ID of the list you have selected
+```graphql
+Changed_List = {
+                 name : String,
+                 id   : String
+}
+```
 
 ### 🃏 Card Outputs
 
 Card change events produce the following additional outputs:
 
-* **Card Name** - The name of the card you have selected
-* **Card ID** - The ID of the card you have selected
-* **Card Short ID** - The short form of the ID of the card you have selected
-* **Card Description** - The description text for the card you have selected
-* **Card Due Date** - The due date for the card you have selected
-* **Card URL** - The URL for the card you have selected
+```graphql
+Changed_Card = {
+                 name        : String,
+                 id          : String,
+                 description : String,
+                 due_date    : String,
+                 url         : String
+}
+
+```
 
 ### 💡 Advanced Outputs
 

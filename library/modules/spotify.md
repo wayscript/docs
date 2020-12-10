@@ -25,14 +25,18 @@ description: >-
 
 ### 📥 Outputs
 
-* **Artist Name**
-* **Number of Followers** - Number of listeners following the artist
-* **Genres** - A list of the genres the artist is associated with. For example: 'Prog Rock, Post-Grunge'
-* **ImageURL** - Image URL of the artist \(height 640px\)
-* **Popularity** - The popularity of the artist. The value will be between 0 and 100, with 100 being the most popular. The artist’s popularity is calculated from the popularity of all the artist’s tracks.
-* **Spotify ID** - The Spotify ID for the artist
-* **Spotify URI** - The Spotify URI for the artist.
-* **JSON Data** - Raw JSON data received from the API
+```graphql
+Artist = {
+		name          : String,
+		num_followers : Int,
+		genres        : [ String ],
+		image_url     : Url,
+		popularity    : Int,
+		spotify_id    : String,
+		spotify_uri   : String
+}
+```
 
-![](../../.gitbook/assets/spotify.png)
+* JSON Data
+  * Raw JSON data received from the API
 

@@ -29,10 +29,14 @@ Check out Wikipedia on [GitHub](https://github.com/goldsmith/Wikipedia).
 
 * Wikipedia Page Title
 
-### 📤 Outputs
+### 📤Outputs
 
-* Page Contents
-* Page Summaries
-* Page References
-* URLs of Images on the Page
+```graphql
+Page = {
+         contents : String, 
+         summaries : String, 
+         references : Any, 
+         image_urls : [ String ]
+}
+```
 

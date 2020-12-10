@@ -14,24 +14,35 @@ description: >-
 
 * **Search Term** - Name of magic card
 
-### 📤 Outputs
+### 📤 Output
 
-* **Card Names**
-* **Card Mana Costs**
-* **Card Convert Mana Costs**
-* **Card Prices**
-* **Card Oracle Texts**
-* **Created Tokens**
-* **Created Token IDs**
-
-![](../../.gitbook/assets/scryfall_ex.png)
+```graphql
+Cards = [ 
+    {
+     name         : String,
+     mana_cost    : String,
+     cmc          : Number,
+     price        : Number,
+     text         : String,
+     related      : [ String ],
+     related_id   : [ String ],
+     scryfall_url : Url
+    }, 
+]
+```
 
 ## ![](../../.gitbook/assets/scryfall%20%282%29.png)Get Data About All MTG Sets
 
-### 📤 Outputs
+### 📤 Output
 
-* **Set Names**
-* **Set Codes**
-* **Card Counts**
-* **Release Dates**
+```graphql
+Sets = [ 
+    {
+     name         : String,
+     code         : String,
+     card_count   : Int,
+     release_date : Date
+    }, 
+]
+```
 

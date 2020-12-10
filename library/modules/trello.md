@@ -24,8 +24,14 @@ When you add a Trello Trigger to your script, you will be prompted to link an ac
 
 ### 📤 Outputs
 
-* Board Names
-* Board IDs
+```graphql
+Boards = [ 
+     {
+       name : String,
+       id   : String
+     }, 
+]
+```
 
 ## 🃏 Get Cards From a Board
 
@@ -77,9 +83,16 @@ Input the ID of the card you would like to update. \(The ID can be obtained by [
 
 ### 📤 Outputs
 
-* Card Names
-* Card IDs
-* Card Descriptions
+```graphql
+Cards = [ 
+    {
+     name : String,
+     id   : String,
+     desc : String,
+     list : String
+    }, 
+]
+```
 
 {% hint style="info" %}
 This will return up to 1000 matching cards.

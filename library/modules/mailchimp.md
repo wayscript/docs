@@ -63,11 +63,18 @@ You can add additional accounts from the Mailchimp module settings.
 
 ### 📤 Outputs
 
-* List ID
-* List Name
+```graphql
+Lists = [ 
+    {  
+      id   : String,
+      name : String
+    }, 
+]
+```
+
 * JSON Data
 
-## 👥 Get All Members in a List
+### 👥 Get All Members in a List
 
 ### 📥 Inputs
 
@@ -75,7 +82,14 @@ You can add additional accounts from the Mailchimp module settings.
 
 ### 📤 Outputs
 
-* Member Email Addresses
-* Member IDs
+```graphql
+Members = [ 
+     {  
+      email : String,
+      id    : String
+     }, 
+]
+```
+
 * JSON Data
 

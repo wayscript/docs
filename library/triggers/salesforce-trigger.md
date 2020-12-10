@@ -40,35 +40,38 @@ Your script will run when a new account is created.
 
 #### 📤 Outputs
 
-* Account ID
-  * Click [here](../modules/salesforce.md#object-ids) for more information about object IDs.
-* Account Name
-* Account Parent ID
-  * Click [here](../modules/salesforce.md#object-ids) for more information about object IDs.
-* Account Number
-* Account Site
-* Account Type
-* Account Industry
-* Account Annual Revenue
-* Account Rating
-* Account Phone
-* Account Fax
-* Account Website
-* Account Ticker Symbol
-* Account Ownership
-* Account Employees
-* Account SIC Code
-* Account Billing Street
-* Account Billing City
-* Account Billing State
-* Account Billing Zipcode
-* Account Billing Country
-* Account Shipping Street
-* Account Shipping City
-* Account Shipping State
-* Account Shipping Zipcode
-* Account Shipping Country
-* Account Description
+```graphql
+Account = {
+            id               : String,
+            name             : String,
+            parent_id        : String,
+            number           : String,
+            site             : String,
+            type             : String,
+            industry         : String,
+            annual_rev       : Number,
+            rating           : String,
+            phone            : String,
+            fax              : String,
+            website          : String,
+            ticker           : String,
+            ownership        : String,
+            employees        : String,
+            sic_code         : String,
+            billing_street   : String,
+            billing_city     : String,
+            billing_state    : String,
+            billing_zip      : String,
+            billing_country  : String,
+            shipping_street  : String,
+            shipping_city    : String,
+            shipping_state   : String,
+            shipping_zip     : String,
+            shipping_country : String,
+            description      : String
+}
+```
+
 * JSON Data
   * Raw JSON data received from the API
 
@@ -82,25 +85,27 @@ Your script will run when a new campaign is created.
 
 #### 📤 Outputs
 
-* Campaign ID
-  * Click [here](../modules/salesforce.md#object-ids) for more information about object IDs.
-* Campaign Name
-* Campaign Active
-  * Indicates whether the campaign is currently active \(True/False\)
-* Campaign Type
-* Campaign Status
-* Campaign Start Date
-* Campaign End Date
-* Campaign Expected Revenue
-* Campaign Budgeted Cost
-* Campaign Actual Cost
-* Campaign Expected Response
-* Campaign Num Sent
-* Campaign Parent ID
-  * Click [here](../modules/salesforce.md#object-ids) for more information about object IDs.
-* Campaign Description
+```graphql
+Campaign = {
+             id                : String,
+             name              : String,
+             active            : String,
+             type              : String,
+             status            : String,
+             start_date        : Date,
+             end_date          : Date,
+             expected_rev      : Number,
+             budgeted_cost     : Number,
+             actual_cost       : Number,
+             expected_response : Number,
+             num_sent          : Number,
+             parent_id         : String,
+             description       : String
+}
+```
+
 * JSON Data
-  * Raw JSON data received from the API.
+  * Raw JSON data received from the API
 
 ### 💼 New Case
 
@@ -112,25 +117,27 @@ Your script will run when a new case is created.
 
 #### 📤 Outputs
 
-* Case ID
-  *  Click [here](../modules/salesforce.md#object-ids) for more information about object IDs.
-* Case Subject
-* Case Status
-* Case Origin
-* Case Contact ID
-  * Click [here](../modules/salesforce.md#object-ids) for more information about object IDs.
-* Case Account ID
-  * Click [here](../modules/salesforce.md#object-ids) for more information about object IDs.
-* Case Type
-* Case Reason
-* Case Priority
-* Case Web Email
-* Case Web Name
-* Case Web Company
-* Case Web Phone
-* Case Description
+```graphql
+Case = { 
+         id          : String,
+         subject     : String,
+         status      : String,
+         origin      : String,
+         contact     : String,
+         account_id  : String,
+         type        : String,
+         reason      : String,
+         priority    : String,
+         web_email   : String,
+         web_name    : String,
+         web_company : String,
+         web_phone   : String,
+         description : String
+}
+```
+
 * JSON Data
-  * Raw JSON data received from the API.
+  * Raw JSON data received from the API
 
 ### 👤 New Contact
 
@@ -142,39 +149,41 @@ Your script will run when a new contact is created.
 
 #### 📤 Outputs
 
-* Contact ID
-  * Click [here](../modules/salesforce.md#object-ids) for more information about object IDs.
-* Contact Name
-* Contact Salutation
-* Contact Account ID
-  * Click [here](../modules/salesforce.md#object-ids) for more information about object IDs.
-* Contact Title
-* Contact Department
-* Contact Birthdate
-* Contact Reports To ID
-  * Click [here](../modules/salesforce.md#object-ids) for more information about object IDs.
-* Contact Lead Source
-* Contact Phone
-* Contact Home Phone
-* Contact Mobile
-* Contact Other Phone
-* Contact Fax
-* Contact Email
-* Contact Assistant Name
-* Contact Assistant Phone
-* Contact Mailing Street
-* Contact Mailing City
-* Contact Mailing State
-* Contact Mailing Zipcode
-* Contact Mailing Country
-* Contact Other Street
-* Contact Other City
-* Contact Other State
-* Contact Other Zipcode
-* Contact Other Country
-* Contact Description
+```graphql
+Contact = {
+            id              : String,
+            name            : String,
+            salutation      : String,
+            acct_id         : String,
+            title           : String,
+            department      : String,
+            birthdate       : Date,
+            reports_to      : String,
+            lead_source     : String,
+            phone           : String,
+            home_phone      : String,
+            mobile          : String,
+            other_phone     : String,
+            fax             : String,
+            email           : String,
+            asst_name       : String,
+            asst_phone      : String,
+            mailing_street  : String,
+            mailing_city    : String,
+            mailing_state   : String,
+            mailing_zip     : String,
+            mailing_country : String,
+            other_street    : String,
+            other_city      : String,
+            other_state     : String,
+            other_zip       : String,
+            other_country   : String,
+            description     : String 
+}
+```
+
 * JSON Data
-  * Raw JSON data received from the API.
+  * Raw JSON data received from the API
 
 ### 🗓 New Event
 
@@ -186,20 +195,22 @@ Your script will run when a new event is created.
 
 #### 📤 Outputs
 
-* Event ID
-  * Click [here](../modules/salesforce.md#object-ids) for more information about object IDs.
-* Event Subject
-* Event All Day
-* Event Start Date/Time
-* Event End Date/Time
-* Event Location
-* Event Name ID
-  * Click [here](../modules/salesforce.md#object-ids) for more information about object IDs.
-* Event Related To ID
-  * Click [here](../modules/salesforce.md#object-ids) for more information about object IDs.
-* Event Description
+```graphql
+Event = {
+          id          : String,
+          subject     : String,
+          all_day     : String,
+          start       : DateType,
+          end         : DateType,
+          location    : String,
+          name_id     : String,
+          related_to  : String,
+          description : String 
+}
+```
+
 * JSON Data
-  * Raw JSON data received from the API.
+  * Raw JSON data received from the API
 
 ### 🕵 New Lead
 
@@ -209,33 +220,37 @@ Your script will run when a new event is created.
 Your script will run when a new lead is created.
 {% endhint %}
 
-#### 📤 Outputs
+#### 📤Outputs
 
-* Lead ID
-  * Click [here](../modules/salesforce.md#object-ids) for more information about object IDs.
-* Lead Name
-* Lead Salutation
-* Lead Status
-* Lead Company
-* Lead Title
-* Lead Source
-* Lead Industry
-* Lead Annual Revenue
-* Lead Phone
-* Lead Mobile
-* Lead Fax
-* Lead Email
-* Lead Website
-* Lead Rating
-* Lead No. of Employees
-* Lead Street
-* Lead City
-* Lead State
-* Lead Zipcode
-* Lead Country
-* Lead Description
+```graphql
+Lead = {  
+          id          : String,
+          name        : String,
+          salutation  : String,
+          status      : String,
+          company     : String,
+          title       : String,
+          source      : String,
+          industry    : String,
+          annual_rev  : Number,
+          phone       : String,
+          mobile      : String,
+          fax         : String,
+          email       : String,
+          website     : String,
+          rating      : String,
+          employees   : Int,
+          street      : String,
+          city        : String,
+          state       : String,
+          zip         : String,
+          country     : String,
+          description : String 
+}
+```
+
 * JSON Data
-  * Raw JSON data received from the API.
+  * Raw JSON data received from the API
 
 ### 🗒 New Note
 
@@ -247,15 +262,18 @@ Your script will run when a new note is created.
 
 #### 📤 Outputs
 
-* Note ID
-  * Click [here](../modules/salesforce.md#object-ids) for more information about object IDs.
-* Note Title
-* Note Body
-* Note Private
-* Note Parent ID
-  * Click [here](../modules/salesforce.md#object-ids) for more information about object IDs.
+```graphql
+Note = {  
+          id         : String,
+          title      : String,
+          body       : String,
+          is_private : String,
+          parent_id  : String 
+}
+```
+
 * JSON Data
-  * Raw JSON data received from the API.
+  * Raw JSON data received from the API
 
 ### ✨ New Opportunity
 
@@ -265,26 +283,28 @@ Your script will run when a new note is created.
 Your script will run when a new opportunity is created.
 {% endhint %}
 
-#### 📤 Outputs
+#### 📤Outputs
 
-* Opportunity ID
-  * Click [here](../modules/salesforce.md#object-ids) for more information about object IDs.
-* Opportunity Private
-* Opportunity Name
-* Opportunity Close Date
-* Opportunity Stage
-* Opportunity Account ID
-  * Click [here](../modules/salesforce.md#object-ids) for more information about object IDs.
-* Opportunity Type
-* Opportunity Lead Source
-* Opportunity Amount
-* Opportunity Next Step
-* Opportunity Probability
-* Opportunity Campaign ID
-  * Click [here](../modules/salesforce.md#object-ids) for more information about object IDs.
-* Opportunity Description
+```graphql
+Opportunity = {  
+                 id          : String,
+                 is_private  : String,
+                 name        : String,
+                 close_date  : Date,
+                 stage       : String,
+                 account_id  : String,
+                 type        : String,
+                 lead_source : String,
+                 amount      : Number,
+                 next_step   : String,
+                 probability : Number,
+                 campaign_id : String,
+                 description : String 
+}
+```
+
 * JSON Data
-  * Raw JSON data received from the API.
+  * Raw JSON data received from the API
 
 ### 📋 New Task
 
@@ -294,21 +314,23 @@ Your script will run when a new opportunity is created.
 Your script will run when a new task is created.
 {% endhint %}
 
-#### 📤 Outputs
+#### 📤Outputs
 
-* Task ID
-  * Click [here](../modules/salesforce.md#object-ids) for more information about object IDs.
-* Task Subject
-* Task Due Date
-* Task Priority
-* Task Status
-* Task Name ID
-  * Click [here](../modules/salesforce.md#object-ids) for more information about object IDs.
-* Task Related To ID
-  * Click [here](../modules/salesforce.md#object-ids) for more information about object IDs.
-* Task Description
+```graphql
+Task = {  
+          id          : String,
+          subject     : String,
+          due_date    : Date,
+          priority    : String,
+          status      : String,
+          name_id     : String,
+          related_to  : String,
+          description : String
+}
+```
+
 * JSON Data
-  * Raw JSON data received from the API.
+  * Raw JSON data received from the API
 
 ## ![](../../.gitbook/assets/salesforce.png) Object Updated
 
@@ -326,27 +348,29 @@ Your script will run when a Salesforce object is updated.
 Your script will run when a campaign is updated.
 {% endhint %}
 
-#### 📤 Outputs
+#### 📤Outputs
 
-* Campaign ID
-  * Click [here](../modules/salesforce.md#object-ids) for more information about object IDs.
-* Campaign Name
-* Campaign Active
-  * Indicates whether the campaign is currently active \(True/False\)
-* Campaign Type
-* Campaign Status
-* Campaign Start Date
-* Campaign End Date
-* Campaign Expected Revenue
-* Campaign Budgeted Cost
-* Campaign Actual Cost
-* Campaign Expected Response
-* Campaign Num Sent
-* Campaign Parent ID
-  * Click [here](../modules/salesforce.md#object-ids) for more information about object IDs.
-* Campaign Description
+```graphql
+Campaign = {
+             id                : String,
+             name              : String,
+             active            : String,
+             type              : String,
+             status            : String,
+             start_date        : Date,
+             end_date          : Date,
+             expected_rev      : Number,
+             budgeted_cost     : Number,
+             actual_cost       : Number,
+             expected_response : Number,
+             num_sent          : Number,
+             parent_id         : String,
+             description       : String
+}
+```
+
 * JSON Data
-  * Raw JSON data received from the API.
+  * Raw JSON data received from the API
 
 ### 💼 Case Updated
 
@@ -356,27 +380,29 @@ Your script will run when a campaign is updated.
 Your script will run when a case is updated.
 {% endhint %}
 
-#### 📤 Outputs
+#### 📤Outputs
 
-* Case ID
-  *  Click [here](../modules/salesforce.md#object-ids) for more information about object IDs.
-* Case Subject
-* Case Status
-* Case Origin
-* Case Contact ID
-  * Click [here](../modules/salesforce.md#object-ids) for more information about object IDs.
-* Case Account ID
-  * Click [here](../modules/salesforce.md#object-ids) for more information about object IDs.
-* Case Type
-* Case Reason
-* Case Priority
-* Case Web Email
-* Case Web Name
-* Case Web Company
-* Case Web Phone
-* Case Description
+```graphql
+Case = { 
+         id          : String,
+         subject     : String,
+         status      : String,
+         origin      : String,
+         contact     : String,
+         account_id  : String,
+         type        : String,
+         reason      : String,
+         priority    : String,
+         web_email   : String,
+         web_name    : String,
+         web_company : String,
+         web_phone   : String,
+         description : String
+}
+```
+
 * JSON Data
-  * Raw JSON data received from the API.
+  * Raw JSON data received from the API
 
 ### 🕵 Lead Updated
 
@@ -386,33 +412,37 @@ Your script will run when a case is updated.
 Your script will run when a lead is updated.
 {% endhint %}
 
-#### 📤 Outputs
+#### 📤Outputs
 
-* Lead ID
-  * Click [here](../modules/salesforce.md#object-ids) for more information about object IDs.
-* Lead Name
-* Lead Salutation
-* Lead Status
-* Lead Company
-* Lead Title
-* Lead Source
-* Lead Industry
-* Lead Annual Revenue
-* Lead Phone
-* Lead Mobile
-* Lead Fax
-* Lead Email
-* Lead Website
-* Lead Rating
-* Lead No. of Employees
-* Lead Street
-* Lead City
-* Lead State
-* Lead Zipcode
-* Lead Country
-* Lead Description
+```graphql
+Lead = {  
+          id          : String,
+          name        : String,
+          salutation  : String,
+          status      : String,
+          company     : String,
+          title       : String,
+          source      : String,
+          industry    : String,
+          annual_rev  : Number,
+          phone       : String,
+          mobile      : String,
+          fax         : String,
+          email       : String,
+          website     : String,
+          rating      : String,
+          employees   : Int,
+          street      : String,
+          city        : String,
+          state       : String,
+          zip         : String,
+          country     : String,
+          description : String 
+}
+```
+
 * JSON Data
-  * Raw JSON data received from the API.
+  * Raw JSON data received from the API
 
 ### ✨ Opportunity Updated
 
@@ -422,26 +452,28 @@ Your script will run when a lead is updated.
 Your script will run when an opportunity is updated.
 {% endhint %}
 
-#### 📤 Outputs
+#### 📤Outputs
 
-* Opportunity ID
-  * Click [here](../modules/salesforce.md#object-ids) for more information about object IDs.
-* Opportunity Private
-* Opportunity Name
-* Opportunity Close Date
-* Opportunity Stage
-* Opportunity Account ID
-  * Click [here](../modules/salesforce.md#object-ids) for more information about object IDs.
-* Opportunity Type
-* Opportunity Lead Source
-* Opportunity Amount
-* Opportunity Next Step
-* Opportunity Probability
-* Opportunity Campaign ID
-  * Click [here](../modules/salesforce.md#object-ids) for more information about object IDs.
-* Opportunity Description
+```graphql
+Opportunity = {  
+                 id          : String,
+                 is_private  : String,
+                 name        : String,
+                 close_date  : Date,
+                 stage       : String,
+                 account_id  : String,
+                 type        : String,
+                 lead_source : String,
+                 amount      : Number,
+                 next_step   : String,
+                 probability : Number,
+                 campaign_id : String,
+                 description : String 
+}
+```
+
 * JSON Data
-  * Raw JSON data received from the API.
+  * Raw JSON data received from the API
 
 ### 📋 Task Updated
 
@@ -451,19 +483,21 @@ Your script will run when an opportunity is updated.
 Your script will run when a task is updated.
 {% endhint %}
 
-#### 📤 Outputs
+#### 📤Outputs
 
-* Task ID
-  * Click [here](../modules/salesforce.md#object-ids) for more information about object IDs.
-* Task Subject
-* Task Due Date
-* Task Priority
-* Task Status
-* Task Name ID
-  * Click [here](../modules/salesforce.md#object-ids) for more information about object IDs.
-* Task Related To ID
-  * Click [here](../modules/salesforce.md#object-ids) for more information about object IDs.
-* Task Description
+```graphql
+Task = {  
+          id          : String,
+          subject     : String,
+          due_date    : Date,
+          priority    : String,
+          status      : String,
+          name_id     : String,
+          related_to  : String,
+          description : String
+}
+```
+
 * JSON Data
-  * Raw JSON data received from the API.
+  * Raw JSON data received from the API
 
