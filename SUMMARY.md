@@ -93,7 +93,6 @@
   * [HTML](library/modules/html.md)
   * [HTTP Response](library/modules/http-response.md)
   * [Hunter.io](library/modules/hunter.io.md)
-  * [Images](library/modules/images.md)
   * [Java](library/modules/java/README.md)
     * [Java Packages](library/modules/java/packages.md)
   * [JavaScript](library/modules/javascript.md)

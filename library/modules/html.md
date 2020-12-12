@@ -25,7 +25,7 @@ HTML steps are pre-loaded with all of the tags that you need to get started buil
 ![Drag variables from other modules into your HTML.](../../.gitbook/assets/screen-shot-2020-01-23-at-3.05.47-pm.png)
 
 {% hint style="info" %}
-Include [CSS](css.md) and [JavaScript](javascript.md) outputs inline using the provided tags. You can also [import Images](images.md) and reference their URLs in an `<img>` tag.
+Include [CSS](css.md) and [JavaScript](javascript.md) outputs inline using the provided tags. You can also [import Images]() and reference their URLs in an `<img>` tag.
 {% endhint %}
 
 ## 📤 Outputs
