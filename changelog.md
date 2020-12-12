@@ -4,6 +4,12 @@ description: Updates and improvements to the WayScript platform.
 
 # What's New?
 
+## December 11th, 2020
+
+* 📂 Announcing the launch of our file system! With this system, every user gets a file directory for their scripts and you can reference this folder environment in your code. For example, if you create a file in [Python](library/modules/python/) code, that file will persist and you can utilize it in WayScript modules. Please check it out and let us know what you think!
+
+![When you realize you can store and preview all your favorite gifs in WayScript...](https://media.giphy.com/media/nJssoM7PcOQ38SQCgV/giphy.gif)
+
 ## December 8th, 2020
 
 * The following modules and triggers have had their outputs transformed into [Structs](getting_started/variables.md#structs), to better align with the rest of the system:
