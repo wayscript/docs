@@ -4,6 +4,10 @@ description: Updates and improvements to the WayScript platform.
 
 # What's New?
 
+## January 20th, 2021
+
+* 🎨 We've launched an updated look-and-feel for the site, with a more streamlined color palette! Let us know what you think!
+
 ## December 11th, 2020
 
 * 📂 Announcing the launch of our file system! With this system, every user gets a file directory for their scripts and you can reference this folder environment in your code. For example, if you create a file in [Python](library/modules/python/) code, that file will persist and you can utilize it in WayScript modules. Please check it out and let us know what you think!
