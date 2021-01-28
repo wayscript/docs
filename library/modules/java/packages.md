@@ -1,5 +1,5 @@
 ---
-description: WayScript is running Java 14
+description: WayScript is running Java 15
 ---
 
 # Java Packages
