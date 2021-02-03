@@ -55,6 +55,7 @@
   * [Print To Log](library/logic/print-to-log.md)
   * [Sleep](library/logic/sleep.md)
   * [Text Actions](library/logic/text-actions.md)
+  * [Variable has Changed](library/logic/variable-has-changed.md)
   * [Variable Storage](library/logic/variable-storage.md)
 * [Modules](library/modules/README.md)
   * [Airtable](library/modules/airtable.md)
