@@ -129,6 +129,37 @@ Account_Events = {
 }
 ```
 
+### 💵 View Payouts
+
+```graphql
+Account_Payouts = [
+        {
+        id                                  : String,
+        object                              : String,
+        amount                              : Float,
+        arrival_date                        : Int,
+        automatic                           : Bool,
+        balance_transaction                 : String,
+        created                             : Int,
+        currency                            : String,
+        description                         : String,
+        destination                         : String,
+        failure_balance_transaction         : String,
+        failure_code                        : String,
+        failure_message                     : String,
+        livemode                            : Bool,
+        method                              : String,
+        original_payout                     : String,
+        reversed_by                         : String,
+        source_type                         : String,
+        statement_descriptor                : String,
+        status                              : String,
+        type                                : String
+        }
+    ]
+
+```
+
 ## 🎓 Tutorial
 
 {% embed url="https://www.youtube.com/watch?v=Upi-Z7E5H20" caption="" %}
