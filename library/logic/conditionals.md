@@ -10,78 +10,57 @@ For an overview on conditionals in WayScript, refer to the [Introduction to Cond
 
 You will use this block to define a logic expression.
 
-To create a logic expression, you will typically define values for the two Variable fields and then select how you want to compare them using the Comparison field.
+To create a logic expression, you will typically compare two variables or values. This is done by using python syntax:
 
-![The Condition Block consists of a Variable and a Comparison \(often to the value of another Variable\).](../../.gitbook/assets/screen-shot-2019-08-22-at-9.58.37-am.png)
+![](../../.gitbook/assets/conditionalsetup.png)
 
 {% hint style="info" %}
-Some comparisons, such as "Has Increased," "Has Decreased," "Has a Value," or "Does Not Have a Value," do not require a second variable input.
-{% endhint %}
-
-## 🔎 Comparison Field
-
-After defining a value for the first Variable, you can select an option for the Comparison field.
-
-![Select a Comparison Option](../../.gitbook/assets/screen-shot-2019-08-22-at-10.00.00-am.png)
-
-{% hint style="warning" %}
-You will not be able to select a value for the Comparison field until a value for the first Variable has been defined.
+Default is True, leaving True will result in the statement always evaluating to True so the if side of the conditional above will execute. False is also a valid input which results in the else side executing. 
 {% endhint %}
 
 ### 🔢 Number Comparison Options
 
-* Is The Same As
-* Is Not The Same As
-* Is Greater Than
-* Is Greater Than or Equal To
-* Is Less Than
-* Is Less Than or Equal To
-* Has Changed By
-* Has Not Changed By
-* Has Increased By
-* Has Decreased By
-* Has a Value
-* Does Not Have a Value
+The conditionals logic follows python syntax. Here are some options:
 
-### 🔤 Text and List Comparison Options
+```text
+Number == 4     #Check if Number is Equal to 4
+Number != 4     #Check if Number is Not Equal to 4
+Number > 4      #Check if Number is greater than 4
+Number < 4      #Check if Number is less than 4
+Number >= 4     #Check if Number is greater than or equal to 4
+Number <= 4     #Check if Number is less than or equal to 4
+```
 
-* Is The Same As
-* Is Not The Same As
-* Contains
-* Is Contained In
-* Is Not Contained In
-* Shares any Items With
-* Has Any Items
-* Has Changed
-* Has Not Changed
-* Has a Value
-* Does Not Have a Value
+### 🔤 Text Comparison Options
+
+Conditionals follow python syntax and options. There are several options for strings and lists:
+
+```text
+==      #Check if strings equal
+!=      #Check if strings not equal
+in      #Check if string is in another string
+```
 
 ### 📆 Date Comparison Options
 
-* Is The Same As
-* Is Before
-* Is After
-* Has Changed By
-* Has Not Changed By
-* Has a Value
-* Does Not Have a Value
+Date comparisons in python follow the same syntax as number comparisons.
 
-### 🔠 Case Sensitive Comparison
+```text
+==      #Check if dates equal
+!=      #Check if dates not equal
+>       #Check if date is after 
+<       #Check if date is before
+>=      #Check if date is after or equal
+<=      #Check if date is before or equal
+```
 
-For non-Number fields, you will have the option to compare in a Case Sensitive manner. \(Default comparison is Case Insensitive.\)
+### 🔠 Case Sensitive 
 
-![](../../.gitbook/assets/screen-shot-2019-07-16-at-9.05.14-pm.png)
+Following python syntax, comparisons are case sensitive and will evaluate false if two strings have different capitalization. Python string methods such as .lower\(\) and .upper\(\) can be useful if you want to avoid case sensitivity.
 
 ### 📈 "Changed By" Comparisons
 
-For "Changed By," "Increased/Decreased By," and similar comparisons, you can optionally choose the amount by which you want to check the value has changed. You can also choose whether to compare to the Original Value of the variable, or the Last \(most recent\) Value.
-
-![](../../.gitbook/assets/screen-shot-2019-08-22-at-10.01.50-am.png)
-
-{% hint style="info" %}
-To see the "Since" field, click the "Show Advanced Settings" checkbox.
-{% endhint %}
+Please see the "Has changed" Module for comparisons used in conjunction with "has changed" or "changed by" logic.
 
 ## \*\*\*\*➕ **Adding Multiple Conditions**
 
@@ -92,7 +71,7 @@ By pressing the **+ Add Condition** button, you can add additional conditions.
 * **And:** Use if you want your expression to evaluate to `True` only when _**both**_ conditions are `True`.
 * **Or:** Use if you want your expression to evaluate to `True` when _**at least one**_ of your conditions are `True`.
 
-![](../../.gitbook/assets/screen-shot-2019-08-22-at-10.09.45-am.png)
+![](../../.gitbook/assets/or_statement.png)
 
 ## ![](../../.gitbook/assets/conditional.png) **If / Else-If / Else**
 
@@ -102,21 +81,9 @@ The **Else-If** branch will run if the proceeding logic expression evaluates to 
 
 The **Else** branch will run if all of the proceeding logic expressions evaluate to `False`.
 
-![](../../.gitbook/assets/screen-shot-2019-08-22-at-10.13.17-am.png)
+![](../../.gitbook/assets/else_if_branch.png)
 
-In the image above, if Temperature is greater than or equal to 90, the first branch will run. Otherwise, if the temperature is less than or equal to 65, the second branch will run. Finally, if the temperature is less than 90, but greater than 65, the else branch will run.
+In the above image, our variable Number is equal to 4. Since we first evaluate the left most branch \( the if statement \) we see that our Number is not greater than 10. Therefore this evaluates as false and then we move right to the Else If branch. This branch checks to see if Number is equal to 5. Since Number is 4, this evaluates as false and our else branch is True. 
 
-Click the **+ Add "Else If"** button to add more Else-If conditions.
-
-![](../../.gitbook/assets/screen-shot-2019-08-22-at-10.16.57-am.png)
-
-## \*\*\*\*🌤 **Example**
-
-In the below example, if the value of the variable "Temperature" is between 65 and 90, then the program will print _"It's a nice day!"_.
-
-Else, if the "Temperature" variable is outside of this range, then the program will print _"It's too cold!"_.
-
-The program will then continue to run the rest of the modules following the If / Else statement.
-
-![](../../.gitbook/assets/example%20%281%29.png)
+![](../../.gitbook/assets/2021-01-13-14-46-26_2.gif)
 
