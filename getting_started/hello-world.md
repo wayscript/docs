@@ -6,7 +6,7 @@
 
 On the dashboard, click **Create a new script** and name your script 'Hello World'. Press **Create** to start building your script.
 
-![Press the Create button to get started with your new script.](../.gitbook/assets/screen-shot-2019-10-21-at-7.55.08-pm.png)
+![](../.gitbook/assets/helloworld%20%281%29.png)
 
 When you press Create, you are brought into the WayScript program builder.
 
@@ -14,17 +14,17 @@ When you press Create, you are brought into the WayScript program builder.
 
 Drag the '[Print To Log](../library/logic/print-to-log.md)' [Module](../library/modules/) from your [Logic](../library/logic/) panel to your Flow Diagram.
 
-![](../.gitbook/assets/screenshot-2019-07-15-11.53.38.png)
+![](../.gitbook/assets/printtolog.png)
 
 Enter **'Hello World!'** as the input to the [Print to Log](../library/logic/print-to-log.md) module.
 
-![](../.gitbook/assets/screenshot-2019-07-15-12.00.25.png)
+![](../.gitbook/assets/input-contents.png)
 
 ### ▶ Run Your Program
 
 **Press the Run Main button** to run your program in the cloud. 'Hello World!' will print to the program log.
 
-![Press &apos;Run Main&apos; on your Flow Diagram, and your program runs.](../.gitbook/assets/screenshot-2019-07-15-12.05.30.png)
+![](../.gitbook/assets/helloworld_run.gif)
 
 \*\*\*\*🎉 **Congratulations** on running your first WayScript program!
 
