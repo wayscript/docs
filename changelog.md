@@ -4,6 +4,42 @@ description: Updates and improvements to the WayScript platform.
 
 # What's New?
 
+## February 3, 2021
+
+#### 🚀 Major updates
+
+* We made quite a few changes to WayScript’s internal [Code Editors ](getting_started/code-editors.md)to improve the experience of manipulating code in Python, JavaScript, or any of our supported languages.
+  * We changed our process of saving to make it much easier to highlight, cut, and paste text within the editor while the WayScript platform saves your code automatically.
+  * We added an indicator to show matching brackets near your cursor, and you can now auto-generate closing brackets `() {} “” ‘’` .
+  * We added the ability to select multiple instances of the same text through multiple cursors.
+    * `Cmd/Ctrl + D` : Select all instances of the selected text
+    * `Cmd/Ctrl + K` : Skip instance of selected text
+  * We added functionality to search and replace text.
+    * `Cmd/Ctrl + F` : Start searching for selected text
+    * `Cmd/Ctrl + G` : Find next instance of selected text
+    * `Shift + Cmd/Ctrl + G` : Find previous instance of selected text
+    * `Shift + Cmd/Ctrl + F` : Replace selected instance with new text
+    * `Shift+ Ctrl+ R` / `Shift + Cmd + Option + F`  - Replace all instances with new text
+* We redesigned our [Conditionals](library/logic/conditionals.md) modules to make it easier to write conditional statements in the Settings panel.
+  * You can now use syntax like `not` and `()`  to create more robust conditions in your Logic modules.
+  * **Note:** Comparing string variables in our new conditional statements is now an exact match \(case sensitive and including leading and trailing spaces\). To replicate previous behavior, you need to update your conditional statement to include `<variable_name>.strip().lower()` for each string variable.
+* WayScript’s File System continues to get better each and every week. Based on user feedback, we’ve added support for accessing your file system in code modules using “absolute” paths starting with `/<username>`. For example, you can now reference a file in Python with a reference such as, `data = open(’/test_user/file.txt’).read()`
+* If you received runtime credit from our WayScript team, it should now be visible on your Account Settings page along with your monthly runtime remaining and storage remaining. All users on the Hero tier receive 30-minutes of runtime per month and 50 MB of storage, but you can upgrade to our Superhero tier to receive unlimited runtime and storage.
+
+#### 🔄 Module refinements
+
+* ![](.gitbook/assets/has_changed.png) We created a new [Variable has Changed](library/logic/variable-has-changed.md) Logic module to help you simply track if a WayScript variable in your script has been modified between script runs.
+* ![](.gitbook/assets/trello.png) When using our[ Trello Trigger](library/triggers/trello-trigger.md), the Change\_List and Changed\_Card structs now output the correct values.
+* ![](.gitbook/assets/stripe.png) The [Stripe](library/modules/stripe.md) module now supports outputting [payouts](https://stripe.com/docs/payouts).
+* ![](.gitbook/assets/java_code.png) New [Java Package](library/modules/java/packages.md) dependencies now install significantly faster.
+
+#### 🐞 Additional improvements
+
+* We fixed a few occasional issues around running functions and stopping running instances of functions.
+* We fixed scattered issues around authenticating and deleting your Linked Accounts through the Settings panel.
+* We investigated some issues causing slow performance, so the WayScript platform should feel more responsive and have fewer disconnects.
+* Our Discord widget should be back up and running. We’d love to have you in our Discord community if you haven’t yet joined; it’s the fastest way to get answers to any questions you have while building on the WayScript platform.
+
 ## January 20th, 2021
 
 * 🎨 We've launched an updated look-and-feel for the site, with a more streamlined color palette! Let us know what you think!
