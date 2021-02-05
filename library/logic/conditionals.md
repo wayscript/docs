@@ -58,6 +58,28 @@ Date comparisons in python follow the same syntax as number comparisons.
 
 Following python syntax, comparisons are case sensitive and will evaluate false if two strings have different capitalization. Python string methods such as .lower\(\) and .upper\(\) can be useful if you want to avoid case sensitivity.
 
+### ✔ Checking for Values
+
+Checking a variable for containing a value can be done in python by `if <var>:` Similarly, with the conditional module we can check a variable containing a value by dragging it into the conditional blank:
+
+![](../../.gitbook/assets/sample_list_check.png)
+
+In this example, if `sample_list` contains a value, the conditional will return true. 
+
+The `not` keyword can be used to check for the emptiness of a list or dictionary. 
+
+![](../../.gitbook/assets/conditional_with_not.png)
+
+In this example, since `sample_list` does not contain any values, our conditional expression will evaluate as true. 
+
+### ➕ Parenthesis
+
+Conditional modules support the use of parenthesis to use an order of operations while evaluating. 
+
+![Returns True since both variables contain a value and one condition is met in the first set of parenthesis.](../../.gitbook/assets/parenthesis_example.png)
+
+
+
 ### 📈 "Changed By" Comparisons
 
 Please see the "Has changed" Module for comparisons used in conjunction with "has changed" or "changed by" logic.
