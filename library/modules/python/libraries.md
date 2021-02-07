@@ -132,6 +132,7 @@ If you need a Python library that isn't currently available, you can declare add
 * [google-pasta](https://github.com/google/pasta)
 * [google-resumable-media](https://googleapis.github.io/google-resumable-media-python/latest/)
 * [googleapis-common-protos](https://pypi.org/project/googleapis-common-protos/)
+* [googlemaps](https://sourceforge.net/projects/py-googlemaps/)
 * [goose3](https://goose3.readthedocs.io/en/latest/index.html)
 * [graphviz](https://graphviz.readthedocs.io/en/stable/manual.html)
 * [greenlet](https://greenlet.readthedocs.io/en/latest/)
