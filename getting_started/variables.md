@@ -9,7 +9,7 @@ Drag the [Create Variable](../library/logic/create-variable.md) module into your
 WayScript will automatically display the Settings Panel for your [Create Variable](../library/logic/create-variable.md) step. This is where you are going to set up your variable.
 
 ![](../.gitbook/assets/variable.png)
-##
+
 ## ⚙ Single Item
 
 For this example, we are going to assign a **Variable Name** called "Location" and set the **Variable Value** to "Brooklyn, NY". Feel free to put in your own location instead.
@@ -48,7 +48,7 @@ Your Grocery List is now a variable that can be used in your program.
 
 ## Structs
 
-With WayScript, you will often be working with Structs. These datatypes are the equivalent of a [Python Dictionary](https://www.w3schools.com/python/python_dictionaries.asp). Structs allow for nesting and can hold other variables. 
+With WayScript, you will often be working with Structs. These datatypes are the equivalent of a [Python Dictionary](https://www.w3schools.com/python/python_dictionaries.asp). Structs allow for nesting and can hold other variables.
 
 ![](../.gitbook/assets/struct_new.png)
 
@@ -58,7 +58,7 @@ In order to access key/values within the Struct, use our **Dot Syntax**.
 
 ![Dot Syntax](../.gitbook/assets/struct_variable.png)
 
-You can access values within the struct by using '.' to move to the next level in the struct. 
+You can access values within the struct by using '.' to move to the next level in the struct.
 
 ## Common Variable Types
 
@@ -78,7 +78,7 @@ pi = 3.14
 
 ```python
 yes = True
-no  = False 
+no  = False
 ```
 
 ### Null / None

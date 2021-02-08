@@ -16,11 +16,11 @@ Check out the [Modules](../library/modules/) section of the Docs for detailed in
 
 📦 WayScript integrates third party APIs allowing you to leverage these applications and tools as steps in your assembly line.
 
-📧 As an introduction, we are going to build a program that pulls the current temperature for a location and sends you an email with the data.  
+📧 As an introduction, we are going to build a program that pulls the current temperature for a location and sends you an email with the data.
 
 ## ☝ Select Your Module
 
-In order to get the temperature, we are going to use the [Weather API Module](../library/modules/weather-api.md). ****Select this module from your Modules Panel and drag it into your flow diagram. 
+In order to get the temperature, we are going to use the [Weather API Module](../library/modules/weather-api.md). _\*\*_Select this module from your Modules Panel and drag it into your flow diagram.
 
 ![](../.gitbook/assets/weather_drag.png)
 
@@ -28,7 +28,7 @@ In order to get the temperature, we are going to use the [Weather API Module](..
 
 ![](../.gitbook/assets/weather_location.png)
 
-Notice the three sections of this module - Settings, Inputs, and Outputs. When setting up a module, you should start from the top and work your way down to the bottom. 
+Notice the three sections of this module - Settings, Inputs, and Outputs. When setting up a module, you should start from the top and work your way down to the bottom.
 
 ### ⚙ Settings
 
@@ -44,7 +44,7 @@ If the module requires authentication \(for example, Gmail requires you to log i
 
 ![The Red Star means this input is required.](../.gitbook/assets/weather_input.png)
 
-In the Inputs Section, the module requires a [Location](../library/modules/weather-api.md#inputs): the location to find the temperature for. This is comparable to being on a weather website and typing in your location to get the forecast. 
+In the Inputs Section, the module requires a [Location](../library/modules/weather-api.md#inputs): the location to find the temperature for. This is comparable to being on a weather website and typing in your location to get the forecast.
 
 {% hint style="info" %}
 The red asterisk indicates that his is input is **required** for the module to run.
@@ -54,13 +54,13 @@ There are two options for correctly setting up your Location input.
 
 #### Insert a Variable
 
-We can [create a text variable](variables.md) _before_ the Weather Step in our program flow. Once again think about an assembly line - the variable needs to be created before it can used by a future step in the program. If we do that, the variable will become accessible to us in the input dropdown. 
+We can [create a text variable](variables.md) _before_ the Weather Step in our program flow. Once again think about an assembly line - the variable needs to be created before it can used by a future step in the program. If we do that, the variable will become accessible to us in the input dropdown.
 
 ![](../.gitbook/assets/weather_input_from_variables.png)
 
 #### Hardcode a Value
 
-A second option is to just type in the location you are looking for. Hardcoding is a useful feature if you don't need the Location to be a variable. This would be the case if you do not need to reference the variable anywhere else in your program. 
+A second option is to just type in the location you are looking for. Hardcoding is a useful feature if you don't need the Location to be a variable. This would be the case if you do not need to reference the variable anywhere else in your program.
 
 ![Hardcoded values are purple](../.gitbook/assets/weather_input_location.png)
 

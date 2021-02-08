@@ -16,6 +16,7 @@
 * [Conditionals](getting_started/conditionals.md)
 * [Functions](getting_started/functions.md)
 * [Code Editors](getting_started/code-editors.md)
+* [File System](getting_started/file-system.md)
 * [Sharing](getting_started/sharing.md)
 * [Debugging](getting_started/debugging.md)
 * [Helpful Settings](getting_started/helpful-settings.md)

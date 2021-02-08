@@ -6,7 +6,7 @@ description: >-
 
 # Trello Trigger
 
-![Run your script when changes are made to your Trello boards, lists, and cards.](../../.gitbook/assets/trello.png)
+![Run your script when changes are made to your Trello boards, lists, and cards.](../../.gitbook/assets/trello%20%281%29%20%282%29.png)
 
 {% hint style="info" %}
 To get data from Trello or automate creating new cards, use the [Trello module](../modules/trello.md).

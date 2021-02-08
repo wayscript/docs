@@ -40,7 +40,7 @@ When a step is triggered, or when you press the "Run Code" button, the active fi
 
 ### ↘ Importing Code from Other Files
 
-In the [Python](../library/modules/python/#importing-code-from-other-files) and [JavaScript](../library/modules/javascript.md#importing-code-from-other-files) modules, you can import code from other files. Refer to the documentation for those modules for details.
+In the [Python](../library/modules/python/#importing-code-from-other-files) and [JavaScript](../library/modules/javascript.md#importing-code-from-other-files) modules, you can import code from other files. Refer to the documentation for those modules for more details.
 
 ## 👩💻 Code Modules
 

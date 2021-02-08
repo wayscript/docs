@@ -29,7 +29,7 @@ description: Updates and improvements to the WayScript platform.
 #### 🔄 Module refinements
 
 * ![](.gitbook/assets/has_changed.png) We created a new [Variable has Changed](library/logic/variable-has-changed.md) Logic module to help you simply track if a WayScript variable in your script has been modified between script runs.
-* ![](.gitbook/assets/trello.png) When using our[ Trello Trigger](library/triggers/trello-trigger.md), the Change\_List and Changed\_Card structs now output the correct values.
+* ![](.gitbook/assets/trello%20%281%29%20%282%29.png) When using our[ Trello Trigger](library/triggers/trello-trigger.md), the Change\_List and Changed\_Card structs now output the correct values.
 * ![](.gitbook/assets/stripe.png) The [Stripe](library/modules/stripe.md) module now supports outputting [payouts](https://stripe.com/docs/payouts).
 * ![](.gitbook/assets/java_code.png) New [Java Package](library/modules/java/packages.md) dependencies now install significantly faster.
 
@@ -55,17 +55,17 @@ description: Updates and improvements to the WayScript platform.
 * The following modules and triggers have had their outputs transformed into [Structs](getting_started/variables.md#structs), to better align with the rest of the system:
   * ![](.gitbook/assets/dropbox.png) [Dropbox](library/modules/dropbox.md)
   * ![](.gitbook/assets/mailchimp%20%281%29.png) [Mailchimp](library/modules/mailchimp.md)
-  * ![](.gitbook/assets/scryfall%20%282%29.png) [Scryfall](library/modules/scryfall.md)
+  * ![](.gitbook/assets/scryfall%20%282%29%20%282%29.png) [Scryfall](library/modules/scryfall.md)
   * ![](.gitbook/assets/spotify%20%282%29%20%281%29.png) [Spotify](library/modules/spotify.md)
-  * ![](.gitbook/assets/trello.png) [Trello](library/modules/trello.md)
+  * ![](.gitbook/assets/trello%20%281%29%20%282%29.png) [Trello](library/modules/trello.md)
   * ![](.gitbook/assets/twitch.png) [Twitch](library/modules/twitch.md)
   * ![](.gitbook/assets/twitter.png) [Twitter](library/modules/twitter.md)
   * ![](.gitbook/assets/site_siftter%20%281%29.png) [Website Searcher](library/modules/website-searcher.md)
   * ![](.gitbook/assets/wikipedia%20%281%29.png) [Wikipedia](library/modules/wikipedia.md)
   * ![](.gitbook/assets/word.png) [Word](library/modules/word.md)
-  * ![](.gitbook/assets/github.png) [Github Trigger](library/triggers/github-trigger.md)
+  * ![](.gitbook/assets/github%20%282%29%20%282%29%20%282%29.png) [Github Trigger](library/triggers/github-trigger.md)
   * ![](.gitbook/assets/salesforce.png) [Salesforce Trigger](library/triggers/salesforce-trigger.md)
-  * ![](.gitbook/assets/trello.png) [Trello Trigger](library/triggers/trello-trigger.md)
+  * ![](.gitbook/assets/trello%20%281%29%20%282%29.png) [Trello Trigger](library/triggers/trello-trigger.md)
 
 ## December 2nd, 2020
 
@@ -78,7 +78,7 @@ description: Updates and improvements to the WayScript platform.
 
 ## October 28th, 2020
 
-* ![](.gitbook/assets/http%20%281%29%20%281%29.png) We have added [additional metadata](library/triggers/http-trigger.md#http-metadata) to the HTTP Trigger.
+* ![](.gitbook/assets/http%20%282%29%20%281%29.png) We have added [additional metadata](library/triggers/http-trigger.md#http-metadata) to the HTTP Trigger.
 
 ## October 6th, 2020
 
@@ -98,7 +98,7 @@ description: Updates and improvements to the WayScript platform.
 
 ## August 27th, 2020
 
-* ![](.gitbook/assets/http%20%281%29.png) The [HTTP Response](library/modules/http-response.md) module now allows returning XML content, with a text/xml MIME type.
+* ![](.gitbook/assets/http%20%282%29.png) The [HTTP Response](library/modules/http-response.md) module now allows returning XML content, with a text/xml MIME type.
 
 ## August 19th, 2020
 

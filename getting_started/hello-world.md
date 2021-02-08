@@ -6,7 +6,7 @@
 
 On the dashboard, click **Create a new script** and name your script 'Hello World'. Press **Create** to start building your script.
 
-![](../.gitbook/assets/helloworld%20%281%29.png)
+![](../.gitbook/assets/helloworld%20%281%29%20%281%29.png)
 
 When you press Create, you are brought into the WayScript program builder.
 

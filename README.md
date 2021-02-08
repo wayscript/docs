@@ -1,6 +1,6 @@
 # About
 
-## ![](.gitbook/assets/super.png) What is WayScript?
+## ![](.gitbook/assets/super%20%282%29.png) What is WayScript?
 
 🦸 WayScript is a rapid development platform built to give you superpowers.
 
