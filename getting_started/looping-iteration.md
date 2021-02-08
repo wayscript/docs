@@ -18,7 +18,7 @@ The power of looping is easiest to demonstrate with an example.
 
 In this example, we build the same grocery list variable from the [WayScript Lists documentation](variables.md#lists). 
 
-![Varialbes outlined in blue are lists.](../.gitbook/assets/loop_2.png)
+![Variables outlined in blue are lists.](../.gitbook/assets/loop_2.png)
 
 ### ![](../.gitbook/assets/loop.png) Create a Loop
 
