@@ -8,7 +8,7 @@ You can get a full list of all Triggers and their functionality in the [Library]
 
 ## What are Triggers?
 
-![](../.gitbook/assets/screenshot-2019-07-16-13.31.03.png)
+![](../.gitbook/assets/trigger_new.png)
 
 ▶ So far in this introduction, we have run our scripts by pressing the "Run Main" button. Whether you realized it or not - this button is a Trigger! 
 
@@ -22,5 +22,5 @@ A simple example of this is the [Time Trigger](../library/triggers/time-trigger.
 
 To add a trigger, press the **+** button next to Add Trigger. 
 
-![](../.gitbook/assets/screenshot-2019-07-16-13.37.54.png)
+![](../.gitbook/assets/trigger_adding_new.png)
 
