@@ -18,13 +18,13 @@ Like in other programming languages - **the names of variables matter**. Therefo
 
 In the image below, a new variable, 'Location2' has been created. Therefore, the 'Location' variable with value "Brooklyn, NY" still exists. 
 
-![There are Two Different Variables because they have different names.](../.gitbook/assets/diff_var_names.png)
+![There are Two Different Variables because they have different names.](../.gitbook/assets/two_variables.png)
 
 ### ✏ Overwrite Variable
 
 Below, at step 2, the value of 'Location' is "New York, NY". The starting value, "Brooklyn, NY" was overwritten since the same variable name was used.
 
-![Brooklyn, NY has been overwritten because this variable uses has the same name.](../.gitbook/assets/overwrite_var_name.png)
+![Brooklyn, NY has been overwritten because this variable uses has the same name.](../.gitbook/assets/variables_overwritten.png)
 
 
 
