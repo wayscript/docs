@@ -22,17 +22,17 @@ Check out the [Modules](../library/modules/) section of the Docs for detailed in
 
 In order to get the temperature, we are going to use the [Weather API Module](../library/modules/weather-api.md). ****Select this module from your Modules Panel and drag it into your flow diagram. 
 
-![](../.gitbook/assets/screenshot-2019-07-16-12.30.41.png)
+![](../.gitbook/assets/weather_drag.png)
 
 ## ✨ Setup Your Module
 
-![](../.gitbook/assets/screenshot-2019-07-16-12.58.33.png)
+![](../.gitbook/assets/weather_location.png)
 
 Notice the three sections of this module - Settings, Inputs, and Outputs. When setting up a module, you should start from the top and work your way down to the bottom. 
 
 ### ⚙ Settings
 
-![](../.gitbook/assets/screenshot-2019-07-16-12.59.51.png)
+![](../.gitbook/assets/weather_settings.png)
 
 Under Settings, we set up the options for our Module. In this case, the Weather API Module wants to know if we want our results returned in Fahrenheit, Celcius, or Kelvin.
 
@@ -42,7 +42,7 @@ If the module requires authentication \(for example, Gmail requires you to log i
 
 ### 📥 Inputs
 
-![The Red Star means this input is required.](../.gitbook/assets/screenshot-2019-07-16-13.07.21.png)
+![The Red Star means this input is required.](../.gitbook/assets/weather_input.png)
 
 In the Inputs Section, the module requires a [Location](../library/modules/weather-api.md#inputs): the location to find the temperature for. This is comparable to being on a weather website and typing in your location to get the forecast. 
 
@@ -56,19 +56,19 @@ There are two options for correctly setting up your Location input.
 
 We can [create a text variable](variables.md) _before_ the Weather Step in our program flow. Once again think about an assembly line - the variable needs to be created before it can used by a future step in the program. If we do that, the variable will become accessible to us in the input dropdown. 
 
-![](../.gitbook/assets/screenshot-2019-07-16-13.05.53.png)
+![](../.gitbook/assets/weather_input_from_variables.png)
 
 #### Hardcode a Value
 
 A second option is to just type in the location you are looking for. Hardcoding is a useful feature if you don't need the Location to be a variable. This would be the case if you do not need to reference the variable anywhere else in your program. 
 
-![Hardcoded values are purple](../.gitbook/assets/screenshot-2019-07-16-13.12.18.png)
+![Hardcoded values are purple](../.gitbook/assets/weather_input_location.png)
 
 #### A Note on Hardcoding
 
 Yes, you can mix variables with hardcoding! If I [created a variable](variables.md) called "State" and set it to "NY", I could then create the following input:
 
-![State is equal to &quot;NY&quot;](../.gitbook/assets/screenshot-2019-07-16-13.14.05.png)
+![State is equal to &quot;NY&quot;](../.gitbook/assets/weather_hardcoding.png)
 
 ### 📤 Outputs
 
