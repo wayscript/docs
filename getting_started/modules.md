@@ -74,7 +74,7 @@ Yes, you can mix variables with hardcoding! If I [created a variable](variables.
 
 When you select Outputs from your Module, they become variables that can be used in your program. These variables are like those created in the [Variables Tutorial ](variables.md)in that they can be [single items](variables.md#single-item) or [lists](variables.md#lists), and can be [different data types](variables.md#variable-types) such as text, numbers, dates, etc. Notice below how the selected outputs are now available in the Variables Panel.
 
-![](../.gitbook/assets/screenshot-2019-07-16-13.21.13.png)
+![](../.gitbook/assets/weather_outputs.png)
 
 ## Remove Module
 
@@ -82,29 +82,29 @@ There are two ways to remove a module.
 
 ### Drag to Trash Bin
 
-![](../.gitbook/assets/screen-shot-2019-07-26-at-1.42.13-pm.png)
+![](../.gitbook/assets/module_trash_updated.png)
 
 ### From Module Drawer
 
 When a module is selected or moused over, the module drawer will appear.
 
-![](../.gitbook/assets/screen-shot-2019-07-26-at-1.48.34-pm.png)
+![](../.gitbook/assets/module_drawer_new.png)
 
 ## Disable Module
 
 Disabling a module is convenient way to try out different program setups without having to redo work. When a module is disabled, WayScript will ignore it and any of its sub-steps.
 
-![](../.gitbook/assets/screen-shot-2019-07-26-at-1.58.31-pm.png)
+![](../.gitbook/assets/module_disable_new.png)
 
-![](../.gitbook/assets/screen-shot-2019-07-26-at-2.07.55-pm.png)
+![](../.gitbook/assets/module_disables_new.png)
 
 ## ![](../.gitbook/assets/comment_open.png) Add Comments to a Step
 
 To add comments to a step of your script, click the ![](../.gitbook/assets/comment.png) \(speech bubble\) icon to the right of the step.
 
-![When hovering over a step, the comments icon will appear to the right.](../.gitbook/assets/screen-shot-2019-08-30-at-4.59.13-pm.png)
+![When hovering over a step, the comments icon will appear to the right.](../.gitbook/assets/module_comment_new.png)
 
 This will open up a panel where you can view, add, and edit comments for that section of your script.
 
-![Comments Panel](../.gitbook/assets/screen-shot-2019-08-30-at-5.00.20-pm.png)
+![Comments Panel](../.gitbook/assets/module_comment_added.png)
 
