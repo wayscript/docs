@@ -18,17 +18,17 @@ For this example, we are going to assign a **Variable Name** called "Location" a
 
 After setup, your new variable will appear in the **Variables Panel.** You can now use this variable in your program.
 
-![All accessible variables are in your Variables Panel](../.gitbook/assets/screen-shot-2020-01-15-at-1.09.48-pm.png)
+![All accessible variables are in your Variables Panel](../.gitbook/assets/single_item_pill.png)
 
 ### Example of using a Single Item Variable
 
 Your variable is is available for reference at any future step in your program flow. In this example, we can now print a message which contains the Location variable.
 
-![](../.gitbook/assets/screen-shot-2020-01-15-at-1.11.09-pm.png)
+![](../.gitbook/assets/pill_location.png)
 
 You can begin typing the variable name to select it, or you can drag the variable from the Variable Panel into the Content to Print input.
 
-![Your variable data is printed when the program runs.](../.gitbook/assets/screenshot-2019-07-15-15.36.21.png)
+![Your variable data is printed when the program runs.](../.gitbook/assets/location_print.png)
 
 ## 📃 Lists
 
