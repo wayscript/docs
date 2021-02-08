@@ -8,9 +8,9 @@ Drag the [Create Variable](../library/logic/create-variable.md) module into your
 
 WayScript will automatically display the Settings Panel for your [Create Variable](../library/logic/create-variable.md) step. This is where you are going to set up your variable.
 
-![](../.gitbook/assets/screen-shot-2020-01-15-at-1.08.17-pm.png)
+![](../.gitbook/assets/variable.png)
 
-## ![](../.gitbook/assets/variable.png) Single Item
+## ![](../.gitbook/assets/single_item.png) Single Item
 
 For this example, we are going to assign a **Variable Name** called "Location" and set the **Variable Value** to "Brooklyn, NY". Feel free to put in your own location instead.
 
