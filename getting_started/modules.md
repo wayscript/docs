@@ -82,7 +82,7 @@ There are two ways to remove a module.
 
 ### Drag to Trash Bin
 
-![](../.gitbook/assets/module_trash_updated.png)
+![](../.gitbook/assets/module_trash.png)
 
 ### From Module Drawer
 
