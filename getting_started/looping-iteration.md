@@ -14,7 +14,7 @@ In programming, a **for-loop** is a control-flow statement directing your progra
 
 The power of looping is easiest to demonstrate with an example.
 
-## Create a List
+## ![](../.gitbook/assets/create_var.png) Create a List
 
 In this example, we build the same grocery list variable from the [WayScript Lists documentation](variables.md#lists). 
 
