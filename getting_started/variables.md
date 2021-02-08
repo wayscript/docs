@@ -40,9 +40,9 @@ A list \(also called an array\) is a data structure used to store multiple piece
 
 In this example, we'll create a list with **Variable Name** "Grocery\_List" and add items as **Variable Values.** The use cases for lists will be discussed more in the [Looping](looping-iteration.md) section of the docs.
 
-![](../.gitbook/assets/screen-shot-2020-01-15-at-1.15.28-pm.png)
+![](../.gitbook/assets/grocery_list.png)
 
-![](../.gitbook/assets/screen-shot-2020-01-15-at-1.15.56-pm.png)
+![](../.gitbook/assets/groceries_variable.png)
 
 Your Grocery List is now a variable that can be used in your program.
 
@@ -50,13 +50,13 @@ Your Grocery List is now a variable that can be used in your program.
 
 With WayScript, you will often be working with Structs. These datatypes are the equivalent of a [Python Dictionary](https://www.w3schools.com/python/python_dictionaries.asp). Structs allow for nesting and can hold other variables. 
 
-![](../.gitbook/assets/screenshot-2020-02-18-13.04.25.png)
+![](../.gitbook/assets/struct_new.png)
 
 ### Querying Variables in a Struct - Dot Syntax
 
 In order to access key/values within the Struct, use our **Dot Syntax**.
 
-![Dot Syntax](../.gitbook/assets/screenshot-2020-02-18-12.52.28.png)
+![Dot Syntax](../.gitbook/assets/struct_variable.png)
 
 You can access values within the struct by using '.' to move to the next level in the struct. 
 
