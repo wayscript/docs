@@ -44,6 +44,7 @@
   * [Cast](library/logic/cast.md)
   * [Conditionals](library/logic/conditionals.md)
   * [Create Variable](library/logic/create-variable.md)
+  * [File Actions](library/logic/file-actions.md)
   * [Functions](library/logic/functions/README.md)
     * [Function Call](library/logic/functions/function-call.md)
     * [Function Definition](library/logic/functions/function-definition.md)
