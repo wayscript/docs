@@ -4,6 +4,34 @@ description: Updates and improvements to the WayScript platform.
 
 # What's New?
 
+## February 10, 2021
+
+#### 🚀 Major updates
+
+* Continuing our efforts to improve WayScript’s internal [Code Editor](getting_started/code-editors.md), we added the ability for you to set custom preferences under your script’s settings to modify the look and feel of the editor environment. These preferences apply by default in all scripts in your account.
+  * `Key Map`  - Select from a few common libraries of keyboard shortcuts to help you feel at home in the WayScript editor
+  * `Font`  - Choose from a few common font options for optimal code legibility
+  * `Tab Size`  - Pick your intended tab length \(4 or 2 spaces\)
+  * `Insert Spaces`  - Toggle whether to insert spaces after brackets or commas
+  * `Show Spaces`  - Toggle whether to mark spaces with the • character
+  * `Show End of Line`  - Toggle whether to mark EOL with the ¬ character
+  * `Underline Trailing Whitespace`  - Toggle whether to underline trailing whitespace after code block
+  * `Show Tabs`  - Toggle whether to show • characters to signify tab level
+* To ensure you never lose a change to your script, we added a saved icon ![](.gitbook/assets/black.png) to the right side of the navigation bar with the WayScript editor to indicate that your script changes have successfully saved.
+  * If you lose network connection or if there is any other error saving your script, this icon will change to a caution symbol ![](.gitbook/assets/caution_black.png) and message will appear asking you to try saving again.
+  * Please do not navigate away from your script editor until the editor displays the saved icon or you may lose changes you recently made to your script.
+
+#### 🔄 Module refinements
+
+* ![](.gitbook/assets/datadog.png) We added trigger capability to our [Datadog](library/modules/datadog.md) module. You can now execute your script based on when an event is generated in your Datadog monitoring environment.
+
+#### 🐞 Additional improvements
+
+* We fixed a few occasional issues caused by moving the step order of code modules.
+* We also continued to improve editor cursor tracking and fixed any issues with saving real-time edits to code or text files stored in the WayScript [File System](getting_started/file-system.md).
+* We improved the ordering of variable selection when using the \* operator with a WayScript List or Struct [Variable](getting_started/variables.md).
+* We made a few updates to improve the usability of WayScript through mobile viewports. While a desktop viewport is ideal for editing your scripts, check out WayScript when you’re on the go.
+
 ## February 3, 2021
 
 #### 🚀 Major updates
