@@ -21,10 +21,6 @@ description: Updates and improvements to the WayScript platform.
   * If you lose network connection or if there is any other error saving your script, this icon will change to a caution symbol ![](.gitbook/assets/caution_black.png) and message will appear asking you to try saving again.
   * Please do not navigate away from your script editor until the editor displays the saved icon or you may lose changes you recently made to your script.
 
-#### 🔄 Module refinements
-
-* ![](.gitbook/assets/datadog.png) We added trigger capability to our [Datadog](library/modules/datadog.md) module. You can now execute your script based on when an event is generated in your Datadog monitoring environment.
-
 #### 🐞 Additional improvements
 
 * We fixed a few occasional issues caused by moving the step order of code modules.
