@@ -31,8 +31,6 @@ The WayScript File System is always available through through the left menu in t
 
 ## 🔗 Referencing Files
 
-Our File Actions module allows you to create a WayScript File Variable, which can then be used in other modules. For example, you create a WayScript File Variable with an HTML file and then pass to a HTTP Response module.
-
 ### File Scoping
 
 * By default, files are stored at the script-level inside a folder with the same name as the script. Files contained  in this folder can only be referenced by modules and other files also located within this folder. 
@@ -40,7 +38,7 @@ Our File Actions module allows you to create a WayScript File Variable, which ca
 * **Note:** The same scoping is true for files stored under a Team account. 
 * Files can be referenced outside of the WayScript platform by making them public. This will generated a static URL that references the file. 
 
-![](../.gitbook/assets/filesystem_public.png)
+![Toggle whether a file can be publicly accessed](../.gitbook/assets/filesystem_public.png)
 
 ### Referencing Files within Code
 
@@ -103,4 +101,6 @@ Many of WayScript's modules offer a way to select a file from the File System to
 For example, in the [CSV](../library/modules/csv.md) module, choosing a file to read opens a view of the File System which allows you to select the right file, create a new file, or upload a file from your local environment. This selector will only permit you select a supported file format for that corresponding module. 
 
 ![](../.gitbook/assets/filesystem_selector.png)
+
+Our [File Actions](../library/logic/file-actions.md) module also allows you to create a WayScript File Variable from raw byte data, which can then be used in other modules. See the module documentation for more details. 
 
