@@ -4,6 +4,30 @@ description: Updates and improvements to the WayScript platform.
 
 # What's New?
 
+## February 17, 2021
+
+#### 🚀 Major updates
+
+* We were busy this week improving “behind-the-scenes” performance for your scripts running on the WayScript platform. By changing the way we cache library dependencies \(as installed from your Python, JavaScript, or Java code\), your scripts should execute faster, especially after the first time they are run.
+* We also elevated code performance for accounts on our Superhero tier by improving process isolation for your script runs.
+
+#### 🔄 Module refinements
+
+* ![](.gitbook/assets/datadog.png) We added trigger capability to our [Datadog](library/modules/datadog.md) module. You can now execute your script based on when an event is generated in your Datadog monitoring environment.
+
+#### 🐞 Additional improvements
+
+* WayScript [Variables](getting_started/variables.md), both in the left Variable panel and when added to modules, now display the variable data type on mouse-over \(hover\) for easy reference.
+* We made a few different performance improvements to working with code within the WayScript [Code Editors](getting_started/code-editors.md). The experience of manipulating code should feel snappier!
+* We fixed a few errors in our [Excel](library/modules/excel.md) and [CSV](library/modules/csv.md) modules.
+  * We fixed an error where, in some scripts, only the first row of a .xlsx file was written to when passing in a List variable.
+  * We fixed an error parsing ” characters when exporting data to a .csv file.
+* We fixed a few issues within the WayScript Log.
+  * Line numbers displayed in the Log should now align with what is displayed in the Code Editor, even if you add multiple Code steps to your script.
+  * Passing string data to the Log from Code modules or the [Print to Log](library/logic/print-to-log.md) module now properly displays apostrophes, new lines, and other special characters.
+* We made additional improvements to script execution to prevent certain instances of “infinite” running states.
+* We fixed an error some users were encountering when trying to clone shared scripts before signing in.
+
 ## February 10, 2021
 
 #### 🚀 Major updates
