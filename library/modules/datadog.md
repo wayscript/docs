@@ -8,11 +8,15 @@ description: >-
 
 ![Monitoring service for cloud-scale applications](../../.gitbook/assets/datadog.png)
 
+{% hint style="info" %}
+To trigger your script when Datadog events occur, use the [Datadog Trigger](../triggers/datadog-trigger.md).
+{% endhint %}
+
 ## ⚙ **Setup**
 
 **You will need to have access to two keys in order to return data from the Datadog API:**
 
-* **App Key** - Gives access to interacting with the Datadog Agent.
+* **Application Key** - Gives access to interacting with the Datadog Agent.
 * **API Key** - Unique to your organization
 
 Both of these keys can be found [here](https://app.datadoghq.com/account/settings#api).

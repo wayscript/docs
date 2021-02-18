@@ -27,6 +27,7 @@
 
 * [Triggers](library/triggers/README.md)
   * [Alexa Trigger](library/triggers/alexa-trigger.md)
+  * [Datadog Trigger](library/triggers/datadog-trigger.md)
   * [Discord Trigger](library/triggers/discord-trigger.md)
   * [Form Trigger](library/triggers/form-trigger.md)
   * [GitHub Trigger](library/triggers/github-trigger.md)

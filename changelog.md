@@ -13,7 +13,7 @@ description: Updates and improvements to the WayScript platform.
 
 #### 🔄 Module refinements
 
-* ![](.gitbook/assets/datadog.png) We added trigger capability to our [Datadog](library/modules/datadog.md) module. You can now execute your script based on when an event is generated in your Datadog monitoring environment.
+* ![](.gitbook/assets/datadog.png) We added [trigger](library/triggers/datadog-trigger.md) capability to our [Datadog](library/modules/datadog.md) module. You can now execute your script based on when an event is generated in your Datadog monitoring environment.
 
 #### 🐞 Additional improvements
 
