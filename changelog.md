@@ -20,8 +20,8 @@ description: Updates and improvements to the WayScript platform.
 * WayScript [Variables](getting_started/variables.md), both in the left Variable panel and when added to modules, now display the variable data type on mouse-over \(hover\) for easy reference.
 * We made a few different performance improvements to working with code within the WayScript [Code Editors](getting_started/code-editors.md). The experience of manipulating code should feel snappier!
 * We fixed a few errors in our [Excel](library/modules/excel.md) and [CSV](library/modules/csv.md) modules.
-  * We fixed an error where, in some scripts, only the first row of a .xlsx file was written to when passing in a List variable.
-  * We fixed an error parsing ” characters when exporting data to a .csv file.
+  * We fixed an error where, in some scripts, only the first row of a `.xlsx` file was written to when passing in a List variable.
+  * We fixed an error parsing `”` characters when exporting data to a `.csv` file.
 * We fixed a few issues within the WayScript Log.
   * Line numbers displayed in the Log should now align with what is displayed in the Code Editor, even if you add multiple Code steps to your script.
   * Passing string data to the Log from Code modules or the [Print to Log](library/logic/print-to-log.md) module now properly displays apostrophes, new lines, and other special characters.
