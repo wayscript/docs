@@ -10,19 +10,24 @@ description: 'Tips, tricks, and features for building scripts even faster'
 {% tab title="Mac" %}
 | To do this | Press | When |
 | :--- | :--- | :--- |
-| Open 'Add Step' dialog in leftmost function | Tab | No Inputs Selected |
 | Create empty variable 'pill'  | ![COMMAND](https://support.content.office.net/en-us/media/314f2d55-e8b8-4417-9d4b-b3908c1ebd0c.gif)+ i | Editing text |
 | Undo last action | ![COMMAND](https://support.content.office.net/en-us/media/314f2d55-e8b8-4417-9d4b-b3908c1ebd0c.gif)+ z | No Inputs Selected |
 | Undo last action | ![COMMAND](https://support.content.office.net/en-us/media/314f2d55-e8b8-4417-9d4b-b3908c1ebd0c.gif)+ y | No Inputs Selected |
+|  |  |  |
 {% endtab %}
 
 {% tab title="Windows" %}
 | To do this | Press | When |
 | :--- | :--- | :--- |
-| Open 'Add Step' dialog in leftmost function | Tab | No Inputs Selected |
-| Create empty variable 'pill'  | Ctrl + i | Editing text |
-| Undo last action | Ctrl + z | No Inputs Selected |
-| Undo last action | Ctrl + y | No Inputs Selected |
+| Open 'Add Step' dialog in leftmost function | 'Tab' | No Inputs Selected |
+| Create empty variable 'pill'  | 'Ctrl + i' | Editing text |
+| Undo last action | 'Ctrl + z' | No Inputs Focused |
+| Undo last action | 'Ctrl + y' | No Inputs Focused |
+| Move around program 'tree' to highlight steps/targets | Arrow Keys | No Inputs Focused, 'tree' in view |
+| Select step | 'Enter' or 's'  | When step is highlighted |
+| Remove step | 'Delete' | when step is highlighted |
+| Run Trigger/Function | 'r' | when trigger/function is highlighted |
+| Open 'Create Step Dropdown'  | 'Enter' or 's' | when target is highlighted |
 {% endtab %}
 {% endtabs %}
 
