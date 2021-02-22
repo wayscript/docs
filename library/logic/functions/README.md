@@ -14,19 +14,19 @@ When you first create a WayScript program, you will see one function, called "Ma
 You cannot delete the Main function, but you can rename it, or [define inputs/outputs](function-definition.md).
 {% endhint %}
 
-![Main Function](../../../.gitbook/assets/screen-shot-2019-07-16-at-12.24.01-pm.png)
+![Main Function](../../../.gitbook/assets/func_l1.png)
 
 ## ➕ Creating a New Function
 
 To create a new function, click the **+** icon to the right of the function header. A new function tree will appear to the right of the previous function.
 
-![Creating a New Function](../../../.gitbook/assets/creating_a_new_function.png)
+![Creating a New Function](../../../.gitbook/assets/func_2.png)
 
 ### ❌ Deleting a Function
 
 To delete a function, hover over the header and click the **x** icon to the left of the function name.
 
-![Deleting a Function](../../../.gitbook/assets/delete_a_function.png)
+![Deleting a Function](../../../.gitbook/assets/func_l3.png)
 
 ## 📖 Next Steps
 
