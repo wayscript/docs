@@ -40,13 +40,13 @@ To pass the input in your voice command, add "with \[Variable Value\]" to your A
 
 You can pass an argument to your Alexa-Triggered program by enabling the "Spoken Input" variable in the Outputs panel.
 
-![](../../.gitbook/assets/screen-shot-2019-07-15-at-3.11.21-pm.png)
+![](../../.gitbook/assets/alexa_1.png)
 
 Suppose your program is called 'Stock Prices' and takes a single input called \[Ticker Symbol\] as input, you could then speak the following phrase to Alexa:
 
 > "Alexa, launch WayScript and run 'Stock Prices' with AAPL."
 
-![](../../.gitbook/assets/screen-shot-2019-07-15-at-3.12.35-pm.png)
+![](../../.gitbook/assets/alexa_2.png)
 
 ### 💬 Speak a Phrase
 
