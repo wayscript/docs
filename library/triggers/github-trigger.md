@@ -22,7 +22,7 @@ You can add additional accounts from the GitHub Trigger settings.
 
 ## ⚙ Settings
 
-![Select the account and repository you want to work with.](../../.gitbook/assets/screen-shot-2019-08-09-at-3.39.02-pm.png)
+![Select the account and repository you want to work with.](../../.gitbook/assets/github.png)
 
 ### ![](../../.gitbook/assets/github%20%282%29%20%282%29%20%284%29%20%281%29.png) Modes
 
