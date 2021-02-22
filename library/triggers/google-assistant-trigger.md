@@ -20,7 +20,7 @@ Add the WayScript action to your Google Assistant account.
 
 1\) [Click here to go to the WayScript Trigger Google Assistant action](https://assistant.google.com/u/0/services/a/uid/000000dfb9940d69?hl=en-US&source=docs), or click "Enable Action and Link Account" in the modal presented when "Add an Account..." is selected in the Google Assistant Trigger.
 
-![Click &quot;Enable Action and Link Account&quot;](../../.gitbook/assets/screen-shot-2019-12-20-at-10.01.35-am.png)
+![Click &quot;Enable Action and Link Account&quot;](../../.gitbook/assets/google_home_1.png)
 
 2\) Click "Link" on the WayScript Trigger action page, or send the link to your device and click "Link" from the Google Assistant app.
 
@@ -52,7 +52,7 @@ To pass the input in your voice command, add "with \[Variable Value\]" to your G
 
 You can pass an argument to your Google Assistant-Triggered program by enabling the "Spoken Input" variable in the Outputs panel.
 
-![](../../.gitbook/assets/screen-shot-2019-09-09-at-10.22.05-am.png)
+![](../../.gitbook/assets/google_home_2.png)
 
 Suppose your program is called 'Stocks' and takes a single input called \[Symbol\] as input, you could then speak the following phrase to the Google Assistant:
 
