@@ -40,7 +40,7 @@ Be sure to set the [Type of Item](../library/logic/create-variable.md#define-the
 
 Now, we are going to write a function that doubles our number. [To add a function, press the + button next to your workflow branch to generate a new branch](../library/logic/functions/#creating-a-new-function).
 
-![](../.gitbook/assets/func_2.png)
+![](../.gitbook/assets/func_l2%20%281%29.png)
 
 Next, click on the name of the function \("My Function"\) to enter the setup for that function.
 

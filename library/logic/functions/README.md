@@ -20,7 +20,7 @@ You cannot delete the Main function, but you can rename it, or [define inputs/ou
 
 To create a new function, click the **+** icon to the right of the function header. A new function tree will appear to the right of the previous function.
 
-![Creating a New Function](../../../.gitbook/assets/func_2.png)
+![Creating a New Function](../../../.gitbook/assets/func_l2.png)
 
 ### ❌ Deleting a Function
 

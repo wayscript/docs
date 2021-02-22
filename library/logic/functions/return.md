@@ -2,7 +2,7 @@
 
 ![Return values from the current function.](../../../.gitbook/assets/return_module.png)
 
-## \*\*\*\*![](../../../.gitbook/assets/return_module.png) **Return from the Current Function**
+## ![](../../../.gitbook/assets/return_module%20%281%29.png) **Return from the Current Function**
 
 Use the Return module inside a function to finish running the current function and return values to the location that called the function.
 

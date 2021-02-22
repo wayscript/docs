@@ -6,7 +6,7 @@ description: >-
 
 # GitHub Trigger
 
-![Run your script when GitHub events occur.](../../.gitbook/assets/github%20%282%29%20%282%29%20%284%29%20%281%29.png)
+![Run your script when GitHub events occur.](../../.gitbook/assets/github%20%282%29%20%282%29%20%284%29%20%284%29%20%283%29.png)
 
 {% hint style="info" %}
 To automate actions with GitHub, use the [GitHub module](../modules/github.md).
@@ -24,7 +24,7 @@ You can add additional accounts from the GitHub Trigger settings.
 
 ![Select the account and repository you want to work with.](../../.gitbook/assets/github.png)
 
-### ![](../../.gitbook/assets/github%20%282%29%20%282%29%20%284%29%20%281%29.png) Modes
+### ![](../../.gitbook/assets/github%20%282%29%20%282%29%20%284%29%20%284%29%20%281%29.png) Modes
 
 * **Branch Events**
   * Run program when:
@@ -66,8 +66,6 @@ You can add additional accounts from the GitHub Trigger settings.
 
   JSON Data - Raw JSON data received from the API.
 
-
-
 * **Issue Events**
 
   ```graphql
@@ -81,8 +79,6 @@ You can add additional accounts from the GitHub Trigger settings.
 
   JSON Data - Raw JSON data received from the API.
 
-
-
 * **PR Events**
 
   ```graphql
@@ -95,8 +91,6 @@ You can add additional accounts from the GitHub Trigger settings.
   ```
 
   JSON Data - Raw JSON data received from the API.
-
-
 
 * **Push Events**
 

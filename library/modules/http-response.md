@@ -6,7 +6,7 @@ description: >-
 
 # HTTP Response
 
-![Stop the program and return the content as an HTTP response](../../.gitbook/assets/http%20%282%29%20%283%29%20%282%29.png)
+![Stop the program and return the content as an HTTP response](../../.gitbook/assets/http%20%282%29%20%283%29%20%283%29%20%282%29.png)
 
 {% hint style="info" %}
 To trigger a function when a user goes to a URL, use the [HTTP Trigger](../triggers/http-trigger.md).

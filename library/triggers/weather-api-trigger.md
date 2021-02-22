@@ -14,7 +14,7 @@ For current weather and forecasts in your city, use the [Weather API module](../
 
 ## ⚙ Setup
 
-Enter your zip code, then select whether you want to run your WayScript program at sunrise, sunset, or both. 🌅 
+Enter your zip code, then select whether you want to run your WayScript program at sunrise, sunset, or both. 🌅
 
 ![](../../.gitbook/assets/weather.png)
 

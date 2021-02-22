@@ -16,7 +16,7 @@ To have your Google Assistant speak a phrase, use the [Google Assistant module](
 
 ### ​![](../../.gitbook/assets/google_assistant.png) Enable Google Assistant <a id="enable-google-assistant"></a>
 
-Add the WayScript action to your Google Assistant account. 
+Add the WayScript action to your Google Assistant account.
 
 1\) [Click here to go to the WayScript Trigger Google Assistant action](https://assistant.google.com/u/0/services/a/uid/000000dfb9940d69?hl=en-US&source=docs), or click "Enable Action and Link Account" in the modal presented when "Add an Account..." is selected in the Google Assistant Trigger.
 
@@ -33,7 +33,7 @@ Add the WayScript action to your Google Assistant account.
 {% hint style="info" %}
 If you wish to unlink WayScript from your account, click "Unlink" from the WayScript Trigger page in the Google Assistant app.
 
-![](../../.gitbook/assets/img_0889.jpeg) 
+![](../../.gitbook/assets/img_0889.jpeg)
 {% endhint %}
 
 ### ​ 🕵 Program Alias <a id="program-alias"></a>

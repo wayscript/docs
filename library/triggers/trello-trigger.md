@@ -6,7 +6,7 @@ description: >-
 
 # Trello Trigger
 
-![Run your script when changes are made to your Trello boards, lists, and cards.](../../.gitbook/assets/trello%20%281%29%20%282%29%20%281%29.png)
+![Run your script when changes are made to your Trello boards, lists, and cards.](../../.gitbook/assets/trello%20%281%29%20%282%29%20%282%29%20%281%29.png)
 
 {% hint style="info" %}
 To get data from Trello or automate creating new cards, use the [Trello module](../modules/trello.md).
@@ -34,7 +34,7 @@ If the trigger is set to run "when a specific card changes," you will be able to
 
 Select which Trello event data to retrieve as program variables.
 
-### ![](../../.gitbook/assets/trello%20%281%29%20%282%29.png) Always Available
+### ![](../../.gitbook/assets/trello%20%281%29%20%282%29%20%282%29.png) Always Available
 
 The following outputs are always available, regardless of event type:
 
