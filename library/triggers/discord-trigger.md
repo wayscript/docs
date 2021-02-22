@@ -18,7 +18,7 @@ To interact with discord channels using the WayScript bot, use the [Discord modu
 
 In order to do this, you must first link your Discord account. Then, select the Discord Guild/Server you want to work with.
 
-![](../../.gitbook/assets/img1%20%282%29.png)
+![](../../.gitbook/assets/discord_1.png)
 
 ## ⚙ Settings
 
@@ -37,15 +37,15 @@ Choose a Discord channel to work with.
 If you have recently added a channel and do not see it, click the refresh button.
 {% endhint %}
 
-![](../../.gitbook/assets/img3%20%285%29.png)
+![](../../.gitbook/assets/discord_2.png)
 
 ## 📤 Outputs
 
 The Discord User output will always be available.
 
-![](../../.gitbook/assets/img4%20%281%29.png)
+![](../../.gitbook/assets/discord_3.png)
 
 If your trigger is set to run when "a message was posted to a channel," the Discord Message Text output will also be available.
 
-![](../../.gitbook/assets/img5.png)
+![](../../.gitbook/assets/discord_4.png)
 
