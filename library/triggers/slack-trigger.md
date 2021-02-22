@@ -35,7 +35,7 @@ Choose which event\(s\) will trigger your program
    5. A channel was deleted
    6. A channel was renamed
 
-   ![](../../.gitbook/assets/screen-shot-2019-07-15-at-2.57.18-pm.png)
+   ![](../../.gitbook/assets/slack_1.png)
 
 2. **User Events:**
 
@@ -45,7 +45,7 @@ Choose which event\(s\) will trigger your program
    4. A subteam was created
    5. A subteam was updated
 
-   ![](../../.gitbook/assets/screen-shot-2019-07-15-at-2.57.55-pm.png)
+   ![](../../.gitbook/assets/slack_2.png)
 
 You can scope the trigger to a specific channel and/or user, or allow the notification to fire for any channel and/or user.
 
@@ -65,5 +65,5 @@ The Slack Channel, Slack User, and Raw JSON Data from the Slack event are always
 
 If you chose the "message was posted to a channel" event type, the Slack Message Text will also be available.
 
-![](../../.gitbook/assets/screen-shot-2019-07-15-at-3.10.13-pm.png)
+![](../../.gitbook/assets/slack_3.png)
 
