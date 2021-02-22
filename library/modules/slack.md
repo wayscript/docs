@@ -6,7 +6,7 @@ description: >-
 
 # Slack
 
-![Slack is where work flows.](../../.gitbook/assets/slack%20%281%29.png)
+![Slack is where work flows.](../../.gitbook/assets/slack%20%281%29%20%282%29.png)
 
 {% hint style="info" %}
 Check out python-slackclient on [GitHub](https://github.com/slackapi/python-slackclient).

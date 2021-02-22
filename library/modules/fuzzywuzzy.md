@@ -6,13 +6,13 @@ description: >-
 
 # FuzzyWuzzy
 
-![Fuzzy string matching like a boss. ](../../.gitbook/assets/fuzzy_match.png)
+![Fuzzy string matching like a boss. ](../../.gitbook/assets/fuzzy_match%20%282%29.png)
 
 {% hint style="info" %}
 Check out FuzzyWuzzy on [GitHub](https://github.com/seatgeek/fuzzywuzzy).
 {% endhint %}
 
-## ![](../../.gitbook/assets/fuzzy_match%20%283%29.png) About
+## ![](../../.gitbook/assets/fuzzy_match%20%282%29%20%282%29.png) About
 
 FuzzyWuzzy is a string similarity matching library. In other words, it tells you how similar two pieces of text are \(and some other functionality\).
 

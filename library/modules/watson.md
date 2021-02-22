@@ -6,13 +6,13 @@ description: >-
 
 # Watson
 
-![Use the IBM Watson machine learning library](../../.gitbook/assets/watson%20%281%29%20%281%29.png)
+![Use the IBM Watson machine learning library](../../.gitbook/assets/watson%20%281%29%20%281%29%20%281%29.png)
 
 {% hint style="info" %}
 Check out Watson on [GitHub](https://github.com/watson-developer-cloud/python-sdk).
 {% endhint %}
 
-## ![](../../.gitbook/assets/watson%20%281%29%20%281%29.png) Sentiment Analysis
+## ![](../../.gitbook/assets/watson%20%281%29%20%281%29%20%281%29.png) Sentiment Analysis
 
 **Aggregate Sentiment Analysis** - Can accept [lists](../../getting_started/variables.md#lists) and gives back an average sentiment score.
 

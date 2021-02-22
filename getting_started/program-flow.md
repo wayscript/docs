@@ -6,7 +6,7 @@ When you build a WayScript program, your program executes in order. The easiest 
 
 If I want to print a variable, that variable needs to have been created _before_ the print step.
 
-![Location variable is available in Print To Log step](../.gitbook/assets/program_flow.png)
+![Location variable is available in Print To Log step](../.gitbook/assets/program_flow%20%281%29.png)
 
 If you were to switch the order of these two steps, then the 'Location' variable would not be accessible in the Print to Log step because it has not been created yet.
 

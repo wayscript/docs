@@ -6,7 +6,7 @@ description: >-
 
 # Slack Trigger
 
-![Run your script when Slack events occur.](../../.gitbook/assets/slack%20%281%29%20%282%29.png)
+![Run your script when Slack events occur.](../../.gitbook/assets/slack%20%281%29%20%282%29%20%282%29.png)
 
 {% hint style="info" %}
 To work with Slack channels and users, use the [Slack module](../modules/slack.md).

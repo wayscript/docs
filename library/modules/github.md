@@ -6,7 +6,7 @@ description: >-
 
 # GitHub
 
-![A web-based hosting service for version control using Git.](../../.gitbook/assets/github%20%282%29%20%282%29%20%282%29.png)
+![A web-based hosting service for version control using Git.](../../.gitbook/assets/github%20%282%29%20%282%29%20%284%29%20%282%29.png)
 
 {% hint style="info" %}
 To run your script when GitHub events occur, use the [GitHub Trigger](../triggers/github-trigger.md).

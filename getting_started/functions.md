@@ -16,7 +16,7 @@ For full details on functions, read the [Function Logic Documentation.](../libra
 
 In this introduction to functions, we are going to build a script that uses functions.
 
-🧩 Functions are useful for breaking up your code into more manageable, reusable pieces. 
+🧩 Functions are useful for breaking up your code into more manageable, reusable pieces.
 
 ## What is a function?
 
@@ -46,7 +46,7 @@ Next, click on the name of the function \("My Function"\) to enter the setup for
 
 ![](../.gitbook/assets/func_3.png)
 
-We are going to name our function "Double" because it will double our number. Its **input** will be our 'Number' variable which we will call "Input Number", and its **output** will be the number \* 2. We will call this output "Doubled Number". Make sure to set the Input and Output Types to Numbers. 
+We are going to name our function "Double" because it will double our number. Its **input** will be our 'Number' variable which we will call "Input Number", and its **output** will be the number \* 2. We will call this output "Doubled Number". Make sure to set the Input and Output Types to Numbers.
 
 ![Setting up the Double definition](../.gitbook/assets/func_4.png)
 
@@ -54,7 +54,7 @@ We are going to name our function "Double" because it will double our number. It
 
 The goal of the 'Double' function is to double our 'Input Number' and return that result to the 'Main' function as our "Doubled Number"
 
-To do this math, we are going to use the [Calculator Module](../library/modules/calculator.md). Drag the Calulator into your function branch. 
+To do this math, we are going to use the [Calculator Module](../library/modules/calculator.md). Drag the Calulator into your function branch.
 
 ![Calculator in the function branch](../.gitbook/assets/func_5.png)
 
@@ -86,5 +86,5 @@ WayScript allows for recursive function calls. Referring to the example above, t
 
 ![A recursive function](../.gitbook/assets/func_10.png)
 
-In this example, if the Double Number variable is less than 10, the Double Function calls itself. With this setup, the function will recurse until the Doubled Number is greater than 10 and then will return the Double Number value \(16\) back to the Main branch. 
+In this example, if the Double Number variable is less than 10, the Double Function calls itself. With this setup, the function will recurse until the Doubled Number is greater than 10 and then will return the Double Number value \(16\) back to the Main branch.
 

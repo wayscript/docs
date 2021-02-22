@@ -6,7 +6,7 @@ description: >-
 
 # Discord
 
-![Interact with Discord channels using the WayScript bot.](../../.gitbook/assets/discord%20%281%29%20%282%29.png)
+![Interact with Discord channels using the WayScript bot.](../../.gitbook/assets/discord%20%281%29%20%282%29%20%282%29.png)
 
 {% hint style="info" %}
 To run your script when Discord events occur, use the [Discord Trigger](../triggers/discord-trigger.md).
