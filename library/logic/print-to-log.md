@@ -1,7 +1,5 @@
 # Print To Log
 
-## 
-
 ![Print a message or the contents of a variable to the log.](../../.gitbook/assets/print_to_log.png)
 
 ## 📥 **Inputs**
