@@ -42,7 +42,7 @@ Naming a column in the table creates a [List](../../getting_started/variables.md
 
 ### 📂 Select File
 
-Use the file dropdown to select an [existing file on your account]() or create a new one.
+Use the file dropdown to select an [existing file on your account](../../getting_started/file-system.md) or create a new one.
 
 ### ❔ Include Headers
 

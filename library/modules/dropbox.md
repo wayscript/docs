@@ -58,7 +58,7 @@ When you select an Excel or CSV file, you will see a preview of the contents in 
 
 ## ✍ Write File to Dropbox
 
-This mode allows you to upload a [file you have stored in WayScript]() to Dropbox.
+This mode allows you to upload a [file you have stored in WayScript](../../getting_started/file-system.md) to Dropbox.
 
 ### ⬆ Choose File to Upload to Dropbox
 

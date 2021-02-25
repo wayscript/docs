@@ -59,7 +59,3 @@ When your program runs, you can download your Word document directly from the lo
 
 ![Download Button in Log](../../.gitbook/assets/screenshot-2019-07-16-17.17.41.png)
 
-{% hint style="info" %}
-You can manage and download files anytime from your [file manager](https://wayscript.com/file_manager). For more information, see [Managing Your Files]().
-{% endhint %}
-
