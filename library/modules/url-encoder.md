@@ -6,7 +6,7 @@ description: >-
 
 # URL Encoder
 
-![Encode urls with variables](../../.gitbook/assets/url_encoder%20%281%29%20%281%29%20%282%29%20%282%29%20%282%29.png)
+![Encode urls with variables](../../.gitbook/assets/url_encoder%20%281%29%20%281%29%20%282%29%20%282%29%20%282%29%20%282%29.png)
 
 ## 📥 Inputs
 

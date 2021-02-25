@@ -6,7 +6,7 @@ description: >-
 
 # YouTube
 
-![Work with YouTube data.](../../.gitbook/assets/youtube%20%281%29%20%281%29%20%281%29%20%281%29.png)
+![Work with YouTube data.](../../.gitbook/assets/youtube%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29.png)
 
 ## 🔗 Link Your YouTube Account
 

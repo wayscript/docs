@@ -16,7 +16,7 @@ When you first drag in the Dropbox module, you will be asked to authenticate Dro
 
 You can connect multiple Dropbox accounts to WayScript. Select the one you would like to use.
 
-![Select the Dropbox account you want to use.](../../.gitbook/assets/select_an_account_dropbox%20%281%29%20%281%29%20%282%29%20%282%29%20%281%29.png)
+![Select the Dropbox account you want to use.](../../.gitbook/assets/select_an_account_dropbox%20%281%29%20%281%29%20%282%29%20%282%29%20%282%29%20%281%29.png)
 
 ## 📖 Read File from Dropbox
 

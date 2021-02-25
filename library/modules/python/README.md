@@ -72,7 +72,7 @@ Declare these requirements as you would in a [pip Requirements File](https://pip
 For faster code execution, only add requirements that aren't already [pre-installed](libraries.md) in the Python module.
 {% endhint %}
 
-### ![](../../../.gitbook/assets/github%20%282%29%20%282%29%20%284%29%20%284%29.png) Referencing Python GitHub Repositories
+### ![](../../../.gitbook/assets/github%20%282%29%20%282%29%20%284%29%20%284%29%20%281%29.png) Referencing Python GitHub Repositories
 
 To consume a Python GitHub repo as a package in your code, use the following format in your `requirements.txt` file:
 

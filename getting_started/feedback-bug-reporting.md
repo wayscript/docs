@@ -27,7 +27,7 @@ You will then be presented with a modal asking you for details about the issue y
 
 Drop us a line at **founders@wayscript.com**_._
 
-### ![](../.gitbook/assets/discord%20%281%29%20%282%29%20%282%29%20%282%29.png) Send a Discord Message
+### ![](../.gitbook/assets/discord%20%281%29%20%282%29%20%282%29%20%282%29%20%282%29.png) Send a Discord Message
 
 Send a Discord message by clicking the icon in the lower right corner of the site, or [join our Discord channel](https://discord.gg/hRkE7PP).
 

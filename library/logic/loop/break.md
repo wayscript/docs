@@ -1,6 +1,6 @@
 # Break
 
-![Break out of the current loop.](../../../.gitbook/assets/break%20%281%29.png)
+![Break out of the current loop.](../../../.gitbook/assets/break%20%282%29.png)
 
 ## ![](../../../.gitbook/assets/break%20%281%29.png) Usage
 
