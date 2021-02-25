@@ -9,7 +9,7 @@ description: Updates and improvements to the WayScript platform.
 #### 🚀 Major updates
 
 * We are continuing to improve the performance of WayScript’s development hub through optimizing how the platform loads and modifies steps within your script.
-* WayScript now supports dedicated containers for users who need higher script CPU/performance and uptime. Scripts running on WayScript’s dedicated container on average experience a greater than 50% improvement to overall runtime. Please contact us at [nihar@wayscript.com](nihar@wayscript.com) for more information.
+* WayScript now supports dedicated containers for users who need higher script CPU/performance and uptime. Scripts running on WayScript’s dedicated containers execute in less than half the runtime, on average. Please contact us at [nihar@wayscript.com](nihar@wayscript.com) if you would like more information.
 
 #### 🐞 Additional improvements
 
