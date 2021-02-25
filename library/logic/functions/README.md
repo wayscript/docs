@@ -28,7 +28,7 @@ To delete a function, hover over the header and click the **x** icon to the left
 
 ![Deleting a Function](../../../.gitbook/assets/func_l3.png)
 
-## 📖 Next Steps
+## 📘 Next Steps
 
 Once you have created a function, you can:
 

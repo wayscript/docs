@@ -1,4 +1,4 @@
-# Variable has Changed
+# Variable Has Changed
 
 ![Check if variable value has changed between runs](../../.gitbook/assets/has_changed.png)
 

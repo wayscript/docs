@@ -19,9 +19,9 @@
 * [File System](getting_started/file-system.md)
 * [Sharing](getting_started/sharing.md)
 * [Debugging](getting_started/debugging.md)
-* [Helpful Settings](getting_started/helpful-settings.md)
 * [Feedback and Bug Reporting](getting_started/feedback-bug-reporting.md)
 * [Power Users](getting_started/power-users.md)
+* [Test Mode](getting_started/test-mode.md)
 
 ## Library
 
@@ -58,7 +58,7 @@
   * [Print To Log](library/logic/print-to-log.md)
   * [Sleep](library/logic/sleep.md)
   * [Text Actions](library/logic/text-actions.md)
-  * [Variable has Changed](library/logic/variable-has-changed.md)
+  * [Variable Has Changed](library/logic/variable-has-changed.md)
   * [Variable Storage](library/logic/variable-storage.md)
 * [Modules](library/modules/README.md)
   * [Airtable](library/modules/airtable.md)
@@ -163,8 +163,8 @@
 
 * [Updating Your Name, Email, and Username](account-management/update-name-email-username.md)
 * [Changing Your Password](account-management/change-password.md)
+* [Managing Your Plan](account-management/managing-your-plan.md)
 * [Managing Your API Key](account-management/managing-your-api-key.md)
-* [Managing Your Files](account-management/managing-your-files.md)
 * [Managing Your Linked Accounts](account-management/managing-linked-accounts.md)
 * [Phone Number Verification](account-management/phone-number-verification.md)
 * [Two-Factor Authentication](account-management/two-factor-authentication.md)

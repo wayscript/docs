@@ -18,7 +18,7 @@ Check out the [Modules](../library/modules/) section of the Docs for detailed in
 
 📧 As an introduction, we are going to build a program that pulls the current temperature for a location and sends you an email with the data.
 
-## ☝ Select Your Module
+## 👆 Select Your Module
 
 In order to get the temperature, we are going to use the [Weather API Module](../library/modules/weather-api.md). _\*\*_Select this module from your Modules Panel and drag it into your flow diagram.
 

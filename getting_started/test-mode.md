@@ -1,6 +1,4 @@
-# Helpful Settings
-
-## 🧪 Test Mode
+# Test Mode
 
 Modules return dummy data when Test Mode is activated.
 

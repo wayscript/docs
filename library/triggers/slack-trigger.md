@@ -22,7 +22,7 @@ When you drag in a Slack Trigger for the first time, follow the prompt to author
 
 Select a linked workspace, or add a new one.
 
-### ⚡ Mode
+### 💡 Mode
 
 Choose which event\(s\) will trigger your program
 

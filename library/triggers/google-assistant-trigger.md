@@ -36,7 +36,7 @@ If you wish to unlink WayScript from your account, click "Unlink" from the WaySc
 ![](../../.gitbook/assets/img_0889.jpeg)
 {% endhint %}
 
-### ​ 🕵 Program Alias <a id="program-alias"></a>
+### ​ 🕵♀ Program Alias <a id="program-alias"></a>
 
 You can supply an easy-to-understand alias for your program.
 
@@ -46,7 +46,7 @@ Useful when your program name is long or difficult for the Google Assistant to u
 
 ## ​ 🗣 Voice Commands <a id="voice-commands"></a>
 
-### ​➡ Pass in Spoken Input <a id="pass-in-spoken-input"></a>
+### ​ ➡ Pass in Spoken Input <a id="pass-in-spoken-input"></a>
 
 To pass the input in your voice command, add "with \[Variable Value\]" to your Google Assistant phrase.‌
 
@@ -60,7 +60,7 @@ Suppose your program is called 'Stocks' and takes a single input called \[Symbol
 
 ![](../../.gitbook/assets/screen-shot-2019-09-09-at-10.24.21-am.png)
 
-### ​💬 Speak a Phrase <a id="speak-a-phrase"></a>
+### ​ 💬 Speak a Phrase <a id="speak-a-phrase"></a>
 
 Once you have added the Google Assistant Trigger to a program, you can include the [Google Assistant module](../modules/google-assistant.md), which will allow the Google Assistant to speak to you while your program is running.‌
 

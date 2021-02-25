@@ -18,7 +18,7 @@ You can get a full list of all Triggers and their functionality in the [Library]
 A simple example of this is the [Time Trigger](../library/triggers/time-trigger.md).
 {% endhint %}
 
-## ➕ How to Add a Trigger
+## ⚡ How to Add a Trigger
 
 To add a trigger, press the **+** button next to Add Trigger.
 
