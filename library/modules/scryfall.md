@@ -6,7 +6,7 @@ description: >-
 
 # Scryfall
 
-![Search for Magic: The Gathering Cards](../../.gitbook/assets/scryfall%20%282%29%20%283%29%20%283%29%20%283%29.png)
+![Search for Magic: The Gathering Cards](../../.gitbook/assets/scryfall%20%282%29%20%283%29%20%283%29%20%283%29%20%283%29.png)
 
 ## 🔎 Search for cards
 
@@ -31,7 +31,7 @@ Cards = [
 ]
 ```
 
-## ![](../../.gitbook/assets/scryfall%20%282%29%20%283%29%20%283%29%20%283%29%20%282%29.png)Get Data About All MTG Sets
+## ![](../../.gitbook/assets/scryfall%20%282%29%20%283%29%20%283%29%20%283%29%20%283%29%20%282%29.png)Get Data About All MTG Sets
 
 ### 📤 Output
 

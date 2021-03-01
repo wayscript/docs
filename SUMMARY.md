@@ -26,7 +26,6 @@
 ## Library
 
 * [Triggers](library/triggers/README.md)
-  * [Microsoft Teams Trigger](library/triggers/microsoft-teams-trigger.md)
   * [Alexa Trigger](library/triggers/alexa-trigger.md)
   * [Datadog Trigger](library/triggers/datadog-trigger.md)
   * [Discord Trigger](library/triggers/discord-trigger.md)
@@ -35,6 +34,7 @@
   * [Google Assistant Trigger](library/triggers/google-assistant-trigger.md)
   * [Google Sheets Trigger](library/triggers/google-sheets-trigger.md)
   * [HTTP Trigger](library/triggers/http-trigger.md)
+  * [Microsoft Teams Trigger](library/triggers/microsoft-teams-trigger.md)
   * [Salesforce Trigger](library/triggers/salesforce-trigger.md)
   * [Slack Trigger](library/triggers/slack-trigger.md)
   * [Text Message Trigger](library/triggers/text-message-trigger.md)

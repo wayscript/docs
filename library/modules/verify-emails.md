@@ -4,7 +4,7 @@ description: 'Easily verify that email addresses are valid, using WayScript.'
 
 # Verify Emails
 
-![Verify that an email address is valid.](../../.gitbook/assets/email_verifier%20%281%29%20%281%29%20%282%29%20%282%29%20%282%29%20%281%29.png)
+![Verify that an email address is valid.](../../.gitbook/assets/email_verifier%20%281%29%20%281%29%20%282%29%20%282%29%20%282%29%20%282%29%20%281%29.png)
 
 {% hint style="info" %}
 Powered by [mailboxlayer](https://mailboxlayer.com/).
