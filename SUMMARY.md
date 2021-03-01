@@ -26,6 +26,7 @@
 ## Library
 
 * [Triggers](library/triggers/README.md)
+  * [Microsoft Teams Trigger](library/triggers/microsoft-teams-trigger.md)
   * [Alexa Trigger](library/triggers/alexa-trigger.md)
   * [Datadog Trigger](library/triggers/datadog-trigger.md)
   * [Discord Trigger](library/triggers/discord-trigger.md)
