@@ -1,12 +1,6 @@
 # Microsoft Teams Trigger
+description: &gt;- Seamlessly integrate Microsoft Teams with your favorite APIs, databases, and programming languages, using WayScript.
 
-## Microsoft Teams Trigger
-
-description: &gt;- Seamlessly integrate Microsoft Teams with your favorite APIs, databases, and programming
-
-### languages, using WayScript.
-
-## Microsoft Teams Trigger
 
 ![Run your script when Microsoft Teams events occur.](../../.gitbook/assets/msteams.png)
 
