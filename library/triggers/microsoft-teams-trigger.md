@@ -12,17 +12,17 @@ description: >-
 To work with Microsoft Teams channels and users, use the [Microsoft Teams module](../modules/microsoft-teams.md).
 {% endhint %}
 
-### 🔗 Link Your Microsoft Teams Account
+## 🔗 Link Your Microsoft Teams Account
 
 When you drag in a Microsoft Teams Trigger for the first time, follow the prompt to authorize access.
 
-### ⚙ Settings
+## ⚙ Settings
 
-#### 💼 Workspace
+### 💼 Workspace
 
 Select a linked workspace, or add a new one.
 
-#### 💡 Mode
+### 💡 Mode
 
 Choose which event\(s\) will trigger your program
 
@@ -33,7 +33,7 @@ Choose which event\(s\) will trigger your program
 
 You can scope the trigger to a specific channel and/or user, or allow the notification to fire for any channel and/or user.
 
-### 📤 Outputs
+## 📤 Outputs
 
 Select what event data you would like to retrieve as a program variable and set default values.
 

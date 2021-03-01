@@ -6,7 +6,7 @@ description: >-
 
 # Trello
 
-![Trello is a team collaboration tool that lets you organize and keep projects on task.](../../.gitbook/assets/trello%20%281%29%20%282%29%20%282%29%20%282%29%20%282%29.png)
+![Trello is a team collaboration tool that lets you organize and keep projects on task.](../../.gitbook/assets/trello%20%281%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29.png)
 
 {% hint style="info" %}
 Check out py-trello on [GitHub](https://github.com/sarumont/py-trello).
@@ -20,7 +20,7 @@ To run your script when changes are made to your Trello boards, lists, and cards
 
 When you add a Trello Trigger to your script, you will be prompted to link an account, if you have not done so already.
 
-## ![](../../.gitbook/assets/trello%20%281%29%20%282%29%20%282%29%20%282%29%20%282%29.png) Get My Boards
+## ![](../../.gitbook/assets/trello%20%281%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29.png) Get My Boards
 
 ### 📤 Outputs
 

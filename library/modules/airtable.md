@@ -91,7 +91,7 @@ Choose the table you want to work with in the "Table Name" input. \(In this case
 
 Choose whether you would like to **Get Records**, **Delete Rows**, or **Create a New Record**.
 
-![What would you like to do?](../../.gitbook/assets/screen-shot-2019-07-15-at-7.55.25-pm%20%281%29%20%282%29%20%282%29%20%282%29%20%282%29.png)
+![What would you like to do?](../../.gitbook/assets/screen-shot-2019-07-15-at-7.55.25-pm%20%281%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29.png)
 
 ### 🗃 Get Records
 
