@@ -39,13 +39,19 @@ If you have recently added a channel and do not see it, click the refresh button
 
 ![](../../.gitbook/assets/discord_2.png)
 
-## 📤 Outputs
+## 📤 Output
 
-The Discord User output will always be available.
+* **Discord User**
+* **Discord Message**
 
-![](../../.gitbook/assets/discord_3.png)
-
-If your trigger is set to run when "a message was posted to a channel," the Discord Message Text output will also be available.
-
-![](../../.gitbook/assets/discord_4.png)
+  ```graphql
+  discord_message = {
+                      message : String,
+                      user    : String,
+                      id      : String,
+                      guild   : Int,
+                      is_bot  : Boolean,
+                      channel : Int,
+  }
+  ```
 
