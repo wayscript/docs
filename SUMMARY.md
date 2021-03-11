@@ -9,8 +9,8 @@
 
 * [Hello World](getting_started/hello-world.md)
 * [Variables](getting_started/variables.md)
-* [Program Flow](getting_started/program-flow.md)
 * [Modules](getting_started/modules.md)
+* [Script Flow](getting_started/script-flow.md)
 * [Triggers](getting_started/triggers.md)
 * [Looping / Iteration](getting_started/looping-iteration.md)
 * [Conditionals](getting_started/conditionals.md)

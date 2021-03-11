@@ -34,7 +34,7 @@ The following logic modules are available:
 For an introduction to using logic in WayScript, refer to the following articles:
 
 * [Introduction to Variables](../../getting_started/variables.md)
-* [Program Flow](../../getting_started/program-flow.md)
+* [Program Flow](../../getting_started/script-flow.md)
 * [Looping / Iteration](../../getting_started/looping-iteration.md)
 * [Introduction to Conditionals](../../getting_started/conditionals.md)
 * [Introduction to Functions](../../getting_started/functions.md)

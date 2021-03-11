@@ -33,7 +33,7 @@ Enter **'Hello World!'** as the input to the [Print to Log](../library/logic/pri
 Now that you've learned the basics, check out these articles for more in-depth tutorials:
 
 * [Variables](variables.md)
-* [Program Flow](program-flow.md)
+* [Program Flow](script-flow.md)
 * [Modules](modules.md)
 * [Triggers](triggers.md)
 * [Looping / Iteration](looping-iteration.md)

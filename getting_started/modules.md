@@ -1,6 +1,6 @@
 # Modules
 
-Modules are the building blocks of WayScript programs.d
+Modules are the building blocks of WayScript programs.
 
 Please read the [Hello World](hello-world.md) and [Variables](variables.md) sections before continuing with this section.
 

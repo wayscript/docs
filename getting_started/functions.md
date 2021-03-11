@@ -7,7 +7,7 @@ description: >-
 # Functions
 
 {% hint style="warning" %}
-Please read the [Hello World](hello-world.md), [Variables](variables.md), [Modules](modules.md), and [Program Flow](program-flow.md) sections before continuing with this section.
+Please read the [Hello World](hello-world.md), [Variables](variables.md), [Modules](modules.md), and [Program Flow](script-flow.md) sections before continuing with this section.
 {% endhint %}
 
 {% hint style="info" %}
@@ -74,7 +74,7 @@ Your returned value is now a variable in your main branch \(the branch that call
 
 ![](../.gitbook/assets/func_8.png)
 
-Now run your script and read the log to see the [Program Flow](program-flow.md)
+Now run your script and read the log to see the [Program Flow](script-flow.md)
 
 ![](../.gitbook/assets/func_9.png)
 
