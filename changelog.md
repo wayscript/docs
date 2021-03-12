@@ -4,6 +4,31 @@ description: Updates and improvements to the WayScript platform.
 
 # What's New?
 
+## March 10, 2021
+
+#### 🚀 Major updates
+
+* The WayScript engine will now update the outputs of a step ONLY when you require it, making it much faster to add new steps, navigate between steps, and use WayScript Variables while building your script.
+* Each step in your script can now hold one of two states:
+  * **In-sync**: The outputs of the step reflect the latest changes to the selected or previous step settings or code
+  *  ![](.gitbook/assets/ellipse-34.png) **Out-out-sync**: The outputs of the step do not reflect the latest changes to the selected or previous step settings or code
+* Pressing the sync button ![](.gitbook/assets/output.png) or using the sync hotkey `s` will update the outputs of the selected step to reflect the latest changes. When you make a change that impacts the output of a selected step, every following step will be marked with a ![](.gitbook/assets/ellipse-34.png) to warn you it is out-of-sync. Syncing the last step in your script will automatically update the outputs of all previous steps.
+* For more information, please refer to our documentation of [Script Flow](getting_started/script-flow.md).
+* The WayScript team is also working on a major interface update that will be released soon. Stay tuned!
+
+#### 🔄 Module refinements
+
+* We added syntax highlighting for your [Shell](library/modules/shell-script.md) code.
+* You can now persist async variables within [JavaScript](library/modules/javascript.md) code.  
+
+#### 🐞 Additional improvements
+
+* We cleaned up our [Variable](getting_started/variables.md) type mapping to fix issues determining variable type from [Code](getting_started/code-editors.md) modules.
+* We fixed an issue where initializing multiple Chrome instances through Selenium in [Python](library/modules/python/) code was causing performance issues.
+* We fixed an issue some users were experiencing when using the undo/redo buttons after muting or disabling a step in their script.
+* Users on the Superhero plan can now select whether their scripts should use same container on the WayScript engine or a new container on each run to avoid any memory-based bottlenecks.
+* We switched over from a third-party tool that was causing issues to a simple button to make it easier for you to join our Discord community. [Joining](https://discord.gg/qjd7EjyMfE) only takes a few seconds and gives you access to expedited support from our team!
+
 ## February 24, 2021
 
 #### 🚀 Major updates
