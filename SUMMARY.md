@@ -26,7 +26,7 @@
 ## Library
 
 * [Triggers](library/triggers/README.md)
-  * [SNS Trigger](library/triggers/sns-trigger.md)
+  * [Amazon SNS Trigger](library/triggers/amazon-sns-trigger.md)
   * [Alexa Trigger](library/triggers/alexa-trigger.md)
   * [Datadog Trigger](library/triggers/datadog-trigger.md)
   * [Discord Trigger](library/triggers/discord-trigger.md)
