@@ -6,7 +6,7 @@ description: Integrate CircleCI Jobs with the WayScript Platform
 
 ![Continuous integration and delivery for any platform](../../.gitbook/assets/circleci-128x128.png)
 
-## ⚙ **Setup** <a id="setup"></a>
+##  ⚙ **Setup**
 
 **You will need two keys to Interact with the CircleCI module:**
 
@@ -15,9 +15,9 @@ description: Integrate CircleCI Jobs with the WayScript Platform
 
 Both of these keys can be found [here](https://app.datadoghq.com/account/settings#api).
 
-##   **Modes** <a id="modes"></a>
+##   🤖 **Modes** <a id="modes"></a>
 
-### **Get all Pipelines**  <a id="get-a-monitors-details"></a>
+### 💎 **Get all Pipelines**  <a id="get-a-monitors-details"></a>
 
 ####   Inputs <a id="inputs"></a>
 
@@ -69,7 +69,7 @@ all_pipeline_details = {
 
 
 
-### **Trigger a Pipeline** <a id="get-a-monitors-details"></a>
+### 🔨 **Trigger a Pipeline** <a id="get-a-monitors-details"></a>
 
 ####  Inputs <a id="inputs"></a>
 
@@ -91,7 +91,7 @@ created_pipeline = {
 
 
 
-### **Approve a Workflow Job** <a id="get-a-monitors-details"></a>
+### 📌 **Approve a Workflow Job** <a id="get-a-monitors-details"></a>
 
 #### Inputs <a id="inputs"></a>
 
