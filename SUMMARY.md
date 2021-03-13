@@ -72,6 +72,7 @@
   * [Calculator](library/modules/calculator.md)
   * [Calendly](library/modules/calendly.md)
   * [Chart](library/modules/chart.md)
+  * [CircleCI](library/modules/circleci.md)
   * [Cities](library/modules/cities.md)
   * [Clearbit](library/modules/clearbit.md)
   * [Crunchbase](library/modules/crunchbase.md)
