@@ -1,12 +1,14 @@
 ---
-description: Integrate CircleCI Jobs with the WayScript Platform
+description: >-
+  Seamlessly integrate CircleCI jobs and workflows with your favorite APIs,
+  databases, and programming languages, using WayScript.
 ---
 
 # CircleCI
 
 ![Continuous integration and delivery for any platform](../../.gitbook/assets/circleci-128x128.png)
 
-##  ⚙ **Setup**
+##   ⚙ **Setup**
 
 **You will need two keys to Interact with the CircleCI module:**
 
@@ -15,17 +17,17 @@ description: Integrate CircleCI Jobs with the WayScript Platform
 
 Both of these keys can be found [here](https://app.datadoghq.com/account/settings#api).
 
-##   🤖 **Modes** <a id="modes"></a>
+##  🤖 **Modes** <a id="modes"></a>
 
 ### 💎 **Get all Pipelines**  <a id="get-a-monitors-details"></a>
 
-####   Inputs <a id="inputs"></a>
+####   📥 Inputs <a id="inputs"></a>
 
 * **Project Path \(Required\)** -  Project slug in the form `vcs-slug/org-name/repo-name`      Example: gh/CircleCI-Public/api-preview-docs
 * **Project Branch \( Optional \)** -  The name of a vcs branch.
 * **Page Token \( Optional \)** - A token to retrieve the next page of results.
 
-#### ​📤 Output <a id="output"></a>
+#### ​ 📤 Output <a id="output"></a>
 
 ```text
 all_pipeline_details = {
@@ -67,18 +69,16 @@ all_pipeline_details = {
 }
 ```
 
+### \*\*\*\*🔨 **Trigger a Pipeline** <a id="get-a-monitors-details"></a>
 
-
-### 🔨 **Trigger a Pipeline** <a id="get-a-monitors-details"></a>
-
-####  Inputs <a id="inputs"></a>
+####  📥 Inputs <a id="inputs"></a>
 
 * **Project Path \(Required\)** -  Project slug in the form `vcs-slug/org-name/repo-name`      Example: gh/CircleCI-Public/api-preview-docs
 * **Project Branch \( Optional \)** -  The name of a vcs branch.
 * **X Attribution Login** - The login or user-readable identifier for the pipeline's triggerer.
 * **X Attribution Actor ID** - The id the integration uses to identify the pipeline's triggerer.
 
-#### ​📤 Output <a id="output"></a>
+#### ​ 📤 Output <a id="output"></a>
 
 ```text
 created_pipeline = {
@@ -89,20 +89,18 @@ created_pipeline = {
 }
 ```
 
+### \*\*\*\*📌 **Approve a Workflow Job** <a id="get-a-monitors-details"></a>
 
-
-### 📌 **Approve a Workflow Job** <a id="get-a-monitors-details"></a>
-
-#### Inputs <a id="inputs"></a>
+#### 📥 Inputs <a id="inputs"></a>
 
 * **Job Approval Request ID** -  The ID of the job being approved. 
 * **Job ID** -  The unique ID of the workflow.
 
-#### ​📤 Output <a id="output"></a>
+#### ​ 📤 Output <a id="output"></a>
 
 ```text
 job_approval_response = {
-"message": String
+    "message": String
 }
 ```
 
