@@ -4,6 +4,19 @@ description: Updates and improvements to the WayScript platform.
 
 # What's New?
 
+## March 17, 2021
+
+#### 🚀 Major updates
+
+* The WayScript team is working on a major interface update that will be released soon. Stay tuned!
+* Please let us know if you are experiencing any issues related to our new system of manually updating steps in your scripts with the latest outputs. Building on WayScript should feel snappier than ever!  
+
+#### 🔄 Module refinements
+
+* \*\*\*\*❗ **New module alert:** WayScript now supports ![](.gitbook/assets/circleci-128x128.png) [CircleCI](library/modules/circleci.md). You can get all your existing pipelines, trigger a new pipeline, or approve a workflow job to automate your continuous integration process based on triggers, such as [Slack](library/triggers/slack-trigger.md), and data from other services, such as [Datadog](library/modules/datadog.md).
+* \*\*\*\*❗ **New module alert:** WayScript now supports triggering based on ![](.gitbook/assets/sns.jpeg) [Amazon SNS](library/triggers/amazon-sns-trigger.md). Inputting your SNS Topic ARN can trigger your script based on each incoming message.
+* We continued to improve reliability of OAuth based authentication for our package modules, such as [Twitter](library/modules/twitter.md) and [Twitch](library/modules/twitch.md).
+
 ## March 10, 2021
 
 #### 🚀 Major updates
