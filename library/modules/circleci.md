@@ -15,7 +15,7 @@ description: >-
 * **Circle Token** 
 * **API Key** 
 
-Both of these keys can be found [here](https://app.datadoghq.com/account/settings#api).
+More information on these these keys can be found [here](https://circleci.com/docs/api/v2/).
 
 ##  🤖 **Modes** <a id="modes"></a>
 
