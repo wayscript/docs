@@ -4,6 +4,27 @@ description: Updates and improvements to the WayScript platform.
 
 # What's New?
 
+## March 24, 2021
+
+#### 🚀 Major updates
+
+* We are so excited to introduce WayScript’s redesigned interface! After compiling your feedback, we decided to simplify the WayScript experience by reducing the number of sections and bringing in some of the best elements of your favorite IDEs \(with a WayScript spin of course\). Here are a few of the usability improvements unlocked by the new interface:
+  * By making your account and team’s [File System](getting_started/file-system.md) always available and searchable, it is now much faster to navigate between your scripts and individual files.
+  * Switching between building your [script’s flow](getting_started/script-flow.md) and [editing code](getting_started/code-editors.md) is a now simple toggle between “Tree” and “Code” view.
+  * We changed the styling of the WayScript Log and moved it below your script to make it easier to examine entries regardless of your viewport size.
+* Check out this video to get orientated around the new interface, and let us know if you have any feedback!
+
+{% embed url="https://youtu.be/pzU\_65YZEKI" %}
+
+#### 🔄 Module refinements
+
+* You can now use HTML code as an input to the email body field within the [Outlook](library/modules/outlook.md) module.
+
+#### 🐞 Additional improvements
+
+* Your script’s README is now editable through a file that is stored within your script folder. You can format the `README.md` file using standard Markdown syntax.
+* We fixed an issue where the editor was sometimes not recognizing steps added after a [Conditional](getting_started/conditionals.md) module.
+
 ## March 17, 2021
 
 #### 🚀 Major updates
