@@ -8,7 +8,7 @@ description: Updates and improvements to the WayScript platform.
 
 #### 🚀 Major updates
 
-* We are so excited to introduce WayScript’s redesigned interface! After compiling your feedback, we decided to simplify the WayScript experience by reducing the number of sections and bringing in some of the best elements of your favorite IDEs \(with a WayScript spin of course\). Here are a few of the usability improvements unlocked by the new interface:
+* We are so excited to introduce WayScript’s redesigned interface! After compiling your feedback, we decided to simplify the WayScript experience by reducing the number of sections and bringing in some of the best elements from your favorite IDEs \(with a WayScript spin of course\). Here are a few of the usability improvements unlocked by the new interface:
   * By making your account and team’s [File System](getting_started/file-system.md) always available and searchable, it is now much faster to navigate between your scripts and individual files.
   * Switching between building your [script’s flow](getting_started/script-flow.md) and [editing code](getting_started/code-editors.md) is a now simple toggle between “Tree” and “Code” view.
   * We changed the styling of the WayScript Log and moved it below your script to make it easier to examine entries regardless of your viewport size.
