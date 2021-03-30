@@ -75,6 +75,7 @@
   * [CircleCI](library/modules/circleci.md)
   * [Cities](library/modules/cities.md)
   * [Clearbit](library/modules/clearbit.md)
+  * [Cloudflare](library/modules/cloudflare.md)
   * [Crunchbase](library/modules/crunchbase.md)
   * [CSS](library/modules/css.md)
   * [CSV](library/modules/csv.md)
