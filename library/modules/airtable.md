@@ -101,6 +101,17 @@ You can choose whether you want to retrieve **All Rows**, rows that match a **Fi
 
 ![](../../.gitbook/assets/screen-shot-2019-07-15-at-7.55.46-pm.png)
 
+#### All Rows \( Optional Inputs \):
+
+* **Filter By Formula** : Provide a formula to filter results. The formula will be evaluated for each record, and if the result is not `0`, `false`, `""`, `NaN`, `[]`, or `#Error!` the record will be included in the response. For example, to only include records where Name isn't empty, pass in `NOT({Name} = '')`
+* **Max Records :** The maximum total number of records that will be returned in your requests
+* **Page Size:**  The number of records returned in each request. Must be less than or equal to 100. Default is 100
+* **Sort :**  A list of sort objects that specifies how the records will be ordered. Each sort object must have a `field` key specifying the name of the field to sort on, and an optional `direction` key that is either `"asc"` or `"desc"`
+
+  For example, to sort records by Name in descending order, pass in: `[{field: "Name", direction: "desc"}]`
+
+* **View :**  The name or ID of a view in the testing table. If set, only the records in that view will be returned.
+
 #### Filter Results
 
 If you choose the "Filter" or "Single Row" option, you will need to define the filter you want to match on.
