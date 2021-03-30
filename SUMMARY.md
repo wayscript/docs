@@ -116,6 +116,7 @@
   * [NY Times](library/modules/ny-times.md)
   * [Outlook](library/modules/outlook.md)
   * [Phillips Hue](library/modules/phillips-hue.md)
+  * [Pushbullet](library/modules/pushbullet.md)
   * [Python](library/modules/python/README.md)
     * [Python Libraries](library/modules/python/libraries.md)
     * [Python Code Snippets](library/modules/python/python-code-snippets.md)
