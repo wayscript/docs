@@ -4,6 +4,24 @@ description: Updates and improvements to the WayScript platform.
 
 # What's New?
 
+## March 31, 2021
+
+#### 🚀 Major changes
+
+* WayScript now supports a wide variety of hotkeys to make navigating between steps, syncing steps to output the latest values, and switching between the “Tree” and “Code” views even quicker! Open the Hotkeys panel by typing `/` or `?` to check them out.
+* If your code within a script generates an error, we now display any data passed to `Stdout` \(e.g., from print or echo statements\) as well as data passed through `StdError` in the Log. This should make it easier to debug where errors are occurring in your script.
+
+#### 🔄 Module updates
+
+* \*\*\*\*❗ **New module alert:** WayScript now supports ![](.gitbook/assets/pushbullet.png) [Pushbullet](library/modules/pushbullet.md). You can now simply send push notifications to your devices through your scripts!
+* \*\*\*\*❗ **New module alert:** WayScript now supports ![](.gitbook/assets/cloudflare.png) [Cloudfare](library/modules/cloudflare.md). Check the health of your load balancer, pull logs, and identify active zones through your scripts!  
+* The ![](.gitbook/assets/gmail.png) [Gmail](library/modules/gmail.md) module now supports adding attachments to your automated emails.
+* The ![](.gitbook/assets/outlook_128x128.png) [Outlook](library/modules/outlook.md) module now supports adding attachments and rendering HTML for the email body for your automated emails.
+
+#### 🐞 Additional improvements
+
+* We hope you are enjoying WayScript’s redesigned interface. We fixed a few bugs with shared scripts, cloning, and selecting files, so the experience should now feel even smoother.
+
 ## March 24, 2021
 
 #### 🚀 Major updates
