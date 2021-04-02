@@ -1,22 +1,23 @@
 ---
 description: >-
-  Integrate your Web Security and External Facing Applications using the
-  Cloudflare module
+  Seamlessly integrate Cloudflare web security and external facing applications
+  with your favorite APIs, databases, and programming languages, using
+  WayScript.
 ---
 
 # Cloudflare
 
-![Use Cloudflare Integrations in your WayScript Programs](../../.gitbook/assets/cloudflare.png)
+![Web Infrastructure and Security](../../.gitbook/assets/cloudflare.png)
 
-##   ⚙️ **Setup**
+##   ⚙ **Setup**
 
 **To setup Cloudflare, you'll need your API Token generated from your Cloudflare** [**User Profile 'API Token' Page**](https://dash.cloudflare.com/profile/api-tokens)**.**
 
-## ⚡ **Modes**
+## \*\*\*\*⚡ **Modes**
 
-### 💖 Get Health ****check Events for a Load Balancer
+### ❤ Get Health ****check Events for a Load Balancer
 
-####  📤 Output
+####   📤 Output
 
 ```graphql
 LB_Events = {
@@ -50,11 +51,9 @@ LB_Events = {
 }
 ```
 
+### 💸 Get Billing History
 
-
-### 😡 Get Billing History
-
-####  📤 Output
+#### 📤 Output
 
 ```graphql
 Billing_History = {
@@ -78,9 +77,9 @@ Billing_History = {
 }
 ```
 
-### 📕 Get User Audit Logs
+### 📔 Get User Audit Logs
 
-####  📤 Output
+#### 📤 Output
 
 ```graphql
 User_Audit_Logs = {
@@ -122,11 +121,9 @@ User_Audit_Logs = {
 }
 ```
 
+### 🗺 List All Zones
 
-
-### 🏀 List All Zones
-
-####  📤 Output
+#### 📤 Output
 
 ```graphql
 All_Zones = {
@@ -183,15 +180,13 @@ All_Zones = {
 }
 ```
 
-
-
 ### 🔧 List Workers
 
 #### 📥 Inputs <a id="inputs"></a>
 
 * **Cloudflare Account ID** - Your account Identifier. Needs permissions: com.cloudflare.edge.worker.script.list
 
-####  📤 Output
+####   📤 Output
 
 ```graphql
 All_Workers = {

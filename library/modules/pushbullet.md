@@ -1,5 +1,7 @@
 ---
-description: Integrate Push Notifications with your WayScript Programs
+description: >-
+  Seamlessly integrate Pushbullet notifications with your favorite APIs,
+  databases, and programming languages, using WayScript.
 ---
 
 # Pushbullet
@@ -8,7 +10,7 @@ description: Integrate Push Notifications with your WayScript Programs
 
 ## ⚙ **Setup** <a id="setup"></a>
 
-### ​🗝 Input or Select an API Key <a id="input-or-select-an-api-key"></a>
+### ​🗝Input or Select an API Key <a id="input-or-select-an-api-key"></a>
 
 **You will need your account access token to send notifications through the Pushbullet Module**
 
