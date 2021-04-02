@@ -37,3 +37,7 @@ Select an account or add an account to work with Gmail.
 
 ![Gmail Setup Example](../../.gitbook/assets/screen-shot-2020-07-28-at-3.38.35-pm.png)
 
+### 📎 Attachments
+
+Attach files to your email.
+
