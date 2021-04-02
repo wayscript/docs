@@ -14,7 +14,7 @@ description: Updates and improvements to the WayScript platform.
 #### 🔄 Module updates
 
 * \*\*\*\*❗ **New module alert:** WayScript now supports ![](.gitbook/assets/pushbullet.png) [Pushbullet](library/modules/pushbullet.md). You can now simply send push notifications to your devices through your scripts!
-* \*\*\*\*❗ **New module alert:** WayScript now supports ![](.gitbook/assets/cloudflare.png) [Cloudfare](library/modules/cloudflare.md). Check the health of your load balancer, pull logs, and identify active zones through your scripts!  
+* \*\*\*\*❗ **New module alert:** WayScript now supports ![](.gitbook/assets/cloudflare.png) [Cloudflare](library/modules/cloudflare.md). Check the health of your load balancer, pull logs, and identify active zones through your scripts!  
 * The ![](.gitbook/assets/gmail.png) [Gmail](library/modules/gmail.md) module now supports adding attachments to your automated emails.
 * The ![](.gitbook/assets/outlook_128x128.png) [Outlook](library/modules/outlook.md) module now supports adding attachments and rendering HTML for the email body for your automated emails.
 
