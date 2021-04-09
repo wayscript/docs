@@ -69,6 +69,7 @@
   * [Article Extractor](library/modules/article-extractor.md)
   * [Bing](library/modules/bing.md)
   * [Bittrex](library/modules/bittrex.md)
+  * [Bulk SMS](library/modules/bulk-sms.md)
   * [Calculator](library/modules/calculator.md)
   * [Calendly](library/modules/calendly.md)
   * [Chart](library/modules/chart.md)
