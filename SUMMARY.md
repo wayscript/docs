@@ -68,6 +68,7 @@
   * [Alpha Vantage](library/modules/alpha-vantage.md)
   * [Article Extractor](library/modules/article-extractor.md)
   * [Bing](library/modules/bing.md)
+  * [BigPanda](library/modules/bigpanda.md)
   * [Bittrex](library/modules/bittrex.md)
   * [Bulk SMS](library/modules/bulk-sms.md)
   * [Calculator](library/modules/calculator.md)
