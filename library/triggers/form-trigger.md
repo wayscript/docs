@@ -117,6 +117,8 @@ When you click "Add a credential," a new login will be automatically generated f
 
 When a user goes to access your form for the first time, they will now be prompted to login.
 
+The username information of each trigger run will be available in the system global struct , context.
+
 ![Form Login Prompt](../../.gitbook/assets/screen-shot-2019-11-12-at-7.50.17-pm%20%281%29.png)
 
 ### Basic Authentication
