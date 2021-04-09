@@ -127,6 +127,7 @@
   * [RegEx](library/modules/regex.md)
   * [Requests](library/modules/requests.md)
   * [RocketReach](library/modules/rocketreach.md)
+  * [Rollbar](library/modules/rollbar.md)
   * [RSS Feed](library/modules/rss-feed.md)
   * [Salesforce](library/modules/salesforce.md)
   * [Scryfall](library/modules/scryfall.md)
