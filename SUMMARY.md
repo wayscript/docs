@@ -99,6 +99,7 @@
   * [Google Calendar](library/modules/google-calendar.md)
   * [Google Sheets](library/modules/google-sheets.md)
   * [GraphQL](library/modules/graphql.md)
+  * [Guesty](library/modules/guesty.md)
   * [Hacker News](library/modules/hackernews.md)
   * [HTML](library/modules/html.md)
   * [HTTP Response](library/modules/http-response.md)
