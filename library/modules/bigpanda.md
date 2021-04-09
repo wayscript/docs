@@ -6,7 +6,7 @@ description: Integrate your BigPanda DevOps Automation Tools with WayScript
 
 ![Event Correlation and Automation, powered by AIOps](../../.gitbook/assets/bigpanda_logo_vector.png)
 
-##   **Setup** <a id="setup"></a>
+##  ⚙  **Setup** <a id="setup"></a>
 
 **To setup BigPanda, you'll need your API Token generated from your BigPanda** [**A**](https://dash.cloudflare.com/profile/api-tokens)**dmin Account.** 
 
@@ -14,7 +14,7 @@ description: Integrate your BigPanda DevOps Automation Tools with WayScript
 
 ## **​**⚡ **Modes** <a id="modes"></a>
 
-### ​ **Retrieve an Incident** <a id="get-health-check-events-for-a-load-balancer"></a>
+### ​ 🔎 **Retrieve an Incident** <a id="get-health-check-events-for-a-load-balancer"></a>
 
 #### 📥 Inputs <a id="inputs"></a>
 
@@ -54,7 +54,7 @@ Incident = {
 
 
 
-### **Resolve an Incident** <a id="get-health-check-events-for-a-load-balancer"></a>
+### ✅ **Resolve an Incident** <a id="get-health-check-events-for-a-load-balancer"></a>
 
 #### 📥 Inputs <a id="inputs"></a>
 
