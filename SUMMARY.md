@@ -78,6 +78,7 @@
   * [Cities](library/modules/cities.md)
   * [Clearbit](library/modules/clearbit.md)
   * [Cloudflare](library/modules/cloudflare.md)
+  * [CouponTools](library/modules/coupontools.md)
   * [Crunchbase](library/modules/crunchbase.md)
   * [CSS](library/modules/css.md)
   * [CSV](library/modules/csv.md)
