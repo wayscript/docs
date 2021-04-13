@@ -10,9 +10,7 @@ description: >-
 
 ## ⚙️ **Setup** <a id="setup"></a>
 
-**To setup BigPanda, you'll need your API Token generated from your BigPanda** [**A**](https://dash.cloudflare.com/profile/api-tokens)**dmin Account.**
-
- To find your token in BigPanda, log in as an administrator and then click the **Integrations** tab at the top of screen. Open the instructions for the Alerts API. Your token appears in the example headers
+**To setup CouponTools, you will need your client id and client secret. Both of these keys can be found under your account page.** 
 
 ##  ****⚡ **Modes** <a id="modes"></a>
 

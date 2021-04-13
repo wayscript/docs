@@ -95,6 +95,7 @@
   * [FuzzyWuzzy](library/modules/fuzzywuzzy.md)
   * [Giphy](library/modules/giphy.md)
   * [GitHub](library/modules/github.md)
+  * [GiveButter](library/modules/givebutter.md)
   * [Gmail](library/modules/gmail.md)
   * [Google Assistant](library/modules/google-assistant.md)
   * [Google Calendar](library/modules/google-calendar.md)
