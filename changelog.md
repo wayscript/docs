@@ -8,7 +8,7 @@ description: Updates and improvements to the WayScript platform.
 
 #### 🚀 Major changes
 
-* Store your most private data \(of String variable type 😉 \) in WayScript’s new .secrets file, located within your script folder. Your `.secrets` file is fully encrypted, and the values stored within Secrets variables will not be passed to the WayScript editor, only to your script when it runs, making it the perfect place to store API keys, application credentials, and much more.
+* Store your most private data \(of String variable type 😉 \) in WayScript’s new `.secrets` file, located within your script folder. Your `.secrets` file is fully encrypted, and the values stored within Secrets variables will not be passed to the WayScript editor, only to your script when it runs, making it the perfect place to store API keys, application credentials, and much more.
 * And as a bonus, we also added a `.env` file to store Environment variables that can be referenced by any step or function within your script. Secrets and Environment variables can be accessed through the Environment tab on your Variables panel.
 * The WayScript engine also now generates a `context` global variable, containing execution data such as the username entered on password-protected triggers, on each script run. For example, you can use the `context` variable to serve a different dashboard to each of your script's users.
 * After hearing your feedback, we made navigation through the WayScript [File System](getting_started/file-system.md) even easier:
@@ -17,11 +17,11 @@ description: Updates and improvements to the WayScript platform.
 
 #### 🔄 Module updates
 
-* **New modules alert:** We, meaning our all-star developer [Derrick](https://wayscript.com/user/Derricks), were pretty busy pumping out new modules this week. Check them out!
+* **New modules alert:** We, meaning our all-star developer, [Derrick](https://wayscript.com/user/Derricks), were pretty busy pumping out new modules this week. Check them out!
   * Use the new [BulkSMS](library/modules/bulk-sms.md) module to send SMS messages internationally from your scripts.  
   * Create scripts to automate data correlation analysis from your various monitoring services through [BigPanda](library/modules/bigpanda.md).
   * Act on your site’s errors by pulling and analyzing data from [Rollbar](library/modules/rollbar.md).
-  * Manage data from your various rental properties by linking  [Guesty](library/modules/guesty.md) and other services.
+  * Manage data from your various rental properties by linking [Guesty](library/modules/guesty.md) and other services.
   * Automate the distribution of coupons through CouponTools to re-engage customers.
   * Compile fundraising data by combining data from GiveButter and other services.
 * We added additional fields \(filterByFormula, view, and maxRecords\) to the [Airtable](library/modules/airtable.md) module.

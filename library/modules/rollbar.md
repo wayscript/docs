@@ -1,12 +1,14 @@
 ---
-description: Integrate Your Site's Errors with WayScript's Rollbar Module
+description: >-
+  Seamlessly integrate Rollbar with your favorite APIs, databases, and
+  programming languages, using WayScript.
 ---
 
 # Rollbar
 
 ![Proactively discover, predict, and remediate errors with real-time, AI-assisted workflows](../../.gitbook/assets/rollbar_vector_logo.png)
 
-## ⚙️ **Setup** <a id="setup"></a>
+## \*\*\*\*⚙ **Setup** <a id="setup"></a>
 
 **To setup Rollbar, you'll need your API Token generated from your Rollbar Account.**
 
@@ -15,9 +17,9 @@ Operations performed at the level of the account require an account-specific acc
 * **Read -** Supports all GET operations at the account level
 * **Write** - Supports all POST, PUT, PATCH, and DELETE operations at the account level.
 
-## **​**⚡ **Modes** <a id="modes"></a>
+## **​** ⚡ **Modes** <a id="modes"></a>
 
-### ​ 📖 List All Items <a id="get-health-check-events-for-a-load-balancer"></a>
+### ​📖List All Items <a id="get-health-check-events-for-a-load-balancer"></a>
 
 #### 📥 Inputs <a id="inputs"></a>
 
@@ -50,9 +52,7 @@ All_Items = {
 } 
 ```
 
-
-
-### ​ 🆔 List An Item By ID <a id="get-health-check-events-for-a-load-balancer"></a>
+### ​🆔List An Item By ID <a id="get-health-check-events-for-a-load-balancer"></a>
 
 #### 📥 Inputs <a id="inputs"></a>
 
@@ -80,8 +80,6 @@ All_Items = {
 } 
 ```
 
-
-
 ### ➕ List All Occurrences <a id="get-health-check-events-for-a-load-balancer"></a>
 
 ####  📤 Output <a id="output"></a>
@@ -105,8 +103,6 @@ All_Items = {
   }
 } 
 ```
-
-
 
 ### 🔴 Get All Top Items <a id="get-health-check-events-for-a-load-balancer"></a>
 
@@ -132,9 +128,7 @@ All_Items = {
 } 
 ```
 
-
-
-### 🔸 Get a Project <a id="get-health-check-events-for-a-load-balancer"></a>
+### 🔶 Get a Project <a id="get-health-check-events-for-a-load-balancer"></a>
 
 #### 📥 Inputs <a id="inputs"></a>
 

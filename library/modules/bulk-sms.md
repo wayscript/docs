@@ -1,20 +1,22 @@
 ---
-description: Send SMS Campaigns automatically using wayscript.
+description: >-
+  Seamlessly integrate BulkSMS with your favorite APIs, databases, and
+  programming languages, using WayScript.
 ---
 
 # Bulk SMS
 
 ![Get Your Message Across with BulkSMS](../../.gitbook/assets/bulk_sms_logo_vector.png)
 
-##  **Setup** <a id="setup"></a>
+## \*\*\*\*⚙ **Setup** <a id="setup"></a>
 
 **To setup BulkSMS, you'll need your API Token generated from your BulkSMS account.**  _**Settings &gt; Developer Settings &gt; API Tokens**_
 
-##   **Modes** <a id="modes"></a>
+## \*\*\*\*⚡ **Modes** <a id="modes"></a>
 
-### ​  Send Message <a id="get-health-check-events-for-a-load-balancer"></a>
+### ​ 💬 Send Message <a id="get-health-check-events-for-a-load-balancer"></a>
 
-####  Output <a id="output"></a>
+####  📤 Output <a id="output"></a>
 
 ```graphql
 SMS_Send_Response = [

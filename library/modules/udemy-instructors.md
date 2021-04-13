@@ -1,5 +1,7 @@
 ---
-description: Manage your students and courses with wayscript
+description: >-
+  Seamlessly integrate Udemy with your favorite APIs, databases, and programming
+  languages, using WayScript.
 ---
 
 # Udemy Instructors

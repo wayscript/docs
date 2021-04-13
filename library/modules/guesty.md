@@ -1,22 +1,22 @@
 ---
 description: >-
-  Manage data from your various rental properties by linking Guesty and other
-  services
+  Seamlessly integrate Guesty with your favorite APIs, databases, and
+  programming languages, using WayScript.
 ---
 
 # Guesty
 
-![Guesty Simplifies Rental Management Tools](../../.gitbook/assets/guestyvectorlogo.png)
+![Guesty Simplifies Rental Management Tools](../../.gitbook/assets/guesty.png)
 
-##   **Setup** <a id="setup"></a>
+## \*\*\*\*⚙ **Setup** <a id="setup"></a>
 
 **To setup Guesty, you'll need your API Token generated from your Guesty.** To get this token, you can follow the [instructions provided by Guesty](https://support.guesty.com/en/article/generating-an-internal-api-token). 
 
 
 
-## **​**⚡ **Modes** <a id="modes"></a>
+## **​**⚡**Modes** <a id="modes"></a>
 
-### ​List All Listings <a id="get-health-check-events-for-a-load-balancer"></a>
+### 📖List All Listings <a id="get-health-check-events-for-a-load-balancer"></a>
 
 ####  📤 Output <a id="output"></a>
 
@@ -118,13 +118,13 @@ All_Listings = {
 }
 ```
 
-### ​💸 Retrieve Listing Financials <a id="get-billing-history"></a>
+### ​💸Retrieve Listing Financials <a id="get-billing-history"></a>
 
 #### 📥 Inputs <a id="inputs"></a>
 
 * **Listing ID** - Guesty Property Listing ID
 
-#### ​📤 Output <a id="output-1"></a>
+#### ​ 📤 Output <a id="output-1"></a>
 
 ```text
 Listing_Finc = {
@@ -196,16 +196,14 @@ Listing_Finc = {
 }
 ```
 
-
-
-###  Get Listing Calendar <a id="get-billing-history"></a>
+### 📆 Get Listing Calendar <a id="get-billing-history"></a>
 
 #### 📥 Inputs <a id="inputs"></a>
 
 * **Start Date** - Start Date to Query Calendar.  Format: `YYYY-MM-DD`
-* End Date -  Ending Date to Query Calendar.  Format: `YYYY-MM-DD`
+* **End Date** -  Ending Date to Query Calendar.  Format: `YYYY-MM-DD`
 
-#### ​📤 Output <a id="output-1"></a>
+#### ​ 📤 Output <a id="output-1"></a>
 
 ```text
 listing_Cald = {
