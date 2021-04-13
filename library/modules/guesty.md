@@ -12,8 +12,6 @@ description: >-
 
 **To setup Guesty, you'll need your API Token generated from your Guesty.** To get this token, you can follow the [instructions provided by Guesty](https://support.guesty.com/en/article/generating-an-internal-api-token). 
 
-
-
 ## **​**⚡**Modes** <a id="modes"></a>
 
 ### 📖List All Listings <a id="get-health-check-events-for-a-load-balancer"></a>
