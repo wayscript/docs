@@ -4,6 +4,26 @@ description: Updates and improvements to the WayScript platform.
 
 # What's New?
 
+## May 5, 2021
+
+#### 🚀 Major changes
+
+* No more going back and forth between Slack, Google Sheets, or an HTTP endpoint and WayScript when developing your tools. Create test data by setting default values for your script triggers using the `{}` view accessible through in your trigger’s Inspect panel. Default values will be overridden by event data \(such as the text from a Slack message\) that triggers your script run.
+* All default values are editable in JSON format and must align to the key name and variable type of each trigger’s output keys, but you can also include any key name or value type within the `output_json` key if your trigger supports it.
+* We heard your feedback on that it is sometimes challenging to test your scripts, so we’d love to hear your thoughts on the feature on Discord or directly at [nihar@wayscript.com](nihar@wayscript.com).
+
+#### 🔄 Module updates
+
+* We added a Date Picker element type to the [Form Trigger](library/triggers/form-trigger.md) to eliminate the need to cast String variables containing dates.
+
+#### 🐞 Additional improvements
+
+* We also launched a new homepage at [https://wayscript.com](https://wayscript.com)! We are so excited to about the future of WayScript as the single hub to develop, deploy, distribute, and maintain internal tools.
+* We fixed a bug where WayScript [Variables](getting_started/variables.md) were displaying as Type\(\) unknown while scripts were executing.
+* We made it easier to navigate through the WayScript [File System](getting_started/file-system.md) when selecting a file within the Inspect panel by keeping the current script folder open and fixing a few scroll issues.
+* We continued to improve the experience of using Variable pills directly within the WayScript [Code Editor](getting_started/code-editors.md).
+* We fixed an issue with stopping script runs when using the [Sleep](library/logic/sleep.md) module.
+
 ## April 12, 2021
 
 #### 🚀 Major changes
