@@ -14,7 +14,6 @@ description: Updates and improvements to the WayScript platform.
 
 #### 🔄 Module updates
 
-* \*\*\*\*❗ **New module alert:** WayScript now supports Zoom. You now can dynamically create new meetings or list your upcoming meetings.
 * We added the ability to input multiple recipients in the “To:” field of the ![](.gitbook/assets/outlook_128x128.png) [Outlook](library/modules/outlook.md) module.
 * We fixed an intermittent issue in the ![](.gitbook/assets/dropbox.png) [Dropbox](library/modules/dropbox.md) module when setting a custom file name.
 * We noticed a few users having difficulty writing statements in Python syntax within the ![](.gitbook/assets/conditional.png) [Conditional](getting_started/conditionals.md) logic modules. We added reference text on the Inspect panel to make things a bit easier.  
