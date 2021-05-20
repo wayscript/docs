@@ -4,6 +4,27 @@ description: Updates and improvements to the WayScript platform.
 
 # What's New?
 
+## May 19, 2021
+
+#### 🚀 Major changes
+
+* Navigate to the History panel to examine your script’s previous runs. You can view the exact run time, which trigger was activated, which function was called, and whether the run failed or returned any errors. Selecting an individual run will open a view of the generated log for easy reference and troubleshooting.
+* Currently, we store a maximum of 25 logs from previous script runs; please reach out to the WayScript team on Discord or directly at [nihar@wayscript.com](nihar@wayscript.com) if you are interested in retaining additional run history.
+* We also redesigned the settings experience on WayScript. It should now be easier to manage 3rd-party integrations, plans & billing, API keys, and much more, especially if you are an owner of a team. Please note that team settings are only accessible by the team owner.
+
+#### 🔄 Module updates
+
+* \*\*\*\*❗ **New module alert:** WayScript now supports Zoom. You now can dynamically create new meetings or list your upcoming meetings.
+* We added the ability to input multiple recipients in the “To:” field of the ![](.gitbook/assets/outlook_128x128.png) [Outlook](library/modules/outlook.md) module.
+* We fixed an intermittent issue in the ![](.gitbook/assets/dropbox.png) [Dropbox](library/modules/dropbox.md) module when setting a custom file name.
+* We noticed a few users having difficulty writing statements in Python syntax within the ![](.gitbook/assets/conditional.png) [Conditional](getting_started/conditionals.md) logic modules. We added reference text on the Inspect panel to make things a bit easier.  
+
+#### 🐞 Additional improvements
+
+* We fixed a bug that was preventing users from exiting full-screen views in ![](.gitbook/assets/google_sheets.png) [Google Sheets](library/modules/google-sheets.md) and ![](.gitbook/assets/excel_128x128.png) [Excel](library/modules/excel.md) modules.
+* We fixed a few errors that were generated when adding new integrations through WayScript account selector.
+* We continued to improve the experience of dragging variables from the Variable or Environment panels into the WayScript [Code Editor](getting_started/code-editors.md).
+
 ## May 5, 2021
 
 #### 🚀 Major changes
