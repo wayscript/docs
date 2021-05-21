@@ -19,6 +19,7 @@ To run your program at sunrise and/or sunset in a given location, use the [Weath
 ## ⚙ Settings
 
 * **Temperature Type**: Fahrenheit, Celcius, Kelvin
+* **Forecast length** - Next 48 hrs, 5 days, 16 days
 
 ## 📥 Inputs
 
@@ -50,6 +51,19 @@ Weather = {
     visibility : Int,
     wind_speed : Int,
     wind_direction : Int,
+    forecast: [{ 
+                 dt         : Int,
+                 temp       : Int,
+                 feels_like : Int,
+                 pressure   : Int,
+                 humidity   : Int,
+                 visibility : Int,
+                 wind_speed : Int,
+                 wind_deg   : Int,
+                 wind_gust  : Int,
+                 weather    : String,
+                 pop        : Int,
+              }],
 }
 ```
 
