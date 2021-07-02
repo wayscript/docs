@@ -34,7 +34,7 @@ More abstractly, you reference any variable with the format:
 MY_VAR=${variables[ "<var_name>" ]}
 ```
 
-![You can also reference a WayScript variable as a shortcut for the associative array syntax.](../../.gitbook/assets/screen-shot-2020-07-19-at-1.00.40-pm.png)
+![You can also reference a WayScript variable as a shortcut for the associative array syntax.](../../.gitbook/assets/echoLocation.png)
 
 ### ​ 📤 Outputs <a id="outputs"></a>
 
